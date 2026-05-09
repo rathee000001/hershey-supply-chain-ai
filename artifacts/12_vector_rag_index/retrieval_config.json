@@ -1,0 +1,8 @@
+{
+  "index_type": "local_sparse_tfidf_rag_v1",
+  "query_mode": "tokenized_sparse_cosine",
+  "top_k_default": 8,
+  "top_k_max": 20,
+  "created_at": "2026-05-09T19:56:49",
+  "rule": "Use retrieved chunks for research and artifact building. Frontend must display only audited public JSON."
+}

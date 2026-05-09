@@ -1,0 +1,41 @@
+{
+  "run_name": "step16e_vector_rag_index",
+  "run_time": "2026-05-09T19:56:49",
+  "root": "D:/HersheySupplyChainAI",
+  "index_type": "local_sparse_tfidf_rag_v1",
+  "input_chunks_seen": 2303,
+  "vector_chunks_created": 2303,
+  "documents_indexed": 116,
+  "unique_terms": 27351,
+  "source_type_counts": {
+    "text_or_table": 1901,
+    "visual_ocr": 402
+  },
+  "packet_counts": {
+    "brand_logo_assets": 1,
+    "cocoa_chocolate_cocoa_butter": 624,
+    "dairy_milk_skim_milk_milk_fat": 376,
+    "hershey_company": 283,
+    "logistics_distribution": 93,
+    "natural_flavor": 267,
+    "packaging_wrapper": 246,
+    "pgpr": 105,
+    "product_sku_1_55oz": 10,
+    "reference_only": 3,
+    "retail_price_evidence": 12,
+    "soy_lecithin": 30,
+    "sugar": 253
+  },
+  "usefulness_counts": {
+    "high_sku_evidence": 90,
+    "low_background": 1900,
+    "low_short_text": 72,
+    "medium_context_evidence": 241
+  },
+  "vector_chunks_jsonl": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/vector_chunks.jsonl",
+  "inverted_index_json": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/inverted_index.json",
+  "vector_terms_summary_csv": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/vector_terms_summary.csv",
+  "manifest_json": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/vector_index_manifest.json",
+  "retrieval_config_json": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/retrieval_config.json",
+  "next_step": "Step 16F: run RAG retrieval tests for supplier, ingredient, SKU, price, and cost evidence questions."
+}

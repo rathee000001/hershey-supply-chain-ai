@@ -1,0 +1,42 @@
+{
+  "index_name": "hershey_supply_chain_local_rag_index",
+  "index_type": "local_sparse_tfidf_rag_v1",
+  "created_at": "2026-05-09T19:56:49",
+  "root": "D:/HersheySupplyChainAI",
+  "input_unified_chunks": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_chunks.jsonl",
+  "outputs": {
+    "vector_chunks_jsonl": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/vector_chunks.jsonl",
+    "inverted_index_json": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/inverted_index.json",
+    "vector_terms_summary_csv": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/vector_terms_summary.csv",
+    "retrieval_config_json": "D:/HersheySupplyChainAI/artifacts/12_vector_rag_index/retrieval_config.json"
+  },
+  "chunk_count": 2303,
+  "document_count": 116,
+  "unique_terms": 27351,
+  "source_type_counts": {
+    "text_or_table": 1901,
+    "visual_ocr": 402
+  },
+  "packet_counts": {
+    "brand_logo_assets": 1,
+    "cocoa_chocolate_cocoa_butter": 624,
+    "dairy_milk_skim_milk_milk_fat": 376,
+    "hershey_company": 283,
+    "logistics_distribution": 93,
+    "natural_flavor": 267,
+    "packaging_wrapper": 246,
+    "pgpr": 105,
+    "product_sku_1_55oz": 10,
+    "reference_only": 3,
+    "retail_price_evidence": 12,
+    "soy_lecithin": 30,
+    "sugar": 253
+  },
+  "usefulness_counts": {
+    "high_sku_evidence": 90,
+    "low_background": 1900,
+    "low_short_text": 72,
+    "medium_context_evidence": 241
+  },
+  "next_step": "Step 16F: build retrieval tester to query this local RAG index."
+}
