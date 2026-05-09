@@ -1,0 +1,31 @@
+{
+  "doc_id": "DOC_CA4CD5A61616",
+  "file_name": "hershey_2025_10k_full.pdf",
+  "source_owner": "The Hershey Company",
+  "document_title": "Hershey 2025 10K Full",
+  "packet": "hershey_company",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for hershey_2025_10k_full.pdf. Packet: hershey_company. Evidence role: direct_company_evidence. Input mode: text_plus_page_images. Detected entities/stages include: none detected.",
+  "useful_for_project": true,
+  "usefulness_score": 6.0,
+  "relevant_sections": [],
+  "extracted_entities": [],
+  "extracted_metrics": [],
+  "extracted_prices": [],
+  "extracted_dates": [],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 62,
+    "selected_chunk_count": 2,
+    "requires_future_ai_or_visual_review": true
+  }
+}

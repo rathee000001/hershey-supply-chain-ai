@@ -1,0 +1,209 @@
+{
+  "doc_id": "DOC_E2BE0206EF0C",
+  "file_name": "usda_ams_class_iv_milk_price_reference.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Ams Class Iv Milk Price Reference",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_ams_class_iv_milk_price_reference.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: benchmark_proxy. Input mode: text_plus_page_images. Detected entities/stages include: USDA, USDA AMS, Milk, Skim Milk, Milk Fat, manufacturing, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: agricultural marketing service"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: skim milk"
+    },
+    {
+      "entity_name": "Milk Fat",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: butterfat"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "weight",
+      "metric_value": "100 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the following month. \nClass prices are announced as dollars per hundredweight. CWT = hundredweight, 100 pounds.\nFormula Details\n$0.2272 = Manufacturing cost to produce 1 pound of butter, excluding cost of raw m"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": "redweight. CWT = hundredweight, 100 pounds.\nFormula Details\n$0.2272 = Manufacturing cost to produce 1 pound of butter, excluding cost of raw milk ($/lb).\n1.211 = Factor representing pounds of butter that can"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cluding cost of raw milk ($/lb).\n1.211 = Factor representing pounds of butter that can be made from 1 pound of butterfat (lb butter/lb butterfat).\n$0.2393 = Manufacturing cost to produce 1 pound of NFDM, exc"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": "be made from 1 pound of butterfat (lb butter/lb butterfat).\n$0.2393 = Manufacturing cost to produce 1 pound of NFDM, excluding cost of raw milk ($/lb).\n0.99 = Factor representing pounds of NFDM that can be m"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": "excluding cost of raw milk ($/lb).\n0.99 = Factor representing pounds of NFDM that can be made from 1 pound of nonfat solids \n (lb NFDM/lb nonfat solids).\n9.0 = Factor representing pounds of nonfat solids fo"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "100 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(lb NFDM/lb nonfat solids).\n9.0 = Factor representing pounds of nonfat solids found in a standard 100 pounds of skim milk \n (lb nonfat solids/cwt skim).\n0.965 = 96.5 pounds of skim in 100 pounds of milk (cwt"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "96.5 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "of nonfat solids found in a standard 100 pounds of skim milk \n (lb nonfat solids/cwt skim).\n0.965 = 96.5 pounds of skim in 100 pounds of milk (cwt skim/cwt milk). \n3.5 = 3.5 pounds of butterfat in 100 pounds of"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "100 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "in a standard 100 pounds of skim milk \n (lb nonfat solids/cwt skim).\n0.965 = 96.5 pounds of skim in 100 pounds of milk (cwt skim/cwt milk). \n3.5 = 3.5 pounds of butterfat in 100 pounds of milk (lb butterfat/cwt"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "3.5 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "fat solids/cwt skim).\n0.965 = 96.5 pounds of skim in 100 pounds of milk (cwt skim/cwt milk). \n3.5 = 3.5 pounds of butterfat in 100 pounds of milk (lb butterfat/cwt milk).\nFor more information on the Price Formu"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "100 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "= 96.5 pounds of skim in 100 pounds of milk (cwt skim/cwt milk). \n3.5 = 3.5 pounds of butterfat in 100 pounds of milk (lb butterfat/cwt milk).\nFor more information on the Price Formulas, visit \nwww.ams.usda.go"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nent Prices, \nvisit www.ams.usda.gov/rules-regulations/mmr/dmr\nAgricultural Marketing Service, June 2025.\nUSDA is an equal opportunity employer, provider and lender."
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.2272",
+      "unit": "",
+      "page_or_location": "",
+      "context": "owing month. \nClass prices are announced as dollars per hundredweight. CWT = hundredweight, 100 pounds.\nFormula Details\n$0.2272 = Manufacturing cost to produce 1 pound of butter, excluding cost of raw milk ($/lb).\n1.211 = Factor representing pound"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.2393",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/lb).\n1.211 = Factor representing pounds of butter that can be made from 1 pound of butterfat (lb butter/lb butterfat).\n$0.2393 = Manufacturing cost to produce 1 pound of NFDM, excluding cost of raw milk ($/lb).\n0.99 = Factor representing pounds o"
+    }
+  ],
+  "extracted_dates": [
+    "2025"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Monthly commodity prices are announced on or before the 5th day of the following month.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Class prices are announced as dollars per hundredweight.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "$0.2272 = Manufacturing cost to produce 1 pound of butter, excluding cost of raw milk ($/lb).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "$0.2393 = Manufacturing cost to produce 1 pound of NFDM, excluding cost of raw milk ($/lb).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "For more information on the Price Formulas, visit",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "www.ams.usda.gov/resources/price-formulas",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "For more information on Advanced Prices & Pricing Factors and Class & Component Prices,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Agricultural Marketing Service, June 2025.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 66,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": true
+  }
+}

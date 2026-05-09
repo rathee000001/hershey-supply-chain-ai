@@ -1,0 +1,333 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_444A249CB5CF",
+    "file_name": "barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+    "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 23263174,
+    "sha256": "4aec08a0bc68c69248c93ec57df8da52d7497c22be65f8cbd9ff637fe556597d"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 86,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_444A249CB5CF.txt",
+    "page_count": 91,
+    "total_text_length": 271677,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_444A249CB5CF/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_444A249CB5CF_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 18,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [
+            "price"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2024",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nANNUAL SOCIAL \nAND ENVIRONMENTAL \nIMPACT REPORT\n2024/25\n\n\n--- PAGE 2 ---\n3\nThis is Barry Callebaut\n4\nLetter to Stakeholders\n6\nSustainability\n7\nOur Sustainability Journey\n8\nForever Chocolate Introduction\n16\nOverview of our Forever Chocolate Strategy\n17\nProspering Farmers\n23\nHuman Rights\n30\nThriving Nature\n39\nSustainable Ingredients\n48\nProgress in Numbers\n49\nOur People\n50\nEmployee Development\n53\nChairman's Awards 2025\n54\nGovernance\n55\nGovernance\n57\nOur Approach to Materiality\n58\nRisk Overview\n68\nBusiness Conduct\n71\nTask Force on Climate-related Financial Disclosures\n77\nGRI Report\n91\nCross Reference to Relevant Policies\nTABLE OF \nCONTENTS\n\n\n--- PAGE 3 ---\nTHIS IS BARRY CALLEBAUT\nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n3\nBest Value:\nWe offer relevant innovations \nat the right price.\nBest Service:\nWe deliver our products on \ntime and in full.\nBest \nSustainability:\nWe are the industry leader \nin sustainable sourcing and \ntraceability.\nBest Quality & \nFood Safety:\nOur products consistently meet \nall quality and safety standards.\n22\nCallebaut Chocolate \nAcademyTM Centers\n62\nfactories worldwide\nMore than\n175 years\nof chocolate heritage\nMore than\n125,000\nchocolate professionals trained \nin-person in 2024/25\nMore than\n13,000\nemployees\nDoing business in over\n140\ncountries\nTo empower sustainable growth for our customers globally, \nwe strive to deliver:"
+    },
+    {
+      "chunk_id": "DOC_444A249CB5CF_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_3",
+      "signal_score": 23,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "benchmark"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "21.1%",
+          "24.8%"
+        ],
+        "candidate_years": [
+          "2024"
+        ],
+        "candidate_units": []
+      },
+      "text": "AcademyTM Centers\n62\nfactories worldwide\nMore than\n175 years\nof chocolate heritage\nMore than\n125,000\nchocolate professionals trained \nin-person in 2024/25\nMore than\n13,000\nemployees\nDoing business in over\n140\ncountries\nTo empower sustainable growth for our customers globally, \nwe strive to deliver:\n\n\n--- PAGE 4 ---\nLETTER TO STAKEHOLDERS\n•\nTraceability milestone: over 1.5 million cocoa \nfarms mapped, meeting EUDR traceability \nrequirements and setting a new benchmark \nfor supply chain transparency\n•\nFarmers: 557,739 cocoa farmers in our supply \nchain lifted above the poverty line\n•\nRegeneration: launch of assisted natural \nregeneration initiative in Côte d’Ivoire, \ncovering over 1,200 hectares \n•\nFuture Farming Initiative: doubled cocoa \nseedling production to 1.5 million\n•\nCarbon removals: increased to 457,592 tCO₂e \n(+21.1%), driven by our agroforestry program\n•\nHuman rights: implementation of Community \nSystems Strengthening model in Côte \nd’Ivoire, Ghana, and Nigeria, while continuing \nremediation of 51,420 (+24.8%) cases of child \nlabor\nDear Valued Stakeholder,\nThis past year has continued to test the resilience of the global \ncocoa and chocolate sector, with ongoing price volatility, challenging \nbuying conditions, climate-induced crop declines, and growing \nuncertainty around policy-driven sustainability agendas. Throughout \nthis, we have remained focused on our core priority: delivering \nreliable, high-quality, and tailored sustainability solutions to meet \nthe needs of our customers.\nA strategic and coordinated plan for resilience\nNavigating a volatile environment requires more than short-term \nfixes - it calls for a well-engineered, resilient system that can adapt \nto changing landscapes. This adaptability is not just a reaction to \ncrisis, it is a proactive approach to leading through uncertainty and \nshaping the future of cocoa and chocolate. The focus on resilience is \nnot theoretical, and we see it being tested in real time, particularly in \nWest Africa. The path forward is clear: policy reform that enables \ninvestment, puts more money in the hands of farmers, removes \ninefficiencies in the value chain, and supports replanting with the \nright speci"
+    },
+    {
+      "chunk_id": "DOC_444A249CB5CF_CHUNK_0070",
+      "chunk_number": 70,
+      "page_or_section_hint": "page_41",
+      "signal_score": 54,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "target"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut",
+          "Target"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "81%",
+          "94 %",
+          "81 %",
+          "78 %",
+          "100 %",
+          "72 %",
+          "63 %",
+          "69 %",
+          "76 %",
+          "54 %",
+          "45 %",
+          "47 %",
+          "52 %"
+        ],
+        "candidate_years": [
+          "2024",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "BARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n41\nFOREVER CHOCOLATE\nSUSTAINABLE INGREDIENTS\nWe are a longstanding \nmember of the \nRoundtable on \nSustainable Palm Oil \n(RSPO) and currently \nserve as an observer in \nthe Supply Chain \nStandard Review.\n“\n\n\n--- PAGE 42 ---\nthe technical sub-committees for the revision. We \nalso collaborate through the Swiss Palm Oil \nNetwork, where we exchange insights on evolving \npalm criteria. We also continue engaging with \nother cross-industry platforms to promote \nsustainable palm oil sourcing.\nOur palm sourcing is fully aligned with the EU \nDeforestation Regulation (EUDR) and directly \nsupports our deforestation- and conversion-free \ntarget by the end of 2025, as outlined in our \nThriving Nature chapter.\nOn-the-ground action\nWhile RSPO certification remains our baseline, we \ncombine it with supplier engagement and a risk-\nbased approach that includes supplier-level \nassessments. To support this, we engaged sixteen \ndirect suppliers through the Earthworm \nFoundation’s Engagement for Policy \nImplementation (EPI) tool, covering 81% of our \npalm oil volume. The assessment, which covers \ninternational and regional suppliers, tracks \ngovernance, NDPE policy progress, traceability, \ngrievance procedures, and environmental and \nsocial programs. Based on the results, we develop \nsupplier-specific action plans and monitor \nprogress annually. The following tables show the \nsummary results of our suppliers’ EPI and Level 1 \nand Level 2 Progress tracking.\nSupplier Progress on Level 1 Scorecard: Average \nScores\nLevel 1 Elements\n2024 Average \nScore\nEnvironmental Commitments\n 94 %\nHuman Rights Commitments\n 81 %\nSupplier Entities covered by policy\n 78 %\nMill List published\n 100 %\nImplementation Plan\n 72 %\nProgress Reporting\n 78 %\nGrievance Mechanism\n 63 %\nNCS Process\n 69 %\n2024 Supplier Progress to Level 1\n 76 %\nSupplier Progress on Level 2 Scorecard: Average \nScores\nSupplier Implementation Program\n 54 %\nSupplier Landscape and Sectoral \nInitiatives\n 45 %\nSupplier Grievance and NCS\n 47 %\nSupplier Monitoring and Verification\n 52 %\nTrace"
+    },
+    {
+      "chunk_id": "DOC_444A249CB5CF_CHUNK_0075",
+      "chunk_number": 75,
+      "page_or_section_hint": "page_43",
+      "signal_score": 49,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourced",
+            "partner",
+            "partnership",
+            "cooperative"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "target"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut",
+          "Target",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "79%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "ool. \nIn addition, we are a member of the Dairy \nSustainability Alliance by the Innovation Centre \nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n43\nFOREVER CHOCOLATE\nSUSTAINABLE INGREDIENTS\n\n\n--- PAGE 44 ---\nfor US Dairy. We endorse the SDP framework as \nan aligned industry tool to advance sustainable \ndairy and promote its uptake.\nOn-the-ground action\nVerification against the VisionDairy Charter was \nsuccessfully completed with a growing number of \nour key dairy suppliers in 2024/25. As a result, we \nreached a record 79% sustainably sourced dairy \nvolume globally, exceeding internal targets, \nespecially in Europe and America. In the coming \nyears, our focus will increasingly be on driving \nsustainable dairy in more emerging markets such \nas Asia and Latin America. In Latin America, we \nare an active participant in the multi-stakeholder \ninitiative with Kerry and Interfood to onboard and \nmove five suppliers in Brazil to stage 3 as per the \nSDP framework. The project will most likely evolve \nto include suppliers in Argentina and Uruguay. We \nmaintain close dialogue with our suppliers to \nmonitor implementation and drive continuous \nimprovement.\nIn Switzerland, we collaborate with the country’s \nlargest dairy cooperative, Mooh, to improve \nanimal welfare, biodiversity, and farm-level GHG \nreductions, enabling sustainably sourced dairy \nproducts for all our Swiss brand Carma® \nproducts.\nIn parallel, we are preparing the next step in our \ndecarbonization strategy: our first Net Zero dairy \npartnership outside of cocoa will be launched \ntowards the end of 2025. This milestone will \nextend our Net Zero ambition across high-\nemission ingredients and mark a key step in \npositioning Barry Callebaut as the leading \nsustainability solution provider in the chocolate \nand cocoa industry.\nCoconut\nIndustry engagement\nWith regard to coconut, we are founding \nmembers and Steering Committee members of \nthe Sustainable Coconut Charter, now evolved \ninto the Sustainable Coconut Partnership. This \nmulti-stakeholder, industry-led platform defines \nwhat a sustainable coconut"
+    },
+    {
+      "chunk_id": "DOC_444A249CB5CF_CHUNK_0077",
+      "chunk_number": 77,
+      "page_or_section_hint": "page_44",
+      "signal_score": 62,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "lecithin",
+            "soy"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourced",
+            "partner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "ppi"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [
+            "delivery",
+            "target"
+          ],
+          "regulatory": [
+            "lecithin",
+            "emulsifier"
+          ]
+        },
+        "candidate_companies": [
+          "Barry Callebaut",
+          "Target"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "34%",
+          "40.3%",
+          "38%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2021",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "sed to \nextract coconut oil - at the cooperative level, \nenabling centralized, controlled drying. \nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n44\nFOREVER CHOCOLATE\nSUSTAINABLE INGREDIENTS\n\n\n--- PAGE 45 ---\nAdditionally, due to their successful track record, \nfive of the twenty cooperatives received \nadditional technical assistance and were each \nawarded catalyst grants from Rabo Foundation \nto strengthen their copra businesses.\nThanks to all these efforts combined, we achieved \n34% sustainably sourced coconut oil in Europe for \nthe first time this year.\nIn the Philippines, we are a member of the \nCoconut Alliance and are partnering in a joint \nproject with six other multinational consumer \ngoods companies and the Deutsche Gesellschaft \nfür Internationale Zusammenarbeit (GIZ) GmbH, \non sustainable coconut oil production. Together, \nwe are pooling resources and expertise under the \ndeveloPPP programme, through which the \nGerman Federal Ministry for Economic \nCooperation and Development (BMZ) supports \nsustainable business initiatives. Running from \n2021 to end 2025, the program aims to improve \nthe production conditions of coconut oil in two \nregions in the Philippines and with this the \ncoconut farmers' livelihoods.\nSoy\nIndustry engagement\nSoy lecithin as a natural emulsifier is used in small \nvolumes. Barry Callebaut recognizes the following \nstandards and systems as sustainable sourced \nsoy lecithin: ProTerra, Roundtable on Responsible \nSoy (RTRS), Donau Soja, ISCC+ and Organic. \nSince 2024, we have been part of the ProTerra \nStakeholder Council and actively engage at \nindustry level. ProTerra is a crucial standard for \nour deforestation-free target which includes soy \nlecithin.\nOn-the-ground action\nIn 2024/25, we saw a substantial increase in \nsupplier engagement for traceability and \ndeforestation-free activities. Globally, 40.3% of \nour soy lecithin volume is now sustainably \nsourced, of which 38% is considered \ndeforestation-free. We are actively working with \nour biggest suppliers to obtain an origin \ncertificate for each delivery of soy lecithin"
+    },
+    {
+      "chunk_id": "DOC_444A249CB5CF_CHUNK_0078",
+      "chunk_number": 78,
+      "page_or_section_hint": "page_45",
+      "signal_score": 51,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "cocoa",
+            "lecithin",
+            "soy"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourced",
+            "partner"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "production",
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [
+            "delivery"
+          ],
+          "regulatory": [
+            "lecithin"
+          ]
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "40.3%",
+          "38%",
+          "35%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2016"
+        ],
+        "candidate_units": []
+      },
+      "text": "agement for traceability and \ndeforestation-free activities. Globally, 40.3% of \nour soy lecithin volume is now sustainably \nsourced, of which 38% is considered \ndeforestation-free. We are actively working with \nour biggest suppliers to obtain an origin \ncertificate for each delivery of soy lecithin, \nallowing for better traceability of the raw \nmaterial to mill and regional level.\nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n45\nFOREVER CHOCOLATE\nSUSTAINABLE INGREDIENTS\n\n\n--- PAGE 46 ---\nVanilla\nIndustry engagement\nAs part of our commitment to industry \ntransformation, Barry Callebaut continues to play \nan active role in the Sustainable Vanilla Initiative \n(SVI), working with stakeholders to improve the \nlong-term resilience and sustainability of vanilla \nsupply chains.\nOn-the-ground action\nSince 2016, we have partnered with flavor \nproducer Prova, with financial support from \nSustainable Trade Initiative (IDH), to implement \nthe Vanille Durable Bemanevika (VDB) project in \nMadagascar. Guided by our Sustainable Vanilla \nCharter, the initiative addresses structural \nchallenges in vanilla production - such as income \ninstability, agricultural risks, and environmental \npressures - while aiming to improve farmer \nlivelihoods and secure a sustainable vanilla supply.\nVDB is structured around four pillars: vanilla, \ncocoa, social development, and environment. The \nproject currently reaches 725 vanilla farmers \nacross 15 villages, with strong emphasis on \nincome diversification. To this end, farmers \nreceived cocoa seedlings and technical assistance; \ntoday, around 35% of the farmers also cultivate \ncocoa. This shift led to increased cocoa volumes \nand the construction of a second cocoa \nfermentation center in 2024/25, improving post-\nharvest processing and income potential.\nOn the environmental side, in 2024/25, the project \npartnered with the Missouri Botanical Garden, a \nlocal NGO providing agroforestry and \nreforestation training. Efforts also extend to local \nschools, where fruit and vegetable gardens are \nmaintained and environmental education is \npromote"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

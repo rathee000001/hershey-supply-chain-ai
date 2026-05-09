@@ -1,0 +1,37 @@
+{
+  "doc_id": "DOC_7AD7B5853282",
+  "file_name": "Hersheyland-Explore-Hershey-Products.pdf",
+  "source_owner": "The Hershey Company",
+  "document_title": "Hersheyland Explore Hershey Products",
+  "packet": "reference_only",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for Hersheyland-Explore-Hershey-Products.pdf. Packet: reference_only. Evidence role: reference_only. Input mode: visual_priority. Detected entities/stages include: none detected.",
+  "useful_for_project": false,
+  "usefulness_score": 0.0,
+  "relevant_sections": [],
+  "extracted_entities": [],
+  "extracted_metrics": [],
+  "extracted_prices": [],
+  "extracted_dates": [],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [
+    "Reference-only file must not be used as factual evidence.",
+    "Extracted text is weak; visual/page image review may be needed.",
+    "This document should be reviewed with page images or manual inspection before final claims."
+  ],
+  "excluded_content": [
+    "Reference-only file. Do not use as evidence for supplier, cost, or product claims."
+  ],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "visual_priority",
+    "priority_score": -29,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": true
+  }
+}

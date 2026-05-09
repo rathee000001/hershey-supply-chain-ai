@@ -1,0 +1,252 @@
+{
+  "doc_id": "DOC_9232C3E84540",
+  "file_name": "usda_ams_dairy_monthly_averages_latest.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Ams Dairy Monthly Averages Latest",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_ams_dairy_monthly_averages_latest.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: USDA, USDA AMS, Milk, Skim Milk, Milk Fat, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: agricultural marketing service"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: skim milk"
+    },
+    {
+      "entity_name": "Milk Fat",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: butterfat"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "weight",
+      "metric_value": "40 POUND",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Group (1) (US $LB)\nBUTTER/GRADE AA\n1.4134\n1.7242\n1.8885\nCHEESE/BARRELS\n1.3884\n1.4663\n1.5590\nCHEESE/40 POUND BLOCKS\n1.3451\n1.4684\n1.5938\nNONFAT DRY MILK/GRADE A\n1.2801\n1.6114\n1.7968\nDRY WHEY/EXTRA GRADE\n0.725"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--\n--- PAGE 1 ---\nDairy Monthly Averages\nAgricultural Marketing Service\nDairy Market News\nApril 10, 2026\nMMN Slug ID 1623 / Slug Name: DYMAveragesYTD\nEmail us with accessibility issues with this report.\nA"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1900",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3339\n1.6773\n2.0985\nCONDENSED SKIM-NORTHEAST ($/LB Solids)\nCLASS II\n1.0663\n1.3087\n1.4575\nCLASS III\n1.1900\n1.4216\n1.3205\n2026 YEAR U.S. Monthly Price Averages\n(1) Monthly averages are a simple average of al"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CONDENSED SKIM-NORTHEAST ($/LB Solids)\nCLASS II\n1.0663\n1.3087\n1.4575\nCLASS III\n1.1900\n1.4216\n1.3205\n2026 YEAR U.S. Monthly Price Averages\n(1) Monthly averages are a simple average of all the closes during"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3\n\n--- PAGE 2 ---\nDairy Monthly Averages\nAgricultural Marketing Service\nDairy Market News\nApril 10, 2026\nMMN Slug ID 1623 / Slug Name: DYMAveragesYTD\nArea and Product\nJAN\nFEB\nMAR\nDAIRY MARKET NEWS, CONTIN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3\n\n--- PAGE 3 ---\nDairy Monthly Averages\nAgricultural Marketing Service\nDairy Market News\nApril 10, 2026\nMMN Slug ID 1623 / Slug Name: DYMAveragesYTD\n2026 YEAR U.S. Monthly Price Averages (US $/MT)\nArea a"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ral Marketing Service\nDairy Market News\nApril 10, 2026\nMMN Slug ID 1623 / Slug Name: DYMAveragesYTD\n2026 YEAR U.S. Monthly Price Averages (US $/MT)\nArea and Product\nJAN\nFEB\nMAR\nDAIRY MARKET NEWS (3)\nCHEDD"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2026",
+    "1900"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "CME Group (1) (US $LB)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "DAIRY MARKET NEWS (2)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "CLASS III - SPOT - MILK ($/CWT)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "CLASS II CREAM ($/LB Butterfat)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "ALL CLASS - CREAM ($/LB Butterfat)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "CONDENSED SKIM-NORTHEAST ($/LB Solids)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Monthly Price Averages",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "(2) Monthly averages are based on weekly prices and are time-weighted according to the number of workdays in the month - Saturdays, Sundays and National Holidays excluded.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "https://mymarketnews.ams.usda.gov/viewReport/1623",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "(2) Monthly averages are based on weekly prices and are time-weighted according to the number of workdays in the month - Saturdays, Sundays and National Holidays excluded.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "https://mymarketnews.ams.usda.gov/viewReport/1623",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "DAIRY MARKET NEWS, CONTINUED (2)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Dry Products (2) (US $/LB)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "(2) Monthly averages are based on weekly prices and are time-weighted according to the number of workdays in the month - Saturdays, Sundays and National Holidays excluded.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "https://mymarketnews.ams.usda.gov/viewReport/1623",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "(2) Monthly averages are based on weekly prices and are time-weighted according to the number of workdays in the month - Saturdays, Sundays and National Holidays excluded.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "https://mymarketnews.ams.usda.gov/viewReport/1623",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Monthly Price Averages (US $/MT)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "DAIRY MARKET NEWS (3)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "(3) Monthly averages are based on weekly prices and are time-weighted according to the number of workdays in the month - Saturdays, Sundays excluded.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "https://mymarketnews.ams.usda.gov/viewReport/1623",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 63,
+    "selected_chunk_count": 3,
+    "requires_future_ai_or_visual_review": false
+  }
+}

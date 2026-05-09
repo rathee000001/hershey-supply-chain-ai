@@ -1,0 +1,182 @@
+[
+  {
+    "review_id": "REV_DOC_BF1CF5E24E2A",
+    "doc_id": "DOC_BF1CF5E24E2A",
+    "file_name": "034000002405_3.png",
+    "relative_path": "01_product_sku_1_55oz/nutrition_ingredients/034000002405_3.png",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/nutrition_ingredients/034000002405_3.png",
+    "packet": "product_sku_1_55oz",
+    "review_type": "product_sku_visual_check",
+    "retailer": "",
+    "document_type": "image_or_logo",
+    "evidence_role": "unknown",
+    "page_image_count": 0,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_BF1CF5E24E2A/034000002405_3.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_bf1cf5e24e2a_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/034000002405_3.png",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_CF8C4A1F434C",
+    "doc_id": "DOC_CF8C4A1F434C",
+    "file_name": "hershey 1.55 oz page.pdf",
+    "relative_path": "01_product_sku_1_55oz/official_product_pages/hershey 1.55 oz page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/official_product_pages/hershey 1.55 oz page.pdf",
+    "packet": "product_sku_1_55oz",
+    "review_type": "product_sku_visual_check",
+    "retailer": "",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "page_image_count": 1,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_CF8C4A1F434C/page_001.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_cf8c4a1f434c_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/hershey 1.55 oz page.pdf",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_D7D512504DFA",
+    "doc_id": "DOC_D7D512504DFA",
+    "file_name": "hershey unwrapped.png",
+    "relative_path": "01_product_sku_1_55oz/product_visuals/hershey unwrapped.png",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/product_visuals/hershey unwrapped.png",
+    "packet": "product_sku_1_55oz",
+    "review_type": "product_sku_visual_check",
+    "retailer": "",
+    "document_type": "image_or_logo",
+    "evidence_role": "direct_company_evidence",
+    "page_image_count": 0,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_D7D512504DFA/hershey unwrapped.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_d7d512504dfa_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/hershey unwrapped.png",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_35AC43ECE38F",
+    "doc_id": "DOC_35AC43ECE38F",
+    "file_name": "Hershey back.webp",
+    "relative_path": "01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+    "packet": "product_sku_1_55oz",
+    "review_type": "product_sku_visual_check",
+    "retailer": "",
+    "document_type": "image_or_logo",
+    "evidence_role": "direct_company_evidence",
+    "page_image_count": 0,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_35AC43ECE38F/Hershey back.webp"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_35ac43ece38f_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/Hershey back.webp",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_463FD3B8EDC9",
+    "doc_id": "DOC_463FD3B8EDC9",
+    "file_name": "Hershey Front.webp",
+    "relative_path": "01_product_sku_1_55oz/wrapper_front/Hershey Front.webp",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_front/Hershey Front.webp",
+    "packet": "product_sku_1_55oz",
+    "review_type": "product_sku_visual_check",
+    "retailer": "",
+    "document_type": "image_or_logo",
+    "evidence_role": "direct_company_evidence",
+    "page_image_count": 0,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_463FD3B8EDC9/Hershey Front.webp"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_463fd3b8edc9_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/Hershey Front.webp",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_0D21678E3116",
+    "doc_id": "DOC_0D21678E3116",
+    "file_name": "cvs_hershey_1_55oz_price_page.pdf",
+    "relative_path": "05_retail_price_evidence/cvs/cvs_hershey_1_55oz_price_page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/05_retail_price_evidence/cvs/cvs_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "review_type": "retail_price_visual_check",
+    "retailer": "cvs",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "page_image_count": 1,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0D21678E3116/page_001.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_0d21678e3116_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/cvs_hershey_1_55oz_price_page.pdf",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_4D6583498B7A",
+    "doc_id": "DOC_4D6583498B7A",
+    "file_name": "target_hershey_1_55oz_price_page.pdf",
+    "relative_path": "05_retail_price_evidence/target/target_hershey_1_55oz_price_page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/05_retail_price_evidence/target/target_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "review_type": "retail_price_visual_check",
+    "retailer": "target",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "page_image_count": 1,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_4D6583498B7A/page_001.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_4d6583498b7a_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/target_hershey_1_55oz_price_page.pdf",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_5E90ED0F32AB",
+    "doc_id": "DOC_5E90ED0F32AB",
+    "file_name": "walgreens_hershey_1_55oz_price_page.pdf",
+    "relative_path": "05_retail_price_evidence/walgreens/walgreens_hershey_1_55oz_price_page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/05_retail_price_evidence/walgreens/walgreens_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "review_type": "retail_price_visual_check",
+    "retailer": "walgreens",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "page_image_count": 1,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_5E90ED0F32AB/page_001.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_5e90ed0f32ab_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/walgreens_hershey_1_55oz_price_page.pdf",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  },
+  {
+    "review_id": "REV_DOC_1F6D46FB75CC",
+    "doc_id": "DOC_1F6D46FB75CC",
+    "file_name": "walmart_hershey_1_55oz_price_page.pdf",
+    "relative_path": "05_retail_price_evidence/walmart/walmart_hershey_1_55oz_price_page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/05_retail_price_evidence/walmart/walmart_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "review_type": "retail_price_visual_check",
+    "retailer": "walmart",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "page_image_count": 1,
+    "page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1F6D46FB75CC/page_001.png"
+    ],
+    "contact_sheet_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets/rev_doc_1f6d46fb75cc_contact_sheet.png",
+    "copied_review_asset_path": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/copied_review_assets/walmart_hershey_1_55oz_price_page.pdf",
+    "verification_status": "pending_manual_review",
+    "review_notes": ""
+  }
+]

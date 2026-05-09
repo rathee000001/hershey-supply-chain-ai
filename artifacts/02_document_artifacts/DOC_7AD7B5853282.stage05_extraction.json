@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_7AD7B5853282",
+  "file_name": "Hersheyland-Explore-Hershey-Products.pdf",
+  "relative_path": "07_reference_only/old_generated_visuals/Hersheyland-Explore-Hershey-Products.pdf",
+  "packet": "reference_only",
+  "document_type": "pdf_document",
+  "evidence_role": "reference_only",
+  "extracted_at": "2026-05-06T19:57:18",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_7AD7B5853282.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7AD7B5853282/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "doc_id": "DOC_5BC712652F98",
+  "file_name": "pgpr_market_overview_reference.pdf",
+  "relative_path": "03_ingredient_research/pgpr/03_price_benchmarks/pgpr_market_overview_reference.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:54",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_5BC712652F98.txt",
+      "page_count": 9,
+      "total_text_length": 21787,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 2543
+        },
+        {
+          "page": 2,
+          "text_length": 1717
+        },
+        {
+          "page": 3,
+          "text_length": 2202
+        },
+        {
+          "page": 4,
+          "text_length": 2839
+        },
+        {
+          "page": 5,
+          "text_length": 2749
+        },
+        {
+          "page": 6,
+          "text_length": 2669
+        },
+        {
+          "page": 7,
+          "text_length": 2811
+        },
+        {
+          "page": 8,
+          "text_length": 2868
+        },
+        {
+          "page": 9,
+          "text_length": 1230
+        }
+      ],
+      "rendered_page_images": [],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

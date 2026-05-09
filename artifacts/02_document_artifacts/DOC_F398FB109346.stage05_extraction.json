@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_F398FB109346",
+  "file_name": "pgpr_function_in_chocolate_explanation.pdf",
+  "relative_path": "03_ingredient_research/pgpr/01_function_in_chocolate/pgpr_function_in_chocolate_explanation.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "evidence_role": "process_or_function_context",
+  "extracted_at": "2026-05-06T19:56:50",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F398FB109346.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F398FB109346/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

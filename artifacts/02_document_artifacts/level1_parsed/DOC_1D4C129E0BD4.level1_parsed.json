@@ -1,0 +1,482 @@
+{
+  "doc_id": "DOC_1D4C129E0BD4",
+  "file_name": "fda_flavor_labeling_regulation_reference.pdf",
+  "source_owner": "FDA",
+  "document_title": "Fda Flavor Labeling Regulation Reference",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for fda_flavor_labeling_regulation_reference.pdf. Packet: natural_flavor. Evidence role: regulatory_definition. Input mode: text_plus_page_images. Detected entities/stages include: USDA, USDA ERS, USDA AMS, FDA, EPA, Sugar, Cocoa, Milk.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 42",
+      "page_or_location": "page_27",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 43",
+      "page_or_location": "page_28",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 79",
+      "page_or_location": "page_50",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 91",
+      "page_or_location": "page_56",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "FDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: food and drug administration"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Packaging",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "packaging",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: fda"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "weight",
+      "metric_value": "0.1 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rides, include cholesterol? \nAnswer: No. \nN12. The total fat content for a serving of my product is 0.1 g. How should I \ndeclare fat and calories from fat? \nAnswer: Because it is present at a level below 0"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "g. How should I \ndeclare fat and calories from fat? \nAnswer: Because it is present at a level below 0.5 g, the level of fat is expressed \nas 0 g. Calories from fat would also be expressed as zero. \n21 CFR"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "from fat? \nAnswer: Because it is present at a level below 0.5 g, the level of fat is expressed \nas 0 g. Calories from fat would also be expressed as zero. \n21 CFR 101.9(c)(1)(i), 21 CFR 101.9(c)(2) \nN13"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01.9(c)(2) \nN13. What fractions are used for total fat on the Nutrition Facts label? \nAnswer: Below 0.5 grams total fat per serving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat:"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t on the Nutrition Facts label? \nAnswer: Below 0.5 grams total fat per serving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "label? \nAnswer: Below 0.5 grams total fat per serving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "er: Below 0.5 grams total fat per serving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g,"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "al fat per serving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g,"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "2 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to t"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the near"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "2 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "2.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "l fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram ("
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "3 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "3.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "4 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use frac"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "4.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ements rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractio\n\n--"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractio\n\n--- DOC"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractio\n\n--- DOC_1D4C129E0BD4_CH"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractio\n\n--- DOC_1D4C129E0BD4_CHUNK_0043 pag"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractio\n\n--- DOC_1D4C129E0BD4_CHUNK_0043 page_28 ---\nving: Use the declaration 0 gram"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 gram (do ­\nnot use fractio\n\n--- DOC_1D4C129E0BD4_CHUNK_0043 page_28 ---\nving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ctio\n\n--- DOC_1D4C129E0BD4_CHUNK_0043 page_28 ---\nving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "_1D4C129E0BD4_CHUNK_0043 page_28 ---\nving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g,"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3 page_28 ---\nving: Use the declaration 0 grams for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g,"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "2 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s for \ntotal fat. 0.5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".5 grams to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s to 5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to t"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "5 grams total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the near"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "2 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "total fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "2.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "l fat: Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram ("
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "3 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Use 0.5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "3.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".5 gram increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "4 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "increments rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use frac"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "4.5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ements rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions a"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rounded to \nthe nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions above"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the nearest 1/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExam"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/2 gram. \nExamples: 0.5 g, 1 g, 1.5 g, 2 g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExamples: 5 g, 6"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 gram",
+      "unit": "",
+      "page_or_location": "",
+      "context": "g, 2.5 g, 3 g, 3.5 g, 4 g, 4.5 g, 5 g ­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExamples: 5 g, 6 g, 7 g, etc. ­\n21 CFR 101.9(c)(2) Also s"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "­\nAbove 5 grams: Use 1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExamples: 5 g, 6 g, 7 g, etc. ­\n21 CFR 101.9(c)(2) Also see Appendix H for rounding guidelines."
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "5 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 gram increments rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExamples: 5 g, 6 g, 7 g, etc. ­\n21 CFR 101.9(c)(2) Also see Appendix H for rounding guidelines. \nN14. What values"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "6 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "m increments rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExamples: 5 g, 6 g, 7 g, etc. ­\n21 CFR 101.9(c)(2) Also see Appendix H for rounding guidelines. \nN14. What values are"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "7 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rements rounded to the nearest 1 gram (do ­\nnot use fractions above 5 grams). ­\nExamples: 5 g, 6 g, 7 g, etc. ­\n21 CFR 101.9(c)(2) Also see Appendix H for rounding guidelines. \nN14. What values are used"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "28 G",
+      "unit": "",
+      "page_or_location": "",
+      "context": "dren \nLess Than 4 Years of Age, and Pregnant and Lactating Women. \n21 CFR 101.9(c)(8)(iv) & (c)(9) \n28 G U I D A N C E F O R I N D U S T R Y\n\n--- PAGE 29 ---\nN15. When less than 0.5 grams of dietary fiber"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.5 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "9(c)(8)(iv) & (c)(9) \n28 G U I D A N C E F O R I N D U S T R Y\n\n--- PAGE 29 ---\nN15. When less than 0.5 grams of dietary fiber or saturated fat is present in \na serving of a product, the amounts would be shown"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "0.2 grams",
+      "unit": "",
+      "page_or_location": "",
+      "context": "owever, when the % DV is calculated based on an actual \nunrounded fiber or saturated fat content of 0.2 grams per serving, the \ncalculation yields 1 percent. To avoid consumer confusion can the % DV \nbe expres"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "10 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r ­\n2 T ­\nCoconut milk ­\n1/3 cup ­\nDried, e.g., sun-dried tomatoes, dried mushrooms, dried seaweed \n10 g ­\nDried seaweed sheets ­\n3 g ­\nVegetable spreads (eggplant caponata, olive spread) ­\n2 T ­\nSprouts"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "3 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "up ­\nDried, e.g., sun-dried tomatoes, dried mushrooms, dried seaweed \n10 g ­\nDried seaweed sheets ­\n3 g ­\nVegetable spreads (eggplant caponata, olive spread) ­\n2 T ­\nSprouts ­\n10 g ­\nHors d’oeuvres, mini"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "10 g",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Dried seaweed sheets ­\n3 g ­\nVegetable spreads (eggplant caponata, olive spread) ­\n2 T ­\nSprouts ­\n10 g ­\nHors d’oeuvres, mini eggrolls, mini pizza rolls and bagel pizzas \n85 g \nL63. What terms must be u"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "FDA",
+      "relationship": "relationship language detected",
+      "evidence_text": "The FDA receives many questions from manufacturers, distributors, and",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 46,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": true
+  }
+}

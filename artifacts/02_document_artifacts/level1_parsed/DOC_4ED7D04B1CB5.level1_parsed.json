@@ -1,0 +1,451 @@
+{
+  "doc_id": "DOC_4ED7D04B1CB5",
+  "file_name": "pswrgvwall.xls",
+  "source_owner": "logistics_distribution",
+  "document_title": "Pswrgvwall",
+  "packet": "logistics_distribution",
+  "document_type": "excel_workbook",
+  "summary": "Local Level 1 parse for pswrgvwall.xls. Packet: logistics_distribution. Evidence role: unknown. Input mode: table_summary_plus_text. Detected entities/stages include: USDA ERS, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 6",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 12",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 14",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 18",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: retail"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "escription # Of Series Frequency Latest Data for NaN\n NaN Data 1 Regular Conventional 20 Weekly 5/4/2026 8/20/1990\n NaN Data 2 Regular Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 3 Regular All Ar"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1990",
+      "unit": "",
+      "page_or_location": "",
+      "context": "# Of Series Frequency Latest Data for NaN\n NaN Data 1 Regular Conventional 20 Weekly 5/4/2026 8/20/1990\n NaN Data 2 Regular Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 3 Regular All Areas All Fo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 Regular Conventional 20 Weekly 5/4/2026 8/20/1990\n NaN Data 2 Regular Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 3 Regular All Areas All Formulations 28 Weekly 5/4/2026 8/20/1990\n NaN Data 4"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Conventional 20 Weekly 5/4/2026 8/20/1990\n NaN Data 2 Regular Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 3 Regular All Areas All Formulations 28 Weekly 5/4/2026 8/20/1990\n NaN Data 4 Midgrade Co"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rmulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 3 Regular All Areas All Formulations 28 Weekly 5/4/2026 8/20/1990\n NaN Data 4 Midgrade Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 5 Midgrade Refo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1990",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 Weekly 5/4/2026 11/28/1994\n NaN Data 3 Regular All Areas All Formulations 28 Weekly 5/4/2026 8/20/1990\n NaN Data 4 Midgrade Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 5 Midgrade Reformulated 2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Areas All Formulations 28 Weekly 5/4/2026 8/20/1990\n NaN Data 4 Midgrade Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 5 Midgrade Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 6 Midgrade All"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ormulations 28 Weekly 5/4/2026 8/20/1990\n NaN Data 4 Midgrade Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 5 Midgrade Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 6 Midgrade All Areas All"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Midgrade Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 5 Midgrade Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 6 Midgrade All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 5 Midgrade Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 6 Midgrade All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 7 Premium C"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "mulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 6 Midgrade All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 7 Premium Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 8 Premium Refor"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Weekly 5/4/2026 11/28/1994\n NaN Data 6 Midgrade All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 7 Premium Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 8 Premium Reformulated 21"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 7 Premium Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 8 Premium Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 9 Premium All A"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ormulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 7 Premium Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 8 Premium Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 9 Premium All Areas All Fo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "7 Premium Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 8 Premium Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 9 Premium All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "onventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 8 Premium Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 9 Premium All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 10 All Grade"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rmulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 9 Premium All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 10 All Grades Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grad"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Weekly 5/4/2026 11/28/1994\n NaN Data 9 Premium All Areas All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 10 All Grades Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformul"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s All Formulations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 10 All Grades Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grad"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lations 28 Weekly 5/4/2026 11/28/1994\n NaN Data 10 All Grades Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas a"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rades Conventional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ntional 20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "mulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1993",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release Date: 5/"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "as and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release Date: 5/12/2026 NaN NaN NaN NaN\n\n---\n\n--- DOC_4ED7D04B1CB5_CHUNK_"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "aN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release Date: 5/12/2026 NaN NaN NaN NaN\n\n---\n\n--- DOC_4ED7D04B1CB5_CHUNK_0002 ---\n20 Weekly 5/4/2026 11/28/1994\n NaN Data 1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ext Release Date: 5/12/2026 NaN NaN NaN NaN\n\n---\n\n--- DOC_4ED7D04B1CB5_CHUNK_0002 ---\n20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grad"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Date: 5/12/2026 NaN NaN NaN NaN\n\n---\n\n--- DOC_4ED7D04B1CB5_CHUNK_0002 ---\n20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas a"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CB5_CHUNK_0002 ---\n20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "002 ---\n20 Weekly 5/4/2026 11/28/1994\n NaN Data 11 All Grades Reformulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "mulated 21 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1993",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 Weekly 5/4/2026 11/28/1994\n NaN Data 12 All Grades, Areas and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release Date: 5/"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "as and Formulations 28 Weekly 5/4/2026 4/5/1993\n NaN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release Date: 5/12/2026 NaN NaN NaN NaN\n\n---\n\nTABLE/SHEET: Data 1\nROWS: 1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "aN NaN NaN NaN NaN NaN NaN\n NaN Release Date: 5/5/2026 NaN NaN NaN NaN\n NaN Next Release Date: 5/12/2026 NaN NaN NaN NaN\n\n---\n\nTABLE/SHEET: Data 1\nROWS: 1866\nCOLUMNS: 21\nHEADERS: Back to Contents, Data 1:"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r Gallon) Weekly San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)\n1994-11-28 00:00:00 1.149 1.149 1.163 1.172 1.092 1.099 1.093 NaN 1.255 NaN NaN NaN NaN NaN NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.149 1.149 1.163 1.172 1.092 1.099 1.093 NaN 1.255 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1994-12-05 00:00:00 1.169 1.164 1.184 1.18 1.098 1.134 1.121 NaN 1.252 NaN NaN NaN NaN NaN NaN NaN NaN N"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.169 1.164 1.184 1.18 1.098 1.134 1.121 NaN 1.252 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1994-12-12 00:00:00 1.167 1.166 1.183 1.178 1.106 1.124 1.126 NaN 1.244 NaN NaN NaN NaN NaN NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.167 1.166 1.183 1.178 1.106 1.124 1.126 NaN 1.244 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1994-12-19 00:00:00 1.167 1.168 1.18 1.177 1.11 1.125 1.125 NaN 1.235 NaN NaN NaN NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0 1.167 1.168 1.18 1.177 1.11 1.125 1.125 NaN 1.235 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1994-12-26 00:00:00 1.165 1.166 1.173 1.179 1.11 1.123 1.113 NaN 1.236 NaN NaN NaN NaN NaN NaN NaN NaN N"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.165 1.166 1.173 1.179 1.11 1.123 1.113 NaN 1.236 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-01-02 00:00:00 1.167 1.161 1.17 1.173 1.097 1.12 1.117 NaN 1.254 1.264 NaN NaN NaN NaN NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.167 1.161 1.17 1.173 1.097 1.12 1.117 NaN 1.254 1.264 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-01-09 00:00:00 1.169 1.16 1.168 1.173 1.098 1.129 1.116 NaN 1.257 1.267 NaN NaN NaN NaN NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".169 1.16 1.168 1.173 1.098 1.129 1.116 NaN 1.257 1.267 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-01-16 00:00:00 1.169 1.157 1.164 1.169 1.101 1.133 1.11 NaN 1.258 1.268 NaN NaN NaN NaN NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".169 1.157 1.164 1.169 1.101 1.133 1.11 NaN 1.258 1.268 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-01-23 00:00:00 1.165 1.158 1.167 1.168 1.099 1.132 1.103 NaN 1.247 1.257 NaN NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "165 1.158 1.167 1.168 1.099 1.132 1.103 NaN 1.247 1.257 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-01-30 00:00:00 1.162 1.153 1.163 1.164 1.094 1.122 1.108 NaN 1.244 1.254 NaN NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "162 1.153 1.163 1.164 1.094 1.122 1.108 NaN 1.244 1.254 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-02-06 00:00:00 1.159 1.152 1.163 1.161 1.091 1.119 1.106 NaN 1.239 1.249 NaN NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "159 1.152 1.163 1.161 1.091 1.119 1.106 NaN 1.239 1.249 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-02-13 00:00:00 1.158 1.151 1.162 1.159 1.091 1.122 1.105 NaN 1.237 1.247 NaN NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "158 1.151 1.162 1.159 1.091 1.122 1.105 NaN 1.237 1.247 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-02-20 00:00:00 1.153 1.148 1.16 1.157 1.087 1.11 1.097 NaN 1.234 1.244 NaN NaN NaN NaN NaN NaN NaN"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.153 1.148 1.16 1.157 1.087 1.11 1.097 NaN 1.234 1.244 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-02-27 00:00:00 1.152 1.147 1.16 1.154 1.084 1.115 1.095 NaN 1.23 1.24 NaN NaN NaN NaN NaN NaN NaN N"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1.152 1.147 1.16 1.154 1.084 1.115 1.095 NaN 1.23 1.24 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-03-06 00:00:00 1.149 1.143 1.156 1.151 1.083 1.107 1.1 NaN 1.23 1.24 NaN NaN NaN NaN NaN NaN NaN Na"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0 1.149 1.143 1.156 1.151 1.083 1.107 1.1 NaN 1.23 1.24 NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN NaN\n1995-03-13 00:00:00 1.141 1.139 1.15 1.148 1.075 1.097 1.095 NaN 1.219 1.229 NaN NaN NaN NaN NaN NaN NaN"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2026",
+    "1990",
+    "1994",
+    "1993",
+    "1995"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "retail_price",
+      "evidence_text": "Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly East Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly New England (PADD 1A) Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly Central Atlantic (PADD 1B) Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly Lower Atlantic (PADD 1C) Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly Midwest Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly Gulf Coast Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly Rocky Mountain Regular Conventional Retail Gasoline Prices (Dollars per Gallon) Weekly West ",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "retail_price",
+      "evidence_text": "l Gasoline Prices (Dollars per Gallon) Weekly Los Angeles, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly San Francisco, CA Regular Reformulated Retail Gasoline Prices (Dollars per Gallon)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "retail_price",
+      "evidence_text": "per Gallon) Weekly Seattle, WA Midgrade Conventional Retail Gasoline Prices (Dollars per Gallon)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "retail_price",
+      "evidence_text": "st Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly Gulf Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly Rocky Mountain Midgrades Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly West Coast Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly California Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly Colorado Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly Massachusetts Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly Texas Midgrade Reformulated Retail Gasoline Prices (Dollars per Gallon) Weekly New York Midgrade Reformulated Reta",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "retail_price",
+      "evidence_text": "n) Weekly Los Angeles Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon) Weekly Miami, FL Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon) Weekly New York City Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon) Weekly San Francisco Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon) Weekly Seattle, WA Midgrade All Formulations Retail Gasoline Prices (Dollars per Gallon)",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "table_summary_plus_text",
+    "priority_score": 26,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": false
+  }
+}

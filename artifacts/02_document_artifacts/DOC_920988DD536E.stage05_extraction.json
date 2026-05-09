@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_920988DD536E",
+  "file_name": "Dairy-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+  "relative_path": "00_hershey_company/other_ingredient_pages/Dairy-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+  "packet": "hershey_company",
+  "document_type": "pdf_document",
+  "evidence_role": "direct_company_evidence",
+  "extracted_at": "2026-05-06T19:56:15",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_920988DD536E.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_920988DD536E/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

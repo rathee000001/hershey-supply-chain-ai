@@ -1,0 +1,46 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_CD36102F0A4D",
+    "file_name": "land_o_lakes_logo_asset.png",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "file_extension": ".png",
+    "file_size_bytes": 64110,
+    "sha256": "7f6c20b54d5cf6f0c9e681cdb749800406fc7d7a5fd6b9c58cf2484e520cf9c5"
+  },
+  "ai_input_mode": "visual_asset_only",
+  "priority_score": 30,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": null,
+    "page_count": null,
+    "total_text_length": 0,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_CD36102F0A4D/land_o_lakes_logo_asset.png",
+    "image_width": 512,
+    "image_height": 512,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": [
+    "This source needs visual/manual/vision review because text extraction is weak or the file is image-based.",
+    "Visual asset only. Logo/image does not prove supplier relationship."
+  ]
+}

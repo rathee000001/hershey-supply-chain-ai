@@ -1,0 +1,120 @@
+{
+  "doc_id": "DOC_11A00D6495C0",
+  "file_name": "PCU49314931.xlsx",
+  "relative_path": "04_logistics_distribution/06_raw_excel_exports/PCU49314931.xlsx",
+  "packet": "logistics_distribution",
+  "document_type": "excel_workbook",
+  "evidence_role": "unknown",
+  "extracted_at": "2026-05-06T19:57:13",
+  "extraction": {
+    "tables": {
+      "extractor": "pandas",
+      "tables": [
+        {
+          "sheet_or_table_name": "README",
+          "rows": 7,
+          "columns": 3,
+          "headers": [
+            "FRED Graph Observations",
+            "Unnamed: 1",
+            "Unnamed: 2"
+          ],
+          "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_11A00D6495C0/readme.csv",
+          "preview_rows": [
+            {
+              "FRED Graph Observations": "Federal Reserve Economic Data, Federal Reserve Bank of St. Louis",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "Link: https://fred.stlouisfed.org",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "Help: https://fredhelp.stlouisfed.org",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "This data may be copyrighted. Please refer to the Terms of Use: https://fred.stlouisfed.org/legal#fred-terms-faq",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "File Created: 2026-05-06 6:18 pm CDT",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "PCU49314931",
+              "Unnamed: 1": "Producer Price Index by Industry: Warehousing and Storage, Index Dec 2006=100, Monthly, Not Seasonally Adjusted",
+              "Unnamed: 2": "Data Updated: 2026-04-14"
+            }
+          ]
+        },
+        {
+          "sheet_or_table_name": "Monthly",
+          "rows": 232,
+          "columns": 2,
+          "headers": [
+            "observation_date",
+            "PCU49314931"
+          ],
+          "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_11A00D6495C0/monthly.csv",
+          "preview_rows": [
+            {
+              "observation_date": "2006-12-01",
+              "PCU49314931": "100.0"
+            },
+            {
+              "observation_date": "2007-01-01",
+              "PCU49314931": "101.8"
+            },
+            {
+              "observation_date": "2007-02-01",
+              "PCU49314931": "101.7"
+            },
+            {
+              "observation_date": "2007-03-01",
+              "PCU49314931": "101.8"
+            },
+            {
+              "observation_date": "2007-04-01",
+              "PCU49314931": "101.8"
+            },
+            {
+              "observation_date": "2007-05-01",
+              "PCU49314931": "101.7"
+            },
+            {
+              "observation_date": "2007-06-01",
+              "PCU49314931": "101.8"
+            },
+            {
+              "observation_date": "2007-07-01",
+              "PCU49314931": "101.8"
+            },
+            {
+              "observation_date": "2007-08-01",
+              "PCU49314931": "101.9"
+            },
+            {
+              "observation_date": "2007-09-01",
+              "PCU49314931": "103.7"
+            }
+          ]
+        }
+      ],
+      "combined_text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_11A00D6495C0.txt",
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

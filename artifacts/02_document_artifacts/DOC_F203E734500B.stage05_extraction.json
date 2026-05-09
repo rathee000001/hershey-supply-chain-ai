@@ -1,0 +1,120 @@
+{
+  "doc_id": "DOC_F203E734500B",
+  "file_name": "PCU484484.xlsx",
+  "relative_path": "04_logistics_distribution/06_raw_excel_exports/PCU484484.xlsx",
+  "packet": "logistics_distribution",
+  "document_type": "excel_workbook",
+  "evidence_role": "unknown",
+  "extracted_at": "2026-05-06T19:57:13",
+  "extraction": {
+    "tables": {
+      "extractor": "pandas",
+      "tables": [
+        {
+          "sheet_or_table_name": "README",
+          "rows": 7,
+          "columns": 3,
+          "headers": [
+            "FRED Graph Observations",
+            "Unnamed: 1",
+            "Unnamed: 2"
+          ],
+          "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_F203E734500B/readme.csv",
+          "preview_rows": [
+            {
+              "FRED Graph Observations": "Federal Reserve Economic Data, Federal Reserve Bank of St. Louis",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "Link: https://fred.stlouisfed.org",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "Help: https://fredhelp.stlouisfed.org",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "This data may be copyrighted. Please refer to the Terms of Use: https://fred.stlouisfed.org/legal#fred-terms-faq",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "File Created: 2026-05-06 6:21 pm CDT",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "",
+              "Unnamed: 1": "",
+              "Unnamed: 2": ""
+            },
+            {
+              "FRED Graph Observations": "PCU484484",
+              "Unnamed: 1": "Producer Price Index by Industry: Truck Transportation, Index Dec 2003=100, Monthly, Not Seasonally Adjusted",
+              "Unnamed: 2": "Data Updated: 2026-04-14"
+            }
+          ]
+        },
+        {
+          "sheet_or_table_name": "Monthly",
+          "rows": 268,
+          "columns": 2,
+          "headers": [
+            "observation_date",
+            "PCU484484"
+          ],
+          "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_F203E734500B/monthly.csv",
+          "preview_rows": [
+            {
+              "observation_date": "2003-12-01",
+              "PCU484484": "100.0"
+            },
+            {
+              "observation_date": "2004-01-01",
+              "PCU484484": "100.4"
+            },
+            {
+              "observation_date": "2004-02-01",
+              "PCU484484": "101.1"
+            },
+            {
+              "observation_date": "2004-03-01",
+              "PCU484484": "101.3"
+            },
+            {
+              "observation_date": "2004-04-01",
+              "PCU484484": "101.6"
+            },
+            {
+              "observation_date": "2004-05-01",
+              "PCU484484": "102.3"
+            },
+            {
+              "observation_date": "2004-06-01",
+              "PCU484484": "103.0"
+            },
+            {
+              "observation_date": "2004-07-01",
+              "PCU484484": "103.4"
+            },
+            {
+              "observation_date": "2004-08-01",
+              "PCU484484": "103.7"
+            },
+            {
+              "observation_date": "2004-09-01",
+              "PCU484484": "104.5"
+            }
+          ]
+        }
+      ],
+      "combined_text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F203E734500B.txt",
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

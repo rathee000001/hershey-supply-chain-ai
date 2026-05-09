@@ -1,0 +1,157 @@
+{
+  "doc_id": "DOC_2D8BE31DFAC8",
+  "file_name": "icco_cocoa_butter_powder_faq.pdf",
+  "source_owner": "ICCO",
+  "document_title": "Icco Cocoa Butter Powder Faq",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for icco_cocoa_butter_powder_faq.pdf. Packet: cocoa_chocolate_cocoa_butter. Evidence role: benchmark_proxy. Input mode: text_plus_page_images. Detected entities/stages include: USDA ERS, ICCO, EPA, Chocolate, Cocoa, Cocoa Butter, ingredient sourcing, processing.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_4",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "ICCO",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: icco"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Cocoa Butter",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa butter"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: partner"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "warehousing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: warehousing"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: transport"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "1996",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ty by wider \npromotion and adoption of Good \nAgricultural Practices…”\n\n--- PAGE 3 ---\nUpdate of the 1996 BCCCA booklet to produce \n« Cocoa Beans: Chocolate and cocoa industry quality requirements » \nGuide"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1996",
+      "unit": "",
+      "page_or_location": "",
+      "context": "anagers\nNOT Farmer or Farmer training\nCocoa Beans:\nChocolate & Cocoa\nIndustry Quality\nRequirements\n1996\n2016\n\n--- PAGE 4 ---\nContent Overview\nOriginal Structure \n• Introduction\n• Part 1 Aspects of Cocoa"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2016",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rs\nNOT Farmer or Farmer training\nCocoa Beans:\nChocolate & Cocoa\nIndustry Quality\nRequirements\n1996\n2016\n\n--- PAGE 4 ---\nContent Overview\nOriginal Structure \n• Introduction\n• Part 1 Aspects of Cocoa Bean"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2014",
+      "unit": "",
+      "page_or_location": "",
+      "context": "PAGE 8 ---\nInternational Quality Standards\nRefers to ISO 2541 “Cocoa beans –\nSpecification (revised 2014) & ISO 1114 \nCocoa beans – Cut Test\nOther Standards including FCC terms\nBean size\n\n--- PAGE 9 ---\nC"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "1996",
+    "2016",
+    "2014"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "freight",
+      "evidence_text": "• Transportation, Shipping, Warehousing practices affecting quality",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "freight",
+      "evidence_text": "•Transportation & Shipping Practices",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "freight",
+      "evidence_text": "•Transportation & Shipping Practices",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Alison Branch, Paula Byrne, Alice Costa, Catherine Entzminger, Alain",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 68,
+    "selected_chunk_count": 3,
+    "requires_future_ai_or_visual_review": true
+  }
+}

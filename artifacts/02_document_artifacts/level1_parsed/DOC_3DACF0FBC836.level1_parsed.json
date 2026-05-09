@@ -1,0 +1,552 @@
+{
+  "doc_id": "DOC_3DACF0FBC836",
+  "file_name": "hershey_latest_esg_dairy_section.pdf",
+  "source_owner": "The Hershey Company",
+  "document_title": "Hershey Latest Esg Dairy Section",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for hershey_latest_esg_dairy_section.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: direct_company_evidence. Input mode: text_plus_page_images. Detected entities/stages include: The Hershey Company, Target, USDA ERS, USDA AMS, FEMA, Sugar, Cocoa, Packaging.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 26",
+      "page_or_location": "page_18",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 74",
+      "page_or_location": "page_49",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 116",
+      "page_or_location": "page_75",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 117",
+      "page_or_location": "page_76",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "The Hershey Company",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: the hershey company"
+    },
+    {
+      "entity_name": "Target",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: target"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "FEMA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: fema"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Packaging",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "packaging",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: retail"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_3DACF0FBC836_CHUNK_0001 ---\n--- PAGE 1 ---\nPowered by \n Shared \n Goodness\n2021 ESG REPORT\n\n--- PAGE 2 ---\nWelcome to Our \n2021 ESG Report \nHershey’s purpose is to “Make More Mome"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 ---\n--- PAGE 1 ---\nPowered by \n Shared \n Goodness\n2021 ESG REPORT\n\n--- PAGE 2 ---\nWelcome to Our \n2021 ESG Report \nHershey’s purpose is to “Make More Moments \nof Goodness” for our consumers for many \nge"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ers, customers and \nexternal stakeholders, protect the environment \nand support children and youth.\n2021 was a testament to the fortitude and \nperseverance of The Hershey Company, \nallowing us to ultimate"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ed: we are stronger together. \nBy putting people first and focusing on what \nmatters most, we ended 2021 stronger and \nready for the future.\n3 \nThe Big Picture \n4 \nA Message From Michele Buck\n5 \nSpotlight"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "stronger and \nready for the future.\n3 \nThe Big Picture \n4 \nA Message From Michele Buck\n5 \nSpotlight 2021 \n6 \nOur ESG Priorities\n7 \n\u0007Progress Against Our Priority Goals\n9 \nAwards and Recognition\n10 \n\u0007Our C"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ople Safe\n65 \n\u0007Providing a Caring Employee Experience\n67 \n\u0007Accelerating DEI Efforts at Hershey \n68 \n2021: Living DEI at Hershey\n69 \nMore Pathways to JOIN\n71 \nMore Pathways to GROW\n73 \nMore Pathways to REA"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ture of Giving Back\n92 \nOur Progress\n93 \nAbout This Report\nWe Are\nHershey \n2 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "-\nthe MCIC kicked off a national \nschedule of customer visits to all channels \nstarting in February 2022.\n3\nThe Hershey Insights \nNetwork (HIN) \nHIN is a virtual platform for Hershey \nto remotely engage w"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "share, transfer \nand dispose of personal information wherever we operate.\n18 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "th Community About This Report\nOur Company\n\n--- PAGE 19 ---\nOur Progress\nKPIs\nFINANCIAL PERFORMANCE\n2021\n2020\n2019\nCountries in which our products are marketed \n80\n85\n85\nNumber of countries in which our p"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "mmunity About This Report\nOur Company\n\n--- PAGE 19 ---\nOur Progress\nKPIs\nFINANCIAL PERFORMANCE\n2021\n2020\n2019\nCountries in which our products are marketed \n80\n85\n85\nNumber of countries in which our produc"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ty About This Report\nOur Company\n\n--- PAGE 19 ---\nOur Progress\nKPIs\nFINANCIAL PERFORMANCE\n2021\n2020\n2019\nCountries in which our products are marketed \n80\n85\n85\nNumber of countries in which our products ar"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": ">80\nWeight of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD SAFETY AND NUTRITION\n2021\n2020\n2019\nRevenue from products labeled and/or marketed to promote health and nutrition attributes"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Weight of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD SAFETY AND NUTRITION\n2021\n2020\n2019\nRevenue from products labeled and/or marketed to promote health and nutrition attributes \n(USD"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD SAFETY AND NUTRITION\n2021\n2020\n2019\nRevenue from products labeled and/or marketed to promote health and nutrition attributes \n(USD in m"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ces in collaboration with partners \nand suppliers.\n48%\nimprovement against \nScope 1 and 2 baseline\n(2020: 28%)\n49 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourc"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nd suppliers.\n48%\nimprovement against \nScope 1 and 2 baseline\n(2020: 28%)\n49 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2030",
+      "unit": "",
+      "page_or_location": "",
+      "context": "committed \nto eliminating commodity-driven deforestation \nfrom all our ingredient supply chains by 2030. \nAs part of this initiative, we are partnering with \nour suppliers to drive improvements throughou"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "y 100% independently verified \ncocoa and to 100% sourcing visibility in Côte \nd’Ivoire and Ghana by 2025 supports our \nefforts in building long-term relationships with \nknown farmer groups, providing reso"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "F0FBC836_CHUNK_0116 page_75 ---\nHershey’s recent acquisitions of Lily’s, Dot’s and Pretzels. \n2 The 2019 female global employee percentage has been restated due to a calculation error. The raw data remain"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "and Human Rights Environment Our People Youth Community About This Report\n75 \nThe Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 76 ---\nKPIs\nGLOBAL WORKFORCE BY AGE1,2\n2021\n2020\n2019\nUnder 30 \nyea"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "The Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 76 ---\nKPIs\nGLOBAL WORKFORCE BY AGE1,2\n2021\n2020\n2019\nUnder 30 \nyears old\n30-50 \nyears old\nOver 50 \nyears old\nUnder 30 \nyears old\n30-50 \nyears"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 76 ---\nKPIs\nGLOBAL WORKFORCE BY AGE1,2\n2021\n2020\n2019\nUnder 30 \nyears old\n30-50 \nyears old\nOver 50 \nyears old\nUnder 30 \nyears old\n30-50 \nyears old\nO"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "hey Company | 2021 ESG Report\nOur People\n\n--- PAGE 76 ---\nKPIs\nGLOBAL WORKFORCE BY AGE1,2\n2021\n2020\n2019\nUnder 30 \nyears old\n30-50 \nyears old\nOver 50 \nyears old\nUnder 30 \nyears old\n30-50 \nyears old\nOver 5"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "team3 \n0.0%\n44.4%\n55.6%\n0.0%\n45.5%\n54.6%\n0.0%\n35.7%\n64.3%\n1 \nThis employee data (as of December 31, 2021) does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\n2 Data may not equal"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ncludes employees who report to Hershey’s CEO, including the CEO.\nU.S. WORKFORCE BY RACE/ETHNICITY5\n2021\n2020\n2019\nU.S. workforce, Total POC\n24.6%\n21.4% \n20.1% \nPOC - Female\n25.1%\n21.2%\n20.3%\nPOC - Male\n2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "es employees who report to Hershey’s CEO, including the CEO.\nU.S. WORKFORCE BY RACE/ETHNICITY5\n2021\n2020\n2019\nU.S. workforce, Total POC\n24.6%\n21.4% \n20.1% \nPOC - Female\n25.1%\n21.2%\n20.3%\nPOC - Male\n24.2%"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ployees who report to Hershey’s CEO, including the CEO.\nU.S. WORKFORCE BY RACE/ETHNICITY5\n2021\n2020\n2019\nU.S. workforce, Total POC\n24.6%\n21.4% \n20.1% \nPOC - Female\n25.1%\n21.2%\n20.3%\nPOC - Male\n24.2%\n21.5%"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ercentages are based on employee self-identification in Hershey’s HR data system as of December 31, 2021. This employee data does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "recent acquisitions of Lily’s, Dot’s and Pretzels.\nU.S. WORKFORCE BY HERSHEY INTERNAL JOB CATEGORY4\n2021\nFEMALE\nPOC\nExecutives/senior leaders \n32.2% \n17.3% \nEntry-level professional employees \n46.5% \n18.0"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "and Human Rights Environment Our People Youth Community About This Report\n76 \nThe Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 77 ---\nKPIs\nU.S. NON-MANAGEMENT1\n2021\n2020\n2019\nTotal non-managemen"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ort\n76 \nThe Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 77 ---\nKPIs\nU.S. NON-MANAGEMENT1\n2021\n2020\n2019\nTotal non-management as percentage of total workforce\n87.0%\n88.3%\n87.8%\nNon-management –"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6 \nThe Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 77 ---\nKPIs\nU.S. NON-MANAGEMENT1\n2021\n2020\n2019\nTotal non-management as percentage of total workforce\n87.0%\n88.3%\n87.8%\nNon-management – Femal"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e Hershey Company | 2021 ESG Report\nOur People\n\n--- PAGE 77 ---\nKPIs\nU.S. NON-MANAGEMENT1\n2021\n2020\n2019\nTotal non-management as percentage of total workforce\n87.0%\n88.3%\n87.8%\nNon-management – Female\n49."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ercentages are based on employee self-identification in Hershey’s HR data system as of December 31, 2021. This employee data does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ta does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU.S. MANAGEMENT2,3\n2021\n2020\n2019\nTotal management as percentage of total workforce\n13.0%\n11.7%\n12.2%\nManagement – Female\n3"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "es not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU.S. MANAGEMENT2,3\n2021\n2020\n2019\nTotal management as percentage of total workforce\n13.0%\n11.7%\n12.2%\nManagement – Female\n37.7%"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU.S. MANAGEMENT2,3\n2021\n2020\n2019\nTotal management as percentage of total workforce\n13.0%\n11.7%\n12.2%\nManagement – Female\n37.7%\n37.4%"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ercentages are based on employee self-identification in Hershey’s HR data system as of December 31, 2021. This employee data does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nT"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$8,971",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ctured\n6\n6\n6\nManufacturing facilities: wholly owned/joint ventures \n15\n14\n15/1\nConsolidated net sales (USD in millions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$8,150",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6\n6\n6\nManufacturing facilities: wholly owned/joint ventures \n15\n14\n15/1\nConsolidated net sales (USD in millions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$7,986",
+      "unit": "",
+      "page_or_location": "",
+      "context": "anufacturing facilities: wholly owned/joint ventures \n15\n14\n15/1\nConsolidated net sales (USD in millions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (U"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$7.19",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(USD in millions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$6.29",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n millions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5.78",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$275.2",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rn\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$215.5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$238.1",
+      "unit": "",
+      "page_or_location": "",
+      "context": "%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$924",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of br"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$863",
+      "unit": "",
+      "page_or_location": "",
+      "context": "$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of brands"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$834",
+      "unit": "",
+      "page_or_location": "",
+      "context": "9 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of brands \n>100"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$40.1",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ayroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of brands \n>100 \n>90\n>80\nWeight of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD S"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$37.6",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of brands \n>100 \n>90\n>80\nWeight of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD SAFETY"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$37.1",
+      "unit": "",
+      "page_or_location": "",
+      "context": "in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of brands \n>100 \n>90\n>80\nWeight of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD SAFETY AND NU"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$644.4",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2020\n2019\nRevenue from products labeled and/or marketed to promote health and nutrition attributes \n(USD in millions)2\n$644.4\n$520.8\n$432.3\n2 \u0007These values represent revenue from our snacks portfolio, which includes ready-to-eat popcorn with no"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$520.8",
+      "unit": "",
+      "page_or_location": "",
+      "context": "019\nRevenue from products labeled and/or marketed to promote health and nutrition attributes \n(USD in millions)2\n$644.4\n$520.8\n$432.3\n2 \u0007These values represent revenue from our snacks portfolio, which includes ready-to-eat popcorn with no artific"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$432.3",
+      "unit": "",
+      "page_or_location": "",
+      "context": "enue from products labeled and/or marketed to promote health and nutrition attributes \n(USD in millions)2\n$644.4\n$520.8\n$432.3\n2 \u0007These values represent revenue from our snacks portfolio, which includes ready-to-eat popcorn with no artificial ing"
+    }
+  ],
+  "extracted_dates": [
+    "2021",
+    "2022",
+    "2020",
+    "2019",
+    "2030",
+    "2025"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Marketing Responsibly",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Marketing Responsibly",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Countries in which our products are marketed",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Revenue from products labeled and/or marketed to promote health and nutrition attributes",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 91,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": true
+  }
+}

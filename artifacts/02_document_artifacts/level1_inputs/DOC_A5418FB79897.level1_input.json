@@ -1,0 +1,227 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_A5418FB79897",
+    "file_name": "usda_ams_national_dairy_products_sales_report_latest.pdf",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_national_dairy_products_sales_report_latest.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_national_dairy_products_sales_report_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 417978,
+    "sha256": "6457d403991f3f3bb0bf83051e59b89d6b97224bc0237bcfeb8f77394a737344"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 65,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_A5418FB79897.txt",
+    "page_count": 4,
+    "total_text_length": 7169,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_001.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_002.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_003.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_004.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_A5418FB79897_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 75,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "market",
+            "per pound",
+            "cents",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [
+          "$1.72",
+          "$1.65",
+          "$2.02",
+          "3.0 cents",
+          "63.5 cents",
+          "15.1 cents",
+          "1.72 per pound",
+          "1.65 per pound",
+          "2.02 per pound"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nNational Dairy\nProducts Sales Report\nUnited States Department of Agriculture\nAgricultural Marketing Service\nDairy Program\nMarket Information Branch\nNDPSR-0733\nMay 6, 2026\nEmail us with accessibility issues regarding \nthis report.\nNational Dairy Products Sales Report Highlights\nButter prices received for 25-kilogram and 68-pound boxes meeting United States Department of Agriculture (USDA) \nGrade AA standards averaged $1.72 per pound for the week ending May 2, 2026. The United States (US) price per \npound decreased 3.0 cents from the previous week.\nCheddar Cheese prices received for 40-pound blocks averaged $1.65 per pound for the week ending May 2, 2026. The \nUS price per pound decreased 0.1 cent from the previous week. \nDry Whey prices received for bag, tote, and tanker sales meeting USDA Extra Grade standards averaged 63.5 cents \nper pound for the week ending May 2, 2026. The US price per pound increased 0.1 cent from the previous week.\nNonfat Dry Milk prices received for bag, tote, and tanker sales meeting USDA Extra Grade or United States Public \nHealth Service (USPHS) Grade A standards averaged $2.02 per pound for the week ending May 2, 2026. The US price \nper pound increased 15.1 cents from the previous week.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted Price\n1.8136\n1.7696\n*1.7494\n*1.7450\n1.7152\n(pounds)\nSales\n6,504,767\n6,847,684\n*6,647,985\n*5,357,710\n3,875,503\n*Revised"
+    },
+    {
+      "chunk_id": "DOC_A5418FB79897_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 23,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "market",
+            "per pound"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "week.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted Price\n1.8136\n1.7696\n*1.7494\n*1.7450\n1.7152\n(pounds)\nSales\n6,504,767\n6,847,684\n*6,647,985\n*5,357,710\n3,875,503\n*Revised\n\n\n--- PAGE 2 ---\nNational Dairy Products Sales Report\nUSDA - Agricultural Marketing Service\nMay 6, 2026\n40-Pound Block Cheddar Cheese Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted Price\n*1.6217\n1.6487\n1.6563\n*1.6466\n1.6452\n(pounds)\nSales\n*11,914,671\n9,756,976\n9,999,541\n*9,820,956\n9,891,894\n*Revised\nDry Whey Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted Price\n0.6553\n0.6458\n*0.6501\n*0.6342\n0.6353\n(pounds)\nSales\n6,572,997\n7,127,795\n*8,254,884\n*11,271,048\n9,513,147\n*Revised\nNonfat Dry Milk Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted Price\n1.6832\n*1.7230\n*1.8270\n*1.8708\n2.0222\n(pounds)\nSales\n*21,634,914\n*21,506,691\n*19,891,846\n*25,328,965\n15,254,657\n*Revised\nNDPSR-0733\nPage 2\n\n\n--- PAGE 3 ---\nNational Dairy Products Sales Report\nUSDA - Agricultural Marketing Service\nMay 6, 2026\nSurvey Methodology: National Dairy Products Sales Report \nData collection: The National Dairy Products Sales Report (NDPSR) is based on survey data collected after \nSaturday of each week. Reporting entities are required to submit sales information in the electronic Dairy Product \nMandatory Reporting System (DPMRS) system generally by noon on Tuesday of the following week.\nParticipants: The NDPSR consists of 63 reporting entities selling one million pounds or more of dairy products as \ndefined by statute (7 USC 1637b). There are 17 entities reporting 40-pound cheddar blocks, 15 entities reporting \nbutter, 18 entities reporting nonfat dry milk, and 13 entities reporting dry whey.\nTerms and definitions: Participating manufacturers complete the weekly online questionnaires using definitions \nfrom the program regulations (7 CFR 1170), instructions provided during the Annual Validation Interview, and \nreporting specifications listed on the questionnaire. See also q"
+    },
+    {
+      "chunk_id": "DOC_A5418FB79897_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_3",
+      "signal_score": 12,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "80%"
+        ],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "ing dry whey.\nTerms and definitions: Participating manufacturers complete the weekly online questionnaires using definitions \nfrom the program regulations (7 CFR 1170), instructions provided during the Annual Validation Interview, and \nreporting specifications listed on the questionnaire. See also questions and answers published at: \nhttp://www.ams.usda.gov/rules-regulations/mmr/dmr\nThe sales information included in the NDPSR is collected for all qualifying manufacturers of the following \nproducts:\n•\nSalted butter (80% butterfat), fresh or storage, in 25-kilogram and 68-pound boxes meeting USDA Grade \nAA standards.\n•\nCheddar cheese in 40-pound blocks, colored between 6 and 8 on the National Cheese Institute color chart, \nmeeting Wisconsin State Brand, USDA Grade A, or better standards.\n•\nEdible non-hygroscopic dry whey in 25-kilogram bags, 50-pound bags, totes, and tankers meeting USDA \nExtra Grade standards.\n•\nNon-fortified, nonfat dry milk in 25-kilogram bags, 50-pound bags, totes, and tankers meeting USDA Extra \nGrade or USPH Grade A standards.\nReliability: All reported sales information is required to be made available to USDA upon request. The reported \nsales information includes original contracts, agreements, receipts, and other records associated with the sale of \nqualified dairy products during the two-year period beginning on the date of the creation of the sales report.\nReport Aggregation: Sales information reported by manufacturers is reviewed for reasonableness and consistency \nby comparing data reported in prior weeks to data reported by other firms in their region and national trends. \nDuring weekly reviews AMS contacts manufacturers to verify any unusual data relationships and, in some cases, \nuses on-site verification to ensure accurate information.\nRevisions: The NDPSR is subject to revisions to the previous four weeks.\nNDPSR-0733\nPage 3"
+    },
+    {
+      "chunk_id": "DOC_A5418FB79897_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_3",
+      "signal_score": 18,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "delivery"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "s in their region and national trends. \nDuring weekly reviews AMS contacts manufacturers to verify any unusual data relationships and, in some cases, \nuses on-site verification to ensure accurate information.\nRevisions: The NDPSR is subject to revisions to the previous four weeks.\nNDPSR-0733\nPage 3\n\n\n--- PAGE 4 ---\nNational Dairy Products Sales Report\nUSDA - Agricultural Marketing Service\nMay 6, 2026\nInformation Contacts\nListed below are the specialists in the Agricultural Marketing Service, Dairy Program, Market Information Branch to \ncontact for additional information. E-mail inquiries may be sent to dpp@usda.gov.\nLorie Cashman \nEconomics Division Director\n(202) 313-2702\nDairy Product Mandatory Reporting Program\nHripsime Tamrazyan\nJoshua McNeff\nDairy Products Marketing Specialist, Coordinator\nDairy Products Marketing Specialist\n(202) 260-8953\n(202) 937-4934\nAlexis Alexander\nBradley Vierra\nDairy Products Marketing Specialist\nDairy Products Marketing Specialist\n(202) 799-7296\n(940) 245-8963\nFederal Milk Order Information Program\nJoshua McNeff\nHripsime Tamrazyan\nDairy Products Marketing Specialist, Coordinator\nDairy Products Marketing Specialist\n(202) 937-4934\n(202) 260-8953\nFor the most current release, visit AMS Dairy Program’s Dairy Product Mandatory Reporting Program's page or Milk \nMarketing Order Statistics page.\nTo receive e-mail notification for Dairy Product Mandatory Reporting Program (DPMRP) reports, please subscribe at this\nwebpage (https://content.govdelivery.com/accounts/USDAAMS/bulletins/3da2b33).\nTo receive e-mail notification for Dairy Product Mandatory Reporting Program (DPMRP) or Federal Milk Marketing \nOrder Statistics (FMMOS) reports, visit My Market News (https://mymarketnews.ams.usda.gov/).\nIn accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices, and \nemployees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national origin, religion, sex, \ndisability, age, marital status, family/parental status, income derived from a public assistance program, political beliefs, or r"
+    },
+    {
+      "chunk_id": "DOC_A5418FB79897_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_4",
+      "signal_score": 4,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "and \nemployees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national origin, religion, sex, \ndisability, age, marital status, family/parental status, income derived from a public assistance program, political beliefs, or reprisal or retaliation for prior civil rights \nactivity, in any program or activity conducted or funded by USDA (not all bases apply to all programs). Remedies and complaint filing deadlines vary by program or \nincident.\nNDPSR-0733\nPage 4"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

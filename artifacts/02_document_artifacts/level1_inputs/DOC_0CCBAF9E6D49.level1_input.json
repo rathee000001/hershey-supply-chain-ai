@@ -1,0 +1,46 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_0CCBAF9E6D49",
+    "file_name": "ASR_Group_logo.svg",
+    "relative_path": "03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+    "packet": "sugar",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "file_extension": ".svg",
+    "file_size_bytes": 3575,
+    "sha256": "681b60b3b1946a30edd2aed781e6a05b1d21aa3c8409472b1cf27dcea5d7004e"
+  },
+  "ai_input_mode": "visual_asset_only",
+  "priority_score": 30,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": null,
+    "page_count": null,
+    "total_text_length": 0,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_0CCBAF9E6D49/ASR_Group_logo.svg",
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": [
+    "This source needs visual/manual/vision review because text extraction is weak or the file is image-based.",
+    "Visual asset only. Logo/image does not prove supplier relationship."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_FD5AB5AB5E8F",
+  "file_name": "icco_cocoa_statistics_page.pdf",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/price_benchmarks/icco_cocoa_statistics_page.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:25",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_FD5AB5AB5E8F.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FD5AB5AB5E8F/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

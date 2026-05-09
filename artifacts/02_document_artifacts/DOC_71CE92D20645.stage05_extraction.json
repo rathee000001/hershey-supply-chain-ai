@@ -1,0 +1,62 @@
+{
+  "doc_id": "DOC_71CE92D20645",
+  "file_name": "hershey_distribution_center_logistics_reference.pdf",
+  "relative_path": "04_logistics_distribution/00_hershey_distribution_evidence/hershey_distribution_center_logistics_reference.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "evidence_role": "direct_company_evidence",
+  "extracted_at": "2026-05-06T19:57:07",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_71CE92D20645.txt",
+      "page_count": 7,
+      "total_text_length": 122,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        },
+        {
+          "page": 2,
+          "text_length": 0
+        },
+        {
+          "page": 3,
+          "text_length": 0
+        },
+        {
+          "page": 4,
+          "text_length": 0
+        },
+        {
+          "page": 5,
+          "text_length": 0
+        },
+        {
+          "page": 6,
+          "text_length": 0
+        },
+        {
+          "page": 7,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_004.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_005.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_006.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_007.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

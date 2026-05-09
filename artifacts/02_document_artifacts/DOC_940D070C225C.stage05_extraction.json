@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_940D070C225C",
+  "file_name": "bls_warehousing_storage_ppi_benchmark.pdf",
+  "relative_path": "04_logistics_distribution/02_warehousing_cost_benchmarks/bls_warehousing_storage_ppi_benchmark.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:57:11",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_940D070C225C.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_940D070C225C/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

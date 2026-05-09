@@ -1,0 +1,682 @@
+{
+  "doc_id": "DOC_DC5C9E72C77A",
+  "file_name": "land_o_lakes_2025_annual_report.pdf",
+  "source_owner": "Land O'Lakes",
+  "document_title": "Land O Lakes 2025 Annual Report",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for land_o_lakes_2025_annual_report.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: supplier_relationship_context. Input mode: text_plus_page_images. Detected entities/stages include: The Hershey Company, Land O'Lakes, USDA ERS, USDA AMS, Chocolate, Milk, Skim Milk, ingredient sourcing.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_7",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_12",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 13",
+      "page_or_location": "page_23",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 19",
+      "page_or_location": "page_31",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "The Hershey Company",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: the hershey company"
+    },
+    {
+      "entity_name": "Land O'Lakes",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: land o'lakes"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: skim milk"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: supplier"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: retail"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "use \nwhen we support each other and our \ncommunities, we all move forward together.\n\n--- PAGE 4 ---\n2025 ANNUAL REPORT\n 2 | \nBY THE NUMBERS\n4\nMOMENTS OF \nCOOPERATIVE \nSTRENGTH\n8\nCONTENTS\nA LETTER TO OUR"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "36\nLEADERSHIP\n40\nCO-OP VOICES\n44\nBUSINESS \nPERFORMANCE\n12\nLAND O'LAKES, INC.\n 3 |\n\n--- PAGE 6 ---\n2025 ANNUAL REPORT\n 4 | \nNET SALES\n$16 BILLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "LLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUTS \nPRETAX EARNINGS\n$204 \nMILLION"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "RODUCED PER YEAR\n50% \nU.S. HARVESTED ACRES TOUCHED\n100 MILLION \nANIMALS FED PER DAY\n\n--- PAGE 8 ---\n2025 ANNUAL REPORT\n 6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |\n\n--- DOC_DC5C9E72C77A"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ION \nANIMALS FED PER DAY\n\n--- PAGE 8 ---\n2025 ANNUAL REPORT\n 6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |\n\n--- DOC_DC5C9E72C77A_CHUNK_0002 page_7 ---\nTEER HOURS\n$10 MILLION\nIN TOTAL PHIL"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "RODUCED PER YEAR\n50% \nU.S. HARVESTED ACRES TOUCHED\n100 MILLION \nANIMALS FED PER DAY\n\n--- PAGE 8 ---\n2025 ANNUAL REPORT\n 6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |\n\n--- PAGE 9 ---\nLAND"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ION \nANIMALS FED PER DAY\n\n--- PAGE 8 ---\n2025 ANNUAL REPORT\n 6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |\n\n--- PAGE 9 ---\nLAND O'LAKES, INC.\n 7 | LAND O'LAKES, INC.\n 7 | \n \nF\narmers and"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "---\nLAND O'LAKES, INC.\n 7 | LAND O'LAKES, INC.\n 7 | \n \nF\narmers and agricultural businesses \nspent 2025 working through a challeng-\ning environment. But during this time, \nthe resilience of farm families"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ies and one another, and our \nmember-owners’ support led to strong \nresults for our businesses. \nIn 2025, our enterprise approach, paired \nwith your partnership, helped deliver a \nstrong performance of $1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "sales and net earnings of $265 million. \nIn fact, each of our businesses delivered \nahead of their 2025 plans.\nIn Animal Nutrition, 2025 was marked \nby deeper collaboration with dealers and \ncooperatives"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "illion. \nIn fact, each of our businesses delivered \nahead of their 2025 plans.\nIn Animal Nutrition, 2025 was marked \nby deeper collaboration with dealers and \ncooperatives, strengthening long‑standing \npa"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ltichannel development.\nThe Dairy Foods team delivered share \ngrowth in key products like butter in 2025. \nAs demand for products increased, the \nteam capitalized by focusing on the growth \nof the dairy c"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s. \nBeth Ford, President and CEO \nRick Brand, Chairman of the Board\nMEMBER-OWNERS,\n\n--- PAGE 10 ---\n2025 ANNUAL REPORT\n 8 | \nThe agriculture industry has \nhad its share of turbulent \ntimes throughout our"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "COOPERATIVE \nMOMENTS\n\n--- DOC_DC5C9E72C77A_CHUNK_0004 page_9 ---\nd\nMEMBER-OWNERS,\n\n--- PAGE 10 ---\n2025 ANNUAL REPORT\n 8 | \nThe agriculture industry has \nhad its share of turbulent \ntimes throughout our"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1921",
+      "unit": "",
+      "page_or_location": "",
+      "context": "challenges come our way. \n STRENGTH\nCOOPERATIVE \nMOMENTS\n\n--- PAGE 11 ---\nLAND O'LAKES, INC.\n 9 | \n 1921\nTo combat rising costs \nand inconsistent quality of \nbutter, representatives from \n320 Minnesota co"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1930",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e Minnesota \nCooperative Creameries \nAssociation, which would later \nrebrand to Land O’Lakes, Inc. \n1930-1933\nAs the Great Depression deepens, \nwholesale butter prices sink to an \nall-time low. Land O’Lak"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1933",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nesota \nCooperative Creameries \nAssociation, which would later \nrebrand to Land O’Lakes, Inc. \n1930-1933\nAs the Great Depression deepens, \nwholesale butter prices sink to an \nall-time low. Land O’Lakes st"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "akes steps in \nand buys 7 million pounds, helping \nshore up the weakening markets.\n\n--- PAGE 12 ---\n2025 ANNUAL REPORT\n 10 | \n1937-1944\nIn the years leading up to and during \nWorld War II, Land O’Lakes in"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1937",
+      "unit": "",
+      "page_or_location": "",
+      "context": "million pounds, helping \nshore up the weakening markets.\n\n--- PAGE 12 ---\n2025 ANNUAL REPORT\n 10 | \n1937-1944\nIn the years leading up to and during \nWorld War II, Land O’Lakes invests in \nthe manufacturin"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1944",
+      "unit": "",
+      "page_or_location": "",
+      "context": "on pounds, helping \nshore up the weakening markets.\n\n--- PAGE 12 ---\n2025 ANNUAL REPORT\n 10 | \n1937-1944\nIn the years leading up to and during \nWorld War II, Land O’Lakes invests in \nthe manufacturing of"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1944",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r and casein, and \nconverts many of its plants to produce \nwartime essentials for military use. \nBy 1944, Land O’Lakes is the nation’s \nlargest producer of dry milk powder. \n1950\nCongress passes the Marga"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1950",
+      "unit": "",
+      "page_or_location": "",
+      "context": "als for military use. \nBy 1944, Land O’Lakes is the nation’s \nlargest producer of dry milk powder. \n1950\nCongress passes the Margarine Act, \nwhich repeals federal restrictions on \nmargarine coloring, caus"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1970",
+      "unit": "",
+      "page_or_location": "",
+      "context": "y successful marketing \ncampaign that pushes butter sales to an \nall-time high the very next year. \n1970-1987 \nMergers and partnerships with key \nagricultural cooperatives such as Felco \n(1970), Midland C"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1987",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cessful marketing \ncampaign that pushes butter sales to an \nall-time high the very next year. \n1970-1987 \nMergers and partnerships with key \nagricultural cooperatives such as Felco \n(1970), Midland Cooper"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1970",
+      "unit": "",
+      "page_or_location": "",
+      "context": "next year. \n1970-1987 \nMergers and partnerships with key \nagricultural cooperatives such as Felco \n(1970), Midland Cooperatives (1982) and \nCenex (1987) turn Land O’Lakes into a \nhighly diversified organi"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1982",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s and partnerships with key \nagricultural cooperatives such as Felco \n(1970), Midland Cooperatives (1982) and \nCenex (1987) turn Land O’Lakes into a \nhighly diversified organization that helps \ninsulate m"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1987",
+      "unit": "",
+      "page_or_location": "",
+      "context": "with key \nagricultural cooperatives such as Felco \n(1970), Midland Cooperatives (1982) and \nCenex (1987) turn Land O’Lakes into a \nhighly diversified organization that helps \ninsulate members from the wo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1997",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rganization that helps \ninsulate members from the worst effects \nof the 1980s farm economy crisis. \n1997-1998\nMergers with Atlantic Dairy \nCooperative and Dairyman's \nCooperative Creamery Association \nhel"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1998",
+      "unit": "",
+      "page_or_location": "",
+      "context": "zation that helps \ninsulate members from the worst effects \nof the 1980s farm economy crisis. \n1997-1998\nMergers with Atlantic Dairy \nCooperative and Dairyman's \nCooperative Creamery Association \nhelp rei"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1997",
+      "unit": "",
+      "page_or_location": "",
+      "context": "_CHUNK_0005 page_12 ---\ninsulate members from the worst effects \nof the 1980s farm economy crisis. \n1997-1998\nMergers with Atlantic Dairy \nCooperative and Dairyman's \nCooperative Creamery Association \nhel"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1998",
+      "unit": "",
+      "page_or_location": "",
+      "context": "K_0005 page_12 ---\ninsulate members from the worst effects \nof the 1980s farm economy crisis. \n1997-1998\nMergers with Atlantic Dairy \nCooperative and Dairyman's \nCooperative Creamery Association \nhelp rei"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2009",
+      "unit": "",
+      "page_or_location": "",
+      "context": "welcoming member-owners from \nthe East and West Coasts.\n\n--- PAGE 13 ---\nLAND O'LAKES, INC.\n 11 | \n2009 \nA renewed focus on fewer, bigger \nbusiness units helps Land O’Lakes \nreturn a then-record $108 mil"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2017",
+      "unit": "",
+      "page_or_location": "",
+      "context": "urn a then-record $108 million \nto members despite the economic \npressures of the Great Recession. \n2017 \nThe merger of WinField and United \nSuppliers brings together a strong \nportfolio of total agronomi"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "driven \nsolutions to help locally owned \nag retailers compete in an era of \ngrowing consolidation. \n2020 \nWith strained supply chains \naround the world, Land O’Lakes \nis able to keep our plants \noperating"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2001",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nField \nUnited avoided disruptions and \nmaintained owner access to \nproducts amid global shortages.\n2001\nLand O’Lakes acquires the assets for Purina \nMills’ agricultural animal nutrition business, \nstreng"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "-\nestablished Purina® checkerboard brand \nunder a specialized licensing agreement.\n\n--- PAGE 14 ---\n2025 ANNUAL REPORT\n 12 |\n\n--- PAGE 15 ---\nLAND O'LAKES, INC.\n 13 | \nEach of our business units plays a"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nes strong local market insight with world-class \nexpertise to support independent ag retailers. In 2025, \nthe team successfully recovered from the exit of a major \nsupplier, replacing 80% of lost busines"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "m \nand a value proposition that continues to resonate across \nthe Canadian market.\n\n--- PAGE 24 ---\n2025 ANNUAL REPORT\n 22 | \n2025 ANNUAL REPORT\n 22 |\n\n--- PAGE 25 ---\nLAND O'LAKES, INC.\n 23 | \nLand O’Lak"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "that continues to resonate across \nthe Canadian market.\n\n--- PAGE 24 ---\n2025 ANNUAL REPORT\n 22 | \n2025 ANNUAL REPORT\n 22 |\n\n--- PAGE 25 ---\nLAND O'LAKES, INC.\n 23 | \nLand O’Lakes is rooted in the \nbelie"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n has extended \nto thousands of growers nationwide with \nmore than $1 billion in loans approved in \n2025 alone. The program’s flexibility and \nsupport empower both retailers and farmers \nto adapt to local"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r \nfarming operation. Not just for the next \nseason, but for the next generation.”\n\n--- PAGE 32 ---\n2025 ANNUAL REPORT\n 30 | \nEXPANDING RISK MANAGEMENT \nSOLUTIONS AMID VOLATILITY \nGiven the volatility of"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rotection and Forward Contracting programs to safe-\nguard the value of members’ milk production. In 2025, \nthe Member Relations and Global Dairy Ingredients \nteams also worked with The Hershey Company to"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$16",
+      "unit": "",
+      "page_or_location": "",
+      "context": "40\nCO-OP VOICES\n44\nBUSINESS \nPERFORMANCE\n12\nLAND O'LAKES, INC.\n 3 |\n\n--- PAGE 6 ---\n2025 ANNUAL REPORT\n 4 | \nNET SALES\n$16 BILLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBE"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$265",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ESS \nPERFORMANCE\n12\nLAND O'LAKES, INC.\n 3 |\n\n--- PAGE 6 ---\n2025 ANNUAL REPORT\n 4 | \nNET SALES\n$16 BILLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EAR"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$157",
+      "unit": "",
+      "page_or_location": "",
+      "context": "KES, INC.\n 3 |\n\n--- PAGE 6 ---\n2025 ANNUAL REPORT\n 4 | \nNET SALES\n$16 BILLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUT"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$221",
+      "unit": "",
+      "page_or_location": "",
+      "context": "UAL REPORT\n 4 | \nNET SALES\n$16 BILLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUTS \nPRETAX EARNINGS\n$204 \nMILLION\nANIMAL"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$58",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ON\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUTS \nPRETAX EARNINGS\n$204 \nMILLION\nANIMAL NUTRITION \nPRETAX EARNINGS\n$72 \nMILLION\nPerformance\n\n--- PAG"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$204",
+      "unit": "",
+      "page_or_location": "",
+      "context": "9A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUTS \nPRETAX EARNINGS\n$204 \nMILLION\nANIMAL NUTRITION \nPRETAX EARNINGS\n$72 \nMILLION\nPerformance\n\n--- PAGE 7 ---\nLAND O'LAKES, INC.\n 5 | \n842 \nAG RE"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$72",
+      "unit": "",
+      "page_or_location": "",
+      "context": "DAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUTS \nPRETAX EARNINGS\n$204 \nMILLION\nANIMAL NUTRITION \nPRETAX EARNINGS\n$72 \nMILLION\nPerformance\n\n--- PAGE 7 ---\nLAND O'LAKES, INC.\n 5 | \n842 \nAG RETAILERS\n1,129\nDAIRY PRODUCERS\n475\nAG PRODUCERS"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$4.3",
+      "unit": "",
+      "page_or_location": "",
+      "context": "MILLION\nPerformance\n\n--- PAGE 7 ---\nLAND O'LAKES, INC.\n 5 | \n842 \nAG RETAILERS\n1,129\nDAIRY PRODUCERS\n475\nAG PRODUCERS\n$4.3 MILLION\nIN MEMBER-DRIVEN PHILANTHROPY\n5.9 MILLION \nLBS. OF PRODUCT DONATED\n36,200 \nEMPLOYEE VOLUNTEER HOURS\n$10 MILLION"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10",
+      "unit": "",
+      "page_or_location": "",
+      "context": "DUCERS\n$4.3 MILLION\nIN MEMBER-DRIVEN PHILANTHROPY\n5.9 MILLION \nLBS. OF PRODUCT DONATED\n36,200 \nEMPLOYEE VOLUNTEER HOURS\n$10 MILLION\nIN TOTAL PHILANTHROPIC IMPACT\nImpact\nCooperative Reach\nMembership\n13 BILLION \n LBS. OF MILK PRODUCED PER YEAR\n5"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |\n\n--- DOC_DC5C9E72C77A_CHUNK_0002 page_7 ---\nTEER HOURS\n$10 MILLION\nIN TOTAL PHILANTHROPIC IMPACT\nImpact\nCooperative Reach\nMembership\n13 BILLION \n LBS. OF MILK PRODUCED PER YEAR\n5"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$16",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r businesses. \nIn 2025, our enterprise approach, paired \nwith your partnership, helped deliver a \nstrong performance of $16 billion in net \nsales and net earnings of $265 million. \nIn fact, each of our businesses delivered \nahead of their 2025"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$265",
+      "unit": "",
+      "page_or_location": "",
+      "context": "h, paired \nwith your partnership, helped deliver a \nstrong performance of $16 billion in net \nsales and net earnings of $265 million. \nIn fact, each of our businesses delivered \nahead of their 2025 plans.\nIn Animal Nutrition, 2025 was marked \nb"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$72",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nding \npartnerships through practical support and \na shared commitment to serving animal \nowners together, resulting in $72 million \nin pretax earnings. The team streamlined \noperations through major system upgrades \nand cost-saving efforts. T"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$58",
+      "unit": "",
+      "page_or_location": "",
+      "context": "wed \ncontinued strong performance marked \nin part by manufacturing excellence and \nstrong risk management, resulting in $58 \nmillion in pretax earnings.\nOur Crop Inputs business created strong \nvalue for retailers and growers, delivering a \nso"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$204",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rop Inputs business created strong \nvalue for retailers and growers, delivering a \nsolid year-end pretax performance of $204 \nmillion. We improved how we partner by \ndelivering more flexible of\n\n--- DOC_DC5C9E72C77A_CHUNK_0003 page_9 ---\ny manu"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$58",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ble of\n\n--- DOC_DC5C9E72C77A_CHUNK_0003 page_9 ---\ny manufacturing excellence and \nstrong risk management, resulting in $58 \nmillion in pretax earnings.\nOur Crop Inputs business created strong \nvalue for retailers and growers, delivering a \nso"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$204",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rop Inputs business created strong \nvalue for retailers and growers, delivering a \nsolid year-end pretax performance of $204 \nmillion. We improved how we partner by \ndelivering more flexible offers that better \nmatch our owners’ local strategie"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$108",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ND O'LAKES, INC.\n 11 | \n2009 \nA renewed focus on fewer, bigger \nbusiness units helps Land O’Lakes \nreturn a then-record $108 million \nto members despite the economic \npressures of the Great Recession. \n2017 \nThe merger of WinField and United \nS"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$86",
+      "unit": "",
+      "page_or_location": "",
+      "context": "25, \nthe team successfully recovered from the exit of a major \nsupplier, replacing 80% of lost business and delivering \n$86 million in growth through strengthened supplier \npartnerships, post-patent strategies and proprietary \nofferings while"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rything works together.” \nThis spirit of collaboration has extended \nto thousands of growers nationwide with \nmore than $1 billion in loans approved in \n2025 alone. The program’s flexibility and \nsupport empower both retailers and farmers \nto"
+    }
+  ],
+  "extracted_dates": [
+    "2025",
+    "1921",
+    "1930",
+    "1933",
+    "1937",
+    "1944",
+    "1950",
+    "1970",
+    "1987",
+    "1982",
+    "1997",
+    "1998",
+    "2009",
+    "2017",
+    "2020",
+    "2001"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "strong performance of $16 billion in net",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "sales and net earnings of $265 million.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "owners together, resulting in $72 million",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "and cost-saving efforts.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "strong risk management, resulting in $58",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "solid year-end pretax performance of $204",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "strong risk management, resulting in $58",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "solid year-end pretax performance of $204",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "markets sustained strong momentum",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "strong cost management and long-term",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "To combat rising costs",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "wholesale butter prices sink to an",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "shore up the weakening markets.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "creating a highly successful marketing",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "return a then-record $108 million",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "in this competitive market by helping",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "combines strong local market insight with world-class",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "$86 million in growth through strengthened supplier",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "more than $1 billion in loans approved in",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "market swings, disease pressure, or rising",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "costs, farmers draw confidence from the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Given the volatility of agricultural markets, Land O’Lakes",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 87,
+    "selected_chunk_count": 7,
+    "requires_future_ai_or_visual_review": true
+  }
+}

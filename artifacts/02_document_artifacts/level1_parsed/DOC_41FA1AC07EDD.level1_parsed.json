@@ -1,0 +1,33 @@
+{
+  "doc_id": "DOC_41FA1AC07EDD",
+  "file_name": "retail_wholesale_distribution_explanation.pdf",
+  "source_owner": "logistics_distribution",
+  "document_title": "Retail Wholesale Distribution Explanation",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for retail_wholesale_distribution_explanation.pdf. Packet: logistics_distribution. Evidence role: process_or_function_context. Input mode: visual_priority. Detected entities/stages include: none detected.",
+  "useful_for_project": true,
+  "usefulness_score": 7.0,
+  "relevant_sections": [],
+  "extracted_entities": [],
+  "extracted_metrics": [],
+  "extracted_prices": [],
+  "extracted_dates": [],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [
+    "This document should be reviewed with page images or manual inspection before final claims."
+  ],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "visual_priority",
+    "priority_score": 46,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": true
+  }
+}

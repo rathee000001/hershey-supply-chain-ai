@@ -1,0 +1,780 @@
+{
+  "doc_id": "DOC_F976C0BE2B9A",
+  "file_name": "usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Fas Cote Divoire Cocoa Sector Overview 2025",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf. Packet: cocoa_chocolate_cocoa_butter. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: USDA, USDA ERS, EPA, Chocolate, Cocoa, Cocoa Butter, processing, manufacturing.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 9",
+      "page_or_location": "page_5",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 10",
+      "page_or_location": "page_5",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 15",
+      "page_or_location": "page_8",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 16",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 17",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Cocoa Butter",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa butter"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "L U.S. GOVERNMENT POLICY \n \nVoluntary Report – Voluntary - Public Distribution \n \n \nDate: March 07, 2025 \n \n \n \n \n \n \n \n \nReport Number: IV2025-0001 \n \nReport Name: Cote d'Ivoire - Cocoa Sector Overview -"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Report Number: IV2025-0001 \n \nReport Name: Cote d'Ivoire - Cocoa Sector Overview - 2025 \nCountry: Cote d'Ivoire \nPost: Abidjan, Accra \nReport Category: Agricultural Situation, Agriculture"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t Highlights: \nFAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025 \n(October-September) climbing upwards towards 1.8 million metric tons (MMT, improving by over"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "hlights: \nFAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025 \n(October-September) climbing upwards towards 1.8 million metric tons (MMT, improving by over 2 \npe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "er) climbing upwards towards 1.8 million metric tons (MMT, improving by over 2 \npercent from the MY 2023/2024 season’s 1.76 MMT production figure. Press reports point to the MY \n2023/2024 season being 24"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "limbing upwards towards 1.8 million metric tons (MMT, improving by over 2 \npercent from the MY 2023/2024 season’s 1.76 MMT production figure. Press reports point to the MY \n2023/2024 season being 24 perce"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "percent from the MY 2023/2024 season’s 1.76 MMT production figure. Press reports point to the MY \n2023/2024 season being 24 percent down compared to the earlier MY 2022/2023 season’s production of \n2.3"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cent from the MY 2023/2024 season’s 1.76 MMT production figure. Press reports point to the MY \n2023/2024 season being 24 percent down compared to the earlier MY 2022/2023 season’s production of \n2.3 milli"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e. Press reports point to the MY \n2023/2024 season being 24 percent down compared to the earlier MY 2022/2023 season’s production of \n2.3 million MT due to poor weather. The MY 2024/2025 cocoa season is f"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ess reports point to the MY \n2023/2024 season being 24 percent down compared to the earlier MY 2022/2023 season’s production of \n2.3 million MT due to poor weather. The MY 2024/2025 cocoa season is facing"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ared to the earlier MY 2022/2023 season’s production of \n2.3 million MT due to poor weather. The MY 2024/2025 cocoa season is facing challenges, that impact \ndomestic production. Heavy rainfall throughout"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "to the earlier MY 2022/2023 season’s production of \n2.3 million MT due to poor weather. The MY 2024/2025 cocoa season is facing challenges, that impact \ndomestic production. Heavy rainfall throughout Sept"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "acing challenges, that impact \ndomestic production. Heavy rainfall throughout September and October 2024, facilitated the spread of \nbrown rot fungal disease (attributed to the fungus Phytophthora megakar"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ountry’s western and \nsouthwestern production regions, potentially affecting yields. Since December 2024 and now into \nFebruary 2025, Harmattan winds with a lack of suboptimal rainfall is raising concerns"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "estern production regions, potentially affecting yields. Since December 2024 and now into \nFebruary 2025, Harmattan winds with a lack of suboptimal rainfall is raising concerns with cocoa \nfarmers, who fe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "---\ny’s western and \nsouthwestern production regions, potentially affecting yields. Since December 2024 and now into \nFebruary 2025, Harmattan winds with a lack of suboptimal rainfall is raising concerns"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "estern production regions, potentially affecting yields. Since December 2024 and now into \nFebruary 2025, Harmattan winds with a lack of suboptimal rainfall is raising concerns with cocoa \nfarmers, who fe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "d cosmetics \n \nFAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025 \n(October-September) climbing upwards towards the 1.8 million metric tons (MMT) mark, improvin"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "metics \n \nFAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025 \n(October-September) climbing upwards towards the 1.8 million metric tons (MMT) mark, improving by"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ds towards the 1.8 million metric tons (MMT) mark, improving by \nover 2 percent from 1.76 MMT in MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 pr"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "wards the 1.8 million metric tons (MMT) mark, improving by \nover 2 percent from 1.76 MMT in MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 product"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s (MMT) mark, improving by \nover 2 percent from 1.76 MMT in MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 production at 2.3 million MT due to adv"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "T) mark, improving by \nover 2 percent from 1.76 MMT in MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 production at 2.3 million MT due to adverse"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "T in MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 production at 2.3 million MT due to adverse weather and \ncrop conditions. \n \nTowards the begin"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 production at 2.3 million MT due to adverse weather and \ncrop conditions. \n \nTowards the beginning"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rds the beginning of the current season, the Government of Côte d’Ivoire’s forecast figures for MY \n2024/2025 cocoa bean production were between 2.1 to 2.2 MMT, representing an increase of 25 percent \ncom"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "he beginning of the current season, the Government of Côte d’Ivoire’s forecast figures for MY \n2024/2025 cocoa bean production were between 2.1 to 2.2 MMT, representing an increase of 25 percent \ncompared"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "us season. Influencing the rosier outlook then were cocoa exports rising by 35 \npercent in December 2024, compared to the same period the previous year. \n \nAlthough MY 2024/2025 forecasts were initially m"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "sing by 35 \npercent in December 2024, compared to the same period the previous year. \n \nAlthough MY 2024/2025 forecasts were initially more optimistic, as the season is progressing the crop \nis entering a"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "by 35 \npercent in December 2024, compared to the same period the previous year. \n \nAlthough MY 2024/2025 forecasts were initially more optimistic, as the season is progressing the crop \nis entering a peri"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "quer-sa-production-a-2-millions-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1960",
+      "unit": "",
+      "page_or_location": "",
+      "context": "oduction-a-2-millions-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1962",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ion-a-2-millions-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1964",
+      "unit": "",
+      "page_or_location": "",
+      "context": "-2-millions-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1966",
+      "unit": "",
+      "page_or_location": "",
+      "context": "llions-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1968",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1970",
+      "unit": "",
+      "page_or_location": "",
+      "context": "-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1972",
+      "unit": "",
+      "page_or_location": "",
+      "context": "es/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1974",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1976",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1978",
+      "unit": "",
+      "page_or_location": "",
+      "context": "600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": "800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1982",
+      "unit": "",
+      "page_or_location": "",
+      "context": "000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCO"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1984",
+      "unit": "",
+      "page_or_location": "",
+      "context": "200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRI"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1986",
+      "unit": "",
+      "page_or_location": "",
+      "context": "400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (F"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1988",
+      "unit": "",
+      "page_or_location": "",
+      "context": "600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/K"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1990",
+      "unit": "",
+      "page_or_location": "",
+      "context": "500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/KG)\nCO"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1992",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/KG)\nCOCOA P"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/KG)\nCOCOA PRODUC"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1996",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/KG)\nCOCOA PRODUCTION"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10,000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ther conditions in West Africa’s top \nproducer Côte d’Ivoire have influenced cocoa futures markets; keeping these above $10,000/MT. More \nrecently, with heavy rains returning of late, Ivorian cocoa bean farmers are hopeful that improved \n \n12 Coco"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10,092",
+      "unit": "",
+      "page_or_location": "",
+      "context": "25, has led to a \nsignificant rise in cocoa prices on international markets. On December 6, 2024, cocoa prices reached \n$10,092/MT, the highest level since June of the same year. The increase highlights market concerns over \nglobal supply, particu"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.36",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rldwide. In calendar year (CY) 2024 (January-December), U.S. exports \nof chocolate and cocoa products to the world were $2.36 billion. Between 2015 and 2024, U.S. exports \nhad a compound average growth rate of 3.1 percent, with a three-year aver"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.04",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n. Between 2015 and 2024, U.S. exports \nhad a compound average growth rate of 3.1 percent, with a three-year average of $2.04 billion. By \nvolume, U.S. exports in CY 2024, hit 421,848 MT. \n \nChart 3: United States, Top 10 Chocolate and Cocoa Pro"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.36",
+      "unit": "",
+      "page_or_location": "",
+      "context": "AS, Chocolate and Cocoa Products. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "roducts increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$362.6",
+      "unit": "",
+      "page_or_location": "",
+      "context": "o $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \n \n13 See,"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$60.9",
+      "unit": "",
+      "page_or_location": "",
+      "context": "clude: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \n \n13 See, Confectionary News, “Everything You Need to Know About Cocoa f"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$60.9",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ou-need-to-know-about-cocoa-for-the-year-ahead/.\n\n--- DOC_F976C0BE2B9A_CHUNK_0017 page_9 ---\nrecord high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \n \n13 See, Confectionary News, “Everything You Need to Know About Cocoa f"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "le 2: United States, Top 10 Chocolate and Cocao Export Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$362.64",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0 Chocolate and Cocao Export Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$60.97",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustrali"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$51.89",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$51.44",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$49.56",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Mil"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$46.89",
+      "unit": "",
+      "page_or_location": "",
+      "context": "llion \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Ac"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$38.55",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office resear"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$36.15",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office research. \n \nImports: FAS Abidjan, Accra"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$28.5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office research. \n \nImports: FAS Abidjan, Accra is not tracking Côte d’Iv"
+    }
+  ],
+  "extracted_dates": [
+    "2025",
+    "2024",
+    "2023",
+    "2022",
+    "2000",
+    "1960",
+    "1962",
+    "1964",
+    "1966",
+    "1968",
+    "1970",
+    "1972",
+    "1974",
+    "1976",
+    "1978",
+    "1980",
+    "1982",
+    "1984",
+    "1986",
+    "1988",
+    "1990",
+    "1992",
+    "1994",
+    "1996",
+    "1998",
+    "2003",
+    "2005",
+    "2007",
+    "2009",
+    "2011"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "FAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "FAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "COCOA PRICE (FCFA/KG)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Cocoa Price (FCFA/KG)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "COCOA PRICE (FCFA/KG)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Cocoa Price (FCFA/KG)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "producer Côte d’Ivoire have influenced cocoa futures markets; keeping these above $10,000/MT.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "significant rise in cocoa prices on international markets.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "On December 6, 2024, cocoa prices reached",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "$10,092/MT, the highest level since June of the same year.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The increase highlights market concerns over",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "market is becoming more volatile, further disruptions have the potential to drive prices upwards.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "market is becoming more volatile, further disruptions have the potential to drive prices upwards.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "of chocolate and cocoa products to the world were $2.36 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "had a compound average growth rate of 3.1 percent, with a three-year average of $2.04 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Chart 3: United States, Top 10 Chocolate and Cocoa Products Export Markets by Year",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "exports of chocolate products increased by nearly 24.5 percent to $2.36 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "record high); and Vietnam ($60.9 million, up 18 percent and a",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Table 2: United States, Top 10 Chocolate and Cocao Export Markets by Value (2024)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Cocoa Market and Regulatory Framework: The Coffee-Cocoa Council is the government body",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "It oversees several key functions, including setting farm-gate prices",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Market interactions occur at different levels:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Producers and cooperatives: Cooperatives help farmers access better market opportunities and",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "secure higher prices.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "or international markets.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Private actors and CCC: The Coffee-Cocoa Council regulates prices and ensures export",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "compliance to maintain market stability.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "played an activist role in setting cocoa prices",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_only",
+    "priority_score": 67,
+    "selected_chunk_count": 7,
+    "requires_future_ai_or_visual_review": false
+  }
+}

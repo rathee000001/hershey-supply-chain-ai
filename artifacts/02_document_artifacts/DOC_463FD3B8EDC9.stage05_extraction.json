@@ -1,0 +1,24 @@
+{
+  "doc_id": "DOC_463FD3B8EDC9",
+  "file_name": "Hershey Front.webp",
+  "relative_path": "01_product_sku_1_55oz/wrapper_front/Hershey Front.webp",
+  "packet": "product_sku_1_55oz",
+  "document_type": "image_or_logo",
+  "evidence_role": "direct_company_evidence",
+  "extracted_at": "2026-05-06T19:56:19",
+  "extraction": {
+    "image": {
+      "extractor": "pillow_metadata_or_file_copy",
+      "copied_asset_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_463FD3B8EDC9/Hershey Front.webp",
+      "width": 908,
+      "height": 908,
+      "format": "WEBP",
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "Image/logo copied and metadata captured. Use later vision/manual review for factual extraction."
+  ]
+}

@@ -1,0 +1,398 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_DC5C9E72C77A",
+    "file_name": "land_o_lakes_2025_annual_report.pdf",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/01_land_o_lakes_supplier_evidence/land_o_lakes_2025_annual_report.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/01_land_o_lakes_supplier_evidence/land_o_lakes_2025_annual_report.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 29188632,
+    "sha256": "5004caa2c2d295d11ddd7d992c9a1490379eacaa5fa4e007ec7f5bc8d61f6609"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 87,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_DC5C9E72C77A.txt",
+    "page_count": 48,
+    "total_text_length": 44859,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_001.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_002.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_008.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_014.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_024.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 73,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [
+            "member-owner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "$"
+          ],
+          "manufacturing": [
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Land O'Lakes"
+        ],
+        "candidate_price_mentions": [
+          "$16",
+          "$265",
+          "$157",
+          "$221",
+          "$58",
+          "$204",
+          "$72",
+          "$4.3",
+          "$10"
+        ],
+        "candidate_percentages": [
+          "50%"
+        ],
+        "candidate_years": [
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nA N N U A L R E P O R T \n2 0 2 5\n\n\n--- PAGE 2 ---\n\n\n--- PAGE 3 ---\nLAND O'LAKES, INC.\n 1 | \nLAND O’LAKES, INC. HAS BEEN WORKING \nALONGSIDE OUR MEMBER-OWNERS FOR \nMORE THAN 100 YEARS.\nOver that time, we’ve seen the ups and \ndowns of the agriculture industry, but \nthrough it all we have held firm in our belief \nthat our cooperative approach helps us \nadapt and thrive. This resilience is more \nimportant than ever as America’s food \nsystem and farm families navigate an \nunpredictable economic environment. \nWe know the stakes are high, and we have \nto meet the moment. At Land O’Lakes, we \nbelieve the solution is rooted in thinking \nand acting cooperatively. We are in it \ntogether, from the farm to the plant, and \nfrom the field to the boardroom. Because \nwhen we support each other and our \ncommunities, we all move forward together.\n\n\n--- PAGE 4 ---\n2025 ANNUAL REPORT\n 2 | \nBY THE NUMBERS\n4\nMOMENTS OF \nCOOPERATIVE \nSTRENGTH\n8\nCONTENTS\nA LETTER TO OUR \nMEMBER-OWNERS \n6\n\n\n--- PAGE 5 ---\nLAND O'LAKES, INC.\n 3 | \nAT THE FOREFRONT \nOF GROWTH AND \nINNOVATION\n24\nBUILDING STABILITY \nAND RESILIENCE \n28\nADVOCATING \nFOR THE FUTURE \n32\nSHOWING UP \nWHEN IT MATTERS \n36\nLEADERSHIP\n40\nCO-OP VOICES\n44\nBUSINESS \nPERFORMANCE\n12\nLAND O'LAKES, INC.\n 3 |\n\n\n--- PAGE 6 ---\n2025 ANNUAL REPORT\n 4 | \nNET SALES\n$16 BILLION\nNET EARNINGS\n$265 MILLION\nCASH TO MEMBERS\n$157 MILLION\nSECTION 199A PASS-THROUGH\n$221 MILLION\n2025 BY THE NUMBERS\nDAIRY FOODS \nPRETAX EARNINGS\n$58 \nMILLION\nCROP INPUTS \nPRETAX EARNINGS\n$204 \nMILLION\nANIMAL NUTRITION \nPRETAX EARNINGS\n$72 \nMILLION\nPerformance\n\n\n--- PAGE 7 ---\nLAND O'LAKES, INC.\n 5 | \n842 \nAG RETAILERS\n1,129\nDAIRY PRODUCERS\n475\nAG PRODUCERS\n$4.3 MILLION\nIN MEMBER-DRIVEN PHILANTHROPY\n5.9 MILLION \nLBS. OF PRODUCT DONATED\n36,200 \nEMPLOYEE VOLUNTEER HOURS\n$10 MILLION\nIN TOTAL PHILANTHROPIC IMPACT\nImpact\nCooperative Reach\nMembership\n13 BILLION \n LBS. OF MILK PRODUCED PER YEAR\n50% \nU.S. HARVESTED ACRES TOUCHED\n100 MILLION \nANIMALS FED PER DAY\n\n\n--- PAGE 8 ---\n2025 ANNUAL REPORT\n 6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |"
+    },
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_7",
+      "signal_score": 70,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "serving"
+          ],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [
+            "partner",
+            "partnership",
+            "member-owner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "cost",
+            "$"
+          ],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Land O'Lakes"
+        ],
+        "candidate_price_mentions": [
+          "$10",
+          "$16",
+          "$265",
+          "$72",
+          "$58",
+          "$204"
+        ],
+        "candidate_percentages": [
+          "50%"
+        ],
+        "candidate_years": [
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "TEER HOURS\n$10 MILLION\nIN TOTAL PHILANTHROPIC IMPACT\nImpact\nCooperative Reach\nMembership\n13 BILLION \n LBS. OF MILK PRODUCED PER YEAR\n50% \nU.S. HARVESTED ACRES TOUCHED\n100 MILLION \nANIMALS FED PER DAY\n\n\n--- PAGE 8 ---\n2025 ANNUAL REPORT\n 6 | \n— A LETTER TO OUR MEMBER-OWNERS —\n2025 ANNUAL REPORT\n 6 |\n\n\n--- PAGE 9 ---\nLAND O'LAKES, INC.\n 7 | LAND O'LAKES, INC.\n 7 | \n \nF\narmers and agricultural businesses \nspent 2025 working through a challeng-\ning environment. But during this time, \nthe resilience of farm families and the \nvalue of the cooperative system were once \nagain apparent. As the year unfolded, Land \nO’Lakes led a national conversation around \nfarm economics, we continued to help our \ncommunities and one another, and our \nmember-owners’ support led to strong \nresults for our businesses. \nIn 2025, our enterprise approach, paired \nwith your partnership, helped deliver a \nstrong performance of $16 billion in net \nsales and net earnings of $265 million. \nIn fact, each of our businesses delivered \nahead of their 2025 plans.\nIn Animal Nutrition, 2025 was marked \nby deeper collaboration with dealers and \ncooperatives, strengthening long‑standing \npartnerships through practical support and \na shared commitment to serving animal \nowners together, resulting in $72 million \nin pretax earnings. The team streamlined \noperations through major system upgrades \nand cost-saving efforts. The business also \nbegan the early stages of a strategic shift \nto grow the Purina brand and focus on \nmultichannel development.\nThe Dairy Foods team delivered share \ngrowth in key products like butter in 2025. \nAs demand for products increased, the \nteam capitalized by focusing on the growth \nof the dairy case cheese portfolio and by \nlaunching a series of collaborations to \nstrengthen both brand engagement and \ncommunity impact. The business showed \ncontinued strong performance marked \nin part by manufacturing excellence and \nstrong risk management, resulting in $58 \nmillion in pretax earnings.\nOur Crop Inputs business created strong \nvalue for retailers and growers, delivering a \nsolid year-end pretax performance of $204 \nmillion. We improved how we partner by \ndelivering more flexible of"
+    },
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_9",
+      "signal_score": 38,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "partner",
+            "member-owner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "cost",
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$58",
+          "$204"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "y manufacturing excellence and \nstrong risk management, resulting in $58 \nmillion in pretax earnings.\nOur Crop Inputs business created strong \nvalue for retailers and growers, delivering a \nsolid year-end pretax performance of $204 \nmillion. We improved how we partner by \ndelivering more flexible offers that better \nmatch our owners’ local strategies while \nensuring they have the benefits available \nthrough WinField United’s scale, insights \nand innovation.\nWe also made progress on our Interna-\ntional growth by adapting to regulatory \nchanges in South Africa and driving propri-\netary volume growth in Canada. Both \nmarkets sustained strong momentum \nthrough disciplined execution and close \nalignment with customer needs. Across \ngeographies, a more unified global model \nstrengthened competitiveness and posi-\ntioned the business for sustainable long- \nterm growth.\nAcross the businesses, we delivered \nstrong cost management and long-term \ngrowth strategy updates.\nOur advocacy in the nation’s capital \nhelped secure a landmark victory for \nagriculture and rural communities when \nSection 199A was made permanent. This \ndecision helped farmers avoid one of the \nlargest potential tax increases in history.\nAs we move forward in a complex \noperating environment, we will continue \nnavigating challenges together. Farmers \nand the cooperative system are resilient, \nand we will continue to work together to \nsupport each other and our industry, as we \nhave for generations. \nBeth Ford, President and CEO \nRick Brand, Chairman of the Board\nMEMBER-OWNERS,\n\n\n--- PAGE 10 ---\n2025 ANNUAL REPORT\n 8 | \nThe agriculture industry has \nhad its share of turbulent \ntimes throughout our 104-year \nhistory, but our cooperative \nmindset and approach have \nhelped us rise to the occasion \nwhen challenges come our way. \n STRENGTH\nCOOPERATIVE \nMOMENTS"
+    },
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_9",
+      "signal_score": 52,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [
+            "partner",
+            "partnership",
+            "member-owner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "cost",
+            "price",
+            "prices",
+            "market"
+          ],
+          "manufacturing": [
+            "manufacturing",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Land O'Lakes"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2025",
+          "1921",
+          "1930",
+          "1933",
+          "1937",
+          "1944",
+          "1950",
+          "1970",
+          "1987",
+          "1982",
+          "1997",
+          "1998"
+        ],
+        "candidate_units": []
+      },
+      "text": "d\nMEMBER-OWNERS,\n\n\n--- PAGE 10 ---\n2025 ANNUAL REPORT\n 8 | \nThe agriculture industry has \nhad its share of turbulent \ntimes throughout our 104-year \nhistory, but our cooperative \nmindset and approach have \nhelped us rise to the occasion \nwhen challenges come our way. \n STRENGTH\nCOOPERATIVE \nMOMENTS\n\n\n--- PAGE 11 ---\nLAND O'LAKES, INC.\n 9 | \n 1921\nTo combat rising costs \nand inconsistent quality of \nbutter, representatives from \n320 Minnesota cooperative \ncreameries form the Minnesota \nCooperative Creameries \nAssociation, which would later \nrebrand to Land O’Lakes, Inc. \n1930-1933\nAs the Great Depression deepens, \nwholesale butter prices sink to an \nall-time low. Land O’Lakes steps in \nand buys 7 million pounds, helping \nshore up the weakening markets.\n\n\n--- PAGE 12 ---\n2025 ANNUAL REPORT\n 10 | \n1937-1944\nIn the years leading up to and during \nWorld War II, Land O’Lakes invests in \nthe manufacturing of skim milk powder, \nbuttermilk powder and casein, and \nconverts many of its plants to produce \nwartime essentials for military use. \nBy 1944, Land O’Lakes is the nation’s \nlargest producer of dry milk powder. \n1950\nCongress passes the Margarine Act, \nwhich repeals federal restrictions on \nmargarine coloring, causing a decline in \nbutter sales. Land O'Lakes responds by \ncreating a highly successful marketing \ncampaign that pushes butter sales to an \nall-time high the very next year. \n1970-1987 \nMergers and partnerships with key \nagricultural cooperatives such as Felco \n(1970), Midland Cooperatives (1982) and \nCenex (1987) turn Land O’Lakes into a \nhighly diversified organization that helps \ninsulate members from the worst effects \nof the 1980s farm economy crisis. \n1997-1998\nMergers with Atlantic Dairy \nCooperative and Dairyman's \nCooperative Creamery Association \nhelp reinforce our position as \na national dairy cooperative by \nwelcoming member-owners from \nthe East and West Coasts."
+    },
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_12",
+      "signal_score": 49,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "member-owner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Land O'Lakes"
+        ],
+        "candidate_price_mentions": [
+          "$108"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "1997",
+          "1998",
+          "2009",
+          "2017",
+          "2020",
+          "2001",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "insulate members from the worst effects \nof the 1980s farm economy crisis. \n1997-1998\nMergers with Atlantic Dairy \nCooperative and Dairyman's \nCooperative Creamery Association \nhelp reinforce our position as \na national dairy cooperative by \nwelcoming member-owners from \nthe East and West Coasts.\n\n\n--- PAGE 13 ---\nLAND O'LAKES, INC.\n 11 | \n2009 \nA renewed focus on fewer, bigger \nbusiness units helps Land O’Lakes \nreturn a then-record $108 million \nto members despite the economic \npressures of the Great Recession. \n2017 \nThe merger of WinField and United \nSuppliers brings together a strong \nportfolio of total agronomic \nproducts, services and data-driven \nsolutions to help locally owned \nag retailers compete in an era of \ngrowing consolidation. \n2020 \nWith strained supply chains \naround the world, Land O’Lakes \nis able to keep our plants \noperating and receiving milk \nwhen many could not. WinField \nUnited avoided disruptions and \nmaintained owner access to \nproducts amid global shortages.\n2001\nLand O’Lakes acquires the assets for Purina \nMills’ agricultural animal nutrition business, \nstrengthening the cooperative’s position \nin this competitive market by helping \nscale production while utilizing the well-\nestablished Purina® checkerboard brand \nunder a specialized licensing agreement.\n\n\n--- PAGE 14 ---\n2025 ANNUAL REPORT\n 12 |\n\n\n--- PAGE 15 ---\nLAND O'LAKES, INC.\n 13 | \nEach of our business units plays a \nkey role in keeping the Land O’Lakes \nenterprise strong today and into \nthe future. By working together and \nbuilding on our trusted brands and \nsmart innovation, we stay resilient, \nstand out in the industry and deliver \nreal value for our member-owners, \ncustomers and consumers."
+    },
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0013",
+      "chunk_number": 13,
+      "page_or_section_hint": "page_23",
+      "signal_score": 40,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "supplier",
+            "partner",
+            "partnership",
+            "cooperative"
+          ],
+          "cost_price": [
+            "market",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Land O'Lakes"
+        ],
+        "candidate_price_mentions": [
+          "$86"
+        ],
+        "candidate_percentages": [
+          "80%",
+          "119%",
+          "88%"
+        ],
+        "candidate_years": [
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "cals and regional expansion while \nmaintaining strong operational execution in the \ncore. This disciplined approach helps the business \nmake focused, well-governed investments in the \nfuture, supporting a growth strategy that is both \nambitious and sustainable.\nEXECUTING A RESILIENT GROWTH \nSTRATEGY IN CANADA\nWinField United Canada—like its U.S. counterpart—\ncombines strong local market insight with world-class \nexpertise to support independent ag retailers. In 2025, \nthe team successfully recovered from the exit of a major \nsupplier, replacing 80% of lost business and delivering \n$86 million in growth through strengthened supplier \npartnerships, post-patent strategies and proprietary \nofferings while reinforcing supply chain reliability.\nGrowth was led by exceptional performance in adjuvants, \nwith 119% year-over-year growth driven by the LockTech® \nfamily of products. More than 100 spray clinics reached over \n2,000 farmers and 1,200 retail employees, complemented \nby collaborative engagement at the Innovation Center in \nRiver Falls, Wisconsin. WinField United Canada maintained \nstrong momentum and achieved an Employee Engagement \nscore of 88%, reflecting a resilient, high-performing team \nand a value proposition that continues to resonate across \nthe Canadian market.\n\n\n--- PAGE 24 ---\n2025 ANNUAL REPORT\n 22 | \n2025 ANNUAL REPORT\n 22 |\n\n\n--- PAGE 25 ---\nLAND O'LAKES, INC.\n 23 | \nLand O’Lakes is rooted in the \nbelief that member success \nis our success, and our teams \nwork every day to deliver on \nthat commitment. This includes \nshowing up for our members, \nemployees and their communities \nwhere and when it matters most. \nWhether it’s advocating for the \nag industry, fighting hunger or \ncoming together in times of need, \nour cooperative’s true strength \nlies in working together and \ngiving back."
+    },
+    {
+      "chunk_id": "DOC_DC5C9E72C77A_CHUNK_0019",
+      "chunk_number": 19,
+      "page_or_section_hint": "page_31",
+      "signal_score": 47,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "milk"
+          ],
+          "supplier": [
+            "member-owner",
+            "cooperative"
+          ],
+          "cost_price": [
+            "cost",
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [
+          "$1"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "vestment and really work to \nprotect our corn yields from the worst \nsouthern rust. What I like about SECURE \nFinancing is that you get to work with a \nWinField United agronomist who truly gets \nthat farming is all about looking at the big \npicture and how everything works together.” \nThis spirit of collaboration has extended \nto thousands of growers nationwide with \nmore than $1 billion in loans approved in \n2025 alone. The program’s flexibility and \nsupport empower both retailers and farmers \nto adapt to local needs, while digital and \nin-person resources ensure everyone gets \nnecessary training and information. \nThrough every challenge, whether it's \nmarket swings, disease pressure, or rising \ncosts, farmers draw confidence from the \nunwavering support of their cooperative \ncommunity. \n“[WinField United] brings in the data and \nstands behind the products and services \nthey offer. Then, my ag retailer takes it a \nstep further by testing those things right \nhere, locally,” Terry said. “That’s how we’re \nable to work with Cooperative Farmers \nElevator to make the best decisions for our \nfarming operation. Not just for the next \nseason, but for the next generation.”\n\n\n--- PAGE 32 ---\n2025 ANNUAL REPORT\n 30 | \nEXPANDING RISK MANAGEMENT \nSOLUTIONS AMID VOLATILITY \nGiven the volatility of agricultural markets, Land O’Lakes \nhas been expanding risk management options to support \ndairy and livestock producers. Following a July 1 rule \nchange, we began offering Livestock Risk Management \nto dairy members to help them capitalize on the high \nvalue of beef. These services are also offered through our \nAnimal Nutrition business’ Livestock Risk Services team \nto help a broader network of beef and dairy producers. \nThis livestock offering expands our existing risk \nmanagement toolkit, which includes Dairy Revenue \nProtection and Forward Contracting programs to safe-\nguard the value of members’ milk production. In 2025, \nthe Member Relations and Global Dairy Ingredients \nteams also worked with The Hershey Company to offer a \nunique risk management program for our member-owners \nwho supply milk to the chocolate maker. \nYou don’t know when a storm cloud is going to \nhit and th"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "packet": "hershey_company",
+    "documents": 6,
+    "documents_with_text": 6,
+    "total_chunks": 211,
+    "total_text_length": 365832
+  },
+  {
+    "packet": "product_sku_1_55oz",
+    "documents": 5,
+    "documents_with_text": 1,
+    "total_chunks": 1,
+    "total_text_length": 14
+  },
+  {
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "documents": 16,
+    "documents_with_text": 15,
+    "total_chunks": 591,
+    "total_text_length": 1026639
+  },
+  {
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "documents": 20,
+    "documents_with_text": 19,
+    "total_chunks": 327,
+    "total_text_length": 549147
+  },
+  {
+    "packet": "natural_flavor",
+    "documents": 9,
+    "documents_with_text": 9,
+    "total_chunks": 228,
+    "total_text_length": 375397
+  },
+  {
+    "packet": "packaging_wrapper",
+    "documents": 8,
+    "documents_with_text": 8,
+    "total_chunks": 219,
+    "total_text_length": 380972
+  },
+  {
+    "packet": "pgpr",
+    "documents": 10,
+    "documents_with_text": 10,
+    "total_chunks": 30,
+    "total_text_length": 42471
+  },
+  {
+    "packet": "soy_lecithin",
+    "documents": 7,
+    "documents_with_text": 7,
+    "total_chunks": 7,
+    "total_text_length": 98
+  },
+  {
+    "packet": "sugar",
+    "documents": 17,
+    "documents_with_text": 16,
+    "total_chunks": 230,
+    "total_text_length": 477164
+  },
+  {
+    "packet": "logistics_distribution",
+    "documents": 16,
+    "documents_with_text": 15,
+    "total_chunks": 52,
+    "total_text_length": 529348
+  },
+  {
+    "packet": "retail_price_evidence",
+    "documents": 4,
+    "documents_with_text": 4,
+    "total_chunks": 4,
+    "total_text_length": 56
+  },
+  {
+    "packet": "brand_logo_assets",
+    "documents": 1,
+    "documents_with_text": 0,
+    "total_chunks": 0,
+    "total_text_length": 0
+  },
+  {
+    "packet": "reference_only",
+    "documents": 1,
+    "documents_with_text": 1,
+    "total_chunks": 1,
+    "total_text_length": 14
+  }
+]

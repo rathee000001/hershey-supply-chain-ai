@@ -1,0 +1,97 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_01971A613130",
+    "file_name": "WPU09150336.csv",
+    "relative_path": "04_logistics_distribution/06_raw_excel_exports/WPU09150336.csv",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/04_logistics_distribution/06_raw_excel_exports/WPU09150336.csv",
+    "packet": "logistics_distribution",
+    "source_category": "logistics_distribution",
+    "document_type": "csv_table",
+    "evidence_role": "unknown",
+    "file_extension": ".csv",
+    "file_size_bytes": 4885,
+    "sha256": "f6d31f247370bdd314e37f407d1fac67994c0d21a3cf6aa07e3368794178ff4f"
+  },
+  "ai_input_mode": "table_summary_plus_text",
+  "priority_score": 21,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_01971A613130.txt",
+    "page_count": null,
+    "total_text_length": 0,
+    "rendered_page_images": [],
+    "tables": [
+      {
+        "sheet_or_table_name": "WPU09150336",
+        "rows": 256,
+        "columns": 2,
+        "headers": [
+          "observation_date",
+          "WPU09150336"
+        ],
+        "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_01971A613130/wpu09150336.csv",
+        "preview_rows": [
+          {
+            "observation_date": "2004-12-01",
+            "WPU09150336": "100.0"
+          },
+          {
+            "observation_date": "2005-01-01",
+            "WPU09150336": "100.2"
+          },
+          {
+            "observation_date": "2005-02-01",
+            "WPU09150336": "100.2"
+          }
+        ]
+      }
+    ],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_01971A613130_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 3,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2004",
+          "2005",
+          "2006"
+        ],
+        "candidate_units": []
+      },
+      "text": "TABLE: WPU09150336\nROWS: 256\nCOLUMNS: 2\nHEADERS: observation_date, WPU09150336\nPREVIEW:\nobservation_date WPU09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

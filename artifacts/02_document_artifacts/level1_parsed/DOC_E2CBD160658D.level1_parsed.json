@@ -1,0 +1,501 @@
+{
+  "doc_id": "DOC_E2CBD160658D",
+  "file_name": "usda_ers_sugar_outlook_latest_pdf.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Ers Sugar Outlook Latest Pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_ers_sugar_outlook_latest_pdf.pdf. Packet: sugar. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: USDA, USDA ERS, USDA AMS, EPA, Sugar, processing, manufacturing, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 10",
+      "page_or_location": "page_7",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 12",
+      "page_or_location": "page_10",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: economic research service"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: extraction"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: store"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "---\n--- PAGE 1 ---\nEconomic Research Service | Situation and Outlook Report \nSSS-M-452 | April 15, 2026 \nNext release is May 18, 2026 \n \n \n \n \n \n \n \nSugar and Sweeteners \nOutlook: April 2026 \nVidalina Ab"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "esearch Service | Situation and Outlook Report \nSSS-M-452 | April 15, 2026 \nNext release is May 18, 2026 \n \n \n \n \n \n \n \nSugar and Sweeteners \nOutlook: April 2026 \nVidalina Abadam, coordinator \n \n \n \nU.S."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "| April 15, 2026 \nNext release is May 18, 2026 \n \n \n \n \n \n \n \nSugar and Sweeteners \nOutlook: April 2026 \nVidalina Abadam, coordinator \n \n \n \nU.S. Sugar Outlook \nMexico’s Sugar Outlook \n \nU.S. 2025/26 Sug"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "April 2026 \nVidalina Abadam, coordinator \n \n \n \nU.S. Sugar Outlook \nMexico’s Sugar Outlook \n \nU.S. 2025/26 Sugar Ending Stocks Are Mostly \nUnchanged; Mexico’s 2025/26 Sugar \nProduction Is Raised \nThe U.S"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Outlook \nMexico’s Sugar Outlook \n \nU.S. 2025/26 Sugar Ending Stocks Are Mostly \nUnchanged; Mexico’s 2025/26 Sugar \nProduction Is Raised \nThe U.S. 2025/26 sugar supply is forecast at 14.269 million short t"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6 Sugar Ending Stocks Are Mostly \nUnchanged; Mexico’s 2025/26 Sugar \nProduction Is Raised \nThe U.S. 2025/26 sugar supply is forecast at 14.269 million short tons, raw value (STRV), up \n71,000 STRV from la"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the resulting sugar stocks-to-use ratio is unchanged at 15.2 percent. \nThe main change on Mexico’s 2025/26 balance sheet is a 101,000-metric tons (MT) actual \nweight increase in sugar production (now at"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "d by USDA’s World Agricultural Outlook Board\n\n--- PAGE 2 ---\n2 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nU.S. Sugar Outlook \nU.S. 2025/26 Bee"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ral Outlook Board\n\n--- PAGE 2 ---\n2 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nU.S. Sugar Outlook \nU.S. 2025/26 Beet Sugar Production Is Lower"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nU.S. Sugar Outlook \nU.S. 2025/26 Beet Sugar Production Is Lowered \nU.S. beet sugar production for fiscal year 2025/26 is lowered"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Outlook \nU.S. 2025/26 Beet Sugar Production Is Lowered \nU.S. beet sugar production for fiscal year 2025/26 is lowered from last month by 33,000 short tons \nraw value (STRV) to 5.060 million short tons, r"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "V lower (6 percent) than the previous year and the lowest level since the freeze-reduced \noutput in 2019/20. This month’s reduction is driven by changes to beet processors’ estimates that \nwere published"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "imates that \nwere published on the USDA, Farm Service Agency, Sweetener Market Data (SMD) February \n2026 report. This report reflected larger sugarbeet pile shrink and lower sucrose recovery that were \non"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ch 31, which indicated that sugarbeet growers intend to plant 1.063 million acres for the \nupcoming 2026/27 crop year. This planting implies a 16,000-acre decrease (1.5 percent) from the \n2025/26 area pla"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e \nupcoming 2026/27 crop year. This planting implies a 16,000-acre decrease (1.5 percent) from the \n2025/26 area planted and a 69,000-acre decrease (6.1 percent) relative to last year’s prospective \nplant"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "in line with the timing in the last 5 years.\n\n--- PAGE 3 ---\n3 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nTable 1: U.S. sugar supply and use b"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the last 5 years.\n\n--- PAGE 3 ---\n3 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nTable 1: U.S. sugar supply and use by fiscal year (October–Sept"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s and monthly changes may not add due to rounding. \n \n1/ The last cane processor in Texas closed in 2023/24. 2/ A separate line for high-tier refined sugar (specialty) was included starting \nin the July 2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3/24. 2/ A separate line for high-tier refined sugar (specialty) was included starting \nin the July 2025 World Agricultural Supply and Demand Estimates (WASDE) report. Before the July 2025 WASDE, this vol"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ng \nin the July 2025 World Agricultural Supply and Demand Estimates (WASDE) report. Before the July 2025 WASDE, this volume was \nincluded in the “high-tier refined sugar” line. 3/ The \"Other\" line represe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "equivalent of imported cane molasses, \nwhich was added in the WASDE report starting in fiscal year 2023/24. \n \n \nSource: USDA, Economic Research Service using USDA, World Agricultural Outlook Board, Worl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Foreign Agricultural Service, U.S. \nSugar Monthly Import and Re-Exports report. \n \n \n \n \n \n \n \n \n \n2023/24\n2024/25\n2025/26\nFinal\nMarch\nApril\nMonthly\nMarch\nApril\nMonthly\nchange\nchange\nBeginning stocks \n1,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Agricultural Service, U.S. \nSugar Monthly Import and Re-Exports report. \n \n \n \n \n \n \n \n \n \n2023/24\n2024/25\n2025/26\nFinal\nMarch\nApril\nMonthly\nMarch\nApril\nMonthly\nchange\nchange\nBeginning stocks \n1,843\n2,22"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tural Service, U.S. \nSugar Monthly Import and Re-Exports report. \n \n \n \n \n \n \n \n \n \n2023/24\n2024/25\n2025/26\nFinal\nMarch\nApril\nMonthly\nMarch\nApril\nMonthly\nchange\nchange\nBeginning stocks \n1,843\n2,220\n2,220"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(percent)\n17.4\n19.9\n19.9\n0.0\n15.2\n15.2\n-0.1\n\n--- PAGE 4 ---\n4 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nTable 2: U.S. sugarbeet and beet sug"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".0\n15.2\n15.2\n-0.1\n\n--- PAGE 4 ---\n4 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \n \nTable 2: U.S. sugarbeet and beet sugar production, 2023/24‒2025"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ril 15, 2026 \nUSDA, Economic Research Service \n \nTable 2: U.S. sugarbeet and beet sugar production, 2023/24‒2025/26 \n \nSTRV = short tons, raw value; N/A = not applicable. \n \nNote: Crop year is from August"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2026 \nUSDA, Economic Research Service \n \nTable 2: U.S. sugarbeet and beet sugar production, 2023/24‒2025/26 \n \nSTRV = short tons, raw value; N/A = not applicable. \n \nNote: Crop year is from August to July"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "add due to rounding. \n \n1/ Based on USDA, National Agricultural Statistics Service (NASS). \n2/ For 2025/26, based on beet processors’ estimates submitted to the USDA, FSA, Sweetener Market Data (SMD) rep"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "beet processors’ estimates submitted to the USDA, FSA, Sweetener Market Data (SMD) report. \n3/ For 2025/26, based on a 10-year average (2015/16–2024/25). \n4/ For 2025/26, based on beet processors’ increa"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2015",
+      "unit": "",
+      "page_or_location": "",
+      "context": "to the USDA, FSA, Sweetener Market Data (SMD) report. \n3/ For 2025/26, based on a 10-year average (2015/16–2024/25). \n4/ For 2025/26, based on beet processors’ increased capacity from capital improvement"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "USDA, FSA, Sweetener Market Data (SMD) report. \n3/ For 2025/26, based on a 10-year average (2015/16–2024/25). \n4/ For 2025/26, based on beet processors’ increased capacity from capital improvements. \n5/ F"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "er Market Data (SMD) report. \n3/ For 2025/26, based on a 10-year average (2015/16–2024/25). \n4/ For 2025/26, based on beet processors’ increased capacity from capital improvements. \n5/ For 2023/24 and 202"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "). \n4/ For 2025/26, based on beet processors’ increased capacity from capital improvements. \n5/ For 2023/24 and 2024/25, sugar from imported beets is already included in the final crop year production. Fo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "025/26, based on beet processors’ increased capacity from capital improvements. \n5/ For 2023/24 and 2024/25, sugar from imported beets is already included in the final crop year production. For 2025/26, b"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "4 and 2024/25, sugar from imported beets is already included in the final crop year production. For 2025/26, based on the 2024/25 number less than \nthe expected reduction in sugarbeet acreage in Canada. S"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rom imported beets is already included in the final crop year production. For 2025/26, based on the 2024/25 number less than \nthe expected reduction in sugarbeet acreage in Canada. Sugar production from t"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "icultural Outlook Board, World Agricultural Supply and Demand Estimates (WASDE) report. \n \n \n \nU.S. 2025/26 Cane Sugar Production Is Raised \nU.S. cane sugar production for fiscal year 2025/26 is increased"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rt. \n \n \n \nU.S. 2025/26 Cane Sugar Production Is Raised \nU.S. cane sugar production for fiscal year 2025/26 is increased 20,000 STRV from last month to \n4.207 million, solely on an upward adjustment to Fl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "AS total imports – SMD cane refiner imports.\n\n--- PAGE 8 ---\n8 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \nTable 4: U.S. sugar deliveries for foo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "refiner imports.\n\n--- PAGE 8 ---\n8 \nSugar and Sweeteners Outlook: April 2026, SSS-M-452, April 15, 2026 \nUSDA, Economic Research Service \nTable 4: U.S. sugar deliveries for food and beverage use, October"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nomic Research Service \nTable 4: U.S. sugar deliveries for food and beverage use, October–February, 2020/21–2025/26 \nN/A = not applicable; STRV = short tons, raw value. \nNote: Totals and percentages may n"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "search Service \nTable 4: U.S. sugar deliveries for food and beverage use, October–February, 2020/21–2025/26 \nN/A = not applicable; STRV = short tons, raw value. \nNote: Totals and percentages may not add d"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rvice Agency's monthly Sweetener Market Data (SMD) report. Years included in the 5-year average are 2020/21–2024/25. \nSource: USDA, Economic Research Service calculations using data from USDA, Farm Servic"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ency's monthly Sweetener Market Data (SMD) report. Years included in the 5-year average are 2020/21–2024/25. \nSource: USDA, Economic Research Service calculations using data from USDA, Farm Service Agency"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "bruary 28 (2.283 million STRV) have finally fallen below last year’s volume but remain at the \npost-2020/21 maximum range (figure 8). Refined cane sugar inventories, on the other hand, \nremain at a histor"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2001",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lion STRV, about 220,000-STRV larger \nthan last year and the largest for February since fiscal year 2001/02 (the earliest year SMD was \npublished). \nComponents\n2020/21 2021/22 2022/23 2023/24 2024/25 2025"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "largest for February since fiscal year 2001/02 (the earliest year SMD was \npublished). \nComponents\n2020/21 2021/22 2022/23 2023/24 2024/25 2025/26\n5-year\naverage\nPercent\nBeet sugar processors\n1,979\n2,144"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "for February since fiscal year 2001/02 (the earliest year SMD was \npublished). \nComponents\n2020/21 2021/22 2022/23 2023/24 2024/25 2025/26\n5-year\naverage\nPercent\nBeet sugar processors\n1,979\n2,144\n2,073\n1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ruary since fiscal year 2001/02 (the earliest year SMD was \npublished). \nComponents\n2020/21 2021/22 2022/23 2023/24 2024/25 2025/26\n5-year\naverage\nPercent\nBeet sugar processors\n1,979\n2,144\n2,073\n1,990\n1,9"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2026",
+    "2025",
+    "2019",
+    "2023",
+    "2024",
+    "2015",
+    "2020",
+    "2001",
+    "2021",
+    "2022"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "MT, to maintain reasonable ending stocks before production in the next marketing year.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "MT, to maintain reasonable ending stocks before production in the next marketing year.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "were published on the USDA, Farm Service Agency, Sweetener Market Data (SMD) February",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Estimates (WASDE) report; USDA, Farm Service Agency, Sweetener Market Data report; USDA, Foreign Agricultural Service, U.S.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "sugar",
+      "evidence_text": "2/ For 2025/26, based on beet processors’ estimates submitted to the USDA, FSA, Sweetener Market Data (SMD) report.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Sweetener Market Data (SMD) report; USDA, World Agricultural Outlook Board, World Agricultural Supply and Demand Estimates (WASDE) report.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Farm Service Agency's monthly Sweetener Market Data (SMD) report.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_only",
+    "priority_score": 66,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": false
+  }
+}

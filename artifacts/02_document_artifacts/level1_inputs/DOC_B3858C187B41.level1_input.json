@@ -1,0 +1,301 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_B3858C187B41",
+    "file_name": "cocoa_beans_quality_requirements_processing_guide.pdf",
+    "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/processing_explanation/cocoa_beans_quality_requirements_processing_guide.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/processing_explanation/cocoa_beans_quality_requirements_processing_guide.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 6838949,
+    "sha256": "3237d6f3fcf364000a4ac630a73bf0497bdcc75510ad9e768b80ca806fb71b20"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 56,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_B3858C187B41.txt",
+    "page_count": 107,
+    "total_text_length": 252539,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_B3858C187B41/page_008.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_B3858C187B41_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 14,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023",
+          "1996",
+          "2015",
+          "2018"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nCocoa Beans: Chocolate & Cocoa Industry Quality Requirements \n1 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nWord V \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nCocoa Beans: \nChocolate & Cocoa \nIndustry Quality \nRequirements \n \nEdition 2: December 2023\n\n\n--- PAGE 2 ---\nCocoa Beans: Chocolate & Cocoa Industry Quality Requirements \n2 \nAcknowledgements \n \nCAOBISCO/ECA would like to thank the Food and \nDrink Federation of the UK (FDF) for giving us \npermission to use the BCCCA publication “Cocoa \nBeans: Chocolate Manufacturers’ Quality \nRequirements” 4th Ed (1996) as the basis for this \nguide. We are very grateful to members of the \nCAOBISCO/ECA Quality and Productivity Working \nGroup and the other organisations and individuals \nwho have assisted us in drafting this 2023 revision \nof the publication, in particular Penelope \nAlexandre, Roy Bateman, Alicia Bellón, Torben \nErbrath, Carlos Fajardo Davila, Pawal Gaca, Frank \nHeckel, Marc Joncheere, Daniel Kadow, Henri \nKamphuis, Michiel Kokken, Brigitte Laliberte, \nVerda Mehmet Ali, Mirjam Pulleman, John Newell, \nGideon Ramtahal, Ed Seguine, Katrin Sinderhauf-\nGacioch and Darin Sukha. We would also like to \nthank those who contributed to the first edition of \nthis publication and Darin Sukha and Ed Seguine \nfor contributing Appendix B: “Protocols for the \npreparation and flavour evaluation of samples and \nsmall-scale fermentation techniques”. \nThe previous edition of this publication (2015) \nwas supported by financial contributions from \nsome members of CAOBISCO/ECA/FCC Cocoa \nQuality and Productivity Working Group\n1 and in-\nkind contributions from CRA Ltd2. We are very \ngrateful to the ECA and CAOBISCO members and \nCRA Ltd who have permitted their staff to \ncontribute to this revision. \n \nOriginal design and layout by Muze Creative. \n \nPublished by ECA-CAOBISCO Joint Cocoa Research Fund \nwww.cocoaquality.eu \nwww.jointcocoaresearchfund.eu \nEditions: First Edition 2015 (Revised 2018 online) \nCitation: \nCAOBISCO/ECA Cocoa Bean s: \nChocolate and Cocoa Industry Quality \nRequirements. December 2023. (End, M.J. \nand Dand, R., Editors), CAOBISCO/ECA, \nBrussels. \n \nDisclaimer: \nThe CAOBISCO ECA Cocoa Beans: \nChocolate and Cocoa I"
+    },
+    {
+      "chunk_id": "DOC_B3858C187B41_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_2",
+      "signal_score": 19,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [
+            "cooperative"
+          ],
+          "cost_price": [
+            "futures"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2015",
+          "2018",
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "archfund.eu \nEditions: First Edition 2015 (Revised 2018 online) \nCitation: \nCAOBISCO/ECA Cocoa Bean s: \nChocolate and Cocoa Industry Quality \nRequirements. December 2023. (End, M.J. \nand Dand, R., Editors), CAOBISCO/ECA, \nBrussels. \n \nDisclaimer: \nThe CAOBISCO ECA Cocoa Beans: \nChocolate and Cocoa Industry Quality \nRequirements Guide can in no case be \ntaken as a legal reference document. The \npresent guide is only used as an \ninformation tool for actors along the \ncocoa supply chain. The English version of \nthe guide is the reference version. This \nguide has been developed with input from \nexperts from the European cocoa and \nchocolate industry and academia. The \nviews and opinions expressed here are \nthose of the editors and contributors and \ndo not necessarily reflect those of their \ninstitutions. Since the legislation and \nstandards for cocoa quality, and \nrecommendations for best practices, \ncontinue to evolve, readers are advised to \ncheck the web links provided for current \ninformation. It is anticipated that this \nguide will be updated as new information \nbecomes available and specific comments \nand suggestions for improvements should \nbe addressed to the Secretariats at \nCAOBISCO: caobisco@caobisco.eu and \nECA: info@eurococoa.com \nCover: Drying cocoa beans at the Montserrat Cocoa Farmers’ Cooperative, San Antonio Estate, Gran Couva, Trinidad”. Photo: D. Sukha \n1JRF contributors in 2015: ADM, Armajaro, Barry Callebaut, Cargill, Casa Luker, Cemoi, Dutch Cocoa, Ferrero, Guittard, Mars, \nMondelez, Nederland, Nestlé, Olam, Storck, Touton, Valrhona. Current JRF contributors: Barry Callebaut, Cargill, Cemoi, Dutch \nCocoa, Ferrero, Guittard, Luker Chocolate, Mars, Mondelez, Nestlé, OFI, Ritter Sport, Storck \n2CRA Ltd. is a UK-based non-profit scientific research association that is supported by Mars-Wrigley, Mondelez International and ICE Futures \nEurope with additional support from other companies towards the CRA Conservation Initiative (https://www.cocoaresearch.org.uk) \nThese documents can be freely distributed under a Creative Commons Attribution-Non Commercial- No \nDerivatives 4.0 International License. http://creativecommons.org/licenses/by-nc-nd/4.0/ The"
+    },
+    {
+      "chunk_id": "DOC_B3858C187B41_CHUNK_0009",
+      "chunk_number": 9,
+      "page_or_section_hint": "page_10",
+      "signal_score": 36,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "sugar",
+            "chocolate",
+            "cocoa",
+            "cocoa butter",
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price"
+          ],
+          "manufacturing": [
+            "manufacturing",
+            "production",
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2000",
+          "2001",
+          "2016",
+          "1981",
+          "1983",
+          "2022"
+        ],
+        "candidate_units": []
+      },
+      "text": "tter are \nusually combined with sugar, milk and other \ningredients to form chocolate. There are \nEuropean and Codex standards which define the \ncomposition and labelling of certain of these \ncocoa products\n1. The focus of this publication \nwill be cocoa beans, though reference will be \nmade to some quality aspects of these cocoa \nproducts especially in relation to food safety \nregulations and processing characteristics. \n \nIn this publication the word “quality” is \nused in its broadest sense to include not \njust the all-important aspects of flavour \nand food safety, but also the physical \ncharacteristics that have a direct bearing \non manufacturing performance, and \naspects such as traceability, geographical \nindications and certification to indicate the \nsustainability of the production methods. \n \nThe different aspects of quality are \ndiscussed under the following headings:- \n \n1. Flavour \n2. Food Safety \n3. Physical Characteristics \n3.1 Consistency \n3.2 Yield of Edible Material \n4. Cocoa Butter Characteristics \n5. Colour potential - “Colourability” \n6. Sustainability, Traceability, \nCertification and Geographical \nIndications \n \nThese are the key criteria affecting a \nmanufacturer’s assessment of the “value” of \na particular parcel and hence the price the \nbuyer will pay for it.\n \n \n1See for example EC Directive 2000/36/EC (EU, 2000/36) and CODEX standards CXS_105 Rev 2001 last Amended 2016 for cocoa \npowders (CAC, 1981 Rev. 2001), CAC CXS_141 1983 Rev 2001 last Amended 2022 for cocoa mass (liquor) and CXS_86-1981 \nRev. 2001 last Amended 2016 for cocoa butter (CAC, 2016.)"
+    },
+    {
+      "chunk_id": "DOC_B3858C187B41_CHUNK_0016",
+      "chunk_number": 16,
+      "page_or_section_hint": "page_13",
+      "signal_score": 40,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "milk chocolate"
+          ],
+          "ingredient": [
+            "chocolate",
+            "cocoa",
+            "milk"
+          ],
+          "supplier": [
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "production",
+            "plant",
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2014",
+          "2009"
+        ],
+        "candidate_units": []
+      },
+      "text": "ronounced complementary flavours. Although the \nplanting materials may share a similar genetic \nbackground, differences in post-harvest processing \nmay lead to variations in the level of cacao \nintensity, and in some cases the generation of off-\nflavours. These mainstream cocoas, when they are \nwell prepared, are eminently suited to the \nmanufacture of milk chocolate, which forms a \nmajor part of the global chocolate market. \nHowever, some high-yielding varieties contributing \nto mainstream cocoa supply, such as CCN51, need \nspecific post-harvest processing practices to ensure \nthey do not have off-flavours, which limit their use \nin chocolate production (see section 1.4). \n \nFigure 2. Quality evaluation panel at the Cocoa Research \nInstitute of Ghana. \nPhoto: S. Opoku\n\n\n--- PAGE 14 ---\nCocoa Beans: Chocolate & Cocoa Industry Quality Requirements \n14 \n \nThere are indications that in addition to the effects \nof genetic background and post- harvest practices, \nthe climate and soil may also contribute to flavour \ndifferences, referred to as the “terroir” effect as in \nwine production (Sukha D, Butler, Comissiong, & \nUmaharan, 2014). There are several recent \ninitiatives which aim to recognise and celebrate the \ndiversity of cocoa flavours which are the result of \nall of these factors, and to promote the linkages \nwithin the supply chain which will help reward \nthose producing high quality cocoa: \n• Heirloom Cacao Preservation \nInitiative is a partnership between the \nFine Chocolate Industry Association and \nUSDA/ARS which aims to identify the \nfinest flavoured cocoas, understand their \ngenetic diversity and find ways to preserve \nthem and reward the growers who \ncultivate them. Further details can be \nfound from the website: \nhttps://www.finechocolateindustry.org/ \n• \nCacao of Excellence is an initiative \nsupported by research institutions, \nchocolate manufacturers and cocoa \norganizations. It describes itself as a \nunique global platform discovering, \nconvening, promoting and rewarding \ncacao producers of excellence from all \nproducing origins for superior cacao \nquality and flavour diversity. Since 2009, \nCacao of Excellence has been the entry \npoint for cacao pr"
+    },
+    {
+      "chunk_id": "DOC_B3858C187B41_CHUNK_0025",
+      "chunk_number": 25,
+      "page_or_section_hint": "page_19",
+      "signal_score": 38,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "cocoa",
+            "milk",
+            "soy"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "manufacturing",
+            "production",
+            "processing"
+          ],
+          "logistics": [
+            "distribution",
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2004",
+          "2017",
+          "2022",
+          "2011",
+          "1991",
+          "2012",
+          "2023",
+          "2005"
+        ],
+        "candidate_units": []
+      },
+      "text": "od businesses to ensure \ncompliance with the legislation and traceability \nof foodstuffs at all stages of the food chain, \nfrom the production, processing, transport and \ndistribution stages through to the supply of \nfood. For further information see https://eur-\nlex.europa.eu/legal-content/EN/TXT/\n\n\n--- PAGE 20 ---\nCocoa Beans: Chocolate & Cocoa Industry Quality Requirements \n20 \n \n \nEU food business operators must comply with \nthe EU hygiene legislation (Regulations \n852/2004, 853/2004, 2017/625 and associated \nregulations) and put in place, implement and \nmaintain a permanent procedure, or procedures, \nbased on HACCP (Hazard Analysis and Critical \nControl Point) principles to ensure that food is \nproduced safely and public health is protected. \n(See https://food.ec.europa.eu/safety/biological-\nsafety/food-hygiene_en and Commission Notice \non implementation of food safety management \nsystems (2022/C 355/01). \nGuidelines have been published for good \nmanufacturing practices in the cocoa, chocolate \nand confectionery industry (CAOBISCO, 2011) \n(ICA, 1991) and (Syndicat du Chocolat, 2012). \n \nThe commission has established a regulation on \nmaximum levels for certain contaminants in food \n(Regulation 2023/915). This regulation includes: \nmycotoxins (including OTA), heavy metals \n(including cadmium and lead), polycyclic aromatic \nhydrocarbons (PAH), dioxins and PCBs and many \nothers. Maximum residue level of pesticides are \nestablished in Regulation 396/2005. \n \nThe principal food safety concerns for the \ncocoa industry are: \n• Allergens \n• Dioxins & PCBs \n• Microbiological Hazards \n• Foreign Matter \n• Heavy Metals \n• Infestation \n• Mineral Oil Hydrocarbons \n• Polycyclic Aromatic \nHydrocarbons (PAH) \n• Mycotoxins including \nOchratoxin A (OTA) \n• Pesticide Residues\n \n2.1. \nAllergens \n \n \nFood allergies are life changing and can be fatal. \nChocolate, biscuit and confectionery \nmanufacturers face specific challenges, since \nallergens such as peanuts, treenuts, milk, eggs, \nsoya and gluten-containing cereals are \ncommonly used. \n \nFor allergens present as an ingredient, it is a \nlegal requirement that these are clearly \nlabelled in the ingredients list (EU Regulation"
+    },
+    {
+      "chunk_id": "DOC_B3858C187B41_CHUNK_0114",
+      "chunk_number": 114,
+      "page_or_section_hint": "page_83",
+      "signal_score": 40,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "sugar",
+            "chocolate",
+            "cocoa",
+            "cocoa butter",
+            "lecithin",
+            "soy"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "ppi"
+          ],
+          "manufacturing": [
+            "processing",
+            "conching"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "lecithin"
+          ]
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "70%",
+          "10%"
+        ],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": [
+          "120 g"
+        ]
+      },
+      "text": "le will have been released and that \nthere is no grittiness in the sample \nwhich would distract the taster during the \nflavour evaluation. \nMore details can be found in Chapter 13 - \nProcessing cacao nibs into mass in “ Guide \nfor the Assessment of Cacao Quality and \nFlavour” \n(Cacao \nof \nExcellence, \n2023) \nwww.cacaoofexcellence.org \nThe temperature of \nthe milling mass can \nbe measured using an \ninfrared thermometer and \nshould remain below 55oC. \nAbove this temperature, \nvolatiles are lost at a \nsubstantially higher rate.\n\n\n--- PAGE 84 ---\nCocoa Beans: Chocolate & Cocoa Industry Quality Requirements \n \n \n \n \n84 \n \n \n \n \n \nChocolate Making. \nIt is often desirable to evaluate how cocoa \nmass flavour potential translates into chocolate \nwhere the interplay of sugar and other \ningredients in the matrix is important in \nholistically assessing the full potential of \na bean sample. Additionally, cocoa mass \ntasting is more technically challenging to \nperform compared to chocolate evaluation \nsince acidity, bitterness and astringency are \nsometimes dominant attributes. Often the \ncocoa mass alone does not display the full \nflavour potential that will be present in the \nchocolate and sometimes flavours that are \npresent in the cocoa mass are not present in \nthe chocolate and vice versa. \n \nThe recipe used in chocolate making for \nthis purpose is important and standard \nformulations range between 65 – 70% \ncocoa mass with 2 – 10% added deodorized \ncocoa butter used. The recipe shown below, \nwhich does not require the addition of \nlecithin, has now been adopted by the \nCacao of Excellence Programme. \nThe cocoa butter, sugar and any soya lecithin \nused must be neutral tasting to avoid \ninfluencing the flavour inherent in the cocoa \nmass. Sugar can be evaluated by placing a 50 – \n120 g sample in a jar large enough to hold at \nleast twice that amount, securely capping the \njar and warming it to 50°C. It should be held \nfor at least 1 hour at 50°C then uncapped \nand immediately smelled. An acceptable \nresult is a sugar that has no inherent odour. \n \nThe chocolate should be refined to less than \n20 microns measured using a micrometer. \nConching at a low temperature (not more"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

@@ -1,0 +1,404 @@
+{
+  "doc_id": "DOC_3DACF0FBC836",
+  "file_name": "hershey_latest_esg_dairy_section.pdf",
+  "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/00_hershey_dairy_evidence/hershey_latest_esg_dairy_section.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "evidence_role": "direct_company_evidence",
+  "extracted_at": "2026-05-06T19:56:28",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_3DACF0FBC836.txt",
+      "page_count": 94,
+      "total_text_length": 252523,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 55
+        },
+        {
+          "page": 2,
+          "text_length": 3570
+        },
+        {
+          "page": 3,
+          "text_length": 1012
+        },
+        {
+          "page": 4,
+          "text_length": 4399
+        },
+        {
+          "page": 5,
+          "text_length": 4699
+        },
+        {
+          "page": 6,
+          "text_length": 2087
+        },
+        {
+          "page": 7,
+          "text_length": 3797
+        },
+        {
+          "page": 8,
+          "text_length": 1178
+        },
+        {
+          "page": 9,
+          "text_length": 562
+        },
+        {
+          "page": 10,
+          "text_length": 823
+        },
+        {
+          "page": 11,
+          "text_length": 4830
+        },
+        {
+          "page": 12,
+          "text_length": 2549
+        },
+        {
+          "page": 13,
+          "text_length": 3291
+        },
+        {
+          "page": 14,
+          "text_length": 725
+        },
+        {
+          "page": 15,
+          "text_length": 3371
+        },
+        {
+          "page": 16,
+          "text_length": 3463
+        },
+        {
+          "page": 17,
+          "text_length": 3231
+        },
+        {
+          "page": 18,
+          "text_length": 2776
+        },
+        {
+          "page": 19,
+          "text_length": 1495
+        },
+        {
+          "page": 20,
+          "text_length": 1198
+        },
+        {
+          "page": 21,
+          "text_length": 4098
+        },
+        {
+          "page": 22,
+          "text_length": 3368
+        },
+        {
+          "page": 23,
+          "text_length": 1571
+        },
+        {
+          "page": 24,
+          "text_length": 5092
+        },
+        {
+          "page": 25,
+          "text_length": 2457
+        },
+        {
+          "page": 26,
+          "text_length": 3946
+        },
+        {
+          "page": 27,
+          "text_length": 3054
+        },
+        {
+          "page": 28,
+          "text_length": 3595
+        },
+        {
+          "page": 29,
+          "text_length": 3855
+        },
+        {
+          "page": 30,
+          "text_length": 3405
+        },
+        {
+          "page": 31,
+          "text_length": 2848
+        },
+        {
+          "page": 32,
+          "text_length": 1842
+        },
+        {
+          "page": 33,
+          "text_length": 1052
+        },
+        {
+          "page": 34,
+          "text_length": 4412
+        },
+        {
+          "page": 35,
+          "text_length": 4159
+        },
+        {
+          "page": 36,
+          "text_length": 2978
+        },
+        {
+          "page": 37,
+          "text_length": 2578
+        },
+        {
+          "page": 38,
+          "text_length": 1070
+        },
+        {
+          "page": 39,
+          "text_length": 4677
+        },
+        {
+          "page": 40,
+          "text_length": 2851
+        },
+        {
+          "page": 41,
+          "text_length": 5563
+        },
+        {
+          "page": 42,
+          "text_length": 4080
+        },
+        {
+          "page": 43,
+          "text_length": 1883
+        },
+        {
+          "page": 44,
+          "text_length": 1657
+        },
+        {
+          "page": 45,
+          "text_length": 965
+        },
+        {
+          "page": 46,
+          "text_length": 820
+        },
+        {
+          "page": 47,
+          "text_length": 3689
+        },
+        {
+          "page": 48,
+          "text_length": 982
+        },
+        {
+          "page": 49,
+          "text_length": 1951
+        },
+        {
+          "page": 50,
+          "text_length": 3146
+        },
+        {
+          "page": 51,
+          "text_length": 3541
+        },
+        {
+          "page": 52,
+          "text_length": 2878
+        },
+        {
+          "page": 53,
+          "text_length": 3234
+        },
+        {
+          "page": 54,
+          "text_length": 2310
+        },
+        {
+          "page": 55,
+          "text_length": 4486
+        },
+        {
+          "page": 56,
+          "text_length": 3604
+        },
+        {
+          "page": 57,
+          "text_length": 2711
+        },
+        {
+          "page": 58,
+          "text_length": 2598
+        },
+        {
+          "page": 59,
+          "text_length": 1590
+        },
+        {
+          "page": 60,
+          "text_length": 2258
+        },
+        {
+          "page": 61,
+          "text_length": 1498
+        },
+        {
+          "page": 62,
+          "text_length": 889
+        },
+        {
+          "page": 63,
+          "text_length": 2057
+        },
+        {
+          "page": 64,
+          "text_length": 3749
+        },
+        {
+          "page": 65,
+          "text_length": 4457
+        },
+        {
+          "page": 66,
+          "text_length": 2718
+        },
+        {
+          "page": 67,
+          "text_length": 3427
+        },
+        {
+          "page": 68,
+          "text_length": 4203
+        },
+        {
+          "page": 69,
+          "text_length": 2676
+        },
+        {
+          "page": 70,
+          "text_length": 3532
+        },
+        {
+          "page": 71,
+          "text_length": 3034
+        },
+        {
+          "page": 72,
+          "text_length": 2631
+        },
+        {
+          "page": 73,
+          "text_length": 3851
+        },
+        {
+          "page": 74,
+          "text_length": 1792
+        },
+        {
+          "page": 75,
+          "text_length": 1586
+        },
+        {
+          "page": 76,
+          "text_length": 1967
+        },
+        {
+          "page": 77,
+          "text_length": 2045
+        },
+        {
+          "page": 78,
+          "text_length": 2014
+        },
+        {
+          "page": 79,
+          "text_length": 1319
+        },
+        {
+          "page": 80,
+          "text_length": 628
+        },
+        {
+          "page": 81,
+          "text_length": 2637
+        },
+        {
+          "page": 82,
+          "text_length": 5122
+        },
+        {
+          "page": 83,
+          "text_length": 3553
+        },
+        {
+          "page": 84,
+          "text_length": 2541
+        },
+        {
+          "page": 85,
+          "text_length": 1089
+        },
+        {
+          "page": 86,
+          "text_length": 758
+        },
+        {
+          "page": 87,
+          "text_length": 2905
+        },
+        {
+          "page": 88,
+          "text_length": 3138
+        },
+        {
+          "page": 89,
+          "text_length": 1655
+        },
+        {
+          "page": 90,
+          "text_length": 3830
+        },
+        {
+          "page": 91,
+          "text_length": 3540
+        },
+        {
+          "page": 92,
+          "text_length": 869
+        },
+        {
+          "page": 93,
+          "text_length": 3075
+        },
+        {
+          "page": 94,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3DACF0FBC836/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "doc_id": "DOC_033AA20F1EE1",
+  "file_name": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/origin_evidence/usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:25",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_033AA20F1EE1.txt",
+      "page_count": 16,
+      "total_text_length": 44757,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 1576
+        },
+        {
+          "page": 2,
+          "text_length": 2387
+        },
+        {
+          "page": 3,
+          "text_length": 2421
+        },
+        {
+          "page": 4,
+          "text_length": 4793
+        },
+        {
+          "page": 5,
+          "text_length": 2338
+        },
+        {
+          "page": 6,
+          "text_length": 1510
+        },
+        {
+          "page": 7,
+          "text_length": 2513
+        },
+        {
+          "page": 8,
+          "text_length": 3675
+        },
+        {
+          "page": 9,
+          "text_length": 1659
+        },
+        {
+          "page": 10,
+          "text_length": 2417
+        },
+        {
+          "page": 11,
+          "text_length": 3559
+        },
+        {
+          "page": 12,
+          "text_length": 4040
+        },
+        {
+          "page": 13,
+          "text_length": 3372
+        },
+        {
+          "page": 14,
+          "text_length": 3882
+        },
+        {
+          "page": 15,
+          "text_length": 2136
+        },
+        {
+          "page": 16,
+          "text_length": 2187
+        }
+      ],
+      "rendered_page_images": [],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

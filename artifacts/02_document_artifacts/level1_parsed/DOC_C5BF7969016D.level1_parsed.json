@@ -1,0 +1,126 @@
+{
+  "doc_id": "DOC_C5BF7969016D",
+  "file_name": "hershey_pulp_paper_supplier_mill_list.pdf",
+  "source_owner": "The Hershey Company",
+  "document_title": "Hershey Pulp Paper Supplier Mill List",
+  "packet": "packaging_wrapper",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for hershey_pulp_paper_supplier_mill_list.pdf. Packet: packaging_wrapper. Evidence role: supplier_relationship_context. Input mode: text_only. Detected entities/stages include: The Hershey Company, USDA ERS, Packaging, ingredient sourcing, packaging.",
+  "useful_for_project": true,
+  "usefulness_score": 6.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "The Hershey Company",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: the hershey company"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "Packaging",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourced"
+    },
+    {
+      "entity_name": "packaging",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: packaging"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_C5BF7969016D_CHUNK_0001 ---\n--- PAGE 1 ---\n2024 Pulp & Paper Packaging Traceability - Supplier and Mill List\nAccurate Box Co, Inc. \nGrupak Operacio"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ccurate and reliable as of the time \nof publication. \nDuring the period of January through December 2024, The Hershey Company sourced pulp and paper materials from 65 suppliers serving our global business"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "and locations included are tied to Hershey’s business during the period of January through December 2024. This \ninformation represents the current traceability for pulp and paper products purchased during"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2024"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "The following lists were self-reported by pulp and paper packaging companies and their suppliers, collected by Hershey and consolidated by a third party.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "During the period of January through December 2024, The Hershey Company sourced pulp and paper materials from 65 suppliers serving our global business operations.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Packaging",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "ourced pulp and paper materials from 65 suppliers serving our global business operations.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "The following list of 90 Paper Mill Groups was self-reported by Hershey’s direct pulp and paper packaging suppliers for our global operation.",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_only",
+    "priority_score": 68,
+    "selected_chunk_count": 3,
+    "requires_future_ai_or_visual_review": false
+  }
+}

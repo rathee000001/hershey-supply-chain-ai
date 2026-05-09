@@ -1,0 +1,470 @@
+{
+  "doc_id": "DOC_6F01C5426EEB",
+  "file_name": "usda_ers_sugar_sweeteners_yearbook_tables.xlsx",
+  "source_owner": "USDA",
+  "document_title": "Usda Ers Sugar Sweeteners Yearbook Tables",
+  "packet": "sugar",
+  "document_type": "excel_workbook",
+  "summary": "Local Level 1 parse for usda_ers_sugar_sweeteners_yearbook_tables.xlsx. Packet: sugar. Evidence role: benchmark_proxy. Input mode: table_summary_plus_text. Detected entities/stages include: USDA, USDA ERS, Sugar, manufacturing.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 6",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 7",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 8",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 11",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: economic research service"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(short tons per acre), and production (1,000 short tons), by State and region, by crop year, since 1980/81\n Table 15-U.S. sugarcane: area, yield, production, sugar output, recovery rate, and sugar yield"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1969",
+      "unit": "",
+      "page_or_location": "",
+      "context": "S. beet and cane sugar production (including Puerto Rico), by fiscal year and share of total, since 1969/70\n Table 17-U.S. sugarbeet area, yield, and production, by crop year and fiscal year, since 1980/8"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e 1969/70\n Table 17-U.S. sugarbeet area, yield, and production, by crop year and fiscal year, since 1980/81\n Table 18-U.S. production of beet sugar and cane sugar by State, monthly, quarterly, and by cale"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1992",
+      "unit": "",
+      "page_or_location": "",
+      "context": "beet sugar and cane sugar by State, monthly, quarterly, and by calendar year and fiscal year, since 1992 (1,000 short tons, raw value)\n Table 19-U.S. cane and beet sugar deliveries and exports, monthly, q"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1992",
+      "unit": "",
+      "page_or_location": "",
+      "context": "beet sugar deliveries and exports, monthly, quarterly, and by calendar year and fiscal year, since 1992 (1,000 short tons, raw value)\n Table 20a-U.S. sugar deliveries for human consumption by type of use"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1949",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ue)\n Table 20a-U.S. sugar deliveries for human consumption by type of user, by calendar year, since 1949 (1,000 short tons, refined value)\n Table 20b-U.S. sugar deliveries for human consumption by type of"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2001",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Table 20b-U.S. sugar deliveries for human consumption by type of user, monthly and quarterly, since 2001 (1,000 short tons, refined value)\n Table 21-U.S. sugar deliveries: industrial and nonindustrial use"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ocks held by primary distributors, quarterly (1,000 short tons, raw value)\n NaN\n Last updated: 4/16/2026\n NaN\n Contact: Vidalina Abadam at USDA, Economic Research Service.\n\n---\n\n--- DOC_6F01C5426EEB_CHUNK"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ocks held by primary distributors, quarterly (1,000 short tons, raw value)\n NaN\n Last updated: 4/16/2026\n NaN\n Contact: Vidalina Abadam at USDA, Economic Research Service.\n\n---\n\nTABLE/SHEET: Table14\nROWS:"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(short tons per acre), and production (1,000 short tons), by State and region, by crop year, since 1980/81, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 6, Unnamed: 7, Unnamed: 8,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(short tons per acre), and production (1,000 short tons), by State and region, by crop year, since 1980/81 Unnamed: 1 Unnamed: 2 Unnamed: 3 Unnamed: 4 Unnamed: 5 Unnamed: 6 Unnamed: 7 Unnamed: 8 Unnamed:"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": ": 40 Unnamed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1981",
+      "unit": "",
+      "page_or_location": "",
+      "context": "amed: 41 Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1982",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Unnamed: 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1983",
+      "unit": "",
+      "page_or_location": "",
+      "context": ": 42 Unnamed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1984",
+      "unit": "",
+      "page_or_location": "",
+      "context": "amed: 43 Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1985",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Unnamed: 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1986",
+      "unit": "",
+      "page_or_location": "",
+      "context": ": 44 Unnamed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1987",
+      "unit": "",
+      "page_or_location": "",
+      "context": "amed: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1988",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1989",
+      "unit": "",
+      "page_or_location": "",
+      "context": ": 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1990",
+      "unit": "",
+      "page_or_location": "",
+      "context": "amed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1991",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1992",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1993",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1994",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1995",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1996",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1997",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1998",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1999",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2001",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2002",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426E"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2003",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 --"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/93 1993/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 U"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/94 1994/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed:"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/95 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnam"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2009",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/97 1997/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribut"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2010",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/98 1998/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/8"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2011",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/99 1999/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/8"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2012",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/00 2000/01 2001/02 2002/03 2003/04 2004/05 2005/06 2006/07 2007/08 2008/09 2009/10 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/8"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1980",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0 2010/11 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1981",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1 2011/12 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1982",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2 2012\n\n--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1983",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1984",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6F01C5426EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1985",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6EEB_CHUNK_0003 ---\n: 45 Unnamed: 46 Unnamed: 47\n Attribute 1980/81 1981/82 1982/83 1983/84 1984/85 1985/86 1986/87 1987/88 1988/89 1989/90 1990/91 1991/92 1992/93 1993/94 1994/95 1995/96 1996/97 1997/98"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "1980",
+    "1969",
+    "1992",
+    "1949",
+    "2001",
+    "2026",
+    "1981",
+    "1982",
+    "1983",
+    "1984",
+    "1985",
+    "1986",
+    "1987",
+    "1988",
+    "1989",
+    "1990",
+    "1991",
+    "1993",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2002",
+    "2003",
+    "2004",
+    "2005",
+    "2006"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "table_summary_plus_text",
+    "priority_score": 67,
+    "selected_chunk_count": 7,
+    "requires_future_ai_or_visual_review": false
+  }
+}

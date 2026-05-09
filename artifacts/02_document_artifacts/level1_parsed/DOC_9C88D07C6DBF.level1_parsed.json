@@ -1,0 +1,646 @@
+{
+  "doc_id": "DOC_9C88D07C6DBF",
+  "file_name": "usda_ams_advanced_class_prices_latest.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Ams Advanced Class Prices Latest",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_ams_advanced_class_prices_latest.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: USDA, USDA AMS, EPA, Milk, Skim Milk, Milk Fat, freight, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_4",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 6",
+      "page_or_location": "page_4",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 7",
+      "page_or_location": "page_5",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: agricultural marketing service"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: skim milk"
+    },
+    {
+      "entity_name": "Milk Fat",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: butterfat"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: diesel"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: cfr"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "weight",
+      "metric_value": "100 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "d Pricing Factors is not subject to \nrevision.\nTerms and Definitions: Announced milk prices are per 100 pounds or cwt, rounded to the nearest cent. \nComponent prices are per pound, rounded to nearest one-hundre"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "8D07C6DBF_CHUNK_0001 ---\n--- PAGE 1 ---\nAnnouncement of Advanced Prices and Pricing Factors for May 2026\nBase Class I Price:\n$20.15\n(per hundredweight)\nBase Skim Milk Price for Class I ²:\n$14.12\n(per hund"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ndredweight per mile)\n¹ Per Final Rule 88 FR 84038, published in the Federal Register on December 1,2023, the Mileage Rate Factor \nchange became effective March 1, 2024. See the methodology section (p. 4)"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the Federal Register on December 1,2023, the Mileage Rate Factor \nchange became effective March 1, 2024. See the methodology section (p. 4) for details. ² Per Final Rule 90 FR \n6600, published in the Fed"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(p. 4) for details. ² Per Final Rule 90 FR \n6600, published in the Federal Register on January 17, 2025, changes were made to the pricing formulas. See the \nmethodology section (p. 4) for details. ³ The"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "culture\nAgricultural Marketing Service\nDairy Program\nMarket Information Branch\nADV - 0526\nApril 22, 2026\nMay 2026 Highlights\nBase Class I Price was $20.15 per hundredweight for the month of May 2026. The"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "gricultural Marketing Service\nDairy Program\nMarket Information Branch\nADV - 0526\nApril 22, 2026\nMay 2026 Highlights\nBase Class I Price was $20.15 per hundredweight for the month of May 2026. The price per"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "l 22, 2026\nMay 2026 Highlights\nBase Class I Price was $20.15 per hundredweight for the month of May 2026. The price per hundredweight \nincreased $1.49 from the previous month. \nBase Skim Milk Price for Cl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "previous month. \nBase Skim Milk Price for Class I was $14.12 per hundredweight for the month of May 2026. The price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nth.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmail us with accessibility"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nth.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmail us with accessibility"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nFederal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2026\nMonth\nClass I \nBa"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Service\nApril 22, 2026\nFederal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2026\nMonth\nClass I \nBase Price\nBase Skim \nMilk Price for\nClass I \nAdvanced \nClass III \nSkim Milk \nPricin"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "12\n1.8649\n14.82\n1.5935\nFederal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2025\nMonth\nClass I \nBase Price\nBase Skim \nMilk Price for\nClass I \nAdvanced \nClass III \nSkim Milk \nPricin"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nDairy Products Price Averages Used in Federal Milk Order Price Formulas, 2026\nProduct Price Average"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ing Service\nApril 22, 2026\nDairy Products Price Averages Used in Federal Milk Order Price Formulas, 2026\nProduct Price Averages For:\nClass I (Skim, Bfat.), Class II (Skim, Nonfat Solids)\nClass II (Bfat.),"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1921",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lk\nCheese\nDry Whey\n(dollars per pound)\n(dollars per pound)\nJan\n1.5419\n1.1551\n1.5777\n0.6844\n1.4266\n1.1921\n1.4003\n0.6986\nFeb\n1.4201\n1.1860\n1.4078\n0.7040\n1.6966\n1.3726\n1.4338\n0.6931\nMar\n1.6217\n1.3156\n1.4083"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".7672\n1.7724\n1.6522\n0.6474\nDairy Products Price Averages Used in Federal Milk Order Price Formulas, 2025\nProduct Price Averages For:\nClass I (Skim, Bfat.), Class II (Skim, Nonfat Solids)\nClass II (Bfat.),"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1925",
+      "unit": "",
+      "page_or_location": "",
+      "context": "pr\n2.3419\n1.2461\n1.8751\n0.5701\n2.3520\n1.1773\n1.7361\n0.4988\nMay\n2.3549\n1.1801\n1.7230\n0.4982\n2.3703\n1.1925\n1.8404\n0.5119\nJun\n2.3519\n1.1862\n1.8019\n0.5080\n2.4880\n1.2531\n1.9322\n0.5497\nJul\n2.4685\n1.2463\n1.9373"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1992",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".5713\n2.4778\n1.2820\n1.7529\n0.5779\nSep\n2.5120\n1.2871\n1.7205\n0.5814\n2.0377\n1.2265\n1.8066\n0.5782\nOct\n2.1992\n1.2791\n1.8470\n0.5766\n1.7344\n1.1601\n1.7384\n0.5930\nNov\n1.7617\n1.1546\n1.7245\n0.5886\n1.6360\n1.1609\n1.74"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1992",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Page 3\n\n--- DOC_9C88D07C6DBF_CHUNK_0004 page_3 ---\n1.7205\n0.5814\n2.0377\n1.2265\n1.8066\n0.5782\nOct\n2.1992\n1.2791\n1.8470\n0.5766\n1.7344\n1.1601\n1.7384\n0.5930\nNov\n1.7617\n1.1546\n1.7245\n0.5886\n1.6360\n1.1609\n1.74"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nMethodology: Advanced Prices and Pricing Factors\nData: The Advanced Prices and Pricing Factors are"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nInformation Contacts\nListed below are the specialists in the Agricultural Marketing Service, Dairy"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$20.15",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6DBF_CHUNK_0001 ---\n--- PAGE 1 ---\nAnnouncement of Advanced Prices and Pricing Factors for May 2026\nBase Class I Price:\n$20.15\n(per hundredweight)\nBase Skim Milk Price for Class I ²:\n$14.12\n(per hundredweight)\nClass I ESL Adjustment ²:\n($0.49)\n(p"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$14.12",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ces and Pricing Factors for May 2026\nBase Class I Price:\n$20.15\n(per hundredweight)\nBase Skim Milk Price for Class I ²:\n$14.12\n(per hundredweight)\nClass I ESL Adjustment ²:\n($0.49)\n(per hundredweight)\nAdvanced Class III Skim Milk Pricing Factor ²"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.49",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e:\n$20.15\n(per hundredweight)\nBase Skim Milk Price for Class I ²:\n$14.12\n(per hundredweight)\nClass I ESL Adjustment ²:\n($0.49)\n(per hundredweight)\nAdvanced Class III Skim Milk Pricing Factor ²:\n$10.78\n(per hundredweight)\nAdvanced Class IV Skim M"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10.78",
+      "unit": "",
+      "page_or_location": "",
+      "context": "per hundredweight)\nClass I ESL Adjustment ²:\n($0.49)\n(per hundredweight)\nAdvanced Class III Skim Milk Pricing Factor ²:\n$10.78\n(per hundredweight)\nAdvanced Class IV Skim Milk Pricing Factor ²:\n$14.12\n(per hundredweight)\nAdvanced Butterfat Pricing"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$14.12",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Advanced Class III Skim Milk Pricing Factor ²:\n$10.78\n(per hundredweight)\nAdvanced Class IV Skim Milk Pricing Factor ²:\n$14.12\n(per hundredweight)\nAdvanced Butterfat Pricing Factor ²:\n$1.8649\n(per pound)\nClass II Skim Milk Price:\n$14.82\n(per hund"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.8649",
+      "unit": "",
+      "page_or_location": "",
+      "context": "edweight)\nAdvanced Class IV Skim Milk Pricing Factor ²:\n$14.12\n(per hundredweight)\nAdvanced Butterfat Pricing Factor ²:\n$1.8649\n(per pound)\nClass II Skim Milk Price:\n$14.82\n(per hundredweight)\nClass II Nonfat Solids Price ²:\n$1.5935\n(per pound)\nTw"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$14.82",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Factor ²:\n$14.12\n(per hundredweight)\nAdvanced Butterfat Pricing Factor ²:\n$1.8649\n(per pound)\nClass II Skim Milk Price:\n$14.82\n(per hundredweight)\nClass II Nonfat Solids Price ²:\n$1.5935\n(per pound)\nTwo-week Product Price Averages:\nButter\n$1.7672"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.5935",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cing Factor ²:\n$1.8649\n(per pound)\nClass II Skim Milk Price:\n$14.82\n(per hundredweight)\nClass II Nonfat Solids Price ²:\n$1.5935\n(per pound)\nTwo-week Product Price Averages:\nButter\n$1.7672\n(per pound)\nNonfat Dry Milk\n$1.7724\n(per pound)\nCheese ² ³"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.7672",
+      "unit": "",
+      "page_or_location": "",
+      "context": "$14.82\n(per hundredweight)\nClass II Nonfat Solids Price ²:\n$1.5935\n(per pound)\nTwo-week Product Price Averages:\nButter\n$1.7672\n(per pound)\nNonfat Dry Milk\n$1.7724\n(per pound)\nCheese ² ³\n$1.6522\n(per pound)\nDry Whey\n$0.6474\n(per pound)\nSpecial inf"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.7724",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Nonfat Solids Price ²:\n$1.5935\n(per pound)\nTwo-week Product Price Averages:\nButter\n$1.7672\n(per pound)\nNonfat Dry Milk\n$1.7724\n(per pound)\nCheese ² ³\n$1.6522\n(per pound)\nDry Whey\n$0.6474\n(per pound)\nSpecial information for Appalachian and Southea"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6522",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(per pound)\nTwo-week Product Price Averages:\nButter\n$1.7672\n(per pound)\nNonfat Dry Milk\n$1.7724\n(per pound)\nCheese ² ³\n$1.6522\n(per pound)\nDry Whey\n$0.6474\n(per pound)\nSpecial information for Appalachian and Southeast:\nDiesel Fuel Price\n$5.342\n(p"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.6474",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Price Averages:\nButter\n$1.7672\n(per pound)\nNonfat Dry Milk\n$1.7724\n(per pound)\nCheese ² ³\n$1.6522\n(per pound)\nDry Whey\n$0.6474\n(per pound)\nSpecial information for Appalachian and Southeast:\nDiesel Fuel Price\n$5.342\n(per gallon)\nMileage Rate Facto"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5.342",
+      "unit": "",
+      "page_or_location": "",
+      "context": "³\n$1.6522\n(per pound)\nDry Whey\n$0.6474\n(per pound)\nSpecial information for Appalachian and Southeast:\nDiesel Fuel Price\n$5.342\n(per gallon)\nMileage Rate Factor ¹\n$0.00838\n(per hundredweight per mile)\n¹ Per Final Rule 88 FR 84038, published in the"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.00838",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r pound)\nSpecial information for Appalachian and Southeast:\nDiesel Fuel Price\n$5.342\n(per gallon)\nMileage Rate Factor ¹\n$0.00838\n(per hundredweight per mile)\n¹ Per Final Rule 88 FR 84038, published in the Federal Register on December 1,2023, the Mi"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$20.15",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ng Service\nDairy Program\nMarket Information Branch\nADV - 0526\nApril 22, 2026\nMay 2026 Highlights\nBase Class I Price was $20.15 per hundredweight for the month of May 2026. The price per hundredweight \nincreased $1.49 from the previous month. \nBas"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.49",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ights\nBase Class I Price was $20.15 per hundredweight for the month of May 2026. The price per hundredweight \nincreased $1.49 from the previous month. \nBase Skim Milk Price for Class I was $14.12 per hundredweight for the month of May 2026. The"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$14.12",
+      "unit": "",
+      "page_or_location": "",
+      "context": "f May 2026. The price per hundredweight \nincreased $1.49 from the previous month. \nBase Skim Milk Price for Class I was $14.12 per hundredweight for the month of May 2026. The price per \nhundredweight increased $2.12 from the previous month.\nClas"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.12",
+      "unit": "",
+      "page_or_location": "",
+      "context": "m Milk Price for Class I was $14.12 per hundredweight for the month of May 2026. The price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.49",
+      "unit": "",
+      "page_or_location": "",
+      "context": "The price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmai"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.24",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmail us with accessibility issues \nregarding this report.\n\n--- DOC_9C88D07C6DBF_CHUNK_0002 pa"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.12",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ility issues \nregarding this report.\n\n--- DOC_9C88D07C6DBF_CHUNK_0002 page_1 ---\nThe price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.49",
+      "unit": "",
+      "page_or_location": "",
+      "context": "The price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmai"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.24",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmail us with accessibility issues \nregarding this report.\n\n--- PAGE 2 ---\nAdvanced Prices and"
+    }
+  ],
+  "extracted_dates": [
+    "2026",
+    "2023",
+    "2024",
+    "2025",
+    "1921",
+    "1925",
+    "1992"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Announcement of Advanced Prices and Pricing Factors for May 2026",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Base Skim Milk Price for Class I ²:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Class II Skim Milk Price:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Class II Nonfat Solids Price ²:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Two-week Product Price Averages:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "³ The cheese price is derived using the weighted average of cheddar cheese",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Prices and Pricing Factors",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Market Information Branch",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Base Class I Price was $20.15 per hundredweight for the month of May 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The price per hundredweight",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "increased $1.49 from the previous month.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Base Skim Milk Price for Class I was $14.12 per hundredweight for the month of May 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "hundredweight increased $2.12 from the previous month.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Class I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "price per hundredweight decreased $0.24 from the previous month.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "hundredweight increased $2.12 from the previous month.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Class I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "price per hundredweight decreased $0.24 from the previous month.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Advanced Prices and Pricing Factors Announcement",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "USDA - Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Federal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2026",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Federal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2025",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Advanced Prices and Pricing Factors Announcement",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "USDA - Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Price Averages Used in Federal Milk Order Price Formulas, 2026",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Product Price Averages For:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Price Averages Used in Federal Milk Order Price Formulas, 2025",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Product Price Averages For:",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Advanced Prices and Pricing Factors Announcement",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "USDA - Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Methodology: Advanced Prices and Pricing Factors",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Data: The Advanced Prices and Pricing Factors are calculated using the most recent two weeks of data from the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Note that the monthly Announcement of Advanced Prices and Pricing Factors is not subject to",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Terms and Definitions: Announced milk prices are per 100 pounds or cwt, rounded to the nearest cent.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Component prices are per pound, rounded to nearest one-hundredth cent.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Announced product prices and pricing",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "factors are per pound, rounded to the nearest one-hundredth cent.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "freight",
+      "evidence_text": "The diesel fuel price is per gallon,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "The NDPSR provides current wholesale market prices for basic dairy commodities.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 67,
+    "selected_chunk_count": 7,
+    "requires_future_ai_or_visual_review": false
+  }
+}

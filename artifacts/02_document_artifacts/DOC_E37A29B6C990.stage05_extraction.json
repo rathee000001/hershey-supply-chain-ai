@@ -1,0 +1,24 @@
+{
+  "doc_id": "DOC_E37A29B6C990",
+  "file_name": "barry_logo.svg",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "image_or_logo",
+  "evidence_role": "visual_asset",
+  "extracted_at": "2026-05-06T19:56:25",
+  "extraction": {
+    "image": {
+      "extractor": "pillow_metadata_or_file_copy",
+      "copied_asset_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_E37A29B6C990/barry_logo.svg",
+      "width": null,
+      "height": null,
+      "format": "svg",
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "Image/logo copied and metadata captured. Use later vision/manual review for factual extraction."
+  ]
+}

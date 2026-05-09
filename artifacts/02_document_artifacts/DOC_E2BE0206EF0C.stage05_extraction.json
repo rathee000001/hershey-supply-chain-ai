@@ -1,0 +1,37 @@
+{
+  "doc_id": "DOC_E2BE0206EF0C",
+  "file_name": "usda_ams_class_iv_milk_price_reference.pdf",
+  "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_class_iv_milk_price_reference.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:36",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_E2BE0206EF0C.txt",
+      "page_count": 2,
+      "total_text_length": 1355,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 39
+        },
+        {
+          "page": 2,
+          "text_length": 1283
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_E2BE0206EF0C/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_E2BE0206EF0C/page_002.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

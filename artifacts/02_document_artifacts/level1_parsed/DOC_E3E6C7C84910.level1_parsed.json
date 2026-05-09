@@ -1,0 +1,159 @@
+{
+  "doc_id": "DOC_E3E6C7C84910",
+  "file_name": "milk_processing_separation_explanation.pdf",
+  "source_owner": "dairy_milk_skim_milk_milk_fat",
+  "document_title": "Milk Processing Separation Explanation",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for milk_processing_separation_explanation.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: process_or_function_context. Input mode: text_only. Detected entities/stages include: USDA, USDA ERS, USDA AMS, FDA, EPA, Milk, Packaging, processing.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 16",
+      "page_or_location": "page_10",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 19",
+      "page_or_location": "page_12",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 25",
+      "page_or_location": "page_16",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "FDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: fda"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Packaging",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "packaging",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "warehousing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: storage"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: truck"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: store"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: fda"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2011",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ts \nProduction and Processing \n \nRecommended Requirements \n \n \n \n \n \n \n \n \n \n \n \nEffective July 21, 2011\n\n--- PAGE 2 ---\n1 \n \nSubpart A - Sample State Enabling Act \n \nAn act to provide for the establishme"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2011"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "or the rules and regulations issued pursuant hereto shall be fined not more than $___, and each",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "producer for each occurrence of shipping milk testing positive for drug residue.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "producer’s milk shipping privileges according to State policy.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_only",
+    "priority_score": 51,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": false
+  }
+}

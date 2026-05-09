@@ -1,0 +1,456 @@
+{
+  "doc_id": "DOC_B3858C187B41",
+  "file_name": "cocoa_beans_quality_requirements_processing_guide.pdf",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/processing_explanation/cocoa_beans_quality_requirements_processing_guide.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "evidence_role": "process_or_function_context",
+  "extracted_at": "2026-05-06T19:56:27",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_B3858C187B41.txt",
+      "page_count": 107,
+      "total_text_length": 252539,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 236
+        },
+        {
+          "page": 2,
+          "text_length": 3942
+        },
+        {
+          "page": 3,
+          "text_length": 1396
+        },
+        {
+          "page": 4,
+          "text_length": 905
+        },
+        {
+          "page": 5,
+          "text_length": 507
+        },
+        {
+          "page": 6,
+          "text_length": 2672
+        },
+        {
+          "page": 7,
+          "text_length": 3115
+        },
+        {
+          "page": 8,
+          "text_length": 63
+        },
+        {
+          "page": 9,
+          "text_length": 341
+        },
+        {
+          "page": 10,
+          "text_length": 2626
+        },
+        {
+          "page": 11,
+          "text_length": 2801
+        },
+        {
+          "page": 12,
+          "text_length": 4647
+        },
+        {
+          "page": 13,
+          "text_length": 3405
+        },
+        {
+          "page": 14,
+          "text_length": 2895
+        },
+        {
+          "page": 15,
+          "text_length": 2775
+        },
+        {
+          "page": 16,
+          "text_length": 3074
+        },
+        {
+          "page": 17,
+          "text_length": 1759
+        },
+        {
+          "page": 18,
+          "text_length": 1332
+        },
+        {
+          "page": 19,
+          "text_length": 2874
+        },
+        {
+          "page": 20,
+          "text_length": 2766
+        },
+        {
+          "page": 21,
+          "text_length": 3283
+        },
+        {
+          "page": 22,
+          "text_length": 4333
+        },
+        {
+          "page": 23,
+          "text_length": 2719
+        },
+        {
+          "page": 24,
+          "text_length": 3704
+        },
+        {
+          "page": 25,
+          "text_length": 4229
+        },
+        {
+          "page": 26,
+          "text_length": 3615
+        },
+        {
+          "page": 27,
+          "text_length": 2429
+        },
+        {
+          "page": 28,
+          "text_length": 1239
+        },
+        {
+          "page": 29,
+          "text_length": 2212
+        },
+        {
+          "page": 30,
+          "text_length": 3208
+        },
+        {
+          "page": 31,
+          "text_length": 2866
+        },
+        {
+          "page": 32,
+          "text_length": 1789
+        },
+        {
+          "page": 33,
+          "text_length": 3548
+        },
+        {
+          "page": 34,
+          "text_length": 3195
+        },
+        {
+          "page": 35,
+          "text_length": 1986
+        },
+        {
+          "page": 36,
+          "text_length": 1731
+        },
+        {
+          "page": 37,
+          "text_length": 2741
+        },
+        {
+          "page": 38,
+          "text_length": 2202
+        },
+        {
+          "page": 39,
+          "text_length": 4583
+        },
+        {
+          "page": 40,
+          "text_length": 5055
+        },
+        {
+          "page": 41,
+          "text_length": 1775
+        },
+        {
+          "page": 42,
+          "text_length": 1394
+        },
+        {
+          "page": 43,
+          "text_length": 250
+        },
+        {
+          "page": 44,
+          "text_length": 1591
+        },
+        {
+          "page": 45,
+          "text_length": 1788
+        },
+        {
+          "page": 46,
+          "text_length": 1931
+        },
+        {
+          "page": 47,
+          "text_length": 2534
+        },
+        {
+          "page": 48,
+          "text_length": 982
+        },
+        {
+          "page": 49,
+          "text_length": 291
+        },
+        {
+          "page": 50,
+          "text_length": 2413
+        },
+        {
+          "page": 51,
+          "text_length": 2146
+        },
+        {
+          "page": 52,
+          "text_length": 3095
+        },
+        {
+          "page": 53,
+          "text_length": 3352
+        },
+        {
+          "page": 54,
+          "text_length": 2196
+        },
+        {
+          "page": 55,
+          "text_length": 4027
+        },
+        {
+          "page": 56,
+          "text_length": 2067
+        },
+        {
+          "page": 57,
+          "text_length": 3463
+        },
+        {
+          "page": 58,
+          "text_length": 948
+        },
+        {
+          "page": 59,
+          "text_length": 3935
+        },
+        {
+          "page": 60,
+          "text_length": 981
+        },
+        {
+          "page": 61,
+          "text_length": 3836
+        },
+        {
+          "page": 62,
+          "text_length": 2094
+        },
+        {
+          "page": 63,
+          "text_length": 1872
+        },
+        {
+          "page": 64,
+          "text_length": 1038
+        },
+        {
+          "page": 65,
+          "text_length": 2641
+        },
+        {
+          "page": 66,
+          "text_length": 1194
+        },
+        {
+          "page": 67,
+          "text_length": 255
+        },
+        {
+          "page": 68,
+          "text_length": 2913
+        },
+        {
+          "page": 69,
+          "text_length": 2720
+        },
+        {
+          "page": 70,
+          "text_length": 3507
+        },
+        {
+          "page": 71,
+          "text_length": 430
+        },
+        {
+          "page": 72,
+          "text_length": 3150
+        },
+        {
+          "page": 73,
+          "text_length": 1495
+        },
+        {
+          "page": 74,
+          "text_length": 3237
+        },
+        {
+          "page": 75,
+          "text_length": 2134
+        },
+        {
+          "page": 76,
+          "text_length": 1733
+        },
+        {
+          "page": 77,
+          "text_length": 1964
+        },
+        {
+          "page": 78,
+          "text_length": 2237
+        },
+        {
+          "page": 79,
+          "text_length": 1736
+        },
+        {
+          "page": 80,
+          "text_length": 2173
+        },
+        {
+          "page": 81,
+          "text_length": 2442
+        },
+        {
+          "page": 82,
+          "text_length": 3670
+        },
+        {
+          "page": 83,
+          "text_length": 2113
+        },
+        {
+          "page": 84,
+          "text_length": 2074
+        },
+        {
+          "page": 85,
+          "text_length": 2508
+        },
+        {
+          "page": 86,
+          "text_length": 2073
+        },
+        {
+          "page": 87,
+          "text_length": 1883
+        },
+        {
+          "page": 88,
+          "text_length": 4031
+        },
+        {
+          "page": 89,
+          "text_length": 2780
+        },
+        {
+          "page": 90,
+          "text_length": 988
+        },
+        {
+          "page": 91,
+          "text_length": 72
+        },
+        {
+          "page": 92,
+          "text_length": 77
+        },
+        {
+          "page": 93,
+          "text_length": 72
+        },
+        {
+          "page": 94,
+          "text_length": 326
+        },
+        {
+          "page": 95,
+          "text_length": 2966
+        },
+        {
+          "page": 96,
+          "text_length": 3358
+        },
+        {
+          "page": 97,
+          "text_length": 3682
+        },
+        {
+          "page": 98,
+          "text_length": 3487
+        },
+        {
+          "page": 99,
+          "text_length": 3717
+        },
+        {
+          "page": 100,
+          "text_length": 3872
+        },
+        {
+          "page": 101,
+          "text_length": 2618
+        },
+        {
+          "page": 102,
+          "text_length": 3133
+        },
+        {
+          "page": 103,
+          "text_length": 3347
+        },
+        {
+          "page": 104,
+          "text_length": 3018
+        },
+        {
+          "page": 105,
+          "text_length": 2417
+        },
+        {
+          "page": 106,
+          "text_length": 1114
+        },
+        {
+          "page": 107,
+          "text_length": 356
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_B3858C187B41/page_008.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

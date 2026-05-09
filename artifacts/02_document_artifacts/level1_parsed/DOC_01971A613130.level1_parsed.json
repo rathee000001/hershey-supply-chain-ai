@@ -1,0 +1,182 @@
+{
+  "doc_id": "DOC_01971A613130",
+  "file_name": "WPU09150336.csv",
+  "source_owner": "logistics_distribution",
+  "document_title": "Wpu09150336",
+  "packet": "logistics_distribution",
+  "document_type": "csv_table",
+  "summary": "Local Level 1 parse for WPU09150336.csv. Packet: logistics_distribution. Evidence role: unknown. Input mode: table_summary_plus_text. Detected entities/stages include: USDA ERS.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ROWS: 256\nCOLUMNS: 2\nHEADERS: observation_date, WPU09150336\nPREVIEW:\nobservation_date WPU09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": ": 2\nHEADERS: observation_date, WPU09150336\nPREVIEW:\nobservation_date WPU09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "vation_date, WPU09150336\nPREVIEW:\nobservation_date WPU09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "150336\nPREVIEW:\nobservation_date WPU09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "servation_date WPU09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "09150336\n 2004-12-01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.0\n 2005-01-01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.2\n 2005-02-01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.2\n 2005-03-01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.5\n 2005-04-01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.3\n 2005-05-01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.3\n 2005-06-01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.3\n 2005-07-01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.6\n 2005-08-01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.7\n 2005-09-01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.6\n 2005-10-01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.6\n 2005-11-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "-01 100.7\n 2005-12-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2-01 100.8\n 2006-01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01-01 100.3\n 2006-02-01 100.4\n 2006-03-01 100.6\n 2006-04-01 99.1\n 2006-05-01 99.2\n 2006-06-01 99.4\n 2006-07-01 98.6"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2004",
+    "2005",
+    "2006"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "table_summary_plus_text",
+    "priority_score": 21,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": false
+  }
+}

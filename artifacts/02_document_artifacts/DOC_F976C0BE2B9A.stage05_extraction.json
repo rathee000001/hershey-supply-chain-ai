@@ -1,0 +1,76 @@
+{
+  "doc_id": "DOC_F976C0BE2B9A",
+  "file_name": "usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/origin_evidence/usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:25",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F976C0BE2B9A.txt",
+      "page_count": 13,
+      "total_text_length": 40024,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 1862
+        },
+        {
+          "page": 2,
+          "text_length": 3354
+        },
+        {
+          "page": 3,
+          "text_length": 2562
+        },
+        {
+          "page": 4,
+          "text_length": 4110
+        },
+        {
+          "page": 5,
+          "text_length": 2948
+        },
+        {
+          "page": 6,
+          "text_length": 3941
+        },
+        {
+          "page": 7,
+          "text_length": 3596
+        },
+        {
+          "page": 8,
+          "text_length": 2396
+        },
+        {
+          "page": 9,
+          "text_length": 2428
+        },
+        {
+          "page": 10,
+          "text_length": 2362
+        },
+        {
+          "page": 11,
+          "text_length": 3921
+        },
+        {
+          "page": 12,
+          "text_length": 4657
+        },
+        {
+          "page": 13,
+          "text_length": 1652
+        }
+      ],
+      "rendered_page_images": [],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

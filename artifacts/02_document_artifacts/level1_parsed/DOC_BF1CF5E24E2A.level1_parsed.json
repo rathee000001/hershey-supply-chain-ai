@@ -1,0 +1,34 @@
+{
+  "doc_id": "DOC_BF1CF5E24E2A",
+  "file_name": "034000002405_3.png",
+  "source_owner": "product_sku_1_55oz",
+  "document_title": "034000002405 3",
+  "packet": "product_sku_1_55oz",
+  "document_type": "image_or_logo",
+  "summary": "Local Level 1 parse for 034000002405_3.png. Packet: product_sku_1_55oz. No extracted text available; likely image/logo or visual-priority source.",
+  "useful_for_project": true,
+  "usefulness_score": 4.0,
+  "relevant_sections": [],
+  "extracted_entities": [],
+  "extracted_metrics": [],
+  "extracted_prices": [],
+  "extracted_dates": [],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [
+    "Extracted text is weak; visual/page image review may be needed.",
+    "This document should be reviewed with page images or manual inspection before final claims."
+  ],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "visual_asset_only",
+    "priority_score": 35,
+    "selected_chunk_count": 0,
+    "requires_future_ai_or_visual_review": true
+  }
+}

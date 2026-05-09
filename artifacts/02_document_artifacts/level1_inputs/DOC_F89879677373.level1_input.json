@@ -1,0 +1,451 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_F89879677373",
+    "file_name": "hershey_latest_esg_packaging_section.pdf",
+    "relative_path": "03_ingredient_research/packaging_wrapper/00_hershey_packaging_evidence/hershey_latest_esg_packaging_section.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/packaging_wrapper/00_hershey_packaging_evidence/hershey_latest_esg_packaging_section.pdf",
+    "packet": "packaging_wrapper",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "file_extension": ".pdf",
+    "file_size_bytes": 26994042,
+    "sha256": "9bb27a3f0f703d0218d184ae5dd881e53cd6f14034f7328943ff6d033f190587"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 81,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F89879677373.txt",
+    "page_count": 118,
+    "total_text_length": 363048,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F89879677373/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_F89879677373_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 28,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "supplier",
+            "sourcing",
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\n\n\n--- PAGE 2 ---\nTable of Contents\n03 Making Good for Our Future\n04 A Message from Our CEO\n05 A Message from Our CSO\n06 Double Materiality Assessment\n07 Our ESG Approach and Priorities\n08 Progress Toward Our Priority Goals\n09 Stakeholder Engagement and \nSelect Memberships and Partnerships\n10\nOur ESG Governance\n11\nAwards and Recognition\n12 Our Company\n13\nOur Snacks Portfolio\n14\nSatisfying Consumer Needs\n15\nExcellence in Food Safety\n16\nEthics and Compliance\n17\nData Protection and Cybersecurity\n18\nMarketing Responsibly\n19\nOur Progress\n21 Cocoa\n22\nCocoa For Good\n23 Cocoa For Good in the World\n24 Cocoa Partners\n26 Improving Farmer Income and Livelihoods\n28 Children’s Well-being\n32 Creating a More Resilient Supply Chain\n34 Our Progress\n37 Responsible Sourcing \n \nand Human Rights \n38 Human Rights Across Our Value Chain\n39 Concentrating on Our Most Salient Human Rights\n40 Action on Human Rights\n43 Responsible Recruitment and Employment\n44 Living Wage and Income\n45 Responsible Sourcing\n46 Responsible Sourcing Supplier Program\n48 Sourcing Our Priority Ingredients and Materials\n53 Our Progress\n59 Environment\n60 Action on Climate Change\n61 Managing Climate Risk\n62 Progress on Emissions\n63 Reducing Emission in Our Operations\n64 Reducing Emissions in Our Value Chain\n66 Hershey’s Climate Action\n67\nWater: An Invaluable Resource\n69 The Significance of Biodiversity \n71\nMaking Progress on Packaging\n72\nNew Solutions for Waste\n73\nEmployees Catalyzing Change\n74\nOur Progress\n83 Our People\n84 Lead Today, Create Tomorrow\n85 Employee Well-being and Development\n87\nInvesting in Development to Create Tomorrow\n88 Safety First\n89 Accelerating Togetherness Efforts\n90 More Pathways to JOIN\n92 More Pathways to REACH OUT\n93 More Pathways to GROW\n95 Our Progress\n103 Youth\n104 Projects for Well-being\n105 Empowering the Next Generation\n106 Education and Opportunity\n107 Our Progress\n108 Community\n109 Hershey For Communities\n112 Employee Impact\n113 Our Progress\n114 About This Report\n115 Material Issue Definitions\n117 Salient Human Rights Issues Definitions\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Repo"
+    },
+    {
+      "chunk_id": "DOC_F89879677373_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_2",
+      "signal_score": 27,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing",
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "unity\n109 Hershey For Communities\n112 Employee Impact\n113 Our Progress\n114 About This Report\n115 Material Issue Definitions\n117 Salient Human Rights Issues Definitions\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n2\nThe Hershey Company 2023 ESG Report\n\n\n--- PAGE 3 ---\nOur purpose is to Make More Moments of Goodness for \nconsumers today and for future generations. Our global \nsustainability strategy, Our Shared Goodness Promise, is \nintegral to our long-term success in achieving that purpose. \nIn this report we show how we are embedding \nsustainability into our operations to build business \nresiliency and create a better future for all. \nIn this chapter:\n04\nA Message from Our CEO\n05\nA Message from Our CSO\n06\nDouble Materiality Assessment\n07\nOur ESG Approach and Priorities\n08\nProgress Toward Our Priority Goals\n09\nStakeholder Engagement and \n \nSelect Memberships and Partnerships\n10\nOur ESG Governance\n11\nAwards and Recognition\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n3\nThe Hershey Company 2023 ESG Report\n\n\n--- PAGE 4 ---\nA Message \nfrom Our CEO\nWe are about so much more than \nchocolate, candy and snacks. We are \nabout creating experiences filled with \nemotional connection. Those moments \ninspire us and define who we are and \nwe are proud of the way our products \nare created.”\nMichele Buck, Chairman, President \nand CEO The Hershey Company\nAchieving our vision of being a Leading Snacking \nPowerhouse requires leadership, agility and discipline \nin a complex and dynamic marketplace. At Hershey, we \nhave had some incredible years of growth. Continuing this \nrequires significant, smart and exciting transformations \nwithin our business. Underpinning our business goals and \nsuccess is the focus we have on our most material risks, \nopportunities and how we hold ourselves to the highest \nintegrity, quality and safety standards. \nWe remain committed to driving positive impact in our six \nsustainability focus areas: cocoa, environment, responsible \nsourcing and human rights, people, youth and commu"
+    },
+    {
+      "chunk_id": "DOC_F89879677373_CHUNK_0032",
+      "chunk_number": 32,
+      "page_or_section_hint": "page_18",
+      "signal_score": 147,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "manufacturing",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [
+          "$11,165",
+          "$10,419",
+          "$8,971",
+          "$9.59",
+          "$8.52",
+          "$7.19",
+          "$303.9",
+          "$221.3",
+          "$275.2",
+          "$1,178",
+          "$1,069",
+          "$924",
+          "$50.0",
+          "$46.9",
+          "$40.1",
+          "$1,256.7",
+          "$1,203.6",
+          "$644.4",
+          "$702.3",
+          "$643.6",
+          "$412.5"
+        ],
+        "candidate_percentages": [
+          "7.2%",
+          "16.1 %",
+          "10.1 %",
+          "21.9 %",
+          "29.6 %"
+        ],
+        "candidate_years": [
+          "2023",
+          "2022",
+          "2021"
+        ],
+        "candidate_units": []
+      },
+      "text": "ensures that all claims and \nrequired labeling elements on any updated packaging \ncomply with applicable law and regulations.\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n18\nThe Hershey Company 2023 ESG Report\n\n\n--- PAGE 19 ---\nOur Progress\nFinancial Performance\nUnit\n2023\n2022\n2021\nNotes\nCountries in which our products are marketed\n# of countries \n80\n80\n80\n—\nCountries in which our products are manufactured (Hershey-owned facilities)\n# of countries \n6\n6\n6\n—\nManufacturing facilities (Hershey wholly owned/joint ventures)\n# of manufacturing facilities \n16\n15\n15\n—\nConsolidated net sales\nUSD in millions \n$11,165\n$10,419\n$8,971\n—\nOne year net sales growth\n%\n 7.2% \n 16.1 %\n 10.1 %\n—\nShareholder return\n%\n (18.3) %\n 21.9 %\n 29.6 %\n1\nAdjusted diluted earnings per share\nUSD\n$9.59\n$8.52\n$7.19\n—\nIncome taxes paid\nUSD in millions\n$303.9\n$221.3\n$275.2\n—\nWorldwide payroll\nUSD in millions\n$1,178\n$1,069\n$924\n—\nInvestment in R&D\nUSD in millions\n$50.0\n$46.9\n$40.1\n—\nBrands\n# of brands\n>90\n>100\n>100\n—\nWeight of products sold\nMetric tons\n1,078,150\n1,101,919\n1,085,720\n—\n1\nFor more information, please see page 21 of Hershey's 2023 Form 10-K.\nNutrition and Health\nUnit\n2023\n2022\n2021\nNotes\nRevenue from products labeled and/or marketed to promote health and \nnutrition attributes\nUSD (in millions)\n$1,256.7\n$1,203.6\n$644.4\n1\nRevenue from products labeled non-GMO\nUSD (in millions)\n$702.3\n$643.6\n$412.5\n2\n1\nThese values represent revenue from our snacks portfolio, which includes ready-to-eat popcorn with no artificial ingredients, baked and trans-fat-free snacks, protein bars and other better-for-you snacks.\n2\nThis result includes non-GMO confectionery and salty snack products.\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n19\nThe Hershey Company 2023 ESG Report"
+    },
+    {
+      "chunk_id": "DOC_F89879677373_CHUNK_0095",
+      "chunk_number": 95,
+      "page_or_section_hint": "page_57",
+      "signal_score": 98,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "sugar",
+            "cocoa"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing",
+            "sourced"
+          ],
+          "cost_price": [
+            "cost"
+          ],
+          "manufacturing": [
+            "plant",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "38 %",
+          "41 %",
+          "43 %",
+          "100%",
+          "100 %",
+          "89 %",
+          "77 %",
+          "68 %",
+          "73 %",
+          "76 %",
+          "80 %",
+          "95 %",
+          "70 %",
+          "82 %",
+          "72 %",
+          "62 %",
+          "98 %",
+          "92.6 %",
+          "83.6 %",
+          "63 %",
+          "58 %",
+          "51 %",
+          "64 %",
+          "86.7 %",
+          "87 %",
+          "69 %",
+          "96 %"
+        ],
+        "candidate_years": [
+          "2023",
+          "2022",
+          "2021",
+          "2020",
+          "2025",
+          "2024"
+        ],
+        "candidate_units": []
+      },
+      "text": ".0\nRest of Asia\n0.0\n0.0\n0.1\n0.0\n0.3\n0.4\n1.8\n0.1\n0.1\n0.0\n0.2\nRest of Latin America\n0.0\n0.3\n0.0\n0.0\n0.3\n0.0\n1.3\n0.3\n0.0\n0.0\n0.3\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n57\nThe Hershey Company 2023 ESG Report\n\n\n--- PAGE 58 ---\nResponsible Sourcing Ingredient Commitments & Progress\nIngredient\nCommitment\nGoal \n2023\n2022\n2021\nNotes\nTotal food \ningredients\nPercentage of food ingredients sourced (by cost) certified to third-party \nenvironmental and/or social standards (e.g., Fair Trade USA, Rainforest Alliance, \nRSPO and Bonsucro)\nN/A\n 38 %\n 41 %\n 43 %\n—\nCocoa \nSource independently verified cocoa (by volume) through: Fair Trade USA, \nRainforest Alliance (UTZ) and verified supplier program standards meeting \ninternational criteria\n100% by 2020 \nAchieved\n 100 %\n 100 %\n 100 %\n—\nSourcing visibility of Hershey's cocoa volume in Côte d'Ivoire and Ghana\n100% by 2025 \nOn Track\n 89 %\n 77 %\n 68 %\n—\nDairy \nSource dairy volumes from suppliers enrolled in and assessed through the SDP\n100% by 2024\nOn Track\n 73 %\n 76 %\n 80 %\n1\nSugar \nAchieve traceability to the mill (by volume)\n100% by 2025\nOn Track\nData pending\n 95 %\n 70 %\n2\nProcure sugar (by volume) from sources certified or verified to a recognized \nsustainability standard covering the farm level\n100% by 2025\nOn Track\n 82 %\n 72 %\n 62 %\n—\nPalm \nSource RSPO-certified mass balance palm oil (by volume)\n100% by 2020\nAchieved\n 100 %\n 100 %\n 100 %\n3\nAchieve 100% traceability to the mill\n100% by 2020\nAchieved\n 100 %\n 100 %\n 100 %\n4\nAchieve traceability to plantation\n100% by 2025\nOn Track\n 98 %\n 92.6 %\n 83.6 %\n5\nAchieve a verified deforestation-free palm supply chain\n100% by 2025\nOn Track\n 63 %\n 58 %\n 51 %\n6\nPulp and Paper\nTrace virgin pulp and paper packaging sourced globally back to the country of \nharvest\n100% by 2025\nOn Track\n 64 %\n 86.7 %\nNot Applicable\n7\nSource pulp and paper packaging (by volume) from recycled or certified \nsources globally\n100% by 2025\nOn Track\n 87 %\n 89 %\n 69 %\n7\nCoconut \nSource certified coconut (by volume) through Fair Trade USA\n100% by 2020\nAchieved\n 100 %\n 100 %\n 96 %\n8\nEggs \nSource certified cage-free eggs (by volume)"
+    },
+    {
+      "chunk_id": "DOC_F89879677373_CHUNK_0138",
+      "chunk_number": 138,
+      "page_or_section_hint": "page_80",
+      "signal_score": 124,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [
+            "distribution"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "6.00 %",
+          "0.96 %",
+          "0.82 %",
+          "0.81 %",
+          "3.61 %",
+          "4.16 %",
+          "3.07 %",
+          "0.58 %",
+          "0.47 %",
+          "0.45 %",
+          "7.61 %",
+          "11.77 %",
+          "8.45 %",
+          "2.69 %",
+          "2.66 %",
+          "2.56 %",
+          "4.11 %",
+          "4.14 %",
+          "3.92 %",
+          "27.37 %",
+          "79.30 %",
+          "47.29 %",
+          "15.33 %",
+          "30.77 %",
+          "22.97 %",
+          "0.41 %",
+          "0.00 %",
+          "5.67 %",
+          "10.03 %",
+          "8.54 %",
+          "26.85 %",
+          "39.56 %",
+          "34.72 %",
+          "3.09 %",
+          "2.04 %",
+          "1.74 %",
+          "2.81 %",
+          "2.78 %",
+          "2.20 %",
+          "1.23 %",
+          "1.61 %",
+          "1.26 %",
+          "8.17 %",
+          "6.56 %",
+          "0.59 %",
+          "8.66 %",
+          "17.69 %",
+          "11.50 %",
+          "0.66 %",
+          "0.51 %"
+        ],
+        "candidate_years": [
+          "2023",
+          "2022",
+          "2021",
+          "2024"
+        ],
+        "candidate_units": []
+      },
+      "text": "buted to the growth of Hershey's Salty segment. Work is underway to integrate innovative waste solutions at these facilities.\n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n80\nThe Hershey Company 2023 ESG Report\n\n\n--- PAGE 81 ---\nBiodiversity1\nUnit\n2023\n2022\n2021\nBethlehem, PA\n%\n 6.00 %\nNot Applicable\nNot Applicable\nHershey, PA\n%\n 0.96 %\n 0.82 %\n 0.81 %\nHazleton, PA\n%\n 3.61 %\n 4.16 %\n 3.07 %\nLancaster, PA\n%\n 0.58 %\n 0.47 %\n 0.45 %\nStuarts Draft, VA\n%\n 7.61 %\n 11.77 %\n 8.45 %\nMemphis, TN\n%\n 2.69 %\n 2.66 %\n 2.56 %\nRobinson, IL\n%\n 4.11 %\n 4.14 %\n 3.92 %\nMonterrey, Nuevo León, Mexico\n%\n 27.37 %\n 79.30 %\n 47.29 %\nGuadalajara, Jalisco, Mexico\n%\n 15.33 %\n 30.77 %\n 22.97 %\nMandideep, Madhya Pradesh, India\n%\n 0.41 %\n 0.00 %\n 0.00 %\nJohor, Malaysia\n%\n 5.67 %\n 10.03 %\n 8.54 %\nSão Roque, São Paulo, Brazil\n%\n 26.85 %\n 39.56 %\n 34.72 %\nGranby, Quebec, Canada\n%\n 3.09 %\n 2.04 %\n 1.74 %\nSt. Hyacinthe, Quebec, Canada\n%\n 2.81 %\n 2.78 %\n 2.20 %\nEdwardsville, IL\n%\n 1.23 %\n 1.61 %\n 1.26 %\nOgden, UT\n%\n 8.17 %\n 6.56 %\n 6.56 %\nEdgerton, KS\n%\n 0.82 %\n 0.59 %\n 0.59 %\nGoodyear, AZ\n%\n 8.66 %\n 17.69 %\n 11.50 %\nLenexa, KS\n%\n 0.66 %\n 0.51 %\n 0.50 %\nVelva, ND\n%\n 1.29 %\n 1.43 %\n 0.89 %\nLawrence, KS\n%\n 0.76 %\n 0.75 %\n 0.74 %\nBluffton, IN\n%\n 0.33 %\n 0.42 %\n 0.34 %\nPlymouth, IN\n%\n 1.65 %\n 1.58 %\n 1.54 %\nWhitestown, IN\n%\n 25.00 %\nNot Applicable\nNot Applicable\n1\nThis data represents operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high biodiversity value outside protected areas. More specifically, the information identifies at Hershey-owned manufacturing \nfacilities and distribution centers, the percentage of nearby landscape considered under protection within 50 kilometers according to The World Database on Protected Areas (WDPA). The WDPA is the most comprehensive global database on \nterrestrial and marine protected areas and is updated on a monthly basis to track the dynamics of changes to the world's protected areas. The WDPA database is continuously improving based on new information. The results reflected in this \ntable are up to date as of February 2024.\n Contents\nMa"
+    },
+    {
+      "chunk_id": "DOC_F89879677373_CHUNK_0170",
+      "chunk_number": 170,
+      "page_or_section_hint": "page_96",
+      "signal_score": 124,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "7.4 %",
+          "66.2 %",
+          "26.4 %",
+          "6.5 %",
+          "66.7 %",
+          "26.8 %",
+          "7.0 %",
+          "65.4 %",
+          "27.6 %",
+          "0.0 %",
+          "57.4 %",
+          "42.6 %",
+          "53.9 %",
+          "46.1 %",
+          "55.2 %",
+          "44.8 %",
+          "36.4 %",
+          "63.6 %",
+          "40.0 %",
+          "60.0 %",
+          "44.4 %",
+          "55.6 %",
+          "100%",
+          "34.4 %",
+          "19.4 %",
+          "34.6 %",
+          "17.2 %",
+          "32.2 %",
+          "17.3 %",
+          "47.6 %",
+          "19.0 %",
+          "47.4 %",
+          "18.4 %",
+          "46.5 %",
+          "18.0 %",
+          "15.4 %",
+          "34.2 %",
+          "14.1 %",
+          "33.3 %",
+          "13.9 %",
+          "46.7 %",
+          "16.6 %",
+          "46.9 %",
+          "16.9 %",
+          "48.1 %",
+          "14.6 %",
+          "38.7 %",
+          "34.8 %",
+          "38.5 %",
+          "33.5 %"
+        ],
+        "candidate_years": [
+          "2023",
+          "2022",
+          "2021"
+        ],
+        "candidate_units": []
+      },
+      "text": "agement\n 7.4 %\n 66.2 %\n 26.4 %\n 6.5 %\n 66.7 %\n 26.8 %\n 7.0 %\n 65.4 %\n 27.6 %\nSenior Leader\n 0.0 %\n 57.4 %\n 42.6 %\n 0.0 %\n 53.9 %\n 46.1 %\n 0.0 %\n 55.2 %\n 44.8 %\nExecutive team\n 0.0 %\n 36.4 %\n 63.6 %\n 0.0 %\n 40.0 %\n 60.0 %\n 0.0 %\n 44.4 %\n 55.6 %\n1\nSelect data in the global workforce by age table received limited assurance by EY and the corresponding limited assurance statement is found on our corporate website. \n2\nData may not equal 100% due to rounding. Employees include both full-time and part-time employees.\n3\nEmployee gender and race/ethnicity are based upon employee self-identification data as of December 31, 2023. Other indicators of diversity are defined as POC. POC includes U.S. employees identified as Black, African American, Hispanic/Latino, Asian/Asian Pacific Islander, Hawaiian Pacific Islander and those \nwho identify as two or more races. \n Contents\nMaking Good\nOur Company\nCocoa\nResponsible Sourcing and Human Rights\nEnvironment\nOur People\nYouth\nCommunity\nAbout This Report\n96\nThe Hershey Company 2023 ESG Report\n\n\n--- PAGE 97 ---\nU.S. Workforce by Hershey Internal Job Category1\n2023\n2022\n2021\nFemale\nPOC\nFemale\nPOC\nFemale\nPOC\nExecutives/senior leaders\n 34.4 %\n 19.4 %\n 34.6 %\n 17.2 %\n 32.2 %\n 17.3 %\nEntry-level professional employees\n 47.6 %\n 19.0 %\n 47.4 %\n 18.4 %\n 46.5 %\n 18.0 %\nLeaders in commercial functions\n 34.6 %\n 15.4 %\n 34.2 %\n 14.1 %\n 33.3 %\n 13.9 %\nSales employees\n 46.7 %\n 16.6 %\n 46.9 %\n 16.9 %\n 48.1 %\n 14.6 %\nHourly manufacturing employees\n 38.7 %\n 34.8 %\n 38.5 %\n 33.5 %\n 35.0 %\n 30.5 %\n1\nData in this table represents Hershey internal HR job category data and does not directly correlate to EEOC job category data. Data in this table is based on employee self-identification in Hershey’s HR data system as of December 31, 2023. \nU.S. Workforce by Employee Category\n2023\n2022\n2021\nNotes\nSenior leader as percentage of total workforce\n 2.0 %\n 1.9 %\n 2.0 %\n1\nManagement as percentage of total workforce\n 14.1 %\n 13.3 %\n 13.0 % \n— \nNon-management as percentage of total workforce\n 85.9 %\n 86.7 %\n 87.0 % \n— \nProportion of senior management hired from the local community\n 79.3 %\n 100.0 %\n 87.5 %\n2\n1\nSenior leader level data includes Hershey people leaders o"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

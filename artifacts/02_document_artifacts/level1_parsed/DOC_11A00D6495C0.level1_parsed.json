@@ -1,0 +1,226 @@
+{
+  "doc_id": "DOC_11A00D6495C0",
+  "file_name": "PCU49314931.xlsx",
+  "source_owner": "logistics_distribution",
+  "document_title": "Pcu49314931",
+  "packet": "logistics_distribution",
+  "document_type": "excel_workbook",
+  "summary": "Local Level 1 parse for PCU49314931.xlsx. Packet: logistics_distribution. Evidence role: unknown. Input mode: table_summary_plus_text. Detected entities/stages include: USDA ERS, warehousing, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "warehousing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: warehousing"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "refer to the Terms of Use: https://fred.stlouisfed.org/legal#fred-terms-faq NaN NaN\n File Created: 2026-05-06 6:18 pm CDT NaN NaN\n NaN NaN NaN\n PCU49314931 Producer Price Index by Industry: Warehousing a"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NaN\n NaN NaN NaN\n PCU49314931 Producer Price Index by Industry: Warehousing and Storage, Index Dec 2006=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14\n\n---\n\nTABLE/SHEET: Monthly\nROWS: 232"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "dustry: Warehousing and Storage, Index Dec 2006=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14\n\n---\n\nTABLE/SHEET: Monthly\nROWS: 232\nCOLUMNS: 2\nHEADERS: observation_date, PCU49314931\nPREVIE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ROWS: 232\nCOLUMNS: 2\nHEADERS: observation_date, PCU49314931\nPREVIEW:\nobservation_date PCU49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": ": 2\nHEADERS: observation_date, PCU49314931\nPREVIEW:\nobservation_date PCU49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "vation_date, PCU49314931\nPREVIEW:\nobservation_date PCU49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "314931\nPREVIEW:\nobservation_date PCU49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "servation_date PCU49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107.3"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107.3"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107.3"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107.3"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107.3"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2026",
+    "2006",
+    "2007",
+    "2008"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "warehousing",
+      "evidence_text": "PCU49314931 Producer Price Index by Industry: Warehousing and Storage, Index Dec 2006=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "table_summary_plus_text",
+    "priority_score": 21,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": false
+  }
+}

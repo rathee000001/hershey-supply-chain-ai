@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_2FB8D1A92FFF",
+  "file_name": "soy_lecithin_function_in_chocolate_explanation.pdf",
+  "relative_path": "03_ingredient_research/soy_lecithin/01_function_in_chocolate/soy_lecithin_function_in_chocolate_explanation.pdf",
+  "packet": "soy_lecithin",
+  "document_type": "pdf_document",
+  "evidence_role": "process_or_function_context",
+  "extracted_at": "2026-05-06T19:56:56",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_2FB8D1A92FFF.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_2FB8D1A92FFF/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

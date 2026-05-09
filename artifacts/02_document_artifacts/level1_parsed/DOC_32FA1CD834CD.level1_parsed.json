@@ -1,0 +1,501 @@
+{
+  "doc_id": "DOC_32FA1CD834CD",
+  "file_name": "sugar_cane_beet_processing_explanation.pdf",
+  "source_owner": "sugar",
+  "document_title": "Sugar Cane Beet Processing Explanation",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for sugar_cane_beet_processing_explanation.pdf. Packet: sugar. Evidence role: process_or_function_context. Input mode: text_only. Detected entities/stages include: USDA, USDA ERS, USDA AMS, EPA, Sugar, manufacturing, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 23",
+      "page_or_location": "page_17",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 24",
+      "page_or_location": "page_18",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: production"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: retail"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "weight",
+      "metric_value": "50 lbs",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3,404\n2,274\n823,674\n Consumer-size packages\n8,230\n32,806\n38,768\n59,592\n33,761\n541\n173,697\n Packages 50 lbs and greater\n7,129\n31,338\n89,407\n93,258\n56,663\n1,344\n279,139\n Unpackaged (bulk)\n11,357\n52,243\n195,58"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_32FA1CD834CD_CHUNK_0001 ---\n--- PAGE 1 ---\nPUBLISHED DATE – NOVEMBER 14, 2025 \nTABLE OF CONTENTS \n \n \n \n \n \n \n \n \n \n \n \n \n \n PAGE # \n \nFOREWORD AND TABLE NOTES ……………………………………………"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "PAGE # \n \nFOREWORD AND TABLE NOTES …………………………………………………………………… II \nSEPTEMBER 2025 COMPARISON TO LAST FISCAL YEAR ……...……….....….…………..…….. III \nTABLES ………………………………………………………………………………"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ES …………………………………………………………………………………………………….. 1-19 \n \nTABLE 1: U.S. SUGAR SUPPLY AND USE, FISCAL YEAR 2025 (THROUGH SEPTEMBER 2025) …...…... 1 \n \nTABLE 1-A: U.S. RAW AND REFINED SUGAR SUPPLY AND USE, FISCAL"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "…………………………………………….. 1-19 \n \nTABLE 1: U.S. SUGAR SUPPLY AND USE, FISCAL YEAR 2025 (THROUGH SEPTEMBER 2025) …...…... 1 \n \nTABLE 1-A: U.S. RAW AND REFINED SUGAR SUPPLY AND USE, FISCAL YEAR 2025 (THROUGH \n SE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "UGH SEPTEMBER 2025) …...…... 1 \n \nTABLE 1-A: U.S. RAW AND REFINED SUGAR SUPPLY AND USE, FISCAL YEAR 2025 (THROUGH \n SEPTEMBER 2025) ……………...….………………………………………………………………..… 2 \n \nTABLE 1-B: IMPORTS BY CANE RE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".. 1 \n \nTABLE 1-A: U.S. RAW AND REFINED SUGAR SUPPLY AND USE, FISCAL YEAR 2025 (THROUGH \n SEPTEMBER 2025) ……………...….………………………………………………………………..… 2 \n \nTABLE 1-B: IMPORTS BY CANE REFINERS AND NON-REPORTERS O"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NE REFINERS AND NON-REPORTERS OF RAW AND REFINED SUGAR, \n FROM MEXICO AND THE REST OF THE WORLD, FY 2025 (SHORT TONS, RAW VALUE) …… 3 \n \nTABLE 2: U.S. SUGAR SUPPLY AND USE BY BEET PROCESSORS, FISCAL YEAR"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(SHORT TONS, RAW VALUE) …… 3 \n \nTABLE 2: U.S. SUGAR SUPPLY AND USE BY BEET PROCESSORS, FISCAL YEAR 2025 \n (THROUGH SEPTEMBER 2025) ……………….….…………….……………………………………… 4 \n \nTABLE 3: U.S. SUGAR SUPPLY AND USE B"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "… 3 \n \nTABLE 2: U.S. SUGAR SUPPLY AND USE BY BEET PROCESSORS, FISCAL YEAR 2025 \n (THROUGH SEPTEMBER 2025) ……………….….…………….……………………………………… 4 \n \nTABLE 3: U.S. SUGAR SUPPLY AND USE BY CANE PROCESSORS, FISCAL"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "……….….…………….……………………………………… 4 \n \nTABLE 3: U.S. SUGAR SUPPLY AND USE BY CANE PROCESSORS, FISCAL YEAR 2025 \n (THROUGH SEPTEMBER 2025) ………….……………………….………...…………………………. 5 \n \nTABLE 4: U.S. SUGAR SUPPLY AND USE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "… 4 \n \nTABLE 3: U.S. SUGAR SUPPLY AND USE BY CANE PROCESSORS, FISCAL YEAR 2025 \n (THROUGH SEPTEMBER 2025) ………….……………………….………...…………………………. 5 \n \nTABLE 4: U.S. SUGAR SUPPLY AND USE BY CANE REFINERS, FISCAL"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "….……………………….………...…………………………. 5 \n \nTABLE 4: U.S. SUGAR SUPPLY AND USE BY CANE REFINERS, FISCAL YEAR 2025 \n (THROUGH SEPTEMBER 2025) …………………………………………………………………….…. 6 \n \nTABLE 5: U.S. SUGAR PRODUCTION BY SUG"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "……. 5 \n \nTABLE 4: U.S. SUGAR SUPPLY AND USE BY CANE REFINERS, FISCAL YEAR 2025 \n (THROUGH SEPTEMBER 2025) …………………………………………………………………….…. 6 \n \nTABLE 5: U.S. SUGAR PRODUCTION BY SUGAR BEET AND SUGARCANE PROC"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "……………….…. 6 \n \nTABLE 5: U.S. SUGAR PRODUCTION BY SUGAR BEET AND SUGARCANE PROCESSORS, FISCAL \n YEAR 2025 (THROUGH SEPTEMBER 2025) ……...….……………………………...……………….. 7 \n \nTABLE 5-A: BEET MONTHLY FY 2025 PRODUCT"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "U.S. SUGAR PRODUCTION BY SUGAR BEET AND SUGARCANE PROCESSORS, FISCAL \n YEAR 2025 (THROUGH SEPTEMBER 2025) ……...….……………………………...……………….. 7 \n \nTABLE 5-A: BEET MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOV"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "YEAR 2025 (THROUGH SEPTEMBER 2025) ……...….……………………………...……………….. 7 \n \nTABLE 5-A: BEET MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE …… 8 \nTABLE 5-B: BEET MONTHLY FY 2026 PRODUCTION FO"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".….……………………………...……………….. 7 \n \nTABLE 5-A: BEET MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE …… 8 \nTABLE 5-B: BEET MONTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE …… 9"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ET MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE …… 8 \nTABLE 5-B: BEET MONTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE …… 9 \n \nTABLE 5-C: FLORIDA MONTHLY FY 2025 PRODUCTI"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "THE NOVEMBER 2025 WASDE …… 8 \nTABLE 5-B: BEET MONTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE …… 9 \n \nTABLE 5-C: FLORIDA MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 10"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE …… 9 \n \nTABLE 5-C: FLORIDA MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 10 \nTABLE 5-D: FLORIDA MONTHLY FY 2026 PRODUCTION F"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NOVEMBER 2025 WASDE …… 9 \n \nTABLE 5-C: FLORIDA MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 10 \nTABLE 5-D: FLORIDA MONTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE 10"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "A MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 10 \nTABLE 5-D: FLORIDA MONTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE 10 \n \nTABLE 5-E: LOUISIANA MONTHLY FY 2025 PRODUCTI"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "THE NOVEMBER 2025 WASDE 10 \nTABLE 5-D: FLORIDA MONTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE 10 \n \nTABLE 5-E: LOUISIANA MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 11"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NTHLY FY 2026 PRODUCTION FORECAST FOR THE NOVEMBER 2025 WASDE 10 \n \nTABLE 5-E: LOUISIANA MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 11 \nTABLE 5-F: LOUISIANA MONTHLY FY 2026 PRODUCTION"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NOVEMBER 2025 WASDE 10 \n \nTABLE 5-E: LOUISIANA MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 11 \nTABLE 5-F: LOUISIANA MONTHLY FY 2026 PRODUCTION FORECAST FOR THE SEPTEMBER 2025 WASDE 11"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "MONTHLY FY 2025 PRODUCTION ESTIMATE FOR THE NOVEMBER 2025 WASDE 11 \nTABLE 5-F: LOUISIANA MONTHLY FY 2026 PRODUCTION FORECAST FOR THE SEPTEMBER 2025 WASDE 11 \n \nTABLE 6: U.S. ENDING STOCKS OF SUGAR, FISCAL"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "NOVEMBER 2025 WASDE 11 \nTABLE 5-F: LOUISIANA MONTHLY FY 2026 PRODUCTION FORECAST FOR THE SEPTEMBER 2025 WASDE 11 \n \nTABLE 6: U.S. ENDING STOCKS OF SUGAR, FISCAL YEAR 2025 ………………………….…………........... 12 \nT"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CTION FORECAST FOR THE SEPTEMBER 2025 WASDE 11 \n \nTABLE 6: U.S. ENDING STOCKS OF SUGAR, FISCAL YEAR 2025 ………………………….…………........... 12 \nTABLE 6-A: U.S. MISCELLANEOUS, FISCAL YEAR 2025 ……………………………………….…………"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "F SUGAR, FISCAL YEAR 2025 ………………………….…………........... 12 \nTABLE 6-A: U.S. MISCELLANEOUS, FISCAL YEAR 2025 ……………………………………….……………… 13 \n \nTABLE 7: U.S. DISTRIBUTION OF SUGAR, FISCAL YEAR 2025 (THROUGH SEPTEMB"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "OUS, FISCAL YEAR 2025 ……………………………………….……………… 13 \n \nTABLE 7: U.S. DISTRIBUTION OF SUGAR, FISCAL YEAR 2025 (THROUGH SEPTEMBER 2025) ……..… 14 \n \nTABLE 8: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-E"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "………………………………….……………… 13 \n \nTABLE 7: U.S. DISTRIBUTION OF SUGAR, FISCAL YEAR 2025 (THROUGH SEPTEMBER 2025) ……..… 14 \n \nTABLE 8: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "TABLE 8: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR SEPTEMBER 2025 …………..…………….………………………………………….…………… 15 \n \nTABLE 9: U.S. SUGAR DELIVERI\n\n--- DOC_32FA1CD834CD_CHUNK_0"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "………………………….…………… 15 \n \nTABLE 9: U.S. SUGAR DELIVERI\n\n--- DOC_32FA1CD834CD_CHUNK_0002 page_1 ---\nEAR 2025 ……………………………………….……………… 13 \n \nTABLE 7: U.S. DISTRIBUTION OF SUGAR, FISCAL YEAR 2025 (THROUGH SEPTEMB"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2 page_1 ---\nEAR 2025 ……………………………………….……………… 13 \n \nTABLE 7: U.S. DISTRIBUTION OF SUGAR, FISCAL YEAR 2025 (THROUGH SEPTEMBER 2025) ……..… 14 \n \nTABLE 8: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-E"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "………………………………….……………… 13 \n \nTABLE 7: U.S. DISTRIBUTION OF SUGAR, FISCAL YEAR 2025 (THROUGH SEPTEMBER 2025) ……..… 14 \n \nTABLE 8: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "TABLE 8: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR SEPTEMBER 2025 …………..…………….………………………………………….…………… 15 \n \nTABLE 9: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "TABLE 9: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR SEPTEMBER 2025 AND FISCAL YEAR 2025 ……….…...…………………………………..….. 16 \n \nTABLE 10: U.S. SUGAR DELIVERIES FOR HUMAN USE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "R DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR SEPTEMBER 2025 AND FISCAL YEAR 2025 ……….…...…………………………………..….. 16 \n \nTABLE 10: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPO"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "BLE 10: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n THROUGH SEPTEMBER 2025 ………….....……………………..……………………….………..… 17 \n \nTABLE 11: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCT"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ABLE 11: U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR FISCAL YEARS 2025 AND 2024 (THRU SEPTEMBER) AND PERCENT OF CHANGE …… 18 \n \nII\n\n--- PAGE 2 ---\nFOREWORD \nBeet processo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "U.S. SUGAR DELIVERIES FOR HUMAN USE AND PRODUCTS RE-EXPORT BY REPORTERS \n FOR FISCAL YEARS 2025 AND 2024 (THRU SEPTEMBER) AND PERCENT OF CHANGE …… 18 \n \nII\n\n--- PAGE 2 ---\nFOREWORD \nBeet processors, cane"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1996",
+      "unit": "",
+      "page_or_location": "",
+      "context": "efiners in the United States are required by the Federal Agriculture \nImprovement and Reform Act of 1996, as amended, to report data on physical quantities of stocks, production, \nimports, sales, and inve"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2011",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ers are not required to report their stocks, imports, or exports data. \nStarting with the SEPTEMBER 2011 SMD report, “Refined Imports” reflect “Total Imports” (as posted by the \nForeign Agricultural Servi"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "iner Raw Imports” (as \nreported to FSA by cane refiners). This is a return to the method used in FY 2008 through FY 2010. \nThis report was compiled and reconciled by Carlann Unger and Barbara Fecso. Quest"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2010",
+      "unit": "",
+      "page_or_location": "",
+      "context": "” (as \nreported to FSA by cane refiners). This is a return to the method used in FY 2008 through FY 2010. \nThis report was compiled and reconciled by Carlann Unger and Barbara Fecso. Questions about this"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "stimates, which varies through the growing season \nand is not consistent among sectors (see Cornell 2008 Sugar and Sweeteners Outlook \nhttp://usda.mannlib.cornell.edu/usda/ers/SSS//2000s/2008/SSS-01-29-20"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(see Cornell 2008 Sugar and Sweeteners Outlook \nhttp://usda.mannlib.cornell.edu/usda/ers/SSS//2000s/2008/SSS-01-29-2008.pdf). \n \n• \nRegions on tables 8 and 10 are defined as: \nNew England - Maine, New Ham"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2008",
+      "unit": "",
+      "page_or_location": "",
+      "context": "08 Sugar and Sweeteners Outlook \nhttp://usda.mannlib.cornell.edu/usda/ers/SSS//2000s/2008/SSS-01-29-2008.pdf). \n \n• \nRegions on tables 8 and 10 are defined as: \nNew England - Maine, New Hampshire, Vermont"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "to Rico - entered separately and included with U.S. total. \n \n \n \n \n \nIII\n\n--- PAGE 3 ---\nSEPTEMBER 2025 COMPARISON TO LAST FISCAL YEAR \n \n \nSEPTEMBER (STRV) \nFY 2025 \nFY 2024 \n% Change \nQuantity \n \nBegin"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2025",
+    "2026",
+    "2024",
+    "1996",
+    "2011",
+    "2008",
+    "2010"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Sugar",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "Commercial sugar users, distributors,",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "compiled to produce the monthly Sweetener Market Data (SMD) report.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Marketing Allotment Program.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "sugar",
+      "evidence_text": "While these values are used to adjust sugar marketing allotments, they are not official USDA estimates,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Carolina, Georgia, Florida, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana, Oklahoma,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "da, Kentucky, Tennessee, Alabama, Mississippi, Arkansas, Louisiana, Oklahoma,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "http://www.fsa.usda.gov/programs-and-services/economic-and-policy-analysis/dairy-and-sweeteners-analysis/index",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Delaware, Maryland, District of Columbia, Virginia, West Virginia, North Carolina, South Carolina, Georgia, Florida, Kentucky, Tennessee, Alabama, Mississippi, Arkansas,",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 51,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": false
+  }
+}

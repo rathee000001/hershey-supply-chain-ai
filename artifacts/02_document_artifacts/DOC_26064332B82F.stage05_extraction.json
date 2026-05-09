@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_26064332B82F",
+  "file_name": "hershey_pulp_paper_page.pdf",
+  "relative_path": "03_ingredient_research/packaging_wrapper/00_hershey_packaging_evidence/hershey_pulp_paper_page.pdf",
+  "packet": "packaging_wrapper",
+  "document_type": "pdf_document",
+  "evidence_role": "direct_company_evidence",
+  "extracted_at": "2026-05-06T19:56:44",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_26064332B82F.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_26064332B82F/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

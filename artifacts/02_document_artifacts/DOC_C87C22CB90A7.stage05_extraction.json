@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_C87C22CB90A7",
+  "file_name": "Cocoa-The-Hershey-Company-05-06-2026_02_25_PM.pdf",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/hershey_evidence/Cocoa-The-Hershey-Company-05-06-2026_02_25_PM.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "evidence_role": "direct_company_evidence",
+  "extracted_at": "2026-05-06T19:56:23",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_C87C22CB90A7.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C87C22CB90A7/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

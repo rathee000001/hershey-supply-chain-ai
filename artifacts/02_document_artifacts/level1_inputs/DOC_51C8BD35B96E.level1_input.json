@@ -1,0 +1,72 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_51C8BD35B96E",
+    "file_name": "lecithin_emulsifier_chocolate_use.pdf",
+    "relative_path": "03_ingredient_research/soy_lecithin/01_function_in_chocolate/lecithin_emulsifier_chocolate_use.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/soy_lecithin/01_function_in_chocolate/lecithin_emulsifier_chocolate_use.pdf",
+    "packet": "soy_lecithin",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 2456709,
+    "sha256": "dac3b3a124cbaa142bc8503e90e33575a3def50bbf9d657a1943c5debda29f16"
+  },
+  "ai_input_mode": "visual_priority",
+  "priority_score": 41,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_51C8BD35B96E.txt",
+    "page_count": 1,
+    "total_text_length": 14,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_51C8BD35B96E/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_51C8BD35B96E_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 0,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": [
+    "This source needs visual/manual/vision review because text extraction is weak or the file is image-based."
+  ]
+}

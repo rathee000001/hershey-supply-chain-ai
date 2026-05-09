@@ -1,0 +1,95 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_E2BE0206EF0C",
+    "file_name": "usda_ams_class_iv_milk_price_reference.pdf",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_class_iv_milk_price_reference.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_class_iv_milk_price_reference.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 757067,
+    "sha256": "5b27b2ba1c88bdd1e3e30ac0f2114d4095355c0c4f5cfa21c55957785af9fb20"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 66,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_E2BE0206EF0C.txt",
+    "page_count": 2,
+    "total_text_length": 1355,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_E2BE0206EF0C/page_001.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_E2BE0206EF0C/page_002.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_E2BE0206EF0C_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 50,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "cost",
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [
+          "$0.2272",
+          "$0.2393"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2025"
+        ],
+        "candidate_units": [
+          "100 pounds",
+          "1 pound",
+          "96.5 pounds",
+          "3.5 pounds"
+        ]
+      },
+      "text": "--- PAGE 1 ---\nPage 1 of 2\nCalculating \nClass IV Price\n\n\n--- PAGE 2 ---\nPage 2 of 2\nCalculating Class \nIV Price: Details\nMonthly commodity prices are announced on or before the 5th day of the following month. \nClass prices are announced as dollars per hundredweight. CWT = hundredweight, 100 pounds.\nFormula Details\n$0.2272 = Manufacturing cost to produce 1 pound of butter, excluding cost of raw milk ($/lb).\n1.211 = Factor representing pounds of butter that can be made from 1 pound of butterfat (lb butter/lb butterfat).\n$0.2393 = Manufacturing cost to produce 1 pound of NFDM, excluding cost of raw milk ($/lb).\n0.99 = Factor representing pounds of NFDM that can be made from 1 pound of nonfat solids \n (lb NFDM/lb nonfat solids).\n9.0 = Factor representing pounds of nonfat solids found in a standard 100 pounds of skim milk \n (lb nonfat solids/cwt skim).\n0.965 = 96.5 pounds of skim in 100 pounds of milk (cwt skim/cwt milk). \n3.5 = 3.5 pounds of butterfat in 100 pounds of milk (lb butterfat/cwt milk).\nFor more information on the Price Formulas, visit \nwww.ams.usda.gov/resources/price-formulas\nFor more information on Advanced Prices & Pricing Factors and Class & Component Prices, \nvisit www.ams.usda.gov/rules-regulations/mmr/dmr\nAgricultural Marketing Service, June 2025.\nUSDA is an equal opportunity employer, provider and lender."
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

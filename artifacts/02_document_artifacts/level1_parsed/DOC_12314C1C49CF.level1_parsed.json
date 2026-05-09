@@ -1,0 +1,234 @@
+{
+  "doc_id": "DOC_12314C1C49CF",
+  "file_name": "interim_gras_33_apr_2026.pdf",
+  "source_owner": "natural_flavor",
+  "document_title": "Interim Gras 33 Apr 2026",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for interim_gras_33_apr_2026.pdf. Packet: natural_flavor. Evidence role: regulatory_definition. Input mode: text_only. Detected entities/stages include: USDA ERS, USDA AMS, FDA, FEMA, EPA, Sugar, Milk, Natural Flavor.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 6",
+      "page_or_location": "page_4",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 7",
+      "page_or_location": "page_5",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "FDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: food and drug administration"
+    },
+    {
+      "entity_name": "FEMA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: flavor and extract manufacturers association"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Natural Flavor",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: natural flavor"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: extraction"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: production"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: fda"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "percentage",
+      "metric_value": "3%",
+      "unit": "",
+      "page_or_location": "",
+      "context": "C2H4O-) of not less than 46% and \nnot more than 50%, equivalent to >95% (96-104%) polysorbate 65; \n≤3%water; ≤0.25% sulfated ash; and ≤0.1 ppm residual ethylene \noxide.\n\n--- PAGE 6 ---\nInterim FEMA GRAS"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1958",
+      "unit": "",
+      "page_or_location": "",
+      "context": "d as safe” (GRAS) under conditions of \ntheir intended use in food flavorings in accordance with the 1958 Food Additives Amendment to \nthe Federal Food, Drug and Cosmetic Act. For more information on FEMA"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2013",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ermined to be \n“generally recognized as safe” (GRAS) for use as flavor ingredients (Marnett et al., 2013). The uses \nof the flavor ingredients in this report that were determined to be GRAS were evaluated"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2013",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Harman C., McGowan M.M. and Taylor S.V. GRAS flavoring substances 26. Food \nTechnology. 67(8), 38. 2013. \n \nDISCLAIMER: The user of this list agrees that its use of this document and the information cont"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2013",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Harman C., McGowan M.M. and Taylor S.V. GRAS flavoring substances 26. Food \nTechnology. 67(8), 38. 2013. \n \nDISCLAIMER: The user of this list agrees that its use of this document and the information cont"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "xtract\nGibbous duckweed extract\nInflated duckweed extract\n5099\n5104\nInterim FEMA GRAS 33 List April 2026\n\n--- DOC_12314C1C49CF_CHUNK_0004 page_2 ---\nyoxyethylene derivatives\nPolyoxyethylene sorbitan trist"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "xtract\nGibbous duckweed extract\nInflated duckweed extract\n5099\n5104\nInterim FEMA GRAS 33 List April 2026\n\n--- PAGE 3 ---\nTable 2. Average Usual Use Levels (ppm)/Average Maximum Use Levels (ppm) for new FE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3776/7080\n50/150\n100/300\n5/30\nSugar Substitutes\nSweet Sauces\n50/150\nInterim FEMA GRAS 33 List April 2026\n\n--- DOC_12314C1C49CF_CHUNK_0005 page_3 ---\netable Protein\n500/5000\n3776/7080\n50/150\n100/300\nSeason"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3776/7080\n50/150\n100/300\n5/30\nSugar Substitutes\nSweet Sauces\n50/150\nInterim FEMA GRAS 33 List April 2026\n\n--- PAGE 4 ---\nTable 2. Average Usual Use Levels (ppm)/Average Maximum Use Levels (ppm) for new FE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1998",
+      "unit": "",
+      "page_or_location": "",
+      "context": "udioside A 75%\nLemna gibba extract\n5099\n5100\n5104\n50/50\n499/749\n10/50\n50/50\n499/749\n10/50\n50/50\n999/1998\n499/749\n250/499\n125/499\n499/749\n50/50\n499/749\n50/50\n60/80\n30/45\n400/599\n50/50\n60/80\n400/599\n400/599"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "400/599\n400/599\n649/849\n25/75\n25/75\n499/499\n400/749\n1249/4994\n30/50\nInterim FEMA GRAS 33 List April 2026\n\n--- DOC_12314C1C49CF_CHUNK_0006 page_4 ---\nrebaudioside A 75%\nLemna gibba extract\n5099\n5100\n5104\n5"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1998",
+      "unit": "",
+      "page_or_location": "",
+      "context": "udioside A 75%\nLemna gibba extract\n5099\n5100\n5104\n50/50\n499/749\n10/50\n50/50\n499/749\n10/50\n50/50\n999/1998\n499/749\n250/499\n125/499\n499/749\n50/50\n499/749\n50/50\n60/80\n30/45\n400/599\n50/50\n60/80\n400/599\n400/599"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "400/599\n400/599\n649/849\n25/75\n25/75\n499/499\n400/749\n1249/4994\n30/50\nInterim FEMA GRAS 33 List April 2026\n\n--- PAGE 5 ---\nInterim FEMA GRAS 33 List April 2026 \nTable 4. Identity for Natural Flavor Complexe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "249/4994\n30/50\nInterim FEMA GRAS 33 List April 2026\n\n--- PAGE 5 ---\nInterim FEMA GRAS 33 List April 2026 \nTable 4. Identity for Natural Flavor Complexes as Evaluated by the FEMA Expert Panel \n \n \n \nFEMA N"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ulfated ash; and ≤0.1 ppm residual ethylene \noxide.\n\n--- PAGE 6 ---\nInterim FEMA GRAS 33 List April 2026 \n5100 \nStevia rebaudiana extract, \nrebaudioside A 75% \nProduced by aqueous/ethanol extraction of St"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "1958",
+    "2013",
+    "2026",
+    "1998"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 42,
+    "selected_chunk_count": 7,
+    "requires_future_ai_or_visual_review": false
+  }
+}

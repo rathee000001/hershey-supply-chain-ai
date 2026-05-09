@@ -1,0 +1,109 @@
+{
+  "doc_id": "DOC_672F3875D726",
+  "file_name": "hershey_sustainable_sugar_sourcing_policy.pdf",
+  "source_owner": "The Hershey Company",
+  "document_title": "Hershey Sustainable Sugar Sourcing Policy",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for hershey_sustainable_sugar_sourcing_policy.pdf. Packet: sugar. Evidence role: direct_company_evidence. Input mode: text_only. Detected entities/stages include: The Hershey Company, USDA ERS, USDA AMS, Sugar, ingredient sourcing.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "The Hershey Company",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: the hershey company"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ractices varying by region. \nThe Hershey Company will procure 100 percent of our sugar purchases by 2020 from responsible and \nsustainable sources, keeping in line with the expectations in our supplier co"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "their refineries and other \nfacilities to the Sedex Members Ethical Trade Audit (SMETA) standard by 2020. Suppliers will be \nrequired to address any and all non-compliances with this standard in a prompt"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2020"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "The Hershey Company is committed to high standards in responsible and sustainable sugar sourcing.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "USDA AMS",
+      "relationship": "relationship language detected",
+      "evidence_text": "We will conduct annual reviews of our sugar suppliers’ sustainability programs to assess the",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "against Hershey’s Supplier Code of Conduct and industry best practices on sustainability",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "The Hershey Company intends to work with suppliers that not only share our values but are committed",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 81,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": false
+  }
+}

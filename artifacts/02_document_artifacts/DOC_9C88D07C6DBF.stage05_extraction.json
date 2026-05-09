@@ -1,0 +1,44 @@
+{
+  "doc_id": "DOC_9C88D07C6DBF",
+  "file_name": "usda_ams_advanced_class_prices_latest.pdf",
+  "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_advanced_class_prices_latest.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:36",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_9C88D07C6DBF.txt",
+      "page_count": 5,
+      "total_text_length": 11906,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 2117
+        },
+        {
+          "page": 2,
+          "text_length": 1684
+        },
+        {
+          "page": 3,
+          "text_length": 1815
+        },
+        {
+          "page": 4,
+          "text_length": 4067
+        },
+        {
+          "page": 5,
+          "text_length": 2136
+        }
+      ],
+      "rendered_page_images": [],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

@@ -1,0 +1,206 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_1ED749BEB0B8",
+    "file_name": "pulp-and-paper-sourcing-policy.pdf",
+    "relative_path": "03_ingredient_research/packaging_wrapper/00_hershey_packaging_evidence/pulp-and-paper-sourcing-policy.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/packaging_wrapper/00_hershey_packaging_evidence/pulp-and-paper-sourcing-policy.pdf",
+    "packet": "packaging_wrapper",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "file_extension": ".pdf",
+    "file_size_bytes": 68248,
+    "sha256": "17de846d96b1ea4f4459e2f242b63561c6e2c33fc11a8422f47973823e626da3"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 59,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_1ED749BEB0B8.txt",
+    "page_count": 3,
+    "total_text_length": 7253,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1ED749BEB0B8/page_001.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1ED749BEB0B8/page_002.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1ED749BEB0B8/page_003.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_1ED749BEB0B8_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 50,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing",
+            "sourced",
+            "partner"
+          ],
+          "cost_price": [
+            "market",
+            "ppi"
+          ],
+          "manufacturing": [
+            "manufacturing",
+            "plant",
+            "wrapping",
+            "packaging"
+          ],
+          "logistics": [
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "100%"
+        ],
+        "candidate_years": [
+          "2021",
+          "2015",
+          "2017",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nTHE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021\nHershey recognizes that forests serve as important reservoirs of greenhouse gases that would otherwise contribute to climate \nchange, provide habitats for plants and animals, contribute countless other ecosystem services such as preventing soil erosion, \nand provide livelihoods for Indigenous Peoples and local communities. Hershey is committed to responsible forest management \nand the conservation of natural resources through collaboration with our suppliers. \nPulp and paper packaging are integral to Hershey’s business. We use it as food packaging, wrapping, transportation and \nmarketing for our beloved brands. Beginning in 2015, Hershey committed to responsibly sourcing virgin fibers and recyclable \nmaterials for our products. Since 2017, we have required that 100% of pulp and paper sourced for our U.S. and Canada \noperations come from recycled material or certified1 mills.\nThe Hershey Company \nResponsible Pulp & Paper Sourcing Policy\nSCOPE\nHershey’s Responsible Pulp & Paper Sourcing Policy (Pulp & Paper Policy), updated in 2021, replaces our previous \nrequirements and commitments. It should be read in connection with Hershey’s Supplier Code of Conduct, Human Rights \nPolicy and Environmental Policy. \nOur Pulp & Paper Policy applies to all direct (“tier one”) suppliers that provide pulp and paper-based packaging made from \nvirgin fibers or recycled materials that is sourced by Hershey, as well as by our subsidiaries and contract packaging and contract \nmanufacturing partners for all Hershey products. \nWe expect our direct suppliers to meet and communicate these expectations throughout their pulp and paper supply chain by \nadopting policies and efficient management systems. This includes forest and peatland monitoring and response and human \nrights due diligence systems, grievance procedures and training programs to uphold the expectations set forth in this Pulp & \nPaper Policy within their own business operations, third party suppliers and raw material producers.\nOUR GOALS\nBy 2025, Hershey’s goals for our global supply chain are to: \n• \nResponsibly source 100% o"
+    },
+    {
+      "chunk_id": "DOC_1ED749BEB0B8_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 34,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "plant",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "100%"
+        ],
+        "candidate_years": [
+          "2025",
+          "2021"
+        ],
+        "candidate_units": []
+      },
+      "text": "s, grievance procedures and training programs to uphold the expectations set forth in this Pulp & \nPaper Policy within their own business operations, third party suppliers and raw material producers.\nOUR GOALS\nBy 2025, Hershey’s goals for our global supply chain are to: \n• \nResponsibly source 100% of our pulp and paper packaging from recycled or certified sources. Acceptable certification \nstandards include Forest Stewardship Council (FSC), Programme for the Endorsement of Forest Certification (PEFC), \nand Sustainable Forestry Initiative (SFI). \n• \nTrace 100% of the virgin pulp and paper packaging we source back to the country of harvest.\n \n1 Acceptable certification includes: Forest Stewardship Council (FSC), Programme for the Endorsement of Forest Certification (PEFC), \n and Sustainable Forestry Initiative (SFI)\n\n\n--- PAGE 2 ---\nTHE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021\n 2 As defined by The HCV Resource Network\n 3 As defined by The HCS Approach\n 4 In accordance with the UNGPs on non-judicial grievance mechanisms\nREQUIREMENTS\nIn addition to compliance with all applicable national, state, and local laws and regulations in the markets where we operate \nand from which we source palm oil, Hershey requires our suppliers to adhere to the following practices that comply with No \nDeforestation, No Peatland, No Exploitation (NDPE) principles across their operations.\nNo Deforestation and No Peatland Development\n• \nNo deforestation or conversion of High Conservation Value (HCV)2 areas or High Carbon Stock (HCS)3 forests \n• \nNo new development on peat, regardless of depth\n• \nNo burning in the preparation of plantings or any other development\n• \nNo sourcing from illegally harvested wood, which, for the purposes of this policy, means wood fiber obtained in violation of \napplicable government forest management requirements or other applicable laws and regulations \n• \nMake progressive reduction of Greenhouse Gas Emissions from operations of existing mills and plantations\nNo Exploitation\n• \nProhibit and eliminate any forms of forced labor, child labor and human trafficking, including, but not limited to, any form \nof prison, slave, b"
+    },
+    {
+      "chunk_id": "DOC_1ED749BEB0B8_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_2",
+      "signal_score": 11,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "plant",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "100%"
+        ],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "cable laws and regulations \n• \nMake progressive reduction of Greenhouse Gas Emissions from operations of existing mills and plantations\nNo Exploitation\n• \nProhibit and eliminate any forms of forced labor, child labor and human trafficking, including, but not limited to, any form \nof prison, slave, bonded or forced indentured labor\n• \nRespect and uphold land tenure rights of individuals, Indigenous Peoples and local communities. All forms of land grabbing \nare prohibited. Adherence to the principles of Free, Prior and Informed Consent of Indigenous Peoples is required in all \nengagement to seek consent for undertaking HCSA assessments and negotiations for developments on property or land to \nwhich they hold legal, communal or customary rights, including the use of and transfers of it.\n• \nNo sourcing of conflict timber, which, for the purposes of this policy, means wood fiber that was traded in a way that drives \nviolent armed conflict or threatens national or regional stability\n• \nZero tolerance for harassment, intimidation, criminalization, or violence towards human rights, and environmental and land \ndefenders\nSupply Chain Traceability & Transparency\n• \nResolve all complaints and conflicts, including land rights disputes, and remediate any policy violations through a \ntransparent, responsive and effective grievance mechanism that allows workers and other stakeholders impacted by \nsupply chain operations to report concerns and violations confidentially and anonymously without fear of retaliation \nor retribution4 \n• \nCertification to a credible, independent 3rd-party standard, with strong preference for FSC Forest Management and \nChain of Custody certification, but also will accept PEFC and SFI certification\n• \nIncrease pulp & paper supply chain traceability to achieve 100% traceability of virgin pulp and paper-based packaging to at \nleast country of harvest \n• \nDisclose upon request information regarding 3rd-party certifications of virgin pulp and paper-based packaging and \noperations in their supply chain, including at the forest source and mill level\n• \nEngage and collaborate with various stakeholders, including impacted Indigenous Peoples, local communities,"
+    },
+    {
+      "chunk_id": "DOC_1ED749BEB0B8_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_2",
+      "signal_score": 21,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2021"
+        ],
+        "candidate_units": []
+      },
+      "text": "se upon request information regarding 3rd-party certifications of virgin pulp and paper-based packaging and \noperations in their supply chain, including at the forest source and mill level\n• \nEngage and collaborate with various stakeholders, including impacted Indigenous Peoples, local communities, workers, \nsuppliers, peers, civil society, government, and others to help transform the pulp and paper sector to align with \nNDPE principles\n\n\n--- PAGE 3 ---\nTHE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021\nPreference for Recycled Fiber\nTo reduce our use of virgin pulp & paper, we will maintain a preference for recycled fiber where feasible, taking into account \nquality and food safety requirements as well as product specifications, with special attention given to the increased use of Post-\nConsumer Recycled materials in our paper packaging materials.\nIf a supplier is not in compliance with our Pulp & Paper Policy, Hershey may suspend or remove the pulp & paper supplier from \nour supply chain until corrective action plans have been implemented. \nHershey intends to work with pulp & paper suppliers that not only share our values and are willing to develop action plans to \nadhere to this Pulp & Paper Policy, but are also committed to collaborating, investing and working towards protecting the \nenvironment and native habitats, ensuring legal recognition and rights of Indigenous Peoples, and building resilient communities \nthrough the sustainable transformation of the pulp and paper oil sector."
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

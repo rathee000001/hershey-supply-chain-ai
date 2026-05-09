@@ -1,0 +1,310 @@
+{
+  "doc_id": "DOC_444A249CB5CF",
+  "file_name": "barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+  "source_owner": "Barry Callebaut",
+  "document_title": "Barry Callebaut Social Environmental Impact Report 2024 25",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for barry_callebaut_social_environmental_impact_report_2024_25.pdf. Packet: cocoa_chocolate_cocoa_butter. Evidence role: supplier_relationship_context. Input mode: text_plus_page_images. Detected entities/stages include: Barry Callebaut, Target, USDA ERS, USDA AMS, EPA, Chocolate, Cocoa, Soy Lecithin.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 70",
+      "page_or_location": "page_41",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 75",
+      "page_or_location": "page_43",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 77",
+      "page_or_location": "page_44",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 78",
+      "page_or_location": "page_45",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "Barry Callebaut",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: barry callebaut"
+    },
+    {
+      "entity_name": "Target",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: target"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Soy Lecithin",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: soy lecithin"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_444A249CB5CF_CHUNK_0001 ---\n--- PAGE 1 ---\nANNUAL SOCIAL \nAND ENVIRONMENTAL \nIMPACT REPORT\n2024/25\n\n--- PAGE 2 ---\n3\nThis is Barry Callebaut\n4\nLetter to Stakeholders\n6\nSustainability\n7\nOur Sustai"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nable Ingredients\n48\nProgress in Numbers\n49\nOur People\n50\nEmployee Development\n53\nChairman's Awards 2025\n54\nGovernance\n55\nGovernance\n57\nOur Approach to Materiality\n58\nRisk Overview\n68\nBusiness Conduct\n71"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "- PAGE 3 ---\nTHIS IS BARRY CALLEBAUT\nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n3\nBest Valu"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "han\n175 years\nof chocolate heritage\nMore than\n125,000\nchocolate professionals trained \nin-person in 2024/25\nMore than\n13,000\nemployees\nDoing business in over\n140\ncountries\nTo empower sustainable growth fo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "han\n175 years\nof chocolate heritage\nMore than\n125,000\nchocolate professionals trained \nin-person in 2024/25\nMore than\n13,000\nemployees\nDoing business in over\n140\ncountries\nTo empower sustainable growth fo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "_444A249CB5CF_CHUNK_0070 page_41 ---\nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n41\nFOREVER"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "gulation (EUDR) and directly \nsupports our deforestation- and conversion-free \ntarget by the end of 2025, as outlined in our \nThriving Nature chapter.\nOn-the-ground action\nWhile RSPO certification remains"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Level 2 Progress tracking.\nSupplier Progress on Level 1 Scorecard: Average \nScores\nLevel 1 Elements\n2024 Average \nScore\nEnvironmental Commitments\n 94 %\nHuman Rights Commitments\n 81 %\nSupplier Entities cov"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "00 %\nImplementation Plan\n 72 %\nProgress Reporting\n 78 %\nGrievance Mechanism\n 63 %\nNCS Process\n 69 %\n2024 Supplier Progress to Level 1\n 76 %\nSupplier Progress on Level 2 Scorecard: Average \nScores\nSupplier"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "y Alliance by the Innovation Centre \nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n43\nFOREVER"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "isionDairy Charter was \nsuccessfully completed with a growing number of \nour key dairy suppliers in 2024/25. As a result, we \nreached a record 79% sustainably sourced dairy \nvolume globally, exceeding int"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rategy: our first Net Zero dairy \npartnership outside of cocoa will be launched \ntowards the end of 2025. This milestone will \nextend our Net Zero ambition across high-\nemission ingredients and mark a key"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ing centralized, controlled drying. \nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n44\nFOREVER"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "onomic \nCooperation and Development (BMZ) supports \nsustainable business initiatives. Running from \n2021 to end 2025, the program aims to improve \nthe production conditions of coconut oil in two \nregions"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "eration and Development (BMZ) supports \nsustainable business initiatives. Running from \n2021 to end 2025, the program aims to improve \nthe production conditions of coconut oil in two \nregions in the Phili"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "oy lecithin: ProTerra, Roundtable on Responsible \nSoy (RTRS), Donau Soja, ISCC+ and Organic. \nSince 2024, we have been part of the ProTerra \nStakeholder Council and actively engage at \nindustry level. Pro"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "l standard for \nour deforestation-free target which includes soy \nlecithin.\nOn-the-ground action\nIn 2024/25, we saw a substantial increase in \nsupplier engagement for traceability and \ndeforestation-free"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "material to mill and regional level.\nBARRY CALLEBAUT\nAnnual Social and Environmental \nImpact Report 2024/25\nLetter to Stakeholders\nSustainability\nOur People\nGovernance\nTCFD\nGRI Report\nPolicies\n45\nFOREVER"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2016",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the \nlong-term resilience and sustainability of vanilla \nsupply chains.\nOn-the-ground action\nSince 2016, we have partnered with flavor \nproducer Prova, with financial support from \nSustainable Trade Init"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "hift led to increased cocoa volumes \nand the construction of a second cocoa \nfermentation center in 2024/25, improving post-\nharvest processing and income potential.\nOn the environmental side, in 2024/25,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "in 2024/25, improving post-\nharvest processing and income potential.\nOn the environmental side, in 2024/25, the project \npartnered with the Missouri Botanical Garden, a \nlocal NGO providing agroforestry"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2024",
+    "2025",
+    "2021",
+    "2016"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Cocoa",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "partnership outside of cocoa will be launched",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "requirements and setting a new benchmark",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "cocoa and chocolate sector, with ongoing price volatility, challenging",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "sustainable dairy in more emerging markets such",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "In the Philippines, we are a member of the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "regions in the Philippines and with this the",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 86,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": true
+  }
+}

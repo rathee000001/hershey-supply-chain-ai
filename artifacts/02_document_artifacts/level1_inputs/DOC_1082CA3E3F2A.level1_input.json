@@ -1,0 +1,218 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_1082CA3E3F2A",
+    "file_name": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+    "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_hershey_supply_agreement_news_release.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_hershey_supply_agreement_news_release.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 70170,
+    "sha256": "7fed6e0ca7b88f1fadda91217a47068bb4056b3f00bbc510f3002b7bf55a0467"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 94,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_1082CA3E3F2A.txt",
+    "page_count": 3,
+    "total_text_length": 7316,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1082CA3E3F2A/page_001.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1082CA3E3F2A/page_002.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1082CA3E3F2A/page_003.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_1082CA3E3F2A_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 34,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2007"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nHershey and Barry Callebaut Announce Strategic \nSupply and Innovation Partnership \n \n• \nBarry Callebaut to supply a minimum of 80,000 tons per year of chocolate and \nfinished products to Hershey under long-term global agreement \n• \nHershey to leverage Barry Callebaut’s premium chocolate expertise, cocoa and \norigin know-how and extensive chocolate innovation capabilities \n \nHershey, PA, USA/Zurich, Switzerland, April 26, 2007 – The Hershey Company \n(NYSE:HSY), North America’s leading manufacturer of quality consumer chocolate and \nconfectionery products, and Barry Callebaut, the world’s largest manufacturer of high-quality \ncocoa, industrial chocolate and confectionery products, today announced a strategic supply \nand innovation partnership. The cooperation will enable the companies to work together to \ndrive long-term growth in the global chocolate market. \n \nThe companies will partner on a wide range of research and development activities with a \nfocus on driving innovation in new chocolate taste experiences, premium chocolate, health \nand wellness, ingredient research and optimization. \n \nUnder the agreement, Barry Callebaut will construct and operate a facility to provide \nchocolate for Hershey’s new plant in Monterrey, Mexico. Barry Callebaut will also lease a \nportion of Hershey’s Robinson, Ill., plant, and operate chocolate-making equipment at the \nfacility. The partnership includes a long-term global agreement under which Barry Callebaut \nwill supply Hershey with a minimum of 80,000 tons per year of chocolate and finished \nproducts. \n \nThe agreement will significantly increase Barry Callebaut’s production capacity in the \nAmericas. Over the next three years, production capacities will increase by 130,000 tons, with \na significant portion of this production dedicated to supplying Hershey. The total investment \nby Barry Callebaut will amount to USD 50 million (CHF 65 million). \n \nThe two companies also will work together on efforts aimed at building a sustainable cocoa \nsupply, including the World Cocoa Foundation’s Sustainable Tree Crops Program, the \nInternational Cocoa Initiative Foundation and industry efforts to implement a certificatio"
+    },
+    {
+      "chunk_id": "DOC_1082CA3E3F2A_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 48,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar",
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing",
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "cost",
+            "$"
+          ],
+          "manufacturing": [
+            "production",
+            "factory"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [
+          "$5"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2007"
+        ],
+        "candidate_units": []
+      },
+      "text": "D 50 million (CHF 65 million). \n \nThe two companies also will work together on efforts aimed at building a sustainable cocoa \nsupply, including the World Cocoa Foundation’s Sustainable Tree Crops Program, the \nInternational Cocoa Initiative Foundation and industry efforts to implement a certification \nsystem in West Africa. Hershey will also participate in Barry Callebaut’s proprietary \ncorporate social responsibility and sustainable cocoa-bean sourcing programs. \n \n \n \n-more- \n \n \n1\n\n\n--- PAGE 2 ---\nRichard H. Lenny, Chairman, President and Chief Executive Officer, The Hershey Company, \nsaid, “Barry Callebaut is a global leader in high-quality chocolate, and we’re pleased with this \nopportunity to expand our relationship. This partnership provides Hershey with immediate \naccess to broad expertise in premium chocolate and builds on our strong research and \ndevelopment capabilities. We will work together on research involving unique cocoa flavors \nand formats to enable superior new product innovation. Barry Callebaut and Hershey will also \nwork together on corporate social responsibility efforts, with an emphasis on bringing about \nsustainable, positive change benefiting cocoa farmers and their families.” \n \nPatrick De Maeseneire, CEO of Barry Callebaut, said, “This long-term agreement with \nHershey marks a milestone for Barry Callebaut. The transaction will transform our business \nin the Americas by doubling our production capacities of chocolate in the region. On a group \nlevel, it will increase our volumes by 10 percent over three years. We will be able to \nsignificantly strengthen our factory network, bringing us closer to our customers and making \nus more competitive in North America. Thanks to our innovative strength and cost leadership, \nwe have succeeded in firmly establishing ourselves as a partner of choice on both sides of the \nAtlantic Ocean.” \n \nThe two parties expect the final agreements to be signed by the end of May 2007. \n \n \n* * * \n \nThe Hershey Company: \nThe Hershey Company (NYSE: HSY) is the largest North American manufacturer of quality \nchocolate and sugar confectionery products. With revenues of nearly $5 billion and more than \n13,000 emplo"
+    },
+    {
+      "chunk_id": "DOC_1082CA3E3F2A_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_2",
+      "signal_score": 35,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "milk chocolate",
+            "serving"
+          ],
+          "ingredient": [
+            "sugar",
+            "chocolate",
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [
+          "$5"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2007"
+        ],
+        "candidate_units": []
+      },
+      "text": "rties expect the final agreements to be signed by the end of May 2007. \n \n \n* * * \n \nThe Hershey Company: \nThe Hershey Company (NYSE: HSY) is the largest North American manufacturer of quality \nchocolate and sugar confectionery products. With revenues of nearly $5 billion and more than \n13,000 employees worldwide, The Hershey Company markets such iconic brands as \nHershey's, Reese's, Hershey's Kisses, and Ice Breakers. Hershey is the leader in the fast-\ngrowing dark and premium chocolate segment, with such brands as Hershey’s Special Dark, \nHershey’s Extra Dark and Cacao Reserve by Hershey’s. Hershey’s Ice Breakers franchise \ndelivers refreshment across a variety of mint and gum flavors and formats. In addition, \nHershey leverages its iconic brands, marketplace scale and confectionery and nut expertise to \ndevelop and deliver substantial snacks, including Hershey’s and Reese’s single-serve cookies \nand brownies, and value-added snack nuts, including Hershey’s Milk Chocolate Covered \nAlmonds and Hershey’s Special Dark Chocolate Covered Almonds. Hershey also offers a \nrange of products to address the health and well-being needs of today's consumer. Hershey’s \nand Reese’s Snacksters offer consumers great-tasting snacks in portion-controlled servings, \nwhile Hershey’s dark chocolate offerings provide the benefits of flavanol antioxidants. In \naddition, Artisan Confections Company, a wholly owned subsidiary of The Hershey \nCompany, markets such premium chocolate offerings as Scharffen Berger, known for its \nhigh-cacao dark chocolate products, Joseph Schmidt, recognized for its fine, handcrafted \nchocolate gifts, and Dagoba, known for its high-quality natural and organic chocolate bars. \nVisit us at www.hersheynewsroom.com. \n \n \nContacts at Hershey \nfor investors and financial analysts: \n \n \nfor the media: \nMark Pogharian \n \n \n \n \nKirk Saville \nThe Hershey Company \n \n \n \nThe Hershey Company \nPhone: +1 717 534 7556 \n \n \n \nPhone +1 717 534 7641 \n \n-more- \n \n2"
+    },
+    {
+      "chunk_id": "DOC_1082CA3E3F2A_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_2",
+      "signal_score": 37,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "production",
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "retailer",
+            "store"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2005"
+        ],
+        "candidate_units": []
+      },
+      "text": "organic chocolate bars. \nVisit us at www.hersheynewsroom.com. \n \n \nContacts at Hershey \nfor investors and financial analysts: \n \n \nfor the media: \nMark Pogharian \n \n \n \n \nKirk Saville \nThe Hershey Company \n \n \n \nThe Hershey Company \nPhone: +1 717 534 7556 \n \n \n \nPhone +1 717 534 7641 \n \n-more- \n \n2\n\n\n--- PAGE 3 ---\nBarry Callebaut (www.barry-callebaut.com): \nWith annual sales of more than CHF 4 billion (USD 3.4 billion) for fiscal year 2005/06, \nZurich-based Barry Callebaut is the world’s leading manufacturer of high-quality cocoa, \nchocolate and confectionery products – from the cocoa bean to the finished product on the \nstore shelf. Barry Callebaut operates more than 30 production facilities in 24 countries and \nemploys approximately 7,500 people. The company serves the entire food industry, from food \nmanufacturers to professional users of chocolate (such as chocolatiers, pastry chefs or \nbakers), to global retailers. It also provides a comprehensive range of services in the fields of \nproduct development, processing, training and marketing. \n \n* * * \nContacts at Barry Callebaut \n \n \nfor investors and financial analysts: \n \n \nfor the media: \n Europe: \nVictor Balli, CFO \n \nGaby Tschofen \nBarry Callebaut AG, Zurich \n \nBarry Callebaut AG, Zurich \nPhone: +41 43 204 04 20 \n Phone: +41 43 204 04 60 \nvictor_balli@barry-callebaut.com \n \n \ngaby_tschofen@barry-callebaut.com\n \n \n \n \n \n \n \n \nNorth America: \n \n \n \n \n \n \n \nBlueCurrent PR \n \n \n \n \n \n \n \n \n \n \nAnnette Rogers \n \n \n \n \n \n \n \nPhone +1 214 394 5816 \n \n \n \n \n \n \n \nannette.rogers@bluecurrentpr.com \n \nBlueCurrent PR \nKyle Rose \nPhone +1 214 738 6176 \n \n \n \n \n \n \n \nkyle.rose@bluecurrentpr.com\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n3"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

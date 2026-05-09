@@ -1,0 +1,400 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_F976C0BE2B9A",
+    "file_name": "usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+    "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/origin_evidence/usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/origin_evidence/usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 811760,
+    "sha256": "1236464a7540e77e08df49751ec3c034b8fea92835b0fb3c24d8fb5e022b7678"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 67,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F976C0BE2B9A.txt",
+    "page_count": 13,
+    "total_text_length": 40024,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 24,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [
+            "distribution"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2025",
+          "2024",
+          "2023",
+          "2022"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nTHIS REPORT CONTAINS ASSESSMENTS OF COMMODITY AND TRADE ISSUES MADE BY USDA STAFF \nAND NOT NECESSARILY STATEMENTS OF OFFICIAL U.S. GOVERNMENT POLICY \n \nVoluntary Report – Voluntary - Public Distribution \n \n \nDate: March 07, 2025 \n \n \n \n \n \n \n \n \nReport Number: IV2025-0001 \n \nReport Name: Cote d'Ivoire - Cocoa Sector Overview - 2025 \nCountry: Cote d'Ivoire \nPost: Abidjan, Accra \nReport Category: Agricultural Situation, Agriculture in the Economy, Pest/Disease Occurrences, \nMISC-Commodity, SP2 - Prevent or Resolve Barriers to Trade that Hinder U.S. Food and Agricultural \nExports \n \nPrepared By: Isaac Yao, Agricultural Specialist, Mariano J. Beillard, Regional Agricultural Counselor, \nJeffrey D. Galloway, Regional Agricultural Attaché, and Joshua Taylor, Agricultural Specialist \n \nApproved By: Mariano Beillard, Regional Agricultural Counselor \n \nReport Highlights: \nFAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025 \n(October-September) climbing upwards towards 1.8 million metric tons (MMT, improving by over 2 \npercent from the MY 2023/2024 season’s 1.76 MMT production figure. Press reports point to the MY \n2023/2024 season being 24 percent down compared to the earlier MY 2022/2023 season’s production of \n2.3 million MT due to poor weather. The MY 2024/2025 cocoa season is facing challenges, that impact \ndomestic production. Heavy rainfall throughout September and October 2024, facilitated the spread of \nbrown rot fungal disease (attributed to the fungus Phytophthora megakarya) in the country’s western and \nsouthwestern production regions, potentially affecting yields. Since December 2024 and now into \nFebruary 2025, Harmattan winds with a lack of suboptimal rainfall is raising concerns with cocoa \nfarmers, who fear a repetition of the previous season’s unfavorable growing conditions."
+    },
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 27,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa",
+            "cocoa butter"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2024",
+          "2025",
+          "2023",
+          "2022"
+        ],
+        "candidate_units": []
+      },
+      "text": "y’s western and \nsouthwestern production regions, potentially affecting yields. Since December 2024 and now into \nFebruary 2025, Harmattan winds with a lack of suboptimal rainfall is raising concerns with cocoa \nfarmers, who fear a repetition of the previous season’s unfavorable growing conditions.\n\n\n--- PAGE 2 ---\nPage 2 of 13 \nDISCLAIMER: The information contained in this report is derived from multiple governmental and \nnon-governmental sources. The U.S. Embassy – Foreign Agricultural Service (FAS) Office of \nAgricultural Affairs (OAA) Abidjan, Accra, the USDA and/or the U.S. government make no claim of \naccuracy or authenticity. Neither the Government of Côte d’Ivoire, nor that of Ghana and or any of those \nof the states mentioned herein, are officially endorsing this report. Import approval for any product is \nsubject to local rules and regulations as interpreted by government officials at the time of product entry. \n \n \nEXECUTIVE SUMMARY \n \nCôte d’Ivoire is the world’s top cocoa bean (known also as “cocoa” or “cacao”) producer. The cocoa \nbean is the dried and fully fermented seed of the cacao tree (Theobroma cacao). The resulting product is \nground and pressed to separate cocoa solids and cocoa butter, which is used in chocolate and cosmetics \n \nFAS Abidjan, Accra (Post) foresees Ivorian cocoa bean production in market year (MY) 2024/2025 \n(October-September) climbing upwards towards the 1.8 million metric tons (MMT) mark, improving by \nover 2 percent from 1.76 MMT in MY 2023/2024. Press reports point to MY 2023/2024 season being 24 \npercent down compared to MY 2022/2023 production at 2.3 million MT due to adverse weather and \ncrop conditions. \n \nTowards the beginning of the current season, the Government of Côte d’Ivoire’s forecast figures for MY \n2024/2025 cocoa bean production were between 2.1 to 2.2 MMT, representing an increase of 25 percent \ncompared to the previous season. Influencing the rosier outlook then were cocoa exports rising by 35 \npercent in December 2024, compared to the same period the previous year. \n \nAlthough MY 2024/2025 forecasts were initially more optimistic, as the season is progressing the crop \nis entering a period of lower ex"
+    },
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0009",
+      "chunk_number": 9,
+      "page_or_section_hint": "page_5",
+      "signal_score": 41,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2000",
+          "1960",
+          "1962",
+          "1964",
+          "1966",
+          "1968",
+          "1970",
+          "1972",
+          "1974",
+          "1976",
+          "1978",
+          "1980",
+          "1982",
+          "1984",
+          "1986",
+          "1988",
+          "1990",
+          "1992",
+          "1994",
+          "1996",
+          "1998",
+          "2003",
+          "2005",
+          "2007",
+          "2009",
+          "2011",
+          "2013",
+          "2015",
+          "2017",
+          "2019",
+          "2021",
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "re, along with Ghana, account for over 60 percent of global cocoa \n \n4 The Harmattan season occurs in West Africa between November and mid-March. It is a dry and dusty northeasterly trade \nwind (i.e., composed of fine dust and sand particles measuring 0.5 to 10 microns) blowing across the Sahara Desert and over \nWest Africa into the Gulf of Guinea. The Harmattan blows during the Coastal West African region’s dry season, coincides \nwith the months with the lowest sun. During the Harmattan season, the subtropical ridge of high pressure stays over the \ncentral Sahara and the low-pressure Intertropical Convergence Zone (ITCZ) lingers over the Gulf of Guinea. \n5 See, PENDATA, located at: https://data.gouv.ci/datasets/exportindicateurs/full. \n6 See, “Cacao:la Côte d’Ivoire veut bloquer sa production à 2 millions de tonnes - Jeune Afrique, located at: \nhttps://www.jeuneafrique.com/802092/economie-entreprises/cacao-la-cote-divoire-veut-bloquer-sa-production-a-2-millions-\nde-tonnes/. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/KG)\nCOCOA PRODUCTION (MT)\nYEAR\nCocoa Production (Tons)\nCocoa Price (FCFA/KG)"
+    },
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0010",
+      "chunk_number": 10,
+      "page_or_section_hint": "page_5",
+      "signal_score": 53,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price"
+          ],
+          "manufacturing": [
+            "production",
+            "plant",
+            "processing"
+          ],
+          "logistics": [
+            "distribution"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2000",
+          "1960",
+          "1962",
+          "1964",
+          "1966",
+          "1968",
+          "1970",
+          "1972",
+          "1974",
+          "1976",
+          "1978",
+          "1980",
+          "1982",
+          "1984",
+          "1986",
+          "1988",
+          "1990",
+          "1992",
+          "1994",
+          "1996",
+          "1998",
+          "2003",
+          "2005",
+          "2007",
+          "2009",
+          "2011",
+          "2013",
+          "2015",
+          "2017",
+          "2019",
+          "2021",
+          "2023",
+          "2024",
+          "2025",
+          "2022"
+        ],
+        "candidate_units": []
+      },
+      "text": "800\n1000\n1200\n1400\n1600\n0\n500\n1000\n1500\n2000\n2500\n1960\n1962\n1964\n1966\n1968\n1970\n1972\n1974\n1976\n1978\n1980\n1982\n1984\n1986\n1988\n1990\n1992\n1994\n1996\n1998\n2003\n2005\n2007\n2009\n2011\n2013\n2015\n2017\n2019\n2021\n2023\nCOCOA PRICE (FCFA/KG)\nCOCOA PRODUCTION (MT)\nYEAR\nCocoa Production (Tons)\nCocoa Price (FCFA/KG)\n\n\n--- PAGE 6 ---\nPage 6 of 13 \nproduction. Since the beginning of MY 2024/2025, Côte d’Ivoire’s Coffee-Cocoa Council has reversed \ntheir strategy and has resumed distribution of new, improved cocoa plants.7 \n \nFarm productivity and profitability are taking a hit, evidencing a steady decline in yields coinciding at a \ntime in which orchard replacement is increasingly necessary. It is estimated that about a quarter of Côte \nd’Ivoire’s cocoa trees are over 30-years of age, surpassing their optimal commercially productive years.8 \nFarmers, to maintain adequate yields, are increasing fertilizer and pesticide applications. \n \nPlant Disease Crisis: The Ivorian cocoa sector is facing a severe plant disease crisis with the spread of \nthe Cocoa Swollen Shoot Virus (CSSV).9 The virus is impacting production in eleven of the thirteen \nmain cocoa-producing regions. Past disease mitigation efforts have led to tree uprooting in over 100,000 \nhectares of plantation area.10 \n \nDeclining Soil Fertility: Intensive monoculture, combined with deforestation is leading to soil \nproductivity declines in in several of Côte d’Ivoire’s cocoa production areas. Regional reports note \nproductivity has decreased by 30-50 percent. Indications are that farmers’ excessive recourse to \nchemical fertilizers, combined with a lack of agroforestry management, is accelerating soil degradation. \n \nCONSUMPTION – DOMESTIC GRINDING AND CONSUMPTION \n \nPost, foresees Ivorian consumption in MY 2024/2025, increasing 2.9 percent to 800,000 MT. This \nrepresents a recovery from 777,000 MT observed in MY 2023/2024; however, there is still a significant \ndecrease when compared to 900,000 MT observed in MY 2022/2023. The bulk of domestic grinding, \nabout 95 percent (i.e., some 764,000 MT in MY 2024/2025) goes to exports. \n \nLocal Cocoa Processing and Value Addition: Côte d’Ivoire aims to increase local cocoa processing t"
+    },
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0015",
+      "chunk_number": 15,
+      "page_or_section_hint": "page_8",
+      "signal_score": 42,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "futures",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "EPA"
+        ],
+        "candidate_price_mentions": [
+          "$10,000",
+          "$10,092"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2025",
+          "2024",
+          "2023",
+          "2004"
+        ],
+        "candidate_units": []
+      },
+      "text": "s \ndependent on exports to sustain its economy profitability. \n \nExports, Cocoa Pricing: Through mid-February 2025, dry weather conditions in West Africa’s top \nproducer Côte d’Ivoire have influenced cocoa futures markets; keeping these above $10,000/MT. More \nrecently, with heavy rains returning of late, Ivorian cocoa bean farmers are hopeful that improved \n \n12 Cocoa liquor, paste, or mass, is pure cocoa in in liquid or semi-solid form. It is produced from fermented cocoa bean nibs \nthat have been dried, roasted, and separated from their skins. \n0\n200\n400\n600\n800\n1000\n1200\n1400\n1600\n1800\nMY2018/19\nMY2019/20\nMY2020/21\nMY2021/22\nMY2022/23\nMY2023/24\nExport Quantity (MT)\nMarket Year\nTotal Exports\nNetherlands\nBelgium\nMalaysia\nUnited States\nGermany\n\n\n--- PAGE 9 ---\nPage 9 of 13 \ngrowing conditions will reinvigorate their trees in time for the April-to-September mid-crop harvest. \nReportedly, earlier poor rainfall volumes were impeding cocoa tree flowering. Concerns raised have \nbeen that without a return to more adequate rainfall going forward, the season’s mid-crop could result in \na slow start, raising concerns of potential cocoa bean shortages this coming April. \n \nA drop in supply due to earlier unfavorable climatic conditions in MY 2024/2025, has led to a \nsignificant rise in cocoa prices on international markets. On December 6, 2024, cocoa prices reached \n$10,092/MT, the highest level since June of the same year. The increase highlights market concerns over \nglobal supply, particularly due to reduced stockpiles in the United States. Reportedly cocoa bean stocks \narriving at U.S. ports fell by 52 percent between August 2023 and August 2024, reaching their lowest \nlevel since 2004.13 Some U.S. chocolate manufacturers are exploring alternative sources of supply, at a \ntime when pressure on global cocoa stocks is high. Post understands that with declining reserves, the \nmarket is becoming more volatile, further disruptions have the potential to drive prices upwards. \n \nExports of U.S. Chocolate and Cocoa Products: The United States is one of the top three exporters of \nchocolate and candy products worldwide. In calendar year (CY) 2024 (January-December), U.S. expo"
+    },
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0016",
+      "chunk_number": 16,
+      "page_or_section_hint": "page_9",
+      "signal_score": 49,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "market",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [
+          "$2.36",
+          "$2.04",
+          "$1.17",
+          "$362.6",
+          "$60.9"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2024",
+          "2015"
+        ],
+        "candidate_units": []
+      },
+      "text": "market is becoming more volatile, further disruptions have the potential to drive prices upwards. \n \nExports of U.S. Chocolate and Cocoa Products: The United States is one of the top three exporters of \nchocolate and candy products worldwide. In calendar year (CY) 2024 (January-December), U.S. exports \nof chocolate and cocoa products to the world were $2.36 billion. Between 2015 and 2024, U.S. exports \nhad a compound average growth rate of 3.1 percent, with a three-year average of $2.04 billion. By \nvolume, U.S. exports in CY 2024, hit 421,848 MT. \n \nChart 3: United States, Top 10 Chocolate and Cocoa Products Export Markets by Year\n \nSource: USDA/FAS, Chocolate and Cocoa Products. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \n \n13 See, Confectionary News, “Everything You Need to Know About Cocoa for the Year Ahead, “ located at: \nhttps://www.confectionerynews.com/Article/2024/10/07/Everything-you-need-to-know-about-cocoa-for-the-year-ahead/."
+    },
+    {
+      "chunk_id": "DOC_F976C0BE2B9A_CHUNK_0017",
+      "chunk_number": 17,
+      "page_or_section_hint": "page_9",
+      "signal_score": 93,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa",
+            "cocoa butter"
+          ],
+          "supplier": [
+            "cooperative"
+          ],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "ppi",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [
+          "$60.9",
+          "$1.17",
+          "$362.64",
+          "$60.97",
+          "$51.89",
+          "$51.44",
+          "$49.56",
+          "$46.89",
+          "$38.55",
+          "$36.15",
+          "$28.5"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2024",
+          "2025",
+          "2023",
+          "1960"
+        ],
+        "candidate_units": []
+      },
+      "text": "record high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \n \n13 See, Confectionary News, “Everything You Need to Know About Cocoa for the Year Ahead, “ located at: \nhttps://www.confectionerynews.com/Article/2024/10/07/Everything-you-need-to-know-about-cocoa-for-the-year-ahead/.\n\n\n--- PAGE 10 ---\nPage 10 of 13 \nTable 2: United States, Top 10 Chocolate and Cocao Export Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office research. \n \nImports: FAS Abidjan, Accra is not tracking Côte d’Ivoire as a known, official importer of cocoa \nbeans, nor of cocoa butter. \n \nSTOCKS \n \nPost foresees Ivorian cocoa bean ending stock to be 144,000 MT in MY 2024/2025, a decrease of 41 \npercent compared to 244,000 MT in MY 2023/2024. \n \nPOLICY \n \nCocoa Market and Regulatory Framework: The Coffee-Cocoa Council is the government body \nresponsible for regulating the sector. It oversees several key functions, including setting farm-gate prices \nto ensure a minimum income for producers and monitoring trade flows and exports. Additionally, it \nensures compliance with quality and sustainability standards while managing traceability and \ncertification initiatives. Market interactions occur at different levels: \n \n1. Producers and cooperatives: Cooperatives help farmers access better market opportunities and \nsecure higher prices. \n2. Cooperatives and exporters: Cooperatives facilitate cocoa trade by selling to major trading \ncompanies. \n3. Exporters and industries: Exporters supply raw cocoa to industries, which process it for local \nor international markets. \n4. Private actors and CCC: The Coffee-Cocoa Council regulates prices and ensures export \ncompliance to maintain market stability. \n \nCocoa Pricing Policies in Côte d’Ivoire: After gaining independence in 1960, the Ivorian government \nplayed an activist role in setting cocoa prices"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

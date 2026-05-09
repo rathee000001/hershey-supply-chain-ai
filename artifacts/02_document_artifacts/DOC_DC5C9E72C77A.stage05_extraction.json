@@ -1,0 +1,224 @@
+{
+  "doc_id": "DOC_DC5C9E72C77A",
+  "file_name": "land_o_lakes_2025_annual_report.pdf",
+  "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/01_land_o_lakes_supplier_evidence/land_o_lakes_2025_annual_report.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "evidence_role": "supplier_relationship_context",
+  "extracted_at": "2026-05-06T19:56:28",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_DC5C9E72C77A.txt",
+      "page_count": 48,
+      "total_text_length": 44859,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 52
+        },
+        {
+          "page": 2,
+          "text_length": 0
+        },
+        {
+          "page": 3,
+          "text_length": 778
+        },
+        {
+          "page": 4,
+          "text_length": 128
+        },
+        {
+          "page": 5,
+          "text_length": 264
+        },
+        {
+          "page": 6,
+          "text_length": 312
+        },
+        {
+          "page": 7,
+          "text_length": 390
+        },
+        {
+          "page": 8,
+          "text_length": 92
+        },
+        {
+          "page": 9,
+          "text_length": 3157
+        },
+        {
+          "page": 10,
+          "text_length": 272
+        },
+        {
+          "page": 11,
+          "text_length": 450
+        },
+        {
+          "page": 12,
+          "text_length": 1137
+        },
+        {
+          "page": 13,
+          "text_length": 997
+        },
+        {
+          "page": 14,
+          "text_length": 26
+        },
+        {
+          "page": 15,
+          "text_length": 350
+        },
+        {
+          "page": 16,
+          "text_length": 1457
+        },
+        {
+          "page": 17,
+          "text_length": 1213
+        },
+        {
+          "page": 18,
+          "text_length": 889
+        },
+        {
+          "page": 19,
+          "text_length": 1941
+        },
+        {
+          "page": 20,
+          "text_length": 1425
+        },
+        {
+          "page": 21,
+          "text_length": 732
+        },
+        {
+          "page": 22,
+          "text_length": 1935
+        },
+        {
+          "page": 23,
+          "text_length": 2092
+        },
+        {
+          "page": 24,
+          "text_length": 58
+        },
+        {
+          "page": 25,
+          "text_length": 456
+        },
+        {
+          "page": 26,
+          "text_length": 461
+        },
+        {
+          "page": 27,
+          "text_length": 2335
+        },
+        {
+          "page": 28,
+          "text_length": 1015
+        },
+        {
+          "page": 29,
+          "text_length": 937
+        },
+        {
+          "page": 30,
+          "text_length": 441
+        },
+        {
+          "page": 31,
+          "text_length": 2777
+        },
+        {
+          "page": 32,
+          "text_length": 1228
+        },
+        {
+          "page": 33,
+          "text_length": 988
+        },
+        {
+          "page": 34,
+          "text_length": 312
+        },
+        {
+          "page": 35,
+          "text_length": 1530
+        },
+        {
+          "page": 36,
+          "text_length": 1244
+        },
+        {
+          "page": 37,
+          "text_length": 1191
+        },
+        {
+          "page": 38,
+          "text_length": 473
+        },
+        {
+          "page": 39,
+          "text_length": 2746
+        },
+        {
+          "page": 40,
+          "text_length": 1345
+        },
+        {
+          "page": 41,
+          "text_length": 1141
+        },
+        {
+          "page": 42,
+          "text_length": 360
+        },
+        {
+          "page": 43,
+          "text_length": 341
+        },
+        {
+          "page": 44,
+          "text_length": 381
+        },
+        {
+          "page": 45,
+          "text_length": 500
+        },
+        {
+          "page": 46,
+          "text_length": 1611
+        },
+        {
+          "page": 47,
+          "text_length": 0
+        },
+        {
+          "page": 48,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_008.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_014.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_024.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

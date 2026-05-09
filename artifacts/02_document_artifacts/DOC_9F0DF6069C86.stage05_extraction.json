@@ -1,0 +1,45 @@
+{
+  "doc_id": "DOC_9F0DF6069C86",
+  "file_name": "fda_pgpr_gras_notice_inventory_page.pdf",
+  "relative_path": "03_ingredient_research/pgpr/00_regulatory_evidence/fda_pgpr_gras_notice_inventory_page.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "evidence_role": "regulatory_definition",
+  "extracted_at": "2026-05-06T19:56:50",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_9F0DF6069C86.txt",
+      "page_count": 4,
+      "total_text_length": 9296,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 2506
+        },
+        {
+          "page": 2,
+          "text_length": 3530
+        },
+        {
+          "page": 3,
+          "text_length": 2757
+        },
+        {
+          "page": 4,
+          "text_length": 434
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_9F0DF6069C86/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_9F0DF6069C86/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_9F0DF6069C86/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_9F0DF6069C86/page_004.png"
+      ],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

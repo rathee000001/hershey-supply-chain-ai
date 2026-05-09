@@ -1,0 +1,230 @@
+{
+  "doc_id": "DOC_1082CA3E3F2A",
+  "file_name": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+  "source_owner": "The Hershey Company",
+  "document_title": "Barry Callebaut Hershey Supply Agreement News Release",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for barry_callebaut_hershey_supply_agreement_news_release.pdf. Packet: cocoa_chocolate_cocoa_butter. Evidence role: supplier_relationship_context. Input mode: text_only. Detected entities/stages include: The Hershey Company, Barry Callebaut, USDA ERS, USDA AMS, Sugar, Chocolate, Cocoa, Milk.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "The Hershey Company",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: the hershey company"
+    },
+    {
+      "entity_name": "Barry Callebaut",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: barry callebaut"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: retail"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "and extensive chocolate innovation capabilities \n \nHershey, PA, USA/Zurich, Switzerland, April 26, 2007 – The Hershey Company \n(NYSE:HSY), North America’s leading manufacturer of quality consumer chocola"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the \nAtlantic Ocean.” \n \nThe two parties expect the final agreements to be signed by the end of May 2007. \n \n \n* * * \n \nThe Hershey Company: \nThe Hershey Company (NYSE: HSY) is the largest North American"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1082CA3E3F2A_CHUNK_0003 page_2 ---\nrties expect the final agreements to be signed by the end of May 2007. \n \n \n* * * \n \nThe Hershey Company: \nThe Hershey Company (NYSE: HSY) is the largest North American"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rry-callebaut.com): \nWith annual sales of more than CHF 4 billion (USD 3.4 billion) for fiscal year 2005/06, \nZurich-based Barry Callebaut is the world’s leading manufacturer of high-quality cocoa, \nchoco"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the largest North American manufacturer of quality \nchocolate and sugar confectionery products. With revenues of nearly $5 billion and more than \n13,000 emplo\n\n--- DOC_1082CA3E3F2A_CHUNK_0003 page_2 ---\nrties expect the final agreements to be"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the largest North American manufacturer of quality \nchocolate and sugar confectionery products. With revenues of nearly $5 billion and more than \n13,000 employees worldwide, The Hershey Company markets such iconic brands as \nHershey's, Reese'"
+    }
+  ],
+  "extracted_dates": [
+    "2007",
+    "2005"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "finished products to Hershey under long-term global agreement",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "Barry Callebaut",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "The partnership includes a long-term global agreement under which Barry Callebaut",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA AMS",
+      "to_entity": "Cocoa",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "corporate social responsibility and sustainable cocoa-bean sourcing programs.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "This partnership provides Hershey with immediate",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "drive long-term growth in the global chocolate market.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Thanks to our innovative strength and cost leadership,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "With revenues of nearly $5 billion and more than",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "With revenues of nearly $5 billion and more than",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "13,000 employees worldwide, The Hershey Company markets such iconic brands as",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Hershey leverages its iconic brands, marketplace scale and confectionery and nut expertise to",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Company, markets such premium chocolate offerings as Scharffen Berger, known for its",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "product development, processing, training and marketing.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 94,
+    "selected_chunk_count": 4,
+    "requires_future_ai_or_visual_review": false
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_3A67DADA572A",
+    "file_name": "barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+    "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 21435220,
+    "sha256": "371d1a38e4eb223cd02337930ce4814391a6e7b03bca98f1ded4ea80eb0ef6a1"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 87,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_3A67DADA572A.txt",
+    "page_count": 141,
+    "total_text_length": 404679,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3A67DADA572A/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 21,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate"
+          ],
+          "supplier": [
+            "sourcing",
+            "partner"
+          ],
+          "cost_price": [
+            "price"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "6.8%",
+          "6.4%"
+        ],
+        "candidate_years": [
+          "2024"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nANNUAL REPORT\n2024/25\n\n\n--- PAGE 2 ---\n3\nThis is Barry Callebaut\n4\nKey Figures\n6\nFiscal Year in Brief\n7\nLetter to Shareholders\n9\nOverview\n10\n5-Year Overview\n11\nRisk Overview\n20\nBusiness Highlights\n21\nFinancial Review\n26\nBusiness Review\n28\nFinancial Reports\n29\nConsolidated Financial Statements\n33\nNotes to the Consolidated Financial Statements\n90\nFinancial Statements of Barry Callebaut AG\n104\nGovernance\n105\nCorporate Governance Report\n119\nRemuneration Report\n138\nAlternative Performance Measures\n140\nContact & Financial Calendar\nTABLE OF \nCONTENTS\n\n\n--- PAGE 3 ---\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n3\n THIS IS BARRY CALLEBAUT \nWe are committed to delivering the World's best Chocolate Solutions while \nbeing the trusted Partner for our Customers.\nTo empower sustainable \ngrowth for our customers \nglobally, we strive to deliver:\nBest Value:\nWe offer relevant innovations \nat the right price.\nBest Service:\nWe deliver our products on \ntime and in full.\nBest Sustainability:\nWe are the industry leader \nin sustainable sourcing and \ntraceability.\nBest Quality & \nFood Safety:\nOur products consistently meet \nall quality and safety standards.\n22\nCallebaut Chocolate \nAcademyTM Centers\n62\nfactories worldwide\nMore than\n175 years\nof chocolate heritage\nMore than\n125,000\nchocolate professionals trained \nin-person in 2024/25\nMore than\n13,000\nemployees\nDoing business in over\n140\ncountries\n 1 Refer to page 139 for detailed recurring results reconciliation. \nSALES \nVOLUME\nVOLUME \nDEVELOPMENT\n2.1 \n-6.8%\nin million tonnes\nvs. prior year\nEBIT \nRECURRING1\nSALES \nREVENUE\n703.4\n14.8 \nin CHF million \n+6.4% in local currencies\nin CHF billion"
+    },
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_3",
+      "signal_score": 34,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "6.8%",
+          "6.4%",
+          "35.9%",
+          "32%",
+          "24%",
+          "19%",
+          "13%",
+          "9%",
+          "3%",
+          "67%",
+          "14%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": ",000\nemployees\nDoing business in over\n140\ncountries\n 1 Refer to page 139 for detailed recurring results reconciliation. \nSALES \nVOLUME\nVOLUME \nDEVELOPMENT\n2.1 \n-6.8%\nin million tonnes\nvs. prior year\nEBIT \nRECURRING1\nSALES \nREVENUE\n703.4\n14.8 \nin CHF million \n+6.4% in local currencies\nin CHF billion\n\n\n--- PAGE 4 ---\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n4\nKEY FIGURES \n2024/25\nSALES \nVOLUME\nEBIT \nRECURRING2\nNET PROFIT \nRECURRING2\n2.1\n703.4\n249.6\nin million tonnes\nin CHF million\nin CHF million\n+6.4% in local currencies\n-35.9% in local currencies\nFREE \nCASH FLOW\nPROPOSED \nDIVIDEND\n-312.0\n29.00\nin CHF million\nCHF per share\n 2 Refer to page 139 for detailed recurring results reconciliation.\n\n\n--- PAGE 5 ---\nSales volume\nin tonnes\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n100\n200\n300\n400\n500\nSales volume by Sales Group\nin tonnes\nWestern Europe\n679,942\nNorth America\n516,841\nCentral and \nEastern Europe\n282,348\nAsia Pacific, \nMiddle East \nand Africa\n180,707\nLatin America\n62,943\nGlobal Cocoa\n402,639\nSales volume by Product Group\nin tonnes\nFood Manufacturers\n \n1,421,778 \nGourmet\n \n301,003 \nCocoa Products\n \n402,639 \n \n3Refer to page 139 for detailed recurring results reconciliation. \nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n5\n32%\n24%\n19%\n13%\n9%\n3%\n19%\n67%\n14%\nNet profit recurring3\nEBIT recurring3"
+    },
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0009",
+      "chunk_number": 9,
+      "page_or_section_hint": "page_8",
+      "signal_score": 68,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "19.7 %",
+          "5.5 %",
+          "4.5 %",
+          "2.9 %",
+          "5.6 %",
+          "4.8 %",
+          "6.8 %",
+          "7.8 %",
+          "7.7 %",
+          "7.9 %",
+          "6.4 %",
+          "33.9 %",
+          "0.6 %",
+          "1.7 %",
+          "14.9 %",
+          "35.4 %",
+          "6.6 %",
+          "13.1 %",
+          "11.5 %",
+          "12.2 %",
+          "2\n%",
+          "11.0 %",
+          "13.2 %",
+          "7.2 %",
+          "6.7 %",
+          "15.3 %",
+          "12.4 %",
+          "14.3 %"
+        ],
+        "candidate_years": [
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020"
+        ],
+        "candidate_units": []
+      },
+      "text": "oice in a rapidly \nevolving market.\nPatrick De Maeseneire\nPeter Feld\nChairman of the Board\nChief Executive Officer\n“\n\n\n--- PAGE 9 ---\nOVERVIEW\n10\n5-Year Overview\n11\nRisk Overview\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n9\n\n\n--- PAGE 10 ---\n5-YEAR OVERVIEW\nKey Figures Barry Callebaut Group¹\nConsolidated Income Statement\nSales volume\nTonnes\n (0.8) %\n2,125,420\n2,279,811\n2,280,925\n2,306,681\n2,191,572\nSales revenue\nCHF m\n 19.7 %\n14,788.6\n10,386.3\n8,470.5\n8,091.9\n7,207.6\nGross profit\nCHF m\n 5.5 %\n1,419.2\n1,382.3\n1,348.5\n1,217.2\n1,147.2\nEBITDA (recurring)2\nCHF m\n 4.5 %\n948.6\n950.5\n897.3\n860.6\n795.2\nOperating profit (EBIT) \nCHF m\n 2.9 %\n635.1\n446.1\n659.4\n553.5\n566.7\nOperating profit (EBIT, \nrecurring)2\nCHF m\n 5.6 %\n703.4\n704.4\n659.4\n624.7\n566.7\nEBIT (recurring)2 / sales \nrevenue\n%\n 4.8 %\n 6.8 %\n 7.8 %\n 7.7 %\n 7.9 %\nEBIT (recurring)2 per tonne\nCHF\n 6.4 %\n330.9\n309.0\n289.1\n270.8\n258.6\nNet profit for the year\nCHF m\n (16.3) %\n188.4\n190.9\n443.1\n360.9\n384.5\nNet profit for the year \n(recurring)2\nCHF m\n (10.2) %\n249.6\n417.5\n443.1\n428.5\n384.5\nFree cash flow\nCHF m\n(312.0)\n(2,330.7)\n113.0\n266.2\n355.0\nConsolidated Balance Sheet\nNet working capital\nCHF m\n 33.9 %\n3,997.8\n3,808.0\n1,466.2\n1,293.1\n1,241.8\nNon-current assets\nCHF m\n 0.6 %\n3,052.4\n2,979.4\n2,911.0\n3,001.6\n2,977.9\nCapital expenditure\nCHF m\n 1.7 %\n295.0\n285.1\n241.2\n275.9\n275.2\nTotal assets\nCHF m\n 14.9 %\n12,643.9\n15,159.3\n8,432.7\n7,760.9\n7,244.0\nNet debt\nCHF m\n 35.4 %\n4,301.3\n3,818.0\n1,308.7\n1,199.0\n1,281.3\nShareholders’ equity\nCHF m\n (0.6) %\n2,622.3\n2,839.4\n2,896.1\n2,902.0\n2,682.9\n1 Non-IFRS measures are defined under the Alternative Performance Measures on page 138.\n2 Refer to page 139 for detailed recurring results reconciliation. \n3 From fiscal year 2024/25, Net debt represents the amount as at August 31, instead of an average. Previous years were adjusted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2 %\nReturn on invested capital \n(ROIC, recurring)2\n%\n 7.9 %\n 11.0 %\n 13.1 %\n 13.2 %\n 12.2 %\nReturn on equity (ROE)\n%\n 7.2 %\n 6.7 %\n 15.3 %\n 12.4 %\n 14.3 %"
+    },
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0010",
+      "chunk_number": 10,
+      "page_or_section_hint": "page_10",
+      "signal_score": 85,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "6.8 %",
+          "6.6 %",
+          "13.1 %",
+          "11.5 %",
+          "12.2 %",
+          "2\n%",
+          "7.9 %",
+          "11.0 %",
+          "13.2 %",
+          "7.2 %",
+          "6.7 %",
+          "15.3 %",
+          "12.4 %",
+          "14.3 %",
+          "9.5 %",
+          "14.7 %",
+          "14.8 %",
+          "164.0 %",
+          "134.5 %",
+          "45.2 %",
+          "41.3 %",
+          "47.8 %",
+          "2.0 %",
+          "2.7 %",
+          "2.8 %",
+          "3.4 %",
+          "3.8 %",
+          "5.5 %",
+          "0.9 %",
+          "84 %",
+          "83 %",
+          "36 %",
+          "43 %",
+          "40 %",
+          "0.7 %"
+        ],
+        "candidate_years": [
+          "2024",
+          "2023",
+          "2022",
+          "2021",
+          "2020"
+        ],
+        "candidate_units": []
+      },
+      "text": "sted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2 %\nReturn on invested capital \n(ROIC, recurring)2\n%\n 7.9 %\n 11.0 %\n 13.1 %\n 13.2 %\n 12.2 %\nReturn on equity (ROE)\n%\n 7.2 %\n 6.7 %\n 15.3 %\n 12.4 %\n 14.3 %\nReturn on equity (ROE, \nrecurring)2\n%\n 9.5 %\n 14.7 %\n 15.3 %\n 14.8 %\n 14.3 %\nDebt to equity ratio\n%\n 164.0 %\n 134.5 %\n 45.2 %\n 41.3 %\n 47.8 %\nInterest coverage ratio\n2.3\n3.3\n7.2\n6.5\n7.8\nNet debt3 / EBITDA \n(recurring)2\n4.5\n4.0\n1.5\n1.4\n1.6\nCapital expenditure / sales \nrevenue\n%\n 2.0 %\n 2.7 %\n 2.8 %\n 3.4 %\n 3.8 %\nShares\nShare price at fiscal year-\nend\nCHF \n (17.5) %\n1,080\n1,376\n1,542\n2,004\n2,334\nNumber of shares issued\n5,488,858\n5,488,858\n5,488,858\n5,488,858\n5,488,858\nMarket capitalization at \nyear-end\nCHF m\n (17.5) %\n5,928.0\n7,552.7\n8,463.8\n10,999.7\n12,811.0\nEBIT (recurring)2 per share\nCHF\n 5.5 %\n128.3\n128.6\n120.3\n114.0\n103.4\nBasic earnings (recurring)2 \nper share\nCHF\n (10.4) %\n45.1\n76.0\n81.0\n78,2\n70.0\nPayout per share\nCHF\n 0.9 %\n29.0\n29.0\n29.0\n28.0\n28.0\nPayout ratio\n%\n 84 %\n 83 %\n 36 %\n 43 %\n 40 %\nPrice-earnings ratio at \nyear-end\n31.9\n39.7\n19.0\n30.4\n33.3\nOther\nEmployees\n 0.7 %\n13,138\n13,423\n13,754\n13,418\n12,783\nBeans processed\nTonnes\n (2.8) %\n882,627\n1,015,632\n991,007\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n10"
+    },
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0035",
+      "chunk_number": 35,
+      "page_or_section_hint": "page_21",
+      "signal_score": 64,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar",
+            "cocoa",
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "16.0%",
+          "26.8%",
+          "0.6%",
+          "50%",
+          "0%",
+          "100%",
+          "150%",
+          "200%",
+          "250%",
+          "300%",
+          "350%",
+          "400%",
+          "2.0%",
+          "3.7%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2025",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "match Barry Callebaut’s reporting period. Nielsen data only partially reflects the out-of-home and impulse consumption.\n2 Source: London terminal market prices for 2nd position, September 2024 to August 2025. Terminal market prices exclude Living Income Differential (LID) and country differentials.\n\n\n--- PAGE 22 ---\nGlobal sugar prices averaged -16.0% lower than the same period \nlast year, driven by improving fundamentals across most exporting \nregions, including Brazil, the world’s largest producer. In Europe, \nsugar prices fell by an average of -26.8%, reflecting increased sugar \nbeet acreage for the 2024/25 campaign, which concluded in \nSeptember 2025. This expansion resulted in a better-supplied \nmarket compared to the prior period. \nDairy prices increased on average by +0.6% compared to the prior \nyear. In 2024 and 2025, milk supply generally declined, while global \ndemand stayed healthy, leading to market volatility. Dairy fats saw \nthe most fluctuation, which allowed more Skim Milk Powder (SMP) \nto be produced as a side product, resulting, counterintuitively, in \nmore stable prices. Farmers are now benefiting from the resulting \nhigher payouts. \nRaw material prices\nSeptember 2015 to August 2025\nDairy\nSugar world\nSugar Europe\nCocoa\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n-50%\n0%\n50%\n100%\n150%\n200%\n250%\n300%\n350%\n400%\nSource: Company compiled data, based on key market price indicators\nForeign currencies\nIn fiscal year 2024/25, foreign exchange markets remained volatile \nand the Swiss franc continued to strengthen against most major \ncurrencies. The Group is naturally hedged to the extent that \nit produces and sells products locally and hedges any \nremaining currency exposure that arises from commercial \ntransactions.\nFor the fiscal year under review, the average exchange rate for the \nEuro, which accounts for nearly half of the Group’s sales revenue, \ndepreciated by -2.0% against the Swiss franc. The average \nexchange rate for the US dollar, accounting for around a third of the \nGroup’s sales revenue, depreciated by -3.7% against the Swiss franc. \nThroughout the fiscal year 2024/25, several key emerging market \ncurrencies experienced volatili"
+    },
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0041",
+      "chunk_number": 41,
+      "page_or_section_hint": "page_24",
+      "signal_score": 71,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "market",
+            "index"
+          ],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "2.9%",
+          "3.8%",
+          "3.4%",
+          "2.8%",
+          "2.7%",
+          "2.0%",
+          "21.5%",
+          "0.6%",
+          "5.7%",
+          "8.5%",
+          "50%",
+          "25%",
+          "0%",
+          "75%",
+          "100%",
+          "125%",
+          "150%",
+          "4.0%",
+          "67.0%",
+          "42.0%",
+          "14.0%",
+          "21.0%"
+        ],
+        "candidate_years": [
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2024",
+          "2025",
+          "2015",
+          "2016",
+          "2017",
+          "2018",
+          "2019"
+        ],
+        "candidate_units": []
+      },
+      "text": "and mainly consist \nof enhancing manufacturing capabilities, food safety improvements \nand efficient asset usage.\nCapital expenditure\nin CHF million\nCAPEX as % of sales revenue\nAverage = 2.9%\n3.8%\n3.4%\n2.8%\n2.7%\n2.0%\n275\n276\n241\n285\n295\n2020/21 2021/22 2022/23 2023/24 2024/25\nCapital markets overview\nBarry Callebaut share performance\nBarry Callebaut shares closed at CHF 1,080 on August 31, 2025, \n-21.5% below the previous year’s closing price. The broad Swiss \nPerformance Index (price) was down -0.6%. The performance of \nSwiss Small and Mid Caps (SMIM) was up +5.7%. The EURO STOXX \nFood & Beverage Index (price) decreased -8.5%.\nKey share data\nas at August 31, 2025\nShares outstanding\n5.5 million\nClosing share price\nCHF 1,080\nMarket capitalization\nCHF 5.9 billion\n52-week high (closing)\nCHF 1,585\n52-week low (closing)\nCHF 726\nAverage daily volume\n18,763 shares\nSource: FactSet and SIX Swiss Stock Exchange.\nThe chart below illustrates the long-term performance of Barry \nCallebaut shares compared to the relevant indices (2015–2025).\nShare price development Barry Callebaut vs. indices \nSeptember 2015 to August 2025\nBarry Callebaut AG\nSwitzerland SPI\nSwitzerland SMIM\nEurostoxx F&B\nBarry Callebaut in EUR\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n-50%\n-25%\n0%\n25%\n50%\n75%\n100%\n125%\n150%\nSource: FactSet and SIX Swiss Stock Exchange.\nOver a ten-year period (2015–2025), Barry Callebaut shares (+4.0%) \nunderperformed the SMI Small and Mid Cap Index (+67.0%) and the \nbroader SPI Index (price) (+42.0%). Barry Callebaut outperformed \nagainst the EURO STOXX Food & Beverage Index (-14.0%), and was \neven stronger when calculating the share price in EUR (+21.0%).\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n24\nReplacement CAPEX\nUpgrade/efficiency gains\nIT\nAdditional growth"
+    },
+    {
+      "chunk_id": "DOC_3A67DADA572A_CHUNK_0044",
+      "chunk_number": 44,
+      "page_or_section_hint": "page_25",
+      "signal_score": 71,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "price",
+            "prices",
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Barry Callebaut"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "44.8%",
+          "32.4%",
+          "11.8%",
+          "2.5%",
+          "8.5%",
+          "30.1%",
+          "10.0%",
+          "6.5%",
+          "5.1%",
+          "3.1%",
+          "45.2%",
+          "5.3%",
+          "3.5%",
+          "5.9%",
+          "2.1%",
+          "6.0%",
+          "0.5%",
+          "4.4%",
+          "6.7%",
+          "6.6%",
+          "40.1%",
+          "34.7%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "al and Environmental Impact Report 2024/25.\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n25\n6 Based on notification through the electronic publication platform of the SIX Swiss Exchange and Share Register.\nCountry split\nof institutional shareholders\nSource: NASDAQ\n44.8%\n32.4%\n11.8%\n2.5%\n8.5%\n30.1%\n10.0%\n6.5%\n5.1%\n3.1%\n45.2%\nJacobs Investments 2 AG\nArtisan Partners \nLimited Partnership\nUBS Fund Management \n(Switzerland) AG\nRenata Jacobs\nBlackrock\nOther\nOwnership \nstructure6\nas at August 31, 2025\nUS\nSwitzerland\nUK\nNorway\nOther\n\n\n--- PAGE 26 ---\nGlobal Chocolate\nBUSINESS \nREVIEW\nGlobal Chocolate saw a -5.3% volume decrease in fiscal \nyear 2024/25, in an overall challenging and declining \nchocolate confectionery market according to Nielsen \n(-3.5%)7. Volume development for Food Manufacturers \n(-5.9%) was impacted by customer behavior shifts in the \ncontext of volatility and significantly higher prices. \nGourmet was more resilient (-2.1%), as a challenging \nenvironment in Western Europe and North America was \npartly offset by growth in AMEA, Latin America and CEE. \nLooking at regional performance within Global \nChocolate, Latin America (+6.0%) was the strongest \ncontributor, driven by innovative customer solutions \nacross business segments and clusters. Asia Pacific, \nMiddle East and Africa (AMEA) saw slightly negative \ngrowth (-0.5%) as demand pressures in China and \ndeveloped markets offset double-digit growth in India, \nIndonesia and the Middle East. Central and Eastern \nEurope (-4.4%) was impacted by a challenging customer \nenvironment, particularly for local Food Manufacturers. \nNorth America reported a volume decrease of -6.7%, as \nnew customer wins were offset by the challenging \nmarket environment and the residual impact of the \nToluca, Mexico intervention. Volume in Western Europe \n(-6.6%) was significantly impacted as higher prices \nresulted in demand softness and influenced customer \nbehavior, as well as by SKU rationalization.\nSales revenue amounted to CHF 10,154.4 million, up \n+40.1% in local currencies (+34.7% in CHF), with growth \nmainly driven by higher cocoa prices.\nEBIT recurr"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

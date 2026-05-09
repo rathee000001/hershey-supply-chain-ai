@@ -1,0 +1,24 @@
+{
+  "doc_id": "DOC_AB943BE3F9BC",
+  "file_name": "hershey_company_logo.png",
+  "relative_path": "06_brand_logo_assets/hershey/hershey_company_logo.png",
+  "packet": "brand_logo_assets",
+  "document_type": "image_or_logo",
+  "evidence_role": "visual_asset",
+  "extracted_at": "2026-05-06T19:57:18",
+  "extraction": {
+    "image": {
+      "extractor": "pillow_metadata_or_file_copy",
+      "copied_asset_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_AB943BE3F9BC/hershey_company_logo.png",
+      "width": 3840,
+      "height": 1388,
+      "format": "PNG",
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "Image/logo copied and metadata captured. Use later vision/manual review for factual extraction."
+  ]
+}

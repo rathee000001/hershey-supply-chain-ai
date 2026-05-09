@@ -1,0 +1,351 @@
+{
+  "doc_id": "DOC_4FB6669959F5",
+  "file_name": "asr_fy23_sustainability_report.pdf",
+  "source_owner": "American Sugar Refining / ASR",
+  "document_title": "Asr Fy23 Sustainability Report",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for asr_fy23_sustainability_report.pdf. Packet: sugar. Evidence role: supplier_relationship_context. Input mode: text_plus_page_images. Detected entities/stages include: American Sugar Refining / ASR, Target, USDA ERS, USDA AMS, EPA, Sugar, Packaging, ingredient sourcing.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 6",
+      "page_or_location": "page_8",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 35",
+      "page_or_location": "page_33",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 40",
+      "page_or_location": "page_37",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 50",
+      "page_or_location": "page_48",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "American Sugar Refining / ASR",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: american sugar refining"
+    },
+    {
+      "entity_name": "Target",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: target"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "Packaging",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: supplier"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: refining"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: factory"
+    },
+    {
+      "entity_name": "packaging",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: freight"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: delivery"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_4FB6669959F5_CHUNK_0001 ---\n--- PAGE 1 ---\nSUSTAINABILITY \nREPORT\nOUR 2023 JOURNEY\n\n--- PAGE 2 ---\nEXECUTIVE SUMMARY \n \n \n \n \n \n04\nABOUT ASR GROUP​ \n \n \n \n \n \n07\nVISION AND S"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "dent\nLuis Fernandez\nPresident & Chairman of the Board            \n3\nASR Group Sustainability Report 2023\n\n--- PAGE 4 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource C"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "trive to better understand our \ninfluence on the world around us.\n4\nASR Group Sustainability Report 2023\n\n--- DOC_4FB6669959F5_CHUNK_0006 page_8 ---\nmpanies that collectively farm sugarcane on 285,000 acr"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "icted to the business of ASR Group.\nOur brand portfolio includes:\n8\nASR Group Sustainability Report 2023\n\n--- PAGE 9 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource C"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1998",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ity \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nOur History: At a Glance\n​1998, Florida Crystals \nand Sugar Cane Growers \nCooperative partnered to \nacquire Refined Sugars, \nInc.,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2001",
+      "unit": "",
+      "page_or_location": "",
+      "context": "erative partnered to \nacquire Refined Sugars, \nInc., with its cane sugar \nrefinery in Yonkers, NY.​\n2001, the partnership acquired \nDomino Sugar and three East Coast \ncane sugar refineries as well as \nthe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "l as \nthe nation’s leading sugar brand, \nDomino®. The company became \nAmerican Sugar Refining, Inc.\n2005, ASR Group expanded \nto the West Coast through \nour acquisition of C&H Sugar \nCo., Inc., allowing u"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "dded \nanother sugar refinery and the \nleading sugar brand on the West \nCoast through this purchase.\n2006, we acquired Chr. Hansen’s \nspecialty division. Hansen increased \nour specialty sweetener product"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2007",
+      "unit": "",
+      "page_or_location": "",
+      "context": "extract, honey, invert \nand fondant sugars, with production \nfacilities in Louisiana and Illinois.\n2007, we expanded our \noperations to Canada and \nMexico to become the \npremier sugar producer \nand suppl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2010",
+      "unit": "",
+      "page_or_location": "",
+      "context": "h \nSugar in Toronto, \nCanada. We subsequently \npurchased Ingenio San \nNicolas in Veracruz, \nMexico.\n2010, after expanding in North \nAmerica, we acquired Tate & \nLyle PLC’s European cane sugar \noperations,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "FY 22\n% Green Electricity Consumed\n70\n29%\n24%\n28%\n30%\nFY 23\n28%\n33\nASR Group Sustainability Report 2023\n\n--- PAGE 34 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "program allows us to measure and benchmark their sustainability \nefforts. \nR 1\n40\n30\n50\n20\n10\nASR 2019\nASR 2020\nASR 2021\nPercentage\nCO2e Percent of Freight Per Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "allows us to measure and benchmark their sustainability \nefforts. \nR 1\n40\n30\n50\n20\n10\nASR 2019\nASR 2020\nASR 2021\nPercentage\nCO2e Percent of Freight Per Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: S"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s to measure and benchmark their sustainability \nefforts. \nR 1\n40\n30\n50\n20\n10\nASR 2019\nASR 2020\nASR 2021\nPercentage\nCO2e Percent of Freight Per Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: SmartWay S"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "eight Per Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: SmartWay Shipper Performance Report\nASR 2022\n2020\n2021\n2022\n135,000\n130,000\n140,000\n125,000\n120,000\nSource: BluJay Transportation System, SAP &"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Per Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: SmartWay Shipper Performance Report\nASR 2022\n2020\n2021\n2022\n135,000\n130,000\n140,000\n125,000\n120,000\nSource: BluJay Transportation System, SAP & CH Ro"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: SmartWay Shipper Performance Report\nASR 2022\n2020\n2021\n2022\n135,000\n130,000\n140,000\n125,000\n120,000\nSource: BluJay Transportation System, SAP & CH Robinso"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "er Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: SmartWay Shipper Performance Report\nASR 2022\n2020\n2021\n2022\n135,000\n130,000\n140,000\n125,000\n120,000\nSource: BluJay Transportation System, SAP & CH Robinson Car"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "obinson Carbon Tracking Tool\n145,000\n150,000\n155,000\nSupply Chain Freight CO2e\n153.3k\n133.7k\n133.1k\n2023\n132.8k\nOther Purchased Goods and Contracted Services\n37\nASR Group Sustainability Report 2023\n\n--- P"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "133.1k\n2023\n132.8k\nOther Purchased Goods and Contracted Services\n37\nASR Group Sustainability Report 2023\n\n--- PAGE 38 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "anies recognized by the Mexican Ministry \nof Environmental and Natural Resources for \nobtaining the 2023 Distinguished Recognition \nAward, recognizing its continuous participation in \nthe \"Transporte Limp"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s between our \nown sites. Staying on target with our objective to \nreduce these transfers by 25% by 2025 compared \nto our FY21 benchmark, we are currently at a \n21% total reduction. As in the past, this r"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "push for direct delivery destinations, favori\n\n--- DOC_4FB6669959F5_CHUNK_0050 page_48 ---\ncal year 2023. ​\nSolid Waste Minimization​\nOur objective is to decrease our total solid waste stream, normalized"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2030",
+      "unit": "",
+      "page_or_location": "",
+      "context": "​\nOur objective is to decrease our total solid waste stream, normalized to production11, by 25% \nby 2030, compared to FY21 baseline data, while pursuing and maintaining our zero-waste-to-\nlandfill accompl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": ")\nMill Mud, 90k MT (12%)\nMixed Organic & Food Waste, \n7k MT (1%)\n48\nASR Group Sustainability Report 2023\n\n--- PAGE 49 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Waste Diverted from Landfill\nFY 22\nFY 15\n99.4%\n99.3%\nFY 23\n99.4%\n49\nASR Group Sustainability Report 2023"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2023",
+    "1998",
+    "2001",
+    "2005",
+    "2006",
+    "2007",
+    "2010",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2025",
+    "2030"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Philippines, and beyond to implement sustainable farming practices.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Philippines, and beyond to implement sustainable farming practices.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "program allows us to measure and benchmark their sustainability",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "86% as a shipping partner in the program.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "to our FY21 benchmark, we are currently at a",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 86,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": true
+  }
+}

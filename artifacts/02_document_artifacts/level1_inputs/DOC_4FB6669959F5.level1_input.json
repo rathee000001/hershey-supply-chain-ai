@@ -1,0 +1,331 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_4FB6669959F5",
+    "file_name": "asr_fy23_sustainability_report.pdf",
+    "relative_path": "03_ingredient_research/sugar/asr_supplier_evidence/asr_fy23_sustainability_report.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/asr_supplier_evidence/asr_fy23_sustainability_report.pdf",
+    "packet": "sugar",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 19589955,
+    "sha256": "8eaba7133453eb1218a501d0a842769bd5050e75566e344a5b4016b69df02a34"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 86,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_4FB6669959F5.txt",
+    "page_count": 142,
+    "total_text_length": 252296,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_4FB6669959F5/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_4FB6669959F5_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 20,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "pricing",
+            "ppi"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ASR"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nSUSTAINABILITY \nREPORT\nOUR 2023 JOURNEY\n\n\n--- PAGE 2 ---\nEXECUTIVE SUMMARY \n \n \n \n \n \n04\nABOUT ASR GROUP​ \n \n \n \n \n \n07\nVISION AND STRATEGY​ \n \n \n \n \n \n11\nDECARBONIZATION​ \n \n \n \n \n \n21\nRESOURCE CONSERVATION AND CIRCULARITY​ \n \n41\nSUSTAINABLE AGRICULTURE ​ \n \n \n \n \n55\nSUSTAINABLE AND ETHICAL SUPPLY CHAIN​ \n60\nEMPLOYEE AND COMMUNITY ENGAGEMENT \n \n72\nGOVERNANCE, COMMUNICATION AND REPORTING​ \n97\nCLOSING \n \n \n \n \n \n \n \n104\nAPPENDIX \n \n \n \n \n \n \n \n106\nWHAT’S INSIDE\n\n\n--- PAGE 3 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nLooking back on the past year, I am pleased to share in this report the strides ASR Group made in advancing \nsustainability. Despite the challenges posed by events in FY23, our commitment to become the most sustainable and \nethical cane sugar company remains steadfast.\nThe global sugar industry faced both setbacks and recoveries. Supply chains and production were hit by the conflict \nin Ukraine, inflation spikes, and severe weather. Ongoing pandemic effects strained supply chains, labor availability, \nand transport. Meanwhile, the war in Ukraine disrupted trade, notably affecting fertilizer pricing and availability. \nOur proactive response ensured a steady supply of raw materials and operational continuity as we safeguarded our \nworkforce and communities and continued to provide high-quality food products. Global inflation pressures tested \neconomies, touching our entire supply chain and our operations. Yet, our efficient practices kept us competitive as we \nensured the wellbeing of our workforce. \nWe progressed numerous initiatives in FY23. We collaborated with local farmers in the U.S., Brazil, Mexico, Belize, the \nPhilippines, and beyond to implement sustainable farming practices. We produced green electricity at many of our \nsites, explored carbon-smart trade routes as well as energy- and carbon-reducing initiatives at our refineries, refined \nour processes, explored energy- and carbon-reducing initiatives a"
+    },
+    {
+      "chunk_id": "DOC_4FB6669959F5_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_3",
+      "signal_score": 24,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "ppi"
+          ],
+          "manufacturing": [
+            "production",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ASR",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "Philippines, and beyond to implement sustainable farming practices. We produced green electricity at many of our \nsites, explored carbon-smart trade routes as well as energy- and carbon-reducing initiatives at our refineries, refined \nour processes, explored energy- and carbon-reducing initiatives at our refineries, and innovated our packaging, \namong many accomplishments. Our partnerships are vital, as we know that we cannot reach our goals alone. \nWe’re acutely aware of the increased frequency of extreme weather events, a critical concern for us as we are reliant \non agricultural production for our raw material. We invested in new technologies to identify climate risks to our assets, \nrecognizing that the first step to risk mitigation is understanding. We plan to prepare ourselves against extreme \nweather conditions as we mitigate their impact across our value chain.\nAs we move forward, we recognize that sustainability is not a destination but an ongoing journey. Our efforts extend \nbeyond financial impact to the well-being of our planet and its inhabitants. We are committed to keep innovating, \ncollaborating, and contributing to a more sustainable future.\nWe are ASR Group, making life sustainably sweet for future generations.\nLuis Fernandez\nPresident & Chairman of the Board\nA Message from Our President\nLuis Fernandez\nPresident & Chairman of the Board            \n3\nASR Group Sustainability Report 2023\n\n\n--- PAGE 4 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nEXECUTIVE SUMMARY\nSince we published our FY22 Sustainability Report, \nwe’ve continued to strive to better understand our \ninfluence on the world around us.\n4\nASR Group Sustainability Report 2023"
+    },
+    {
+      "chunk_id": "DOC_4FB6669959F5_CHUNK_0006",
+      "chunk_number": 6,
+      "page_or_section_hint": "page_8",
+      "signal_score": 47,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [
+            "supplier",
+            "partner",
+            "partnership",
+            "cooperative"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "production",
+            "factory",
+            "refining"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ASR",
+          "American Sugar Refining",
+          "Domino",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023",
+          "1998",
+          "2001",
+          "2005",
+          "2006",
+          "2007",
+          "2010"
+        ],
+        "candidate_units": []
+      },
+      "text": "mpanies that collectively farm sugarcane on 285,000 acres of land in South Florida and produce raw and refined sugar. ASR Group is \nmaintained as a separate legal entity, and this report is restricted to the business of ASR Group.\nOur brand portfolio includes:\n8\nASR Group Sustainability Report 2023\n\n\n--- PAGE 9 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nOur History: At a Glance\n​1998, Florida Crystals \nand Sugar Cane Growers \nCooperative partnered to \nacquire Refined Sugars, \nInc., with its cane sugar \nrefinery in Yonkers, NY.​\n2001, the partnership acquired \nDomino Sugar and three East Coast \ncane sugar refineries as well as \nthe nation’s leading sugar brand, \nDomino®. The company became \nAmerican Sugar Refining, Inc.\n2005, ASR Group expanded \nto the West Coast through \nour acquisition of C&H Sugar \nCo., Inc., allowing us to serve \ncustomers nationwide more \neffectively. Our business added \nanother sugar refinery and the \nleading sugar brand on the West \nCoast through this purchase.\n2006, we acquired Chr. Hansen’s \nspecialty division. Hansen increased \nour specialty sweetener product \nofferings, including molasses, malt, \nrice syrup, oat extract, honey, invert \nand fondant sugars, with production \nfacilities in Louisiana and Illinois.\n2007, we expanded our \noperations to Canada and \nMexico to become the \npremier sugar producer \nand supplier in North \nAmerica. First came the \nacquisition of Redpath \nSugar in Toronto, \nCanada. We subsequently \npurchased Ingenio San \nNicolas in Veracruz, \nMexico.\n2010, after expanding in North \nAmerica, we acquired Tate & \nLyle PLC’s European cane sugar \noperations, the leading cane \nsugar refiner in Europe. The \nacquisition of its refineries in \nLondon, England, and Lisbon, \nPortugal, increased our total \nrefining capacity to 6.5 million \ntons per year. This acquisition \nalso included the right to use \nthe distinguished Tate & Lyle® \nbrand for sugar, the Lyle’s \nGolden Syrup factory in Plaistow, \nEngland,"
+    },
+    {
+      "chunk_id": "DOC_4FB6669959F5_CHUNK_0035",
+      "chunk_number": 35,
+      "page_or_section_hint": "page_33",
+      "signal_score": 48,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [
+            "partner"
+          ],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "target"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ASR",
+          "Target",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "60%",
+          "57%",
+          "54%",
+          "22\n%",
+          "9%",
+          "5%",
+          "14%",
+          "23%",
+          "26%",
+          "29%",
+          "24%",
+          "28%",
+          "30%"
+        ],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "lifornia purchased continued to be green through \nits participation in the Marin Clean Energy’s Light Green \nElectricity program.\nRenewable Electricity in Our Operations\nFY 19\nFY 20\nFY 21\n50\n40\n60\n30\n20\nFY 22\nPercentage\n% Green Electricity Generated\n70\n60%\n57%\n54%\n57%\nFY 23\n54%\nFY 19\nFY 20\nFY 21\n50\n40\n60\n30\n20\nFY 22\n% Green Electricity Purchased\n70\n9%\n5%\n14%\n23%\nFY 23\n26%\nFY 19\nFY 20\nFY 21\n50\n40\n60\n30\n20\nFY 22\n% Green Electricity Consumed\n70\n29%\n24%\n28%\n30%\nFY 23\n28%\n33\nASR Group Sustainability Report 2023\n\n\n--- PAGE 34 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nFarm to Third-Party Mills​\nTo ensure conformance with GHG protocol, we adjusted our Farm and Mill pLCA \ninfluence calculations. This will allow for harmonized data control as we collaborate \nwith our supply chain partners. The revision also ensures that a third party can validate \nour models and assumptions via Critical Review in accordance with ISO 14040, ISO \n14044, and ISO 14067. Our models additionally report a “Forest, Land, and Agriculture \n(FLAG)” separation, in accordance with SBTi FLAG Annex tools. This demarcation was \nnecessary to pursue our Target validation with CDP and is present for the first time in \nthis report. \nTo understand farms’ influence, we assessed United Nations Food and Agriculture \nOrganization (UN FAO) datasets (FAOSTAT), studying sugarcane specific points such as \nfertilizer and nutrient inputs, yield, and crop residue management. We also used the \ndata to model Land Use Change influences and compared these to pertinent scientific \njournal entries and the recently released Bonsucro ClimateCane tracker. The research \nidentified that the influence of cultivation practice – such as tilling – are neutralized \nwhen farming sugarcane thanks to its permanence and its crop residue management. \nAs such, we did not integrate tilling emissions into the model; however, we did not \naccount for carbon “removals” either. We will focus on this area as we acquire mor"
+    },
+    {
+      "chunk_id": "DOC_4FB6669959F5_CHUNK_0040",
+      "chunk_number": 40,
+      "page_or_section_hint": "page_37",
+      "signal_score": 50,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [
+            "partner"
+          ],
+          "cost_price": [
+            "benchmark",
+            "ppi"
+          ],
+          "manufacturing": [],
+          "logistics": [
+            "freight",
+            "transport"
+          ],
+          "retail": [
+            "delivery",
+            "target"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ASR",
+          "Target"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "87%",
+          "24%",
+          "62%",
+          "86%",
+          "25%",
+          "21%"
+        ],
+        "candidate_years": [
+          "2019",
+          "2020",
+          "2021",
+          "2022",
+          "2023",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "artWay Partner \nPeers, which is 87% of freight through SmartWay carriers. \nFurthermore, our carbon efficiency attributable to road freight \ncontinues to increase. By continuously raising awareness of the \nprogram to our fright partners, our total SmartWay carrier pool grew \nfrom 46 to 63 participants over the past year. Their participation in the \nprogram allows us to measure and benchmark their sustainability \nefforts. \nR 1\n40\n30\n50\n20\n10\nASR 2019\nASR 2020\nASR 2021\nPercentage\nCO2e Percent of Freight Per Carrier Efficiency\nR 2\nR 3\nR 4\nR 5\nNon-SW\nSource: SmartWay Shipper Performance Report\nASR 2022\n2020\n2021\n2022\n135,000\n130,000\n140,000\n125,000\n120,000\nSource: BluJay Transportation System, SAP & CH Robinson Carbon Tracking Tool\n145,000\n150,000\n155,000\nSupply Chain Freight CO2e\n153.3k\n133.7k\n133.1k\n2023\n132.8k\nOther Purchased Goods and Contracted Services\n37\nASR Group Sustainability Report 2023\n\n\n--- PAGE 38 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nIn Canada, Redpath Sugar increased the amount of \nroad freight shipped through SmartWay carriers by \n24% over the past three years, growing from 62% to \n86% as a shipping partner in the program. \nIn Mexico, Ingenio San Nicolas was one of 13 \ncompanies recognized by the Mexican Ministry \nof Environmental and Natural Resources for \nobtaining the 2023 Distinguished Recognition \nAward, recognizing its continuous participation in \nthe \"Transporte Limpio\" (\"Clean Freight\") program \nand its high environmental rating.\nFinally, we distinguish and monitor our outbound \nsales from internal product transfers between our \nown sites. Staying on target with our objective to \nreduce these transfers by 25% by 2025 compared \nto our FY21 benchmark, we are currently at a \n21% total reduction. As in the past, this reduction \nis attributed to planning and route optimization. \nAs we find more efficient routes and modes of \ntransportation to move products, we continue to \npush for direct delivery destinations, favori"
+    },
+    {
+      "chunk_id": "DOC_4FB6669959F5_CHUNK_0050",
+      "chunk_number": 50,
+      "page_or_section_hint": "page_48",
+      "signal_score": 63,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "production",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ASR"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "25%",
+          "23%",
+          "4%",
+          "0%",
+          "15%",
+          "17%",
+          "11%",
+          "12%",
+          "16%",
+          "2%",
+          "85%",
+          "63%",
+          "1%",
+          "99.9%",
+          "99.8%",
+          "99.7%",
+          "99.6%",
+          "99.5%",
+          "99.4%",
+          "99.3%",
+          "99.2%",
+          "99.1%",
+          "99.0%",
+          "98.9%"
+        ],
+        "candidate_years": [
+          "2023",
+          "2030"
+        ],
+        "candidate_units": []
+      },
+      "text": "cal year 2023. ​\nSolid Waste Minimization​\nOur objective is to decrease our total solid waste stream, normalized to production11, by 25% \nby 2030, compared to FY21 baseline data, while pursuing and maintaining our zero-waste-to-\nlandfill accomplishments. \n11 \u0007Excluding land applied/beneficial reuse muds and ash.​\nMixed Recyclable, \n2k MT (23%)\nPackaging, 326 MT (4%)\nMixed & Recycled Sugars, \n32 MT (0%)\nWood, 1k MT (15%)\nOil, Sludges & Fluids, \n1k MT (17%)\nCardboard & Paper, \n844 MT (11%)\nMetals,941 MT (12%)\nGlass, 2 MT (0%)\nLime Pebble, 20 MT (0%)\nMixed Commercial \n& Industrial, 1k MT (16%)\nPlastics & Rubber, 145 MT (2%)\nRegulated, 1k MT (0%)\nTotal Recycling Reported – 7.3k MT\nE-waste & Universal Waste, \n37 MT (0%)\nTotal Landfill Reported – 5.3k MT\nMixed Controlled Waste, 585 MT (11%)\nOils, Sludges & Fluids, \nNon-Haz Liquid, 116 MT (2%)\nConstruction & General Waste, \n112 MT (2%)\nHospital Waste, 0 MT (0%)\nAsbestos, 0 MT (0%)\nMixed Commercial \n& Industrial Waste, \n5k MT (85%)\nTotal Beneficial Reuse Reported – 833k MT\nCalcium Carbonate & Filter Press \nMud, 93k MT (11%)\nBagasse, 611k MT (63%)\nAsh, 32k MT (4%)\nBone Char, 492 MT (0%)\nMill Mud, 90k MT (12%)\nMixed Organic & Food Waste, \n7k MT (1%)\n48\nASR Group Sustainability Report 2023\n\n\n--- PAGE 49 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nCompany-Wide Recycling and Waste Effort​\nThe current focus of our waste roadmap is to improve our data granularity to identify opportunities for improvement and to design and implement projects guided by the \"Zero \nWaste Hierarchy.\" We are working to refine this strategy with the support of our site-level teams and our service providers.\nFY 12\nFY 13\nFY 14\nFY 16\nFY 18\nFY 17\nFY 19\nFY 20\nFY 21\n99.9%\n99.8%\n99.7%\n99.6%\n99.5%\n99.4%\n99.3%\n99.3%\n99.4%\n99.5%\n99.6%\n99.6%\n99.5%\n99.5%\n99.5%\n99.5%\n99.2%\n99.1%\n99.0%\n98.9%\nPercent Waste Diverted from Landfill\nFY 22\nFY 15\n99.4%\n99.3%\nFY 23\n99.4%\n49\nASR Group Sustainability Report 2023"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

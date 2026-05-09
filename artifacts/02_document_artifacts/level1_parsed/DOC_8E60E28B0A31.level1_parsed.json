@@ -1,0 +1,31 @@
+{
+  "doc_id": "DOC_8E60E28B0A31",
+  "file_name": "efsa_pgpr_e476_reevaluation.pdf",
+  "source_owner": "EFSA",
+  "document_title": "Efsa Pgpr E476 Reevaluation",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for efsa_pgpr_e476_reevaluation.pdf. Packet: pgpr. Evidence role: regulatory_definition. Input mode: text_plus_page_images. Detected entities/stages include: none detected.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [],
+  "extracted_entities": [],
+  "extracted_metrics": [],
+  "extracted_prices": [],
+  "extracted_dates": [],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 41,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": true
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_B690BF25DADF",
+    "file_name": "fema_flavor_ingredient_library_page.pdf",
+    "relative_path": "03_ingredient_research/natural_flavor/01_fema_gras_context/fema_flavor_ingredient_library_page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/natural_flavor/01_fema_gras_context/fema_flavor_ingredient_library_page.pdf",
+    "packet": "natural_flavor",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "unknown",
+    "file_extension": ".pdf",
+    "file_size_bytes": 351543,
+    "sha256": "d38a17d0cb53a893d274263bdc0c1616054e4707d2112c09c45155d32d564aeb"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 22,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_B690BF25DADF.txt",
+    "page_count": 6,
+    "total_text_length": 10809,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 28,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "fda",
+            "gras",
+            "food additive"
+          ]
+        },
+        "candidate_companies": [
+          "FDA",
+          "EPA",
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "1958"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nGRAS Flavoring \nSubstances 33 \n \n33. GRAS Flavoring Substances. This list of substances will appear in the 33rd publication authored \nby the Expert Panel of the Flavor and Extract Manufacturers Association on recent progress in the \nconsideration of flavoring ingredients “generally recognized as safe” (GRAS) under conditions of \ntheir intended use in food flavorings in accordance with the 1958 Food Additives Amendment to \nthe Federal Food, Drug and Cosmetic Act. For more information on FEMA GRAS see “About the \nFEMA GRAS Program” on the FEMA website. \n \nFEMA EXPERT PANEL \nIvonne M.C.M. Rietjens, Ph.D., Chair of the FEMA Expert Panel, Professor of Toxicology and Chair, Dept. \nof Toxicology, Wageningen; Gerhard Eisenbrand, Ph.D. (Retired), Food Chemistry and Toxicology, \nUniversity of Kaiserslautern, Kaiserslautern, Germany; Shoji Fukushima, M.D., Director, Japan Bioassay \nResearch Center, Japan Industrial Safety and Health Association, Kanagawa, Japan; F. Peter \nGuengerich, Ph.D., Tadashi Inagami Professor of Biochemistry, Department of Biochemistry, Vanderbilt \nUniversity School of Medicine, Nashville, TN; Stephen S. Hecht, Ph.D., Wallin Professor of Cancer \nPrevention, Masonic Cancer Center and Dept. of Laboratory Medicine and Pathology, University of \nMinnesota, Minneapolis, MN; Thomas J. Rosol, D.V.M., Ph.D., M.B.A., Ohio University, Athens, Ohio; \nSamuel M. Cohen, Ph.D, M.D., Professor, Dept. of Pathology and Microbiology, and Havlik-Wall Professor \nof Oncology, University of Nebraska Medical Center, Omaha, NE; and Nigel J. Gooderham, Ph.D., Vice- \nChair of the FEMA Expert Panel, Emeritus Professor of Molecular Toxicology in the Dept. of Metabolism, \nDigestion and Reproduction and Former Assistant Provost of Imperial College London. \n \nThe Expert Panel of the Flavor and Extract Manufacturers Association of the United States (FEMA) has \nevaluated substances for GRAS status under their conditions of intended use as flavoring substances \nsince the early 1960s. The regulations of the U.S. Food and Drug Administration (FDA), and U.S. law, \nrequire that determinations that flavor substances and other food ingredients are “generally recognized \nas sa"
+    },
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 22,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "fda",
+            "gras"
+          ]
+        },
+        "candidate_companies": [
+          "FDA",
+          "EPA",
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2013"
+        ],
+        "candidate_units": []
+      },
+      "text": "stances for GRAS status under their conditions of intended use as flavoring substances \nsince the early 1960s. The regulations of the U.S. Food and Drug Administration (FDA), and U.S. law, \nrequire that determinations that flavor substances and other food ingredients are “generally recognized \nas safe” (GRAS) be done in such a way that all information related to GRAS determinations is publicly \navailable. The FEMA Expert Panel has met this requirement by publishing the identity of all flavoring \nsubstances determined to be GRAS by the Panel, and submits all information related to the \nGRAS reviews on these substances to the FDA. The key findings related to the GRAS evaluations of \nthese substances will be available in GRAS 33. The Expert Panel also publishes separate extensive \nreviews of scientific information on all FEMA GRAS flavoring substances in the peer-reviewed \nscientific literature on the safety of structurally-related groups of flavoring substances. These \nimportant actions assure that there is “general recognition” of the safety of these substances when \nused as flavors. \n \nThe FEMA Expert Panel has well-defined and published procedures to protect against potential bias \nand conflicts of interest in its evaluations of substances whose uses may be determined to be \n“generally recognized as safe” (GRAS) for use as flavor ingredients (Marnett et al., 2013). The uses \nof the flavor ingredients in this report that were determined to be GRAS were evaluated by the \nExpert Panel in accordance with the Panel’s bias and conflict of interest procedures. No conflicts or \nsources of potential bias were declared by any Panel members, or otherwise identified by the Expert \nPanel’s Legal Advisor, in the course of the evaluations of the uses of the flavor ingredients described \nin this report. \n \nMarnett L.J., Cohen S.M., Fukushima S., Gooderham N.J., Hecht S.S., Rietjens I.M.C.M., Smith R.L., Adams \nT.B., Hallagan J.B., Harman C., McGowan M.M. and Taylor S.V. GRAS flavoring substances 26. Food \nTechnology. 67(8), 38. 2013. \n \nDISCLAIMER: The user of this list agrees that its use of this document and the information contained therein is at the \nuser’s sole risk and t"
+    },
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_1",
+      "signal_score": 15,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "gras"
+          ]
+        },
+        "candidate_companies": [
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "18%",
+          "6%",
+          "75%"
+        ],
+        "candidate_years": [
+          "2013",
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "I.M.C.M., Smith R.L., Adams \nT.B., Hallagan J.B., Harman C., McGowan M.M. and Taylor S.V. GRAS flavoring substances 26. Food \nTechnology. 67(8), 38. 2013. \n \nDISCLAIMER: The user of this list agrees that its use of this document and the information contained therein is at the \nuser’s sole risk and that FEMA shall have no liability to any person for any loss or damage arising out of the use of this \ndocument. This document and the information contained herein is subject to change. It is the responsibility of the user \nto ensure the information is up to date.\n\n\n--- PAGE 2 ---\nTable 1. Primary names (in boldface) Synonyms (in lightface)\nFEMA No.\nPrimary Names and Synonyms\n5088\nbeta -Sinensal fermentation product\n5089\nFermented tomato powder\n5090\nMortierella alpina biomass\n5093\nHeat-treated glucosylated steviol glycosides 18% with steviol glycosides 6%\n5094\nMixture of fatty acid ethyl esters\n5096\n2S -Hesperidin\nPolysorbate 65\nTween 65\nSorbimacrogol tristearate\nSorbitan, trioctadecanoate, poly(oxy-1,2-ethanediyl) derivatives\nSorbitan, tristearate, polyoxyethylene derivatives\nPolyoxyethylene sorbitan tristearate\nPolyoxyethylene 1,4-sorbitan-tristearate\nPEG-20 sorbitan tristearate\n5100\nStevia rebaudiana extract, rebaudioside A 75%\nLemna gibba extract\nGibbous duckweed extract\nInflated duckweed extract\n5099\n5104\nInterim FEMA GRAS 33 List April 2026"
+    },
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_2",
+      "signal_score": 20,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar",
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "gras"
+          ]
+        },
+        "candidate_companies": [
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "75%",
+          "18%",
+          "6%"
+        ],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "yoxyethylene derivatives\nPolyoxyethylene sorbitan tristearate\nPolyoxyethylene 1,4-sorbitan-tristearate\nPEG-20 sorbitan tristearate\n5100\nStevia rebaudiana extract, rebaudioside A 75%\nLemna gibba extract\nGibbous duckweed extract\nInflated duckweed extract\n5099\n5104\nInterim FEMA GRAS 33 List April 2026\n\n\n--- PAGE 3 ---\nTable 2. Average Usual Use Levels (ppm)/Average Maximum Use Levels (ppm) for new FEMA GRAS Flavoring \nSubstances on which the FEMA Expert Panel based its judgments that the substances are generally recognized as \nsafe (GRAS)\nbeta -Sinensal fermentation \nproduct\nFermented tomato powder\nMortierella alpina biomass\nHeat-treated glucosylated \nsteviol glycosides 18% with \nsteviol glycosides 6%\n2S -Hesperidin\nMixture of fatty acid ethyl \nesters\nCategory/FEMA No.\n5088\n5089\n5090\n5093\n5096\n5094\nBaked Goods\n3776/7080\n50/150\nBeverages Type I, Non-Alcoholic\n10/10\n300/5000\n50/150\n100/300\nBeverages Type II, Alcoholic\n50/150\nBreakfast Cereals\n50/150\nCheeses\n500/5000\n50/150\n5/30\nChewing Gum\n50/150\nCondiments and Relishes\n500/5000\n50/150\n5/30\nConfections and Frostings\n50/150\n200/300\nEgg Products\n500/5000\n50/150\nFats and Oils\n500/5000\n3776/7080\n50/150\n7/35\nFish Products\n500/5000\n50/150\n5/30\nFrozen Dairy\n10/10\n500/5000\n50/150\nFruit Ices\n10/10\n50/150\nGelatins and Puddings\n50/150\nGranulated Sugar\nGravies\n500/5000\n3776/7080\n50/150\n100/300\n5/30\nHard Candy\n10/10\n50/150\nImitation Dairy Products\n500/5000\n50/150\n100/300\nInstant Coffee and Tea\n50/150\nJams and Jellies\n500/5000\n50/150\nMeat Products\n5/5\n300/2500\n3776/7080\n50/150\n100/300\n2/10\nMilk Products\n400/3000\n50/150\nNut Products\n50/150\nOther Grains\n50/150\nPoultry Products\n500/5000\n3776/7080\n50/150\n100/100\n2/10\nProcessed Fruits\n5/5\n300/2500\n50/150\nProcessed Vegetables\n5/5\n500/5000\n50/150\n100/300\nReconstituted Vegetable Protein\n500/5000\n3776/7080\n50/150\n100/300\nSeasonings and Flavors\n5/5\n1000/5000\n50/150\n10/30\nSnack Foods\n500/5000\n3776/7080\n50/150\n200/300\n5/30\nSoft Candy\n50/150\n200/300\nSoups\n5/5\n500/5000\n3776/7080\n50/150\n100/300\n5/30\nSugar Substitutes\nSweet Sauces\n50/150\nInterim FEMA GRAS 33 List April 2026"
+    },
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_3",
+      "signal_score": 17,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar",
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "gras"
+          ]
+        },
+        "candidate_companies": [
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "75%"
+        ],
+        "candidate_years": [
+          "2026",
+          "1998"
+        ],
+        "candidate_units": []
+      },
+      "text": "etable Protein\n500/5000\n3776/7080\n50/150\n100/300\nSeasonings and Flavors\n5/5\n1000/5000\n50/150\n10/30\nSnack Foods\n500/5000\n3776/7080\n50/150\n200/300\n5/30\nSoft Candy\n50/150\n200/300\nSoups\n5/5\n500/5000\n3776/7080\n50/150\n100/300\n5/30\nSugar Substitutes\nSweet Sauces\n50/150\nInterim FEMA GRAS 33 List April 2026\n\n\n--- PAGE 4 ---\nTable 2. Average Usual Use Levels (ppm)/Average Maximum Use Levels (ppm) for new FEMA GRAS Flavoring \nSubstances on which the FEMA Expert Panel based its judgments that the substances are generally recognized as \nsafe (GRAS)\nCategory/FEMA No.\nBaked Goods\nBeverages Type I, Non-Alcoholic\nBeverages Type II, Alcoholic\nBreakfast Cereals\nCheeses\nChewing Gum\nCondiments and Relishes\nConfections and Frostings\nEgg Products\nFats and Oils\nFish Products\nFrozen Dairy\nFruit Ices\nGelatins and Puddings\nGranulated Sugar\nGravies\nHard Candy\nImitation Dairy Products\nInstant Coffee and Tea\nJams and Jellies\nMeat Products\nMilk Products\nNut Products\nOther Grains\nPoultry Products\nProcessed Fruits\nProcessed Vegetables\nReconstituted Vegetable Protein\nSeasonings and Flavors\nSnack Foods\nSoft Candy\nSoups\nSugar Substitutes\nSweet Sauces\nPolysorbate 65\nStevia rebaudiana extract, \nrebaudioside A 75%\nLemna gibba extract\n5099\n5100\n5104\n50/50\n499/749\n10/50\n50/50\n499/749\n10/50\n50/50\n999/1998\n499/749\n250/499\n125/499\n499/749\n50/50\n499/749\n50/50\n60/80\n30/45\n400/599\n50/50\n60/80\n400/599\n400/599\n649/849\n25/75\n25/75\n499/499\n400/749\n1249/4994\n30/50\nInterim FEMA GRAS 33 List April 2026"
+    },
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0006",
+      "chunk_number": 6,
+      "page_or_section_hint": "page_4",
+      "signal_score": 70,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar",
+            "natural flavor"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "gras",
+            "natural flavor"
+          ]
+        },
+        "candidate_companies": [
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "75%",
+          "63%",
+          "25%",
+          "9%",
+          "4%",
+          "78%",
+          "22%",
+          "3%",
+          "1%",
+          "0.5%",
+          "45%",
+          "40%",
+          "20%",
+          "42%",
+          "10%",
+          "2%",
+          "18%",
+          "6%",
+          "95%",
+          "38%",
+          "16%",
+          "19%",
+          "35%",
+          "13%",
+          "15%",
+          "5%"
+        ],
+        "candidate_years": [
+          "1998",
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "rebaudioside A 75%\nLemna gibba extract\n5099\n5100\n5104\n50/50\n499/749\n10/50\n50/50\n499/749\n10/50\n50/50\n999/1998\n499/749\n250/499\n125/499\n499/749\n50/50\n499/749\n50/50\n60/80\n30/45\n400/599\n50/50\n60/80\n400/599\n400/599\n649/849\n25/75\n25/75\n499/499\n400/749\n1249/4994\n30/50\nInterim FEMA GRAS 33 List April 2026\n\n\n--- PAGE 5 ---\nInterim FEMA GRAS 33 List April 2026 \nTable 4. Identity for Natural Flavor Complexes as Evaluated by the FEMA Expert Panel \n \n \n \nFEMA No. FEMA Primary Name \nThe Identification Description as Reviewed by the FEMA \nExpert Panel \n5088 \nbeta-Sinensal fermentation product 50-63% beta-Farnesene; 20-25% beta-sinensal; 4-9% beta-\nsinensol; and 3-4% 2,6,10-trimethyldodeca-6,11-dienoic acid. \n5089 \nFermented tomato powder \n69-78% Maltodextrin; 14-22% minerals, such as sodium and \nchloride; 2-3% D-maltose; 1-4% water; less than 1% dietary fiber; \nless than 0.5% lipids; less than 0.5% inactivated microbial cells \n(dried cell weight); and less than 1% volatile compounds including, \nphenethyl alcohol, amino acids and aliphatic primary alcohols, \naldehydes, carboxylic acids, acetals and esters containing additional \noxygenated functional groups. \n5090 \nMortierella alpina biomass \n12-45% Protein; 17-40% fatty acids, of which >20% is arachidonic \nacid; 13-42% carbohydrates; <10% moisture; and <2% ash. \n5093 \nHeat-treated glucosylated steviol \nglycosides 18% with steviol \nglycosides 6% \nProduced from enzymatically modified and heated steviol \nglycosides; >95% of identified constituents inclusive of: \nsupraglucosylated steviol glycosides 16-18%; steviol glycosides not \nfurther glucosylated 4-6% with each individually, less than 3%; \ndextrins 35-38%; monosaccharides 14-16%; water less than 4%; \ndisaccharides 16-19%; and other non-volatiles 2-3% including sugar \nalcohols, amino acids, proteins, lipids and ash. \n5094 \nMixture of fatty acid ethyl esters \n29-35% Ethyl palmitate; 12-13% ethyl myristate; 11-15% ethyl (Z)-\nhexadec-9-enoate; 7-15% ethyl oleate; 2-6% eicosapentaenoic acid \nethyl ester; less than 5%, individually, of other identified C16-C22 \nethyl esters; and 5-15% of other unidentified C14-C22 ethyl esters. \n5099 \nPolysorbate 65 \nProduced from the polymerizatio"
+    },
+    {
+      "chunk_id": "DOC_B690BF25DADF_CHUNK_0007",
+      "chunk_number": 7,
+      "page_or_section_hint": "page_5",
+      "signal_score": 44,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "gras"
+          ]
+        },
+        "candidate_companies": [
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "13%",
+          "15%",
+          "6%",
+          "5%",
+          "46%",
+          "50%",
+          "95%",
+          "104%",
+          "3%",
+          "0.25%",
+          "75%",
+          "77%",
+          "9%",
+          "2%",
+          "59%",
+          "40%",
+          "1%",
+          "10%"
+        ],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "12-13% ethyl myristate; 11-15% ethyl (Z)-\nhexadec-9-enoate; 7-15% ethyl oleate; 2-6% eicosapentaenoic acid \nethyl ester; less than 5%, individually, of other identified C16-C22 \nethyl esters; and 5-15% of other unidentified C14-C22 ethyl esters. \n5099 \nPolysorbate 65 \nProduced from the polymerization of sorbitan stearate monomer, \nwith an oxyethylene content (–C2H4O-) of not less than 46% and \nnot more than 50%, equivalent to >95% (96-104%) polysorbate 65; \n≤3%water; ≤0.25% sulfated ash; and ≤0.1 ppm residual ethylene \noxide.\n\n\n--- PAGE 6 ---\nInterim FEMA GRAS 33 List April 2026 \n5100 \nStevia rebaudiana extract, \nrebaudioside A 75% \nProduced by aqueous/ethanol extraction of Stevia rebaudiana \nleaves; Total steviol glycosides no less than 95% inclusive of: \nrebaudioside A 73-77%; rebaudioside B 10-13%; rebaudioside D 7- \n9%; other steviol glycosides not further glucosylated present at <2% \nindividually. \n5104 \nLemna gibba extract \n55-59% Water; 38-40% carbohydrates; 1-2% ash; <2% protein; <1% \ncrude fiber; <1% fat; up to 10% phenol derivatives; <1% other \nvolatile constituents"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

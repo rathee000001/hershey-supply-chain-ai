@@ -1,0 +1,224 @@
+{
+  "doc_id": "DOC_E3E6C7C84910",
+  "file_name": "milk_processing_separation_explanation.pdf",
+  "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/04_dairy_processing_explanation/milk_processing_separation_explanation.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "evidence_role": "process_or_function_context",
+  "extracted_at": "2026-05-06T19:56:39",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_E3E6C7C84910.txt",
+      "page_count": 50,
+      "total_text_length": 149382,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 260
+        },
+        {
+          "page": 2,
+          "text_length": 2471
+        },
+        {
+          "page": 3,
+          "text_length": 2492
+        },
+        {
+          "page": 4,
+          "text_length": 2732
+        },
+        {
+          "page": 5,
+          "text_length": 2683
+        },
+        {
+          "page": 6,
+          "text_length": 2970
+        },
+        {
+          "page": 7,
+          "text_length": 2690
+        },
+        {
+          "page": 8,
+          "text_length": 2496
+        },
+        {
+          "page": 9,
+          "text_length": 2992
+        },
+        {
+          "page": 10,
+          "text_length": 3273
+        },
+        {
+          "page": 11,
+          "text_length": 2466
+        },
+        {
+          "page": 12,
+          "text_length": 3092
+        },
+        {
+          "page": 13,
+          "text_length": 2504
+        },
+        {
+          "page": 14,
+          "text_length": 2859
+        },
+        {
+          "page": 15,
+          "text_length": 3174
+        },
+        {
+          "page": 16,
+          "text_length": 3473
+        },
+        {
+          "page": 17,
+          "text_length": 3321
+        },
+        {
+          "page": 18,
+          "text_length": 2913
+        },
+        {
+          "page": 19,
+          "text_length": 3534
+        },
+        {
+          "page": 20,
+          "text_length": 3580
+        },
+        {
+          "page": 21,
+          "text_length": 3155
+        },
+        {
+          "page": 22,
+          "text_length": 3592
+        },
+        {
+          "page": 23,
+          "text_length": 3524
+        },
+        {
+          "page": 24,
+          "text_length": 2930
+        },
+        {
+          "page": 25,
+          "text_length": 3367
+        },
+        {
+          "page": 26,
+          "text_length": 2849
+        },
+        {
+          "page": 27,
+          "text_length": 3221
+        },
+        {
+          "page": 28,
+          "text_length": 3387
+        },
+        {
+          "page": 29,
+          "text_length": 2627
+        },
+        {
+          "page": 30,
+          "text_length": 3211
+        },
+        {
+          "page": 31,
+          "text_length": 2965
+        },
+        {
+          "page": 32,
+          "text_length": 3481
+        },
+        {
+          "page": 33,
+          "text_length": 2984
+        },
+        {
+          "page": 34,
+          "text_length": 2908
+        },
+        {
+          "page": 35,
+          "text_length": 3636
+        },
+        {
+          "page": 36,
+          "text_length": 2830
+        },
+        {
+          "page": 37,
+          "text_length": 2947
+        },
+        {
+          "page": 38,
+          "text_length": 2969
+        },
+        {
+          "page": 39,
+          "text_length": 2919
+        },
+        {
+          "page": 40,
+          "text_length": 2645
+        },
+        {
+          "page": 41,
+          "text_length": 3403
+        },
+        {
+          "page": 42,
+          "text_length": 2833
+        },
+        {
+          "page": 43,
+          "text_length": 3220
+        },
+        {
+          "page": 44,
+          "text_length": 2791
+        },
+        {
+          "page": 45,
+          "text_length": 3166
+        },
+        {
+          "page": 46,
+          "text_length": 2879
+        },
+        {
+          "page": 47,
+          "text_length": 2847
+        },
+        {
+          "page": 48,
+          "text_length": 3724
+        },
+        {
+          "page": 49,
+          "text_length": 3064
+        },
+        {
+          "page": 50,
+          "text_length": 2395
+        }
+      ],
+      "rendered_page_images": [],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

@@ -1,0 +1,72 @@
+{
+  "doc_id": "DOC_C5E013D8DC8A",
+  "file_name": "fda_21_cfr_101_22_natural_flavor_definition.pdf",
+  "relative_path": "03_ingredient_research/natural_flavor/00_regulatory_definition/fda_21_cfr_101_22_natural_flavor_definition.pdf",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "evidence_role": "regulatory_definition",
+  "extracted_at": "2026-05-06T19:56:39",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_C5E013D8DC8A.txt",
+      "page_count": 9,
+      "total_text_length": 158,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        },
+        {
+          "page": 2,
+          "text_length": 0
+        },
+        {
+          "page": 3,
+          "text_length": 0
+        },
+        {
+          "page": 4,
+          "text_length": 0
+        },
+        {
+          "page": 5,
+          "text_length": 0
+        },
+        {
+          "page": 6,
+          "text_length": 0
+        },
+        {
+          "page": 7,
+          "text_length": 0
+        },
+        {
+          "page": 8,
+          "text_length": 0
+        },
+        {
+          "page": 9,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_004.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_005.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_006.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_007.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_008.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_009.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

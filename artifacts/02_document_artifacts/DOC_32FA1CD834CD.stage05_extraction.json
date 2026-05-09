@@ -1,0 +1,108 @@
+{
+  "doc_id": "DOC_32FA1CD834CD",
+  "file_name": "sugar_cane_beet_processing_explanation.pdf",
+  "relative_path": "03_ingredient_research/sugar/process_explanation/sugar_cane_beet_processing_explanation.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "evidence_role": "process_or_function_context",
+  "extracted_at": "2026-05-06T19:57:07",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_32FA1CD834CD.txt",
+      "page_count": 21,
+      "total_text_length": 49228,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 3235
+        },
+        {
+          "page": 2,
+          "text_length": 2744
+        },
+        {
+          "page": 3,
+          "text_length": 2064
+        },
+        {
+          "page": 4,
+          "text_length": 3171
+        },
+        {
+          "page": 5,
+          "text_length": 4672
+        },
+        {
+          "page": 6,
+          "text_length": 1946
+        },
+        {
+          "page": 7,
+          "text_length": 2863
+        },
+        {
+          "page": 8,
+          "text_length": 1533
+        },
+        {
+          "page": 9,
+          "text_length": 2775
+        },
+        {
+          "page": 10,
+          "text_length": 1754
+        },
+        {
+          "page": 11,
+          "text_length": 2663
+        },
+        {
+          "page": 12,
+          "text_length": 1520
+        },
+        {
+          "page": 13,
+          "text_length": 1689
+        },
+        {
+          "page": 14,
+          "text_length": 1741
+        },
+        {
+          "page": 15,
+          "text_length": 1824
+        },
+        {
+          "page": 16,
+          "text_length": 815
+        },
+        {
+          "page": 17,
+          "text_length": 2890
+        },
+        {
+          "page": 18,
+          "text_length": 2614
+        },
+        {
+          "page": 19,
+          "text_length": 1990
+        },
+        {
+          "page": 20,
+          "text_length": 2797
+        },
+        {
+          "page": 21,
+          "text_length": 1541
+        }
+      ],
+      "rendered_page_images": [],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

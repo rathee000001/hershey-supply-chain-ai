@@ -1,0 +1,72 @@
+{
+  "doc_id": "DOC_01971A613130",
+  "file_name": "WPU09150336.csv",
+  "relative_path": "04_logistics_distribution/06_raw_excel_exports/WPU09150336.csv",
+  "packet": "logistics_distribution",
+  "document_type": "csv_table",
+  "evidence_role": "unknown",
+  "extracted_at": "2026-05-06T19:57:16",
+  "extraction": {
+    "tables": {
+      "extractor": "pandas",
+      "tables": [
+        {
+          "sheet_or_table_name": "WPU09150336",
+          "rows": 256,
+          "columns": 2,
+          "headers": [
+            "observation_date",
+            "WPU09150336"
+          ],
+          "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_01971A613130/wpu09150336.csv",
+          "preview_rows": [
+            {
+              "observation_date": "2004-12-01",
+              "WPU09150336": "100.0"
+            },
+            {
+              "observation_date": "2005-01-01",
+              "WPU09150336": "100.2"
+            },
+            {
+              "observation_date": "2005-02-01",
+              "WPU09150336": "100.2"
+            },
+            {
+              "observation_date": "2005-03-01",
+              "WPU09150336": "100.5"
+            },
+            {
+              "observation_date": "2005-04-01",
+              "WPU09150336": "100.3"
+            },
+            {
+              "observation_date": "2005-05-01",
+              "WPU09150336": "100.3"
+            },
+            {
+              "observation_date": "2005-06-01",
+              "WPU09150336": "100.3"
+            },
+            {
+              "observation_date": "2005-07-01",
+              "WPU09150336": "100.6"
+            },
+            {
+              "observation_date": "2005-08-01",
+              "WPU09150336": "100.7"
+            },
+            {
+              "observation_date": "2005-09-01",
+              "WPU09150336": "100.6"
+            }
+          ]
+        }
+      ],
+      "combined_text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_01971A613130.txt",
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

@@ -1,0 +1,24 @@
+{
+  "doc_id": "DOC_BF1CF5E24E2A",
+  "file_name": "034000002405_3.png",
+  "relative_path": "01_product_sku_1_55oz/nutrition_ingredients/034000002405_3.png",
+  "packet": "product_sku_1_55oz",
+  "document_type": "image_or_logo",
+  "evidence_role": "unknown",
+  "extracted_at": "2026-05-06T19:56:18",
+  "extraction": {
+    "image": {
+      "extractor": "pillow_metadata_or_file_copy",
+      "copied_asset_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_BF1CF5E24E2A/034000002405_3.png",
+      "width": 700,
+      "height": 700,
+      "format": "PNG",
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "Image/logo copied and metadata captured. Use later vision/manual review for factual extraction."
+  ]
+}

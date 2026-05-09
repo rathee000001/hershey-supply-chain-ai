@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_1EB5146FBACE",
+  "file_name": "bls_truck_transportation_ppi_benchmark.pdf",
+  "relative_path": "04_logistics_distribution/03_freight_trucking_diesel_benchmarks/bls_truck_transportation_ppi_benchmark.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:57:11",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_1EB5146FBACE.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1EB5146FBACE/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

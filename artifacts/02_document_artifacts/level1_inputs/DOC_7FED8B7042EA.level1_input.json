@@ -1,0 +1,418 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_7FED8B7042EA",
+    "file_name": "usda_ams_dairy_market_news_weekly_report_latest.pdf",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_dairy_market_news_weekly_report_latest.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_dairy_market_news_weekly_report_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 1869441,
+    "sha256": "913becedf41ba0e98e3709d76f1ad3f9313958f2d27ced4765dadd1d1511edec"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 71,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_7FED8B7042EA.txt",
+    "page_count": 28,
+    "total_text_length": 78106,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7FED8B7042EA/page_020.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_7FED8B7042EA_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 88,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "market",
+            "cents",
+            "$"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$1.5950",
+          "$1.6505",
+          "$1.6150",
+          "$1.6400",
+          "$1.6430",
+          "$2.2625",
+          "$2.2590",
+          "$0.6975",
+          "$0.7025",
+          "$5",
+          "2 cents",
+          "5 cents"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nDAIRY MARKET NEWS \nMMN Slug ID 2998 \nWEEK OF APRIL 27 – MAY 1, 2026 \nVOLUME 93, REPORT 18 \n \nDAIRY MARKET NEWS AT A GLANCE\nCME GROUP CASH MARKETS (5/1) \nBUTTER: Grade AA closed at $1.5950. The weekly average for Grade\nAA is $1.6505 (-0.0505). \nCHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400. The\nweekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DRY MILK: Grade A closed at $2.2625. The weekly\naverage for Grade A is $2.2590 (+0.0220). \nDRY WHEY: Extra grade dry whey closed at $0.6975. The weekly\naverage for dry whey is $0.7025 (+0.0030). \n BUTTER HIGHLIGHTS: Stakeholders in the West and Central\nregions report steady domestic butter demand. Stakeholders in the East\nregion report demand varies from steady to strong. Food service\ndemand is lighter than anticipated this time of year for some sellers.\nExport demand is steady. Spot cream loads are available, but butter\nmanufacturers are mainly relying on contractual intakes and only\nadding moderate spot volumes to run through their churns. Butter\nproduction schedules are churning cream seven days a week. US butter\nprices continue to bring international buyer interest. Bulk butter\noverages range from 2 cents below to 5 cents above market across all\nregions. \n CHEESE HIGHLIGHTS: Northeast milk supplies are ample,\nsupporting strong cheese production. Bulk demand is rising, retail sales\nare steady, and exports remain stronger than expected. Inventories are\ngrowing due to high milk volumes, but contacts anticipate future sales\nwill rebalance stocks. Central region milk output is steady and above\nyear-ago levels. Class III spot milk trades are light, priced $5-under to\nflat. Cheesemakers’ schedules are busy. Barrel demand is strong and\nblock demand is steady to strong. Retail buying is steady, food service\nis soft, and export demand is strong with adequate spot availability.\nWestern region milk and cream output is adequate for contractual\nneeds, though spot milk varies. Cheesemaker demand is moderate,\nwith active cream cheese and seven-day cheese schedules. Some plants\nremain heavily contract focused, but spot cheese is available. Retail\ndemand is stable and expor"
+    },
+    {
+      "chunk_id": "DOC_7FED8B7042EA_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 31,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$5"
+        ],
+        "candidate_percentages": [
+          "34%"
+        ],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "lity.\nWestern region milk and cream output is adequate for contractual\nneeds, though spot milk varies. Cheesemaker demand is moderate,\nwith active cream cheese and seven-day cheese schedules. Some plants\nremain heavily contract focused, but spot cheese is available. Retail\ndemand is stable and export demand strong. \n FLUID MILK HIGHLIGHTS: Nationwide, milk volumes are\nsufficient to meet production demands. Some regions are experiencing\nspring flush, while other areas are past prime spring flush. Year over\nyear milk production remains up. Class I demand is steady nationwide\nbut is expected to drop as the month of May progresses. Class II\ndemand is strong. Seasonal demand for ice cream and other fluid\nproducts is drawing spot cream supplies, keeping cream multiples high.\nClass III demand is steady to strong. Cheese production schedules are\nfull, and whey demand will maintain this trend moving forward. Class\nIII milk spot sales range from $5-under to flat Class this week. Class\nIV demand is steady to strong. There are very few spot sales of cream\nfor butter manufacturers, but milk intake is high at many butter and \npowder manufacturers. Condensed skim is difficult to find on the spot\nmarket. Class II nonfat solids are driving prices higher, but demand\nremains steady to strong. Cream multiples for all Classes range:1.15 –\n1.42 in the East; 1.15 – 1.35 in the Midwest; 1.08 – 1.28 in the West. \n DRY PRODUCTS HIGHLIGHTS: Nonfat dry milk prices rose \nsharply this week, with several double digit increases across all regions\nand heat levels. The most notable gain occurred at the bottom of the\nmostly range for low/medium heat in the West. Dry buttermilk prices\nmoved higher in every region, with the West showing the strongest\nincreases. Dry whey markets were mostly steady, though slight upward\nmovement was noted at the bottom of the Central price range and the\ntop of the East price range. Lactose prices strengthened at both ends of\nthe price range, including a significant increase at the bottom, while\nthe mostly range held steady. Whey protein concentrate (WPC) 34%\nprices strengthened throughout the price series, highlighted by a\nnotable increase at the top of the price ran"
+    },
+    {
+      "chunk_id": "DOC_7FED8B7042EA_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_2",
+      "signal_score": 123,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "per lb",
+            "per pound",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "retail"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$18.82",
+          "$16.82",
+          "$20.22",
+          "$1.8692",
+          "$1.8762",
+          "$2.5190",
+          "$0.3888",
+          "$10.65",
+          "$14.17",
+          "$1.5241",
+          "$1.7707",
+          "$1.7788",
+          "$1.6427",
+          "$0.6443",
+          "1.8692 per pound",
+          "1.8762 per pound",
+          "0.3888 per pound",
+          "1.5241 per pound"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": [
+          "40 POUND"
+        ]
+      },
+      "text": "med in producer households. \n FINAL CLASS PRICES (FMMO): The following are the \nApril 2026 class prices under the Federal milk order pricing system \nand changes from the previous month: Class II: $18.82 ($+1.48), \nClass III: $16.82 ($+0.66), and Class IV: $20.22 ($+1.28). Under \nthe Federal milk order pricing system, the butterfat price for April \n2026 is $1.8692 per pound. Thus, the Class II butterfat price is \n$1.8762 per pound. The protein and other solids prices for April \n2026 are $2.5190 and $0.3888 per pound, respectively. These \ncomponent prices set the Class III skim milk price at $10.65 per \ncwt. The April 2026 Class IV skim milk price is $14.17, which is \nderived from the nonfat solids price of $1.5241 per pound. The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, and dry whey $0.6443. \nNATIONAL RETAIL REPORT: In week 18 conventional dairy \nadvertisements grew 67 percent, and organic ads are up 38 percent. \nCheese appeared in the largest number of conventional retail ads, \nwhile the most advertised organic commodity is milk. The second \nmost advertised commodity in both the conventional and organic \naisles is yogurt.\n\n\n--- PAGE 3 ---\nDAIRY MARKET NEWS, APRIL 27 – MAY 1, 2026 \n-2- \nVOLUME 93, REPORT 18 \nCOMMODITY \nMONDAY \nApr 27 \nTUESDAY \nApr 28 \nWEDNESDAY \nApr 29 \nTHURSDAY \nApr 30 \nFRIDAY \nMay 01 \nWEEKLY \nCHANGE \nWEEKLY \nAVERAGE \nCHEESE \n BARRELS \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n(N.C.) \n1.6150 \n(+0.0240) \n 40 POUND BLOCKS \n1.6525 \n(+0.0075) \n1.6525 \n(N.C.) \n1.6300 \n(-0.0225) \n1.6400 \n(+0.0100) \n1.6400 \n(N.C.) \n(-0.0050) \n1.6430 \n(+0.0240) \nNONFAT DRY MILK \n GRADE A \n2.2600 \n(N.C.) \n2.2650 \n(+0.0050) \n2.2575 \n(-0.0075) \n2.2500 \n(-0.0075) \n2.2625 \n(+0.0125) \n(+0.0025) \n2.2590 \n(+0.0220) \nBUTTER \n GRADE AA \n1.6875 \n(-0.0175) \n1.6950 \n(+0.0075) \n1.6500 \n(-0.0450) \n1.6250 \n(-0.0250) \n1.5950 \n(-0.0300) \n(-0.1100) \n1.6505 \n(-0.0505) \nDRY WHEY \n EXTRA GRADE \n0.7025 \n(+0.0050) \n0.7075 \n(+0.0050) \n0.7075 \n(N.C.) \n0.6975 \n(-0.0100) \n0.6975 \n(N.C.) \n(N.C.) \n0.7025 \n(+0.0030) \nPrices are USD per lb. in carlot quantities. Carlot unit weights: Cheese, 40,000-44,000"
+    },
+    {
+      "chunk_id": "DOC_7FED8B7042EA_CHUNK_0020",
+      "chunk_number": 20,
+      "page_or_section_hint": "page_9",
+      "signal_score": 102,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "production",
+            "plant",
+            "refining"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [
+          "$43.89",
+          "$45.39",
+          "$44.27",
+          "$39.70",
+          "$41.31",
+          "$41.86"
+        ],
+        "candidate_percentages": [
+          "4.70%",
+          "3.51%",
+          "4.72%",
+          "3.42%",
+          "4.63%",
+          "3.43%",
+          "2.90%",
+          "2.47%",
+          "27.32%",
+          "1.91%",
+          "0.29%",
+          "4.31%",
+          "3.23%",
+          "4.24%",
+          "3.24%",
+          "4.26%",
+          "3.29%",
+          "6.49%",
+          "1.33%",
+          "9.83%",
+          "0.47%",
+          "1.54%"
+        ],
+        "candidate_years": [
+          "2026",
+          "2018",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "biannually to discuss recommendations for the USDA to aid in\ndeveloping and refining organic standards. The written comment\nperiod is open through May 4, and online webinars regarding public\ncomments will be hosted on May 5 and 7. To learn more about this\nmeeting and how to attend in person or virtually visit: \nhttps://www.ams.usda.gov/event/national-organic-standards-board-\nnosb-meeting-spring-2026 \nThe Pennsylvania Monthly Organic Dairy Report, a report created as\npart of the Organic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted average price for fluid milk decreased by 2.47\npercent from January. Total volume, average daily production per cow,\naverage monthly production per cow, and weighted average protein\nincreased from the prior month, while the weighted average butterfat\ndecreased. To view this report in its entirety visit: \nhttps://www.ams.usda.gov/mnreports/pn_da001.pdf \nVolume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,389\n$44.27\n30.85\n4.63%\n3.43%\n% Change\n2.90%\n-2.47%\n27.32%\n-1.91%\n0.29%\nThe Vermont Monthly Organic Dairy Report, a report created as part\nof the Organic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted average price for fluid milk increased 1.33\npercent from January. Total volume, daily production per cow,\nincreased from the prior month, while the average monthly production\nper cow decreased. To view this report in its entirety visit: \nhttps://www.ams.usda.gov/mnreports/vt_da001.pdf \nVolume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,213\n$41.86\n61\n4.26%\n3.29%\n% Change\n6.49%\n1.33%\n9.83%\n0.47%\n1.54%\nORGANIC DAIRY FLUID OVERVIEW \nFederal Milk Market Order 1, in the Northeast, reports utilization of \ntypes of organic milk by regulated plants. March 2026, organic whole \nmilk utilization totaled 22.27 million pounds, up from 21.13 million \npounds the previou"
+    },
+    {
+      "chunk_id": "DOC_7FED8B7042EA_CHUNK_0024",
+      "chunk_number": 24,
+      "page_or_section_hint": "page_10",
+      "signal_score": 260,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "cents",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "retail"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$6.97",
+          "$3.91",
+          "$3.06",
+          "$4.54",
+          "$2.23",
+          "$1.81",
+          "$6.16",
+          "$4.99",
+          "$7.17",
+          "$7.96",
+          "$10.49",
+          "$5.27",
+          "$5.49",
+          "$3.97",
+          "$5.53",
+          "$4.00",
+          "$4.80",
+          "$5.40",
+          "$5.98",
+          "$5.42",
+          "$4.70",
+          "$4.12",
+          "$4.69",
+          "$4.79",
+          "$6.54",
+          "$7.56",
+          "$12.23",
+          "$12.25",
+          "$4.52",
+          "$4.38",
+          "$5.01",
+          "$7.71",
+          "$8.25",
+          "$9.99",
+          "$4.04",
+          "$3.88",
+          "$4.26",
+          "$1.86",
+          "$6.15",
+          "$5.20",
+          "$4.92",
+          "$1.84",
+          "$8.00",
+          "$5.36",
+          "43 cents",
+          "16 cents"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": [
+          "8 oz",
+          "16 oz",
+          "64 oz",
+          "6 oz",
+          "32 oz",
+          "1 lb"
+        ]
+      },
+      "text": "he third most advertised organic commodity, and every\norganic ice cream product appeared in more ads this week and total ads\nfor organic ice cream increased 47 percent. The most advertised\norganic ice cream product is 14-16-ounce containers. Organic 14-16-\nounce ice cream ads grew 34 percent, and the average price is $6.97,\nup 43 cents. Conventional ice cream sold in 14-16-ounce containers \nhas an average price of $3.91. The organic premium for this product is\n$3.06 this week. \nThe fourth most advertised organic commodity, sour cream, appeared\nin 97 percent more ads this week. The only organic sour cream product\npresent in ads for week 17 and week 18 was 16-ounce containers. The \naverage price for 16-ounce organic sour cream increased 16 cents, to \n$4.54. In the conventional aisle, the average price for 16-ounce sour \ncream is $2.23. The organic premium for 16-ounce sour cream is \n$1.81. \nNATIONAL RETAIL ORGANIC DAIRY \nWEIGHTED AVERAGE ADVERTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4.12\n$4.69 \n$4.79 \nIce Cream - 14-16 oz. \n$6.97 \n$6.54\n$7.56 \nIce Cream - 48-64 oz. \n$12.23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36"
+    },
+    {
+      "chunk_id": "DOC_7FED8B7042EA_CHUNK_0025",
+      "chunk_number": 25,
+      "page_or_section_hint": "page_10",
+      "signal_score": 131,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$6.97",
+          "$6.54",
+          "$7.56",
+          "$12.23",
+          "$12.25",
+          "$4.52",
+          "$4.38",
+          "$5.01",
+          "$7.71",
+          "$8.25",
+          "$9.99",
+          "$4.04",
+          "$3.88",
+          "$4.26",
+          "$1.86",
+          "$6.15",
+          "$5.20",
+          "$4.92",
+          "$1.84",
+          "$8.00",
+          "$5.36"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026",
+          "2025"
+        ],
+        "candidate_units": [
+          "64 oz",
+          "16 oz",
+          "6 oz",
+          "32 oz",
+          "133 pounds",
+          "7 pounds"
+        ]
+      },
+      "text": "$6.97 \n$6.54\n$7.56 \nIce Cream - 48-64 oz. \n$12.23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36\n\n\n--- PAGE 11 ---\nDAIRY MARKET NEWS, APRIL 27 – MAY 1, 2026 \n-9-\nVOLUME 93, REPORT 18 \nMarch Milk Production \nMilk production in the 24 major States during March totaled 19.6 billion pounds, up 2.4 percent from March 2025. February revised production, \nat 17.5 billion pounds, was up 3.0 percent from February 2025. The February revision represented an decrease of 11 million pounds or 0.1 percent \nfrom last month's preliminary production estimate. \nProduction per cow in the 24 major States averaged 2,133 pounds for March, 7 pounds above March 2025. \nThe number of milk cows on farms in the 24 major States was 9.18 million head, 188,000 head more than March 2025, and 8,000 head more \nthan February 2026. \nMarch 2026 Milk Cows and Milk Production, by States \nState \nMilk Cows 1 \nMilk per Cow 2 \nMilk Production 2 \n2025 \n2026 \n2025 \n2026 \n2025 \n2026 \nChange from 2025 \n(thousands) \n(pounds) \n(million pounds) \n(percent) \nAZ \n191 \n194 \n2,275 \n2,270 \n435 \n440 \n1.1 \nCA \n1,710 \n1,707 \n2,085 \n2,105 \n3,565 \n3,593 \n0.8 \nCO \n209 \n217 \n2,235 \n2,240 \n467 \n486 \n4.1 \nFL \n95 \n98 \n1,965 \n1,970 \n187 \n193 \n3.2 \nGA \n85 \n86 \n2,125 \n2,130 \n181 \n183 \n1.1 \nID \n700 \n724 \n2,155 \n2,155 \n1,509 \n1,560 \n3.4 \nIL \n77 \n76 \n1,950 \n1,955 \n150 \n149 \n-0.7\nIN \n192 \n200 \n2,050 \n2,060 \n394 \n412 \n4.6\nIA \n244 \n245 \n2,135 \n2,150 \n521 \n527 \n1.2\nKS \n187 \n234 \n2,100 \n2,105 \n393 \n493 \n25.4 \nMI \n446 \n462 \n2,385 \n2,385 \n1,064 \n1,102 \n3.6 \nMN \n442 \n453 \n2,040 \n2,040 \n902 \n924 \n2.4 \nNM \n243 \n234 \n2,215 \n2,225 \n538 \n521 \n-3.2\nNY \n635 \n653 \n2,215 \n2,200 \n1,407 \n1,437 \n2.1\nOH \n254 \n256 \n1,955 \n1,965 \n497 \n503 \n1.2\nOR \n116 \n123 \n1,810 \n1,815 \n210 \n223 \n6.2\nPA \n464 \n452 \n1,865 \n1,870 \n865 \n845 \n-2.3\nSD \n226 \n241 \n1,985 \n1,990 \n449 \n480 \n6.9\nTX \n688 \n719 \n2,275 \n2,280 \n1,565 \n1,639 \n4.7\nUT \n95 \n100 \n1,965 \n1,980 \n187 \n198 \n5.9\nVT \n113 \n113 \n1,905 \n1,915 \n215 \n216 \n0.5\nVA \n66 \n67 \n1,875 \n1,880 \n124 \n126 \n1.6\nWA \n251 \n236 \n2,070 \n2,0"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

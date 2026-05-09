@@ -1,0 +1,45 @@
+{
+  "doc_id": "DOC_A5418FB79897",
+  "file_name": "usda_ams_national_dairy_products_sales_report_latest.pdf",
+  "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_national_dairy_products_sales_report_latest.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:36",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_A5418FB79897.txt",
+      "page_count": 4,
+      "total_text_length": 7169,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 1527
+        },
+        {
+          "page": 2,
+          "text_length": 805
+        },
+        {
+          "page": 3,
+          "text_length": 2647
+        },
+        {
+          "page": 4,
+          "text_length": 2121
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A5418FB79897/page_004.png"
+      ],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_55B0E1DB0BD6",
+  "file_name": "common_carrier_freight_explanation.pdf",
+  "relative_path": "04_logistics_distribution/04_process_explanations/common_carrier_freight_explanation.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "evidence_role": "process_or_function_context",
+  "extracted_at": "2026-05-06T19:57:11",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_55B0E1DB0BD6.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_55B0E1DB0BD6/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

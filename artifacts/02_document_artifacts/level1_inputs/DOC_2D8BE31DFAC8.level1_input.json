@@ -1,0 +1,166 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_2D8BE31DFAC8",
+    "file_name": "icco_cocoa_butter_powder_faq.pdf",
+    "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/processing_explanation/icco_cocoa_butter_powder_faq.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/processing_explanation/icco_cocoa_butter_powder_faq.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 1499600,
+    "sha256": "5f83daae3a13d291d6e796674c7bf020a0394685d9d472b32f90a02c1e17a2c9"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 68,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_2D8BE31DFAC8.txt",
+    "page_count": 13,
+    "total_text_length": 5535,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_2D8BE31DFAC8/page_012.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_2D8BE31DFAC8/page_013.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_2D8BE31DFAC8_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 33,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "ppi"
+          ],
+          "manufacturing": [
+            "production",
+            "factory",
+            "processing"
+          ],
+          "logistics": [
+            "distribution",
+            "warehousing",
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "1996",
+          "2016"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nCocoa Beans:\nChocolate & Cocoa\nIndustry Quality\nRequirements\nCocoa Beans: Chocolate & \nCocoa Industry Quality \nRequirements \nEditors: Michelle End & Robin Dand\nA publication supported by contributing members of ECA CAOBISCO \nFCC Joint Cocoa Quality & Productivity working group and in kind \ncontribution from CRA LTD.\n\n\n--- PAGE 2 ---\nGlobal Cocoa Agenda Actions:\n\"improve cocoa quality by better \ncommunication of industry needs, \npost-harvest processing and quality \nassessment”\n“enhance food safety by wider \npromotion and adoption of Good \nAgricultural Practices…”\n\n\n--- PAGE 3 ---\nUpdate of the 1996 BCCCA booklet to produce \n« Cocoa Beans: Chocolate and cocoa industry quality requirements » \nGuide. \n• Scope «Farm to Factory Gate » \n• Quality – General requirements & standards\n• Food Safety aspects\n• Pre-harvest & Post-harvest GAP affecting quality attributes, \n• Transportation, Shipping, Warehousing practices affecting quality\n• Audience « Those involved in the production, distribution and \nstorage of cocoa beans »\nResearchers and Extension services\nCertifiers, Co-op managers\nInternal company (Processor and manufacturer)\nBuyers, traitants etc\nTrainers of trainers, Co-op managers\nNOT Farmer or Farmer training\nCocoa Beans:\nChocolate & Cocoa\nIndustry Quality\nRequirements\n1996\n2016\n\n\n--- PAGE 4 ---\nContent Overview\nOriginal Structure \n• Introduction\n• Part 1 Aspects of Cocoa Bean Quality \n• Part 2 Quality Standards\n• Part 3 Aspects of Cocoa Production \nAffecting Quality \n• References/Sources of Further Information \n• Appendices \n• International Cocoa Standards\n• Protocols for the preparation and flavour evaluation \nof samples and small-scale fermentation techniques \ncontributed by Darin Sukha and Ed Seguine\nAppendix B\nProtocols for the preparation\nand flavour evaluation of \nsamples\nand small-scale fermentation \ntechniques\nD. Sukha and E. Seguine."
+    },
+    {
+      "chunk_id": "DOC_2D8BE31DFAC8_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_4",
+      "signal_score": 24,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa",
+            "cocoa butter"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "ppi"
+          ],
+          "manufacturing": [
+            "plant"
+          ],
+          "logistics": [
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ICCO",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2014"
+        ],
+        "candidate_units": []
+      },
+      "text": "andards\n• Protocols for the preparation and flavour evaluation \nof samples and small-scale fermentation techniques \ncontributed by Darin Sukha and Ed Seguine\nAppendix B\nProtocols for the preparation\nand flavour evaluation of \nsamples\nand small-scale fermentation \ntechniques\nD. Sukha and E. Seguine.\n\n\n--- PAGE 5 ---\nFlavour \nFlavour evaluation\nTypes of cocoa: genetic and environmental effects\nOff flavours and their causes\ninc. mouldy, smoky, acid, earthy, bitter, contaminated\nFood Safety \nMain issues\nCurrent legislation, guidelines\nSummary GAP to mitigate contamination\nSources of further information\n\n\n--- PAGE 6 ---\n2.7 Minimize the intake of MOSH/MOAH \nthrough commodities and semi-finished \nproducts \n• No contact with mineral oil components in the \nsupply chain of cocoa \n(and other raw materials)\n• Mineral oil free shipment/transport \n• Mineral oil free jute/sisal bags\n• Existing Regulations\n• FCC Guidelines Shipment of Cocoa Beans\n• International Jute Organisation –\nIJO Standard 98/01\n\n\n--- PAGE 7 ---\nPhysical Characteristics\nConsistency\nYield of edible material\nbean size, shell %, fat %, moisture, \nforeign matter, insect \ndamage,clumped beans \nCocoa Butter Characteristics\nFree Fatty Acid\nHardness \nColour Potential – “colourability”\nImportant for cocoa powder\nTraceability, Geographical Indicators \n& Certification\n\n\n--- PAGE 8 ---\nInternational Quality Standards\nRefers to ISO 2541 “Cocoa beans –\nSpecification (revised 2014) & ISO 1114 \nCocoa beans – Cut Test\nOther Standards including FCC terms\nBean size\n\n\n--- PAGE 9 ---\nCollates information from sources including \n•\nCodex Code of Practice for the Prevention and Reduction of \nOchratoxin A Contamination \n•\nCCE Sustainable Cocoa Trainers Manual\n•\nICCO CB Guidelines on Best Known Practices in the Cocoa \nValue Chain\n•\nResearch reports\nProvides links to other sources eg ICCO Pesticides \nmanual\n•Covers:\n•Pre-harvest GAP \n•e.g. planting materials, cadmium uptake\n•integrated pest management, \n•Harvesting \n•Post-harvest GAP\nFermentation, Drying, Storage\n•Transportation & Shipping Practices"
+    },
+    {
+      "chunk_id": "DOC_2D8BE31DFAC8_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_9",
+      "signal_score": 29,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "partner"
+          ],
+          "cost_price": [
+            "cost",
+            "futures",
+            "ppi"
+          ],
+          "manufacturing": [
+            "plant"
+          ],
+          "logistics": [
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "ICCO",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "in the Cocoa \nValue Chain\n•\nResearch reports\nProvides links to other sources eg ICCO Pesticides \nmanual\n•Covers:\n•Pre-harvest GAP \n•e.g. planting materials, cadmium uptake\n•integrated pest management, \n•Harvesting \n•Post-harvest GAP\nFermentation, Drying, Storage\n•Transportation & Shipping Practices\n\n\n--- PAGE 10 ---\nAppendices\nDefinitions used in FCC quality contract\nCut Test and Bean Count Methods \nAppendix B\nProtocols for the preparation\nand flavour evaluation of samples\nand small-scale fermentation techniques\nD. Sukha and E. Seguine.\nContributed by Darin Sukha and Ed Seguine\nProtocols and terminology developed by partners from \nresearch institutes and industry enabling flavour assessment \nusing small-scale/basic laboratory equipment adopted by \nCocoa of Excellence and Heirloom Cacao Preservation \nInitiatives\nOutlines methods for small scale fermentations and drying \ntechniques suitable for use where limited supply of raw cocoa \nbeans eg experimental samples\n\n\n--- PAGE 11 ---\nThanks to:\n• Dr. Michelle J. End, Cocoa Research Association Ltd (CRA Ltd) \n• Robin Dand, Darin Sukha & Ed Seguine \n• Food and Drink Federation of the UK (FDF) for permission to use BCCCA \npublication as basis for this guide\n• CAOBISCO/ECA/FCC Q&P Working Group project management team\nAlison Branch, Paula Byrne, Alice Costa, Catherine Entzminger, Alain\nFredericq, Martin Gilmour, Sabine Quintana, Alessia Squarcella, Sandra\nRuiz, Graham Laird & Phil Sigley\n• Experts: Roy Bateman, Hervé Beerens, Helmut Guenther, Ron Heistek,\nMarc Joncheere, Reinhard Matissek, & Richard Wood\n• CAOBISCO/ECA/FCC Q&P WG contributors: ADM, Armajaro, Barry\nCallebaut, Cargill, CasaLuker, Cemoi, Dutch Cocoa, Ferrero, Guittard,\nMars, Mondelez, Nederland, Nestlé, Olam, Storck, Touton, Valrhona\nCocoa Research Association Ltd (CRA Ltd) is a non-profit organisation based in \nthe UK which \ncarries out scientific research on behalf of Mars, Mondelez International and ICE \nFutures Europe\n\n\n--- PAGE 12 ---\nDownload your copy now on www.cocoa\nwww.cocoaquality.eu\nEspañol\nEnglish\nFrançais\n\n\n--- PAGE 13 ---\n13\nThank you\nSpecific questions can be sent via\nwww.cocoaquality.eu\nOr to:\npaula.byrne@caobisco.eu"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

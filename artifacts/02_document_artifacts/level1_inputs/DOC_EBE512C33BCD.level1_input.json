@@ -1,0 +1,72 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_EBE512C33BCD",
+    "file_name": "domino_sugar_asr_brand_page.pdf",
+    "relative_path": "03_ingredient_research/sugar/asr_supplier_evidence/domino_sugar_asr_brand_page.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/asr_supplier_evidence/domino_sugar_asr_brand_page.pdf",
+    "packet": "sugar",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "file_extension": ".pdf",
+    "file_size_bytes": 2811247,
+    "sha256": "7c59cfd384cd721984133fa780e3e88cfa6e1671c7e2057d5f0a6c04216eeecd"
+  },
+  "ai_input_mode": "visual_priority",
+  "priority_score": 81,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_EBE512C33BCD.txt",
+    "page_count": 1,
+    "total_text_length": 14,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_EBE512C33BCD/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_EBE512C33BCD_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 0,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": [
+    "This source needs visual/manual/vision review because text extraction is weak or the file is image-based."
+  ]
+}

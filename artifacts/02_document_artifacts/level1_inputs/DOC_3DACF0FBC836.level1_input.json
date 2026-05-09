@@ -1,0 +1,435 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_3DACF0FBC836",
+    "file_name": "hershey_latest_esg_dairy_section.pdf",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/00_hershey_dairy_evidence/hershey_latest_esg_dairy_section.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/00_hershey_dairy_evidence/hershey_latest_esg_dairy_section.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "file_extension": ".pdf",
+    "file_size_bytes": 9642129,
+    "sha256": "6427743d7c22b5c680b7ae3a309c2d060c55eb2d6cf7c5d8c34bfa6278984b2b"
+  },
+  "ai_input_mode": "text_plus_page_images",
+  "priority_score": 91,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_3DACF0FBC836.txt",
+    "page_count": 94,
+    "total_text_length": 252523,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3DACF0FBC836/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_3DACF0FBC836_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 27,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2021"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nPowered by \n Shared \n Goodness\n2021 ESG REPORT\n\n\n--- PAGE 2 ---\nWelcome to Our \n2021 ESG Report \nHershey’s purpose is to “Make More Moments \nof Goodness” for our consumers for many \ngenerations to come. Integral to achieving that \nis our holistic sustainability strategy: our Shared \nGoodness Promise. It guides how we empower \nthe remarkable people who make and sell our \nbrands, interact with farming communities \nthat grow our ingredients, deliver on our \ncommitments to consumers, customers and \nexternal stakeholders, protect the environment \nand support children and youth.\n2021 was a testament to the fortitude and \nperseverance of The Hershey Company, \nallowing us to ultimately thrive. We continued \nto deal with the global impacts of the COVID-19 \npandemic and the need to address systemic \nracism in the U.S. This was the year we hit the \nground running with ambitious new inclusion \ngoals. A majority of Hershey employees in \nmanufacturing and retail roles continued \nto work in-person while our corporate staff \nbegan a more hybrid approach. The ongoing \nneed for flexible work environments for all \nemployees meant they needed more support \nthan ever before. In addition, the economic \nconsequences of the pandemic made delivering \nour supportive resiliency programs to cocoa \ncommunities more essential than ever.\nWe stepped up to every challenge, facing them \nwith flexibility, adaptability, compassion and \nresilience. As we overcame issues, we were \nconstantly reminded: we are stronger together. \nBy putting people first and focusing on what \nmatters most, we ended 2021 stronger and \nready for the future.\n3 \nThe Big Picture \n4 \nA Message From Michele Buck\n5 \nSpotlight 2021 \n6 \nOur ESG Priorities\n7 \n\u0007Progress Against Our Priority Goals\n9 \nAwards and Recognition\n10 \n\u0007Our Company \n11 \n\u0007Corporate Governance\n13 \n\u0007Materiality\n14 \nOur Snacks Portfolio\n15 \n\u0007Nutrition, Innovation, Choice \nand Transparency\n16 \nExcellence in Food Safety\n17 \nMarketing Responsibly\n18 \nStaying Agile Through Change\n19 \nOur Progress\n20 \n\u0007Cocoa \n21 \nCocoa For Good\n22 \n\u0007Deeply Committed to \nResponsibly Sourcing Cocoa\n23 \n\u0007Accountability, Transparency \nand Due Diligence in Cocoa\n24 \nWorkin"
+    },
+    {
+      "chunk_id": "DOC_3DACF0FBC836_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_2",
+      "signal_score": 24,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2021"
+        ],
+        "candidate_units": []
+      },
+      "text": "Innovation, Choice \nand Transparency\n16 \nExcellence in Food Safety\n17 \nMarketing Responsibly\n18 \nStaying Agile Through Change\n19 \nOur Progress\n20 \n\u0007Cocoa \n21 \nCocoa For Good\n22 \n\u0007Deeply Committed to \nResponsibly Sourcing Cocoa\n23 \n\u0007Accountability, Transparency \nand Due Diligence in Cocoa\n24 \nWorking to Eliminate Child Labor\n26 \nPrevention Is the Priority\n27 \nLifting up Rural Livelihoods\n29 \nFighting Deforestation\n31 \n\u0007Our Progress\n33 \n\u0007Responsible Sourcing \nand Human Rights \n34 \n\u0007Human Rights Across Our Value Chain\n38 \nWhere We Source Our Ingredients\n39 \n\u0007Responsible Sourcing\n43 \nOur Progress\n48 \n\u0007Environment\n49 \n\u0007Acting on Climate Change\n52 \nEmployees Acting for Change\n53 \n\u0007Making Progress on Packaging\n54 \nProtecting Water Supplies\n55 \nOur Journey to Understand \n \nOur Water Impact\n56 \n\u0007Innovating Waste Solutions\n57 \n\u0007Our Progress\n \n62 \nOur People \n63 \nStronger Together\n64 \n\u0007Keeping People Safe\n65 \n\u0007Providing a Caring Employee Experience\n67 \n\u0007Accelerating DEI Efforts at Hershey \n68 \n2021: Living DEI at Hershey\n69 \nMore Pathways to JOIN\n71 \nMore Pathways to GROW\n73 \nMore Pathways to REACH OUT\n74 \nOur Progress\n \n \n \n \n \n \n \n \n \n \n \n80 \nYouth \n81 \nThe Heartwarming Project\n84 \n\u0007Our Shared Goodness Legacy — \nMilton Hershey School\n85 \n\u0007Our Progress\n86 \nCommunity \n87 \n\u0007Values With Impact — How Hershey \nMakes a Difference\n88 \n\u0007Showing up for Our Communities\n89 \nBeing a Good Neighbor\n90 \n\u0007A Culture of Giving Back\n92 \nOur Progress\n93 \nAbout This Report\nWe Are\nHershey \n2 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our People Youth Community About This Report"
+    },
+    {
+      "chunk_id": "DOC_3DACF0FBC836_CHUNK_0026",
+      "chunk_number": 26,
+      "page_or_section_hint": "page_18",
+      "signal_score": 141,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing",
+            "partner"
+          ],
+          "cost_price": [
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [
+            "retail",
+            "store"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [
+          "$8,971",
+          "$8,150",
+          "$7,986",
+          "$7.19",
+          "$6.29",
+          "$5.78",
+          "$275.2",
+          "$215.5",
+          "$238.1",
+          "$924",
+          "$863",
+          "$834",
+          "$40.1",
+          "$37.6",
+          "$37.1",
+          "$644.4",
+          "$520.8",
+          "$432.3"
+        ],
+        "candidate_percentages": [
+          "29.6%",
+          "5.91%",
+          "40.2%",
+          "10.1%",
+          "2.1%",
+          "2.5%"
+        ],
+        "candidate_years": [
+          "2022",
+          "2021",
+          "2020",
+          "2019"
+        ],
+        "candidate_units": []
+      },
+      "text": "the MCIC kicked off a national \nschedule of customer visits to all channels \nstarting in February 2022.\n3\nThe Hershey Insights \nNetwork (HIN) \nHIN is a virtual platform for Hershey \nto remotely engage with its partners. \nOperating like a live television newsroom, it \nis equipped with a multi-camera studio and \ngreen-screen capabilities to deliver solutions \nto retail partners who may be unable to \ntravel. The HIN was developed in response \nto the pandemic but has become a way to \nfurther enhance customer collaboration \nsessions happening inside the GCIC.\nData Protection and Privacy\nWe respect the privacy of our consumers, customers, employees and others with whom we conduct business, and we handle their personal \ninformation with care. We are committed to complying with data privacy laws that prescribe how to responsibly collect, store, use, share, transfer \nand dispose of personal information wherever we operate.\n18 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our People Youth Community About This Report\nOur Company\n\n\n--- PAGE 19 ---\nOur Progress\nKPIs\nFINANCIAL PERFORMANCE\n2021\n2020\n2019\nCountries in which our products are marketed \n80\n85\n85\nNumber of countries in which our products are manufactured\n6\n6\n6\nManufacturing facilities: wholly owned/joint ventures \n15\n14\n15/1\nConsolidated net sales (USD in millions)\n$8,971\n$8,150\n$7,986\nShareholder return\n29.6% \n5.91%\n40.2%\nAdjusted diluted earnings per share (USD)\n$7.19 \n$6.29\n$5.78\nIncome taxes paid (USD in millions) \n$275.2\n$215.5\n$238.1\nWorldwide payroll (USD in millions) \n$924\n$863\n$834\nOne year net sales growth\n10.1%\n2.1%\n2.5%\nInvestment in R&D (USD in millions) \n$40.1\n$37.6\n$37.1\nNumber of brands \n>100 \n>90\n>80\nWeight of products sold (metric tons)1\n1,085,720\n1,027,447\n907,205\n \nFOOD SAFETY AND NUTRITION\n2021\n2020\n2019\nRevenue from products labeled and/or marketed to promote health and nutrition attributes \n(USD in millions)2\n$644.4\n$520.8\n$432.3\n2 \u0007These values represent revenue from our snacks portfolio, which includes ready-to-eat popcorn with no artificial ingredients, baked and trans-fat-free snacks, protein bars and other bette"
+    },
+    {
+      "chunk_id": "DOC_3DACF0FBC836_CHUNK_0074",
+      "chunk_number": 74,
+      "page_or_section_hint": "page_49",
+      "signal_score": 76,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "sugar",
+            "cocoa"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing",
+            "partner"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "production",
+            "packaging"
+          ],
+          "logistics": [],
+          "retail": [
+            "target"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "Target"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "48%",
+          "28%",
+          "2.64%",
+          "96.25%",
+          "66.98%",
+          "12.48%",
+          "6.76%",
+          "4.36%",
+          "0.84%",
+          "3.99%",
+          "0.51%",
+          "0.20%",
+          "0.14%",
+          "96%",
+          "100%"
+        ],
+        "candidate_years": [
+          "2020",
+          "2021",
+          "2030",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "practices in collaboration with partners \nand suppliers.\n48%\nimprovement against \nScope 1 and 2 baseline\n(2020: 28%)\n49 \nThe Hershey Company | 2021 ESG Report\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our People Youth Community About This Report\nEnvironment\n\n\n--- PAGE 50 ---\n3+1+96+D\nScope 1: \n2.64% \nDirect emissions from owned or controlled \nsources such as natural gas \nScope 3: \n96.25% \nAll other indirect emissions occurring in our value chain: \n66.98% \n\u0007Agriculture (includes \nland-use change)\n12.48% \nLogistics \n6.76% \n\u0007Packaging and \npackaging waste\n4.36% \nSpecialty\n0.84% \n\u0007Business travel/employee \ncommuting\n3.99% \nCo-manufacturers \n0.51% \nFuel\n0.20% \nFood waste\n0.14% \nWaste from operations\nReducing Value Chain Emissions\nMore than 96% of our total GHG emissions \nare from Scope 3 in our extended value chain. \nCocoa, dairy, sugar, packaging and logistics \nrepresent the areas where we see the greatest \nopportunities for emissions reductions. In \neach of these priority areas, we are identifying \nopportunities, engaging in multi-stakeholder \nplanning, implementing meaningful actions \ntoward our targets and advancing sustainability \nwithin our value chain. \nA large portion of our baseline Scope 3 \nemissions are due to land-use change from \nthe farm-level production of our ingredients. \nAddressing land use is a significant part of our \nclimate action plans and we have committed \nto eliminating commodity-driven deforestation \nfrom all our ingredient supply chains by 2030. \nAs part of this initiative, we are partnering with \nour suppliers to drive improvements throughout \nthe entire supply chain. Our commitment to \nsourcing only 100% independently verified \ncocoa and to 100% sourcing visibility in Côte \nd’Ivoire and Ghana by 2025 supports our \nefforts in building long-term relationships with \nknown farmer groups, providing resources and \neducation on sustainable farming and driving \ntraceability to halt deforestation.\n \nIn both sugar and dairy, we are incorporating \nour climate efforts into new responsible \nsourcing programs. For example, our dairy \noperations are conducting a pilot with our \nsupplier Land O’Lakes and the All"
+    },
+    {
+      "chunk_id": "DOC_3DACF0FBC836_CHUNK_0116",
+      "chunk_number": 116,
+      "page_or_section_hint": "page_75",
+      "signal_score": 124,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "24.4%",
+          "46.1%",
+          "29.5%",
+          "24.2%",
+          "44.8%",
+          "31.0%",
+          "23.5%",
+          "44.9%",
+          "31.5%",
+          "27.0%",
+          "43.2%",
+          "29.8%",
+          "26.5%",
+          "41.9%",
+          "31.6%",
+          "25.7%",
+          "32.5%",
+          "7.0%",
+          "65.4%",
+          "27.6%",
+          "7.4%",
+          "66.1%",
+          "8.1%",
+          "67.1%",
+          "24.8%",
+          "0.0%",
+          "55.2%",
+          "57.2%",
+          "42.8%",
+          "61.0%",
+          "39.0%",
+          "44.4%",
+          "55.6%",
+          "45.5%",
+          "54.6%",
+          "35.7%",
+          "64.3%",
+          "100%",
+          "24.6%",
+          "21.4%",
+          "20.1%",
+          "25.1%",
+          "21.2%",
+          "20.3%",
+          "21.5%",
+          "19.9%",
+          "4.2%",
+          "12.1%",
+          "6.6%",
+          "32.2%"
+        ],
+        "candidate_years": [
+          "2019",
+          "2021",
+          "2020"
+        ],
+        "candidate_units": []
+      },
+      "text": "Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels. \n2 The 2019 female global employee percentage has been restated due to a calculation error. The raw data remains unchanged and is accurate.\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our People Youth Community About This Report\n75 \nThe Hershey Company | 2021 ESG Report\nOur People\n\n\n--- PAGE 76 ---\nKPIs\nGLOBAL WORKFORCE BY AGE1,2\n2021\n2020\n2019\nUnder 30 \nyears old\n30-50 \nyears old\nOver 50 \nyears old\nUnder 30 \nyears old\n30-50 \nyears old\nOver 50 \nyears old\nUnder 30 \nyears old\n30-50 \nyears old\nOver 50 \nyears old\nTotal workforce\n24.4%\n46.1%\n29.5%\n24.2%\n44.8%\n31.0%\n23.5%\n44.9%\n31.5%\nNon-management\n27.0%\n43.2%\n29.8%\n26.5%\n41.9%\n31.6%\n25.7%\n41.9%\n32.5%\nManagement\n7.0%\n65.4%\n27.6%\n7.4%\n66.1%\n26.5%\n8.1%\n67.1%\n24.8%\nSenior Leader\n0.0%\n55.2%\n44.8%\n0.0%\n57.2%\n42.8%\n0.0%\n61.0%\n39.0%\nExecutive team3 \n0.0%\n44.4%\n55.6%\n0.0%\n45.5%\n54.6%\n0.0%\n35.7%\n64.3%\n1 \nThis employee data (as of December 31, 2021) does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\n2 Data may not equal 100% due to rounding. \n3 Hershey’s executive team includes employees who report to Hershey’s CEO, including the CEO.\nU.S. WORKFORCE BY RACE/ETHNICITY5\n2021\n2020\n2019\nU.S. workforce, Total POC\n24.6%\n21.4% \n20.1% \nPOC - Female\n25.1%\n21.2%\n20.3%\nPOC - Male\n24.2%\n21.5%\n19.9%\nAsian\n4.2%\nNot disclosed\nNot disclosed\nBlack\n12.1%\nNot disclosed\nNot disclosed\nHispanic/Latino\n6.6%\nNot disclosed\nNot disclosed \n5 \u0007Race/ethnicity and gender percentages are based on employee self-identification in Hershey’s HR data system as of December 31, 2021. This employee data does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU.S. WORKFORCE BY HERSHEY INTERNAL JOB CATEGORY4\n2021\nFEMALE\nPOC\nExecutives/senior leaders \n32.2% \n17.3% \nEntry-level professional employees \n46.5% \n18.0%\nLeaders in commercial functions\n33.3%\n13.9%\nSales employees\n48.1% \n14.6% \nHourly manufacturing employees \n35.0% \n30.5% \n4 Hershey internal HR job category data does not directly correlate to EEOC job category data.\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our People You"
+    },
+    {
+      "chunk_id": "DOC_3DACF0FBC836_CHUNK_0117",
+      "chunk_number": 117,
+      "page_or_section_hint": "page_76",
+      "signal_score": 112,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "cocoa"
+          ],
+          "supplier": [
+            "sourcing"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "manufacturing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company",
+          "FEMA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "33.3%",
+          "13.9%",
+          "48.1%",
+          "14.6%",
+          "35.0%",
+          "30.5%",
+          "87.0%",
+          "88.3%",
+          "87.8%",
+          "49.1%",
+          "49.5%",
+          "49.4%",
+          "50.9%",
+          "50.5%",
+          "50.6%",
+          "26.0%",
+          "22.6%",
+          "26.2%",
+          "22.3%",
+          "25.8%",
+          "22.8%",
+          "3.9%",
+          "13.3%",
+          "6.9%",
+          "13.0%",
+          "11.7%",
+          "12.2%",
+          "37.7%",
+          "37.4%",
+          "36.6%",
+          "62.3%",
+          "62.6%",
+          "63.4%",
+          "16.7%",
+          "13.8%",
+          "13.1%",
+          "18.0%",
+          "13.6%",
+          "12.9%",
+          "15.9%",
+          "13.2%",
+          "5.9%",
+          "4.9%",
+          "5.1%"
+        ],
+        "candidate_years": [
+          "2021",
+          "2020",
+          "2019"
+        ],
+        "candidate_units": []
+      },
+      "text": "mmercial functions\n33.3%\n13.9%\nSales employees\n48.1% \n14.6% \nHourly manufacturing employees \n35.0% \n30.5% \n4 Hershey internal HR job category data does not directly correlate to EEOC job category data.\nThe Big Picture Our Company Cocoa Responsible Sourcing and Human Rights Environment Our People Youth Community About This Report\n76 \nThe Hershey Company | 2021 ESG Report\nOur People\n\n\n--- PAGE 77 ---\nKPIs\nU.S. NON-MANAGEMENT1\n2021\n2020\n2019\nTotal non-management as percentage of total workforce\n87.0%\n88.3%\n87.8%\nNon-management – Female\n49.1%\n49.5%\n49.4%\nNon-management – Male\n50.9%\n50.5%\n50.6%\nNon-management – POC\n26.0%\n22.6%\nNot disclosed\nNon-management – Female – POC\n26.2%\n22.3%\nNot disclosed\nNon-management – Male – POC\n25.8%\n22.8%\nNot disclosed \nNon-management – Asian\n3.9%\nNot disclosed\nNot disclosed\nNon-management – Black\n13.3%\nNot disclosed\nNot disclosed\nNon-management – Hispanic/Latino\n6.9%\nNot disclosed\nNot disclosed \n1 \n\u0007Race/ethnicity and gender percentages are based on employee self-identification in Hershey’s HR data system as of December 31, 2021. This employee data does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nU.S. MANAGEMENT2,3\n2021\n2020\n2019\nTotal management as percentage of total workforce\n13.0%\n11.7%\n12.2%\nManagement – Female\n37.7%\n37.4%\n36.6%\nManagement – Male\n62.3%\n62.6%\n63.4%\nManagement – POC\n16.7%\n13.8%\n13.1%\nManagement – Female – POC\n18.0%\n13.6%\n12.9%\nManagement – Male – POC\n15.9%\n13.9%\n13.2%\nManagement – Asian\n5.9%\nNot disclosed\nNot disclosed\nManagement – Black\n4.9%\nNot disclosed\nNot disclosed\nManagement – Hispanic/Latino\n5.1%\nNot disclosed\nNot disclosed \n2 \u0007Management level data includes Hershey people leaders or employees at an internal pay band level of 2B or higher. This data is not mutually exclusive and overlaps with some headcount also included in the Senior Leader level data on page 78, which includes employees \nat an internal pay band level of 3B or higher.\n3 Race/ethnicity and gender percentages are based on employee self-identification in Hershey’s HR data system as of December 31, 2021. This employee data does not include Hershey’s recent acquisitions of Lily’s, Dot’s and Pretzels.\nThe Big Picture Ou"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

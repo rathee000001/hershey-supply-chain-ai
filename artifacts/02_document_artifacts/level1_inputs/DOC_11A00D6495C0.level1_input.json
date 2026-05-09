@@ -1,0 +1,131 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_11A00D6495C0",
+    "file_name": "PCU49314931.xlsx",
+    "relative_path": "04_logistics_distribution/06_raw_excel_exports/PCU49314931.xlsx",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/04_logistics_distribution/06_raw_excel_exports/PCU49314931.xlsx",
+    "packet": "logistics_distribution",
+    "source_category": "logistics_distribution",
+    "document_type": "excel_workbook",
+    "evidence_role": "unknown",
+    "file_extension": ".xlsx",
+    "file_size_bytes": 9782,
+    "sha256": "ceb100ab417661b14d93e9de42b20958c159e6820d82d396f2e72cf754e3fa8f"
+  },
+  "ai_input_mode": "table_summary_plus_text",
+  "priority_score": 21,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_11A00D6495C0.txt",
+    "page_count": null,
+    "total_text_length": 0,
+    "rendered_page_images": [],
+    "tables": [
+      {
+        "sheet_or_table_name": "README",
+        "rows": 7,
+        "columns": 3,
+        "headers": [
+          "FRED Graph Observations",
+          "Unnamed: 1",
+          "Unnamed: 2"
+        ],
+        "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_11A00D6495C0/readme.csv",
+        "preview_rows": [
+          {
+            "FRED Graph Observations": "Federal Reserve Economic Data, Federal Reserve Bank of St. Louis",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+          },
+          {
+            "FRED Graph Observations": "Link: https://fred.stlouisfed.org",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+          },
+          {
+            "FRED Graph Observations": "Help: https://fredhelp.stlouisfed.org",
+            "Unnamed: 1": "",
+            "Unnamed: 2": ""
+          }
+        ]
+      },
+      {
+        "sheet_or_table_name": "Monthly",
+        "rows": 232,
+        "columns": 2,
+        "headers": [
+          "observation_date",
+          "PCU49314931"
+        ],
+        "csv_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables/DOC_11A00D6495C0/monthly.csv",
+        "preview_rows": [
+          {
+            "observation_date": "2006-12-01",
+            "PCU49314931": "100.0"
+          },
+          {
+            "observation_date": "2007-01-01",
+            "PCU49314931": "101.8"
+          },
+          {
+            "observation_date": "2007-02-01",
+            "PCU49314931": "101.7"
+          }
+        ]
+      }
+    ],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_11A00D6495C0_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 13,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "index"
+          ],
+          "manufacturing": [],
+          "logistics": [
+            "warehousing"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026",
+          "2006",
+          "2007",
+          "2008"
+        ],
+        "candidate_units": []
+      },
+      "text": "TABLE/SHEET: README\nROWS: 7\nCOLUMNS: 3\nHEADERS: FRED Graph Observations, Unnamed: 1, Unnamed: 2\nPREVIEW:\n FRED Graph Observations Unnamed: 1 Unnamed: 2\n Federal Reserve Economic Data, Federal Reserve Bank of St. Louis NaN NaN\n Link: https://fred.stlouisfed.org NaN NaN\n Help: https://fredhelp.stlouisfed.org NaN NaN\nThis data may be copyrighted. Please refer to the Terms of Use: https://fred.stlouisfed.org/legal#fred-terms-faq NaN NaN\n File Created: 2026-05-06 6:18 pm CDT NaN NaN\n NaN NaN NaN\n PCU49314931 Producer Price Index by Industry: Warehousing and Storage, Index Dec 2006=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14\n\n---\n\nTABLE/SHEET: Monthly\nROWS: 232\nCOLUMNS: 2\nHEADERS: observation_date, PCU49314931\nPREVIEW:\nobservation_date PCU49314931\n 2006-12-01 100.0\n 2007-01-01 101.8\n 2007-02-01 101.7\n 2007-03-01 101.8\n 2007-04-01 101.8\n 2007-05-01 101.7\n 2007-06-01 101.8\n 2007-07-01 101.8\n 2007-08-01 101.9\n 2007-09-01 103.7\n 2007-10-01 103.7\n 2007-11-01 103.7\n 2007-12-01 104.0\n 2008-01-01 106.0\n 2008-02-01 106.2\n 2008-03-01 105.5\n 2008-04-01 105.5\n 2008-05-01 105.6\n 2008-06-01 105.9\n 2008-07-01 107.3"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

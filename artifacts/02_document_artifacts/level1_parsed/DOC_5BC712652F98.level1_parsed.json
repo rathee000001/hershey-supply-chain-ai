@@ -1,0 +1,381 @@
+{
+  "doc_id": "DOC_5BC712652F98",
+  "file_name": "pgpr_market_overview_reference.pdf",
+  "source_owner": "pgpr",
+  "document_title": "Pgpr Market Overview Reference",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for pgpr_market_overview_reference.pdf. Packet: pgpr. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: Target, USDA ERS, USDA AMS, EPA, Chocolate, Cocoa, Cocoa Butter, Milk.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_4",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 7",
+      "page_or_location": "page_5",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 8",
+      "page_or_location": "page_6",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "Target",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: target"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Cocoa Butter",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa butter"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "PGPR",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: pgpr"
+    },
+    {
+      "entity_name": "Natural Flavor",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: natural flavor"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "warehousing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: storage"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: transport"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: food additive"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ligence, the Global PGPR (Polyglycerol Polyricinoleate) \nmarket size was valued at $1.12 billion in 2024, and is forecasted to hit $2.05 \nbillion by 2033, growing at a robust CAGR of 6.8% during the forec"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2033",
+      "unit": "",
+      "page_or_location": "",
+      "context": "leate) \nmarket size was valued at $1.12 billion in 2024, and is forecasted to hit $2.05 \nbillion by 2033, growing at a robust CAGR of 6.8% during the forecast period. The \nPGPR market is witnessing signif"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2033",
+      "unit": "",
+      "page_or_location": "",
+      "context": "shifting \nconsumer and regulatory expectations. \nReport Scope \nDetails \nPGPR Market Research Report 2033 \nLiquid PGPR, Powder PGPR \nBakery, Confectionery, Dairy, Beverages, Processed Foods, Others \nNatura"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "currently holding the largest market share, accounting for \napproximately 62% of global revenues in 2024. Liquid PGPR’s dominance is driven \nby its ease of incorporation in industrial food processing, sup"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.12",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tlook \nAs per our latest market intelligence, the Global PGPR (Polyglycerol Polyricinoleate) \nmarket size was valued at $1.12 billion in 2024, and is forecasted to hit $2.05 \nbillion by 2033, growing at a robust CAGR of 6.8% during the forecast"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.05",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e Global PGPR (Polyglycerol Polyricinoleate) \nmarket size was valued at $1.12 billion in 2024, and is forecasted to hit $2.05 \nbillion by 2033, growing at a robust CAGR of 6.8% during the forecast period. The \nPGPR market is witnessing significa"
+    }
+  ],
+  "extracted_dates": [
+    "2024",
+    "2033"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "PGPR",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "are prompting suppliers to innovate with natural and sustainable PGPR sources,",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "USDA AMS",
+      "relationship": "relationship language detected",
+      "evidence_text": "Leading PGPR suppliers maintain dedicated sales teams and technical",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "As per our latest market intelligence, the Global PGPR (Polyglycerol Polyricinoleate)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "market size was valued at $1.12 billion in 2024, and is forecasted to hit $2.05",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "PGPR market is witnessing significant momentum, driven by the expanding food",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The market’s growth trajectory is shaped by evolving consumer",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "prioritize product texture, shelf stability, and cost efficiency, PGPR’s role as a",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "What’s Driving the Market?",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "The PGPR market is undergoing a remarkable transformation, primarily fueled by",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "the market’s addressable base.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "centers is another major driver for the PGPR market.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "emulsifying properties and cost-effectiveness.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "emulsifying properties and cost-effectiveness.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "further propelling its adoption in both established and emerging markets.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "the PGPR market’s expansion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "production capacity and diversify sourcing are also catalyzing market growth.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "substantial returns, as the market continues to evolve in response to shifting",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "PGPR Market Research Report 2033",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "increased awareness about food safety are further accelerating market adoption in",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Emerging markets in Latin America and the Middle East & Africa are also witnessing",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "enhancing market resilience.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "The PGPR market by product type is segmented into Liquid PGPR and Powder",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "PGPR, with liquid PGPR currently holding the largest market share, accounting for",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "production and reduces operational costs.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "related to higher production costs and technical challenges in achieving uniform",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "PGPR market revenue, driven by the critical role of emulsifiers in improving dough",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "ice creams, and whipped toppings for improved emulsification and mouthfeel.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "and hydrocolloids, is expanding the market’s addressable scope.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "The PGPR market’s distribution landscape is segmented",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "manufacturers and multinational brands, account for the bulk of market revenues,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "These channels offer greater market reach and",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "flexibility, enabling suppliers to penetrate new geographic markets and serve niche",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "As the market matures, a hybrid distribution model combining the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Opportunities & Market Challenges",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "The PGPR market is ripe with opportunities, particularly in the context of digital",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "pgpr",
+      "evidence_text": "optimize PGPR production, reduce costs, and deliver consistent quality at scale.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "markets, such as nutraceuticals and specialty beverages, are creating",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 46,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": false
+  }
+}

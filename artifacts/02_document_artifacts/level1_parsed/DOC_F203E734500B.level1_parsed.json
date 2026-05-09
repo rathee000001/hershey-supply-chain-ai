@@ -1,0 +1,226 @@
+{
+  "doc_id": "DOC_F203E734500B",
+  "file_name": "PCU484484.xlsx",
+  "source_owner": "logistics_distribution",
+  "document_title": "Pcu484484",
+  "packet": "logistics_distribution",
+  "document_type": "excel_workbook",
+  "summary": "Local Level 1 parse for PCU484484.xlsx. Packet: logistics_distribution. Evidence role: unknown. Input mode: table_summary_plus_text. Detected entities/stages include: USDA ERS, freight, retail.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: truck"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "refer to the Terms of Use: https://fred.stlouisfed.org/legal#fred-terms-faq NaN NaN\n File Created: 2026-05-06 6:21 pm CDT NaN NaN\n NaN NaN NaN\n PCU484484 Producer Price Index by Industry: Truck Transport"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2003",
+      "unit": "",
+      "page_or_location": "",
+      "context": "T NaN NaN\n NaN NaN NaN\n PCU484484 Producer Price Index by Industry: Truck Transportation, Index Dec 2003=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14\n\n---\n\nTABLE/SHEET: Monthly\nROWS: 268"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Industry: Truck Transportation, Index Dec 2003=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14\n\n---\n\nTABLE/SHEET: Monthly\nROWS: 268\nCOLUMNS: 2\nHEADERS: observation_date, PCU484484\nPREVIEW:"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2003",
+      "unit": "",
+      "page_or_location": "",
+      "context": "thly\nROWS: 268\nCOLUMNS: 2\nHEADERS: observation_date, PCU484484\nPREVIEW:\nobservation_date PCU484484\n 2003-12-01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "UMNS: 2\nHEADERS: observation_date, PCU484484\nPREVIEW:\nobservation_date PCU484484\n 2003-12-01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "bservation_date, PCU484484\nPREVIEW:\nobservation_date PCU484484\n 2003-12-01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CU484484\nPREVIEW:\nobservation_date PCU484484\n 2003-12-01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "observation_date PCU484484\n 2003-12-01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CU484484\n 2003-12-01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.0\n 2004-01-01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 100.4\n 2004-02-01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.1\n 2004-03-01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.3\n 2004-04-01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 101.6\n 2004-05-01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 102.3\n 2004-06-01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2004",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 103.0\n 2004-07-01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 103.4\n 2004-08-01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 103.7\n 2004-09-01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108.7\n 2005-07-01 109"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 104.5\n 2004-10-01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108.7\n 2005-07-01 109.1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 105.0\n 2004-11-01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108.7\n 2005-07-01 109.1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 105.6\n 2004-12-01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108.7\n 2005-07-01 109.1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 105.5\n 2005-01-01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108.7\n 2005-07-01 109.1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2005",
+      "unit": "",
+      "page_or_location": "",
+      "context": "01 106.0\n 2005-02-01 106.1\n 2005-03-01 106.9\n 2005-04-01 107.6\n 2005-05-01 108.1\n 2005-06-01 108.7\n 2005-07-01 109.1"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2026",
+    "2003",
+    "2004",
+    "2005"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "freight",
+      "evidence_text": "PCU484484 Producer Price Index by Industry: Truck Transportation, Index Dec 2003=100, Monthly, Not Seasonally Adjusted Data Updated: 2026-04-14",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "table_summary_plus_text",
+    "priority_score": 21,
+    "selected_chunk_count": 1,
+    "requires_future_ai_or_visual_review": false
+  }
+}

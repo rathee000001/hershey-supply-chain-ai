@@ -1,0 +1,40 @@
+{
+  "doc_id": "DOC_1082CA3E3F2A",
+  "file_name": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+  "relative_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/barry_callebaut_supplier_evidence/barry_callebaut_hershey_supply_agreement_news_release.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "evidence_role": "supplier_relationship_context",
+  "extracted_at": "2026-05-06T19:56:21",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_1082CA3E3F2A.txt",
+      "page_count": 3,
+      "total_text_length": 7316,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 2378
+        },
+        {
+          "page": 2,
+          "text_length": 3384
+        },
+        {
+          "page": 3,
+          "text_length": 1503
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1082CA3E3F2A/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1082CA3E3F2A/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1082CA3E3F2A/page_003.png"
+      ],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

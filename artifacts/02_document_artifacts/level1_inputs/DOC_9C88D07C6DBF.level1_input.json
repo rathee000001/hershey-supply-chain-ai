@@ -1,0 +1,336 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_9C88D07C6DBF",
+    "file_name": "usda_ams_advanced_class_prices_latest.pdf",
+    "relative_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_advanced_class_prices_latest.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/03_dairy_price_benchmarks/usda_ams_advanced_class_prices_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 434897,
+    "sha256": "d363844a93eed0def6b1b7ea5eab69b44f7619936a873f0c52825dd310af1dd4"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 67,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_9C88D07C6DBF.txt",
+    "page_count": 5,
+    "total_text_length": 11906,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 115,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "per pound",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [
+            "diesel"
+          ],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "EPA"
+        ],
+        "candidate_price_mentions": [
+          "$20.15",
+          "$14.12",
+          "$0.49",
+          "$10.78",
+          "$1.8649",
+          "$14.82",
+          "$1.5935",
+          "$1.7672",
+          "$1.7724",
+          "$1.6522",
+          "$0.6474",
+          "$5.342",
+          "$0.00838",
+          "$1.49",
+          "$2.12",
+          "$0.24"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026",
+          "2023",
+          "2024",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nAnnouncement of Advanced Prices and Pricing Factors for May 2026\nBase Class I Price:\n$20.15\n(per hundredweight)\nBase Skim Milk Price for Class I ²:\n$14.12\n(per hundredweight)\nClass I ESL Adjustment ²:\n($0.49)\n(per hundredweight)\nAdvanced Class III Skim Milk Pricing Factor ²:\n$10.78\n(per hundredweight)\nAdvanced Class IV Skim Milk Pricing Factor ²:\n$14.12\n(per hundredweight)\nAdvanced Butterfat Pricing Factor ²:\n$1.8649\n(per pound)\nClass II Skim Milk Price:\n$14.82\n(per hundredweight)\nClass II Nonfat Solids Price ²:\n$1.5935\n(per pound)\nTwo-week Product Price Averages:\nButter\n$1.7672\n(per pound)\nNonfat Dry Milk\n$1.7724\n(per pound)\nCheese ² ³\n$1.6522\n(per pound)\nDry Whey\n$0.6474\n(per pound)\nSpecial information for Appalachian and Southeast:\nDiesel Fuel Price\n$5.342\n(per gallon)\nMileage Rate Factor ¹\n$0.00838\n(per hundredweight per mile)\n¹ Per Final Rule 88 FR 84038, published in the Federal Register on December 1,2023, the Mileage Rate Factor \nchange became effective March 1, 2024. See the methodology section (p. 4) for details. ² Per Final Rule 90 FR \n6600, published in the Federal Register on January 17, 2025, changes were made to the pricing formulas. See the \nmethodology section (p. 4) for details. ³ The cheese price is derived using the weighted average of cheddar cheese \nin 40-pound blocks for the prior two weeks, weighted by sales volume in pounds. \nAnnouncement of Advanced \nPrices and Pricing Factors\nUnited States Department of Agriculture\nAgricultural Marketing Service\nDairy Program\nMarket Information Branch\nADV - 0526\nApril 22, 2026\nMay 2026 Highlights\nBase Class I Price was $20.15 per hundredweight for the month of May 2026. The price per hundredweight \nincreased $1.49 from the previous month. \nBase Skim Milk Price for Class I was $14.12 per hundredweight for the month of May 2026. The price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmail us with accessibility issues \nregarding this report."
+    },
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 42,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [
+          "$2.12",
+          "$0.49",
+          "$0.24"
+        ],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026",
+          "2025"
+        ],
+        "candidate_units": []
+      },
+      "text": "The price per \nhundredweight increased $2.12 from the previous month.\nClass I Extended Shelf Life (ESL) Adjustment was -$0.49 per hundredweight for the month of May 2026. The \nprice per hundredweight decreased $0.24 from the previous month.\nEmail us with accessibility issues \nregarding this report.\n\n\n--- PAGE 2 ---\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nFederal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2026\nMonth\nClass I \nBase Price\nBase Skim \nMilk Price for\nClass I \nAdvanced \nClass III \nSkim Milk \nPricing Factor\nAdvanced \nClass IV \nSkim Milk \nPricing Factor\nAdvanced \nButterfat \nPricing Factor\nClass II \nSkim Milk \nPrice\nClass II \nNonfat Solids \nPrice\n(dollars per cwt)\n($/lb)\n($/cwt)\n($/lb)\nJan\n16.35\n11.17\n11.17\n8.43\n1.5921\n9.13\n0.9817\nFeb\n14.70\n9.99\n9.99\n8.72\n1.4446\n9.42\n1.0129\nMar\n15.47\n9.91\n9.10\n9.91\n1.6887\n10.61\n1.1409\nApr\n18.66\n12.00\n9.14\n12.00\n2.0221\n12.70\n1.3656\nMay\n20.15\n14.12\n10.78\n14.12\n1.8649\n14.82\n1.5935\nFederal Milk Order Class I and Class II Advanced Prices and Pricing Factors, 2025\nMonth\nClass I \nBase Price\nBase Skim \nMilk Price for\nClass I \nAdvanced \nClass III \nSkim Milk \nPricing Factor\nAdvanced \nClass IV \nSkim Milk \nPricing Factor\nAdvanced \nButterfat \nPricing Factor\nClass II \nSkim Milk \nPrice\nClass II \nNonfat Solids \nPrice\n(dollars per cwt)\n($/lb)\n($/cwt)\n($/lb)\nJan\n20.38\n10.49\n8.54\n10.95\n2.9307\n11.65\n1.2944\nFeb\n21.27\n11.35\n10.32\n10.90\n2.9468\n11.60\n1.2889\nMar\n21.02\n11.45\n10.81\n10.61\n2.8484\n11.31\n1.2567\nApr\n19.57\n10.75\n10.40\n9.61\n2.6284\n10.31\n1.1456\nMay\n18.37\n9.45\n8.40\n9.02\n2.6441\n9.72\n1.0800\nJun\n17.26\n8.55\n8.55\n8.44\n2.5730\n9.14\n1.0156\nJul\n18.82\n9.66\n9.66\n8.97\n2.7142\n9.67\n1.0744\nAug\n18.93\n9.26\n7.45\n9.26\n2.8565\n9.96\n1.1067\nSep\n18.70\n9.34\n7.54\n9.34\n2.7669\n10.04\n1.1156\nOct\n18.04\n10.03\n10.03\n9.26\n2.3881\n9.96\n1.1067\nNov\n16.75\n10.62\n10.62\n8.15\n1.8583\n8.85\n0.9833\nDec\n18.21\n12.74\n12.74\n8.49\n1.6914\n9.19\n0.9882\nAvg\n18.94\n10.31\n9.59\n9.42\n2.5706\n10.12\n1.1213\nADV - 0526\nPage 2"
+    },
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_2",
+      "signal_score": 27,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "per pound"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026",
+          "1921",
+          "2025",
+          "1925",
+          "1992"
+        ],
+        "candidate_units": []
+      },
+      "text": "7\n1.0744\nAug\n18.93\n9.26\n7.45\n9.26\n2.8565\n9.96\n1.1067\nSep\n18.70\n9.34\n7.54\n9.34\n2.7669\n10.04\n1.1156\nOct\n18.04\n10.03\n10.03\n9.26\n2.3881\n9.96\n1.1067\nNov\n16.75\n10.62\n10.62\n8.15\n1.8583\n8.85\n0.9833\nDec\n18.21\n12.74\n12.74\n8.49\n1.6914\n9.19\n0.9882\nAvg\n18.94\n10.31\n9.59\n9.42\n2.5706\n10.12\n1.1213\nADV - 0526\nPage 2\n\n\n--- PAGE 3 ---\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nDairy Products Price Averages Used in Federal Milk Order Price Formulas, 2026\nProduct Price Averages For:\nClass I (Skim, Bfat.), Class II (Skim, Nonfat Solids)\nClass II (Bfat.), Class III, Class IV, Components\nMonth\nButter\nNonfat dry \nmilk\nCheese\nDry Whey\nButter\nNonfat dry \nmilk\nCheese\nDry Whey\n(dollars per pound)\n(dollars per pound)\nJan\n1.5419\n1.1551\n1.5777\n0.6844\n1.4266\n1.1921\n1.4003\n0.6986\nFeb\n1.4201\n1.1860\n1.4078\n0.7040\n1.6966\n1.3726\n1.4338\n0.6931\nMar\n1.6217\n1.3156\n1.4083\n0.6973\n1.8969\n1.5741\n1.5607\n0.6724\nApr\n1.8970\n1.5431\n1.5297\n0.6840\nMay\n1.7672\n1.7724\n1.6522\n0.6474\nDairy Products Price Averages Used in Federal Milk Order Price Formulas, 2025\nProduct Price Averages For:\nClass I (Skim, Bfat.), Class II (Skim, Nonfat Solids)\nClass II (Bfat.), Class III, Class IV, Components\nMonth\nButter\nNonfat dry \nmilk\nCheese\nDry Whey\nButter\nNonfat dry \nmilk\nCheese\nDry Whey\n(dollars per pound)\n(dollars per pound)\nJan\n2.5916\n1.3966\n1.7563\n0.6207\n2.6042\n1.3801\n1.8851\n0.7218\nFeb\n2.6049\n1.3907\n1.8803\n0.7194\n2.4990\n1.3347\n1.9077\n0.6650\nMar\n2.5236\n1.3587\n1.9097\n0.6986\n2.3385\n1.2176\n1.8215\n0.5532\nApr\n2.3419\n1.2461\n1.8751\n0.5701\n2.3520\n1.1773\n1.7361\n0.4988\nMay\n2.3549\n1.1801\n1.7230\n0.4982\n2.3703\n1.1925\n1.8404\n0.5119\nJun\n2.3519\n1.1862\n1.8019\n0.5080\n2.4880\n1.2531\n1.9322\n0.5497\nJul\n2.4685\n1.2463\n1.9373\n0.5436\n2.5753\n1.2783\n1.7634\n0.5670\nAug\n2.5860\n1.2786\n1.7471\n0.5713\n2.4778\n1.2820\n1.7529\n0.5779\nSep\n2.5120\n1.2871\n1.7205\n0.5814\n2.0377\n1.2265\n1.8066\n0.5782\nOct\n2.1992\n1.2791\n1.8470\n0.5766\n1.7344\n1.1601\n1.7384\n0.5930\nNov\n1.7617\n1.1546\n1.7245\n0.5886\n1.6360\n1.1609\n1.7419\n0.6415\nDec\n1.6239\n1.1611\n1.7920\n0.6230\n1.5287\n1.1541\n1.5271\n0.6893\nAvg\n2.3267\n1.2638\n1.8096\n0.5916\n2.2202\n1.2348\n1.7878\n0.5956\nADV - 0526\nPage 3"
+    },
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_3",
+      "signal_score": 32,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "per pound"
+          ],
+          "manufacturing": [],
+          "logistics": [
+            "diesel"
+          ],
+          "retail": [],
+          "regulatory": [
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "1992",
+          "2026"
+        ],
+        "candidate_units": [
+          "100 pounds"
+        ]
+      },
+      "text": "1.7205\n0.5814\n2.0377\n1.2265\n1.8066\n0.5782\nOct\n2.1992\n1.2791\n1.8470\n0.5766\n1.7344\n1.1601\n1.7384\n0.5930\nNov\n1.7617\n1.1546\n1.7245\n0.5886\n1.6360\n1.1609\n1.7419\n0.6415\nDec\n1.6239\n1.1611\n1.7920\n0.6230\n1.5287\n1.1541\n1.5271\n0.6893\nAvg\n2.3267\n1.2638\n1.8096\n0.5916\n2.2202\n1.2348\n1.7878\n0.5956\nADV - 0526\nPage 3\n\n\n--- PAGE 4 ---\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nMethodology: Advanced Prices and Pricing Factors\nData: The Advanced Prices and Pricing Factors are calculated using the most recent two weeks of data from the \nlatest National Dairy Products Sales Report (NDPSR).\nReliability: The NDPSR is subject to revisions for four weeks following the initial weekly report. For enforcement \npurposes, the information in the NDPSR is subject to verification for up to two years from the time of submission. \nThe AMS audit staff periodically review a company's sales records to ensure accurate reports during onsite \nverifications. Note that the monthly Announcement of Advanced Prices and Pricing Factors is not subject to \nrevision.\nTerms and Definitions: Announced milk prices are per 100 pounds or cwt, rounded to the nearest cent. \nComponent prices are per pound, rounded to nearest one-hundredth cent. Announced product prices and pricing \nfactors are per pound, rounded to the nearest one-hundredth cent. Class I ESL adjustment is in dollars per \nhundredweight, rounded to the nearest cent; it may be positive or negative. The diesel fuel price is per gallon, \nrounded down to the nearest one-tenth cent. The mileage rate factor is per hundredweight per mile, rounded down \nto the nearest one-thousandth cent. Please see 7 CFR 1005.83 and 1007.83 for more information.\nThe NDPSR provides current wholesale market prices for basic dairy commodities. These commodity prices for the\nprevious two weeks are used in the following formulas to calculate the USDA's Advanced Prices and Pricing \nFactors used in the Federal Milk Marketing Order Program. Please see 7 CFR 1000.53 for more information.\n•\nCommodity Prices (Butter, Nonfat Dry Milk, Cheddar Cheese, and Dry Whey)\n◦\nCommodity prices are calculated on the NDPSR ¹.\n◦\nThe prices are weig"
+    },
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_4",
+      "signal_score": 28,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market",
+            "$"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "USDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "alculate the USDA's Advanced Prices and Pricing \nFactors used in the Federal Milk Marketing Order Program. Please see 7 CFR 1000.53 for more information.\n•\nCommodity Prices (Butter, Nonfat Dry Milk, Cheddar Cheese, and Dry Whey)\n◦\nCommodity prices are calculated on the NDPSR ¹.\n◦\nThe prices are weighted averages for the previous two weeks, weighted by sales volume in pounds.\n◦\nFor more information, see the Price Formulas publication ².\n•\nBase Class I Price ³ = (Base Skim Milk Price for Class I × 0.965) + (Advanced Butterfat Pricing Factor × \n3.5)\n•\nBase Skim Milk Price for Class I = Higher of Advanced Class III or IV Skim Milk Pricing Factor\n•\nClass I ESL Adjustment\n◦\nCalculate the rolling average:\n▪\nFor the preceding 13-36 months, calculate: (Higher of Advanced Class III or Class IV \nSkim Milk Pricing Factors ($/cwt)) - (Average of Advanced Class III and Class IV \nSkim Milk Pricing Factors ($/cwt))\n▪\nCalculate the average of the 24 differences computed in the prior step\n◦\nCalculate the ESL Adjustment:\n▪\n(Current month average of Advanced Class III and Class IV Skim Milk Pricing Factors \n($/ cwt)) + (Rolling average computed in prior step) - (Current month higher of \nAdvanced Class III or Class IV Skim Milk Pricing Factors ($/cwt))\n•\nAdvanced Class III Skim Milk Pricing Factor = (Protein Price × 3.3) + (Other Solids Price × 6.0)\n◦\nProtein Price = ((Cheese Price - 0.2519) × 1.383) + ((((Cheese Price - 0.2519) × 1.589) - Advanced \nButterfat Pricing Factor × 0.91) × 1.17)\n◦\nOther Solids Price = (Dry Whey Price - 0.2668) × 1.03\n•\nAdvanced Class IV Skim Milk Pricing Factor = Nonfat Solids Price × 9.3\n◦\nNonfat Solids Price = (Nonfat Dry Milk Price - 0.2393) × 0.99\n•\nAdvanced Butterfat Pricing Factor = (Butter Price - 0.2272) × 1.211\n•\nClass II Skim Milk Price = Advanced Class IV Skim Milk Pricing Factor + 0.7\n•\nClass II Nonfat Solids Price = Class II Skim Milk Price / 9.3\n¹ https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf\n² https://www.ams.usda.gov/resources/price-formulas\n³ The Class I Base Price is shown for informational purposes only; it is not defined in Section 1000.50 of the order. \nThe Class I skim milk price equals the Base Skim Milk Price plus th"
+    },
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0006",
+      "chunk_number": 6,
+      "page_or_section_hint": "page_4",
+      "signal_score": 30,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk",
+            "skim milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "price",
+            "prices",
+            "pricing",
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [
+            "delivery"
+          ],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2026"
+        ],
+        "candidate_units": []
+      },
+      "text": "https://www.ams.usda.gov/mnreports/dywdairyproductssales.pdf\n² https://www.ams.usda.gov/resources/price-formulas\n³ The Class I Base Price is shown for informational purposes only; it is not defined in Section 1000.50 of the order. \nThe Class I skim milk price equals the Base Skim Milk Price plus the applicable Class I differential. The Class I \nButterfat Price equals Advanced Butterfat Pricing Factor plus the (applicable Class I differential divided by 100).\nRevisions: The monthly Announcement of Advanced Prices and Pricing Factors is not subject to revision.\nADV - 0526\nPage 4\n\n\n--- PAGE 5 ---\nAdvanced Prices and Pricing Factors Announcement\nUSDA - Agricultural Marketing Service\nApril 22, 2026\nInformation Contacts\nListed below are the specialists in the Agricultural Marketing Service, Dairy Program, Market Information Branch to \ncontact for additional information. E-mail inquiries may be sent to dpp@usda.gov.\nLorie Cashman \nEconomics Division Director\n(202) 313-2702\nDairy Product Mandatory Reporting Program\nHripsime Tamrazyan\nJoshua McNeff\nDairy Products Marketing Specialist, Coordinator\nDairy Products Marketing Specialist\n(202) 260-8953\n(202) 937-4934\nAlexis Alexander\nBradley Vierra\nDairy Products Marketing Specialist\nDairy Products Marketing Specialist\n(202) 799-7296\n(817) 313-2131\nFederal Milk Order Information Program\nJoshua McNeff\nHripsime Tamrazyan\nDairy Products Marketing Specialist, Coordinator\nDairy Products Marketing Specialist\n(202) 937-4934\n(202) 260-8953\nFor the most current release, visit AMS Dairy Program’s Dairy Product Mandatory Reporting Program's page or Milk \nMarketing Order Statistics page.\nTo receive e-mail notification for Dairy Product Mandatory Reporting Program (DPMRP) reports, please subscribe at this\nwebpage (https://content.govdelivery.com/accounts/USDAAMS/bulletins/3da2b33).\nTo receive e-mail notification for Dairy Product Mandatory Reporting Program (DPMRP) or Federal Milk Marketing \nOrder Statistics (FMMOS) reports, visit My Market News (https://mymarketnews.ams.usda.gov/).\nIn accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices,"
+    },
+    {
+      "chunk_id": "DOC_9C88D07C6DBF_CHUNK_0007",
+      "chunk_number": 7,
+      "page_or_section_hint": "page_5",
+      "signal_score": 14,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "milk"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "USDA",
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "rting Program (DPMRP) or Federal Milk Marketing \nOrder Statistics (FMMOS) reports, visit My Market News (https://mymarketnews.ams.usda.gov/).\nIn accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, the USDA, its Agencies, offices, and \nemployees, and institutions participating in or administering USDA programs are prohibited from discriminating based on race, color, national origin, religion, sex, \ndisability, age, marital status, family/parental status, income derived from a public assistance program, political beliefs, or reprisal or retaliation for prior civil rights \nactivity, in any program or activity conducted or funded by USDA (not all bases apply to all programs). Remedies and complaint filing deadlines vary by program or \nincident.\nADV - 0526\nPage 5"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

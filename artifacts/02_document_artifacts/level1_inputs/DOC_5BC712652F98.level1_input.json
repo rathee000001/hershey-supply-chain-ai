@@ -1,0 +1,316 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_5BC712652F98",
+    "file_name": "pgpr_market_overview_reference.pdf",
+    "relative_path": "03_ingredient_research/pgpr/03_price_benchmarks/pgpr_market_overview_reference.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/pgpr/03_price_benchmarks/pgpr_market_overview_reference.pdf",
+    "packet": "pgpr",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "file_extension": ".pdf",
+    "file_size_bytes": 83242,
+    "sha256": "0e2e6ac97bb5d4fd9dfd40a3915bb5d61fa6bb98f7064aa9317529351eda8c11"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 46,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_5BC712652F98.txt",
+    "page_count": 9,
+    "total_text_length": 21787,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_5BC712652F98_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 38,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "pgpr"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "cost",
+            "market",
+            "$"
+          ],
+          "manufacturing": [
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "emulsifier"
+          ]
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [
+          "$1.12",
+          "$2.05"
+        ],
+        "candidate_percentages": [
+          "6.8%"
+        ],
+        "candidate_years": [
+          "2024",
+          "2033"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nReport Description \n \n \nPGPR Market Outlook \nAs per our latest market intelligence, the Global PGPR (Polyglycerol Polyricinoleate) \nmarket size was valued at $1.12 billion in 2024, and is forecasted to hit $2.05 \nbillion by 2033, growing at a robust CAGR of 6.8% during the forecast period. The \nPGPR market is witnessing significant momentum, driven by the expanding food \nprocessing sector and increasing demand for high-quality emulsifiers in various \napplications. The market’s growth trajectory is shaped by evolving consumer \npreferences, regulatory shifts favoring clean-label ingredients, and the rapid \nadoption of advanced food processing technologies. As food manufacturers \nprioritize product texture, shelf stability, and cost efficiency, PGPR’s role as a \nversatile emulsifier is becoming increasingly indispensable across the global food \nand beverage industry. \nWhat’s Driving the Market? \nThe PGPR market is undergoing a remarkable transformation, primarily fueled by \nthe food industry’s relentless pursuit of product innovation and improved sensory \nattributes. The adoption of PGPR as a multifunctional ingredient is accelerating, \nespecially in applications requiring stable emulsions, such as chocolates, bakery \nproducts, and processed foods. This trend is further amplified by the shift towards \nclean-label formulations and the reduction of saturated fats, where PGPR’s ability \nto enhance mouthfeel and extend product shelf life offers a competitive edge. \nMajor food manufacturers are investing in research to optimize PGPR blends, \nensuring compatibility with natural and organic product lines, thereby expanding \nthe market’s addressable base. \nIncreasing consumption of convenience foods and ready-to-eat products in urban \ncenters is another major driver for the PGPR market. The bakery, confectionery, \nand dairy sectors are witnessing unprecedented demand for texture-modifying and \nstabilizing agents, with PGPR emerging as a preferred choice due to its superior \nemulsifying properties and cost-effectiveness. The beverage industry is also \nincorporating PGPR to improve dispersion and stability in flavored drinks and \nnutritional supplements. As co"
+    },
+    {
+      "chunk_id": "DOC_5BC712652F98_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 44,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "pgpr"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing",
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "cost",
+            "market"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [
+            "target"
+          ],
+          "regulatory": [
+            "food additive",
+            "emulsifier"
+          ]
+        },
+        "candidate_companies": [
+          "Target"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2033"
+        ],
+        "candidate_units": []
+      },
+      "text": "and for texture-modifying and \nstabilizing agents, with PGPR emerging as a preferred choice due to its superior \nemulsifying properties and cost-effectiveness. The beverage industry is also \nincorporating PGPR to improve dispersion and stability in flavored drinks and \nnutritional supplements. As consumers seek premium experiences in taste and \nappearance, food processors are leveraging PGPR to deliver consistent quality, \nfurther propelling its adoption in both established and emerging markets. \nMacroeconomic recovery post-pandemic, coupled with supportive government \nprograms aimed at food safety and innovation, is providing a strong foundation for\n\n\n--- PAGE 2 ---\nthe PGPR market’s expansion. Regulatory bodies in North America and Europe are \nupdating food additive guidelines, creating a more predictable environment for \nPGPR manufacturers. Strategic capital investments by leading players to expand \nproduction capacity and diversify sourcing are also catalyzing market growth. \nDemand-side disruptions, such as the rise of plant-based and allergen-free foods, \nare prompting suppliers to innovate with natural and sustainable PGPR sources, \naligning with broader industry trends towards transparency and environmental \nresponsibility. \nStrategic partnerships and mergers are reshaping the competitive landscape, as \ncompanies seek to secure supply chains and access new technologies. Venture \ncapital inflows into food ingredient startups are accelerating the development of \nnext-generation PGPR formulations, targeting niche applications like vegan bakery \nand reduced-calorie confectionery. These investments are expected to yield \nsubstantial returns, as the market continues to evolve in response to shifting \nconsumer and regulatory expectations. \nReport Scope \nDetails \nPGPR Market Research Report 2033 \nLiquid PGPR, Powder PGPR \nBakery, Confectionery, Dairy, Beverages, Processed Foods, Others \nNatural, Synthetic \nEmulsifier, Stabilizer, Thickener, Others \nDirect, Indirect \nNorth America, Europe, Asia Pacific, Latin America and Middle East & Africa \nNorth America (U.S., Canada), Europe (Germany, France, Italy, U.K., Spain, Russia, Rest of Europe),\nJapan, South Korea, In"
+    },
+    {
+      "chunk_id": "DOC_5BC712652F98_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_3",
+      "signal_score": 36,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "pgpr"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers"
+          ],
+          "cost_price": [
+            "cost",
+            "market"
+          ],
+          "manufacturing": [
+            "production",
+            "processing",
+            "tempering"
+          ],
+          "logistics": [
+            "transport"
+          ],
+          "retail": [],
+          "regulatory": [
+            "emulsifier"
+          ]
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "62%"
+        ],
+        "candidate_years": [
+          "2024"
+        ],
+        "candidate_units": []
+      },
+      "text": "potential. Regulatory harmonization and \nincreased awareness about food safety are further accelerating market adoption in \nthis region. \nEmerging markets in Latin America and the Middle East & Africa are also witnessing \na shift, driven by regulatory reforms and demographic changes. Countries such as \nBrazil, Mexico, and South Africa are experiencing a surge in processed food \nconsumption, prompting food manufacturers to incorporate advanced emulsifiers \nlike PGPR. Government initiatives supporting food industry modernization and \nforeign direct investment are fostering technology transfer and capacity building. \nAdditionally, the trend towards localization of food production is encouraging the \ndevelopment of regional PGPR supply chains, reducing reliance on imports and \nenhancing market resilience.\n\n\n--- PAGE 4 ---\nProduct Type Analysis \nThe PGPR market by product type is segmented into Liquid PGPR and Powder \nPGPR, with liquid PGPR currently holding the largest market share, accounting for \napproximately 62% of global revenues in 2024. Liquid PGPR’s dominance is driven \nby its ease of incorporation in industrial food processing, superior solubility, and \neffectiveness in large-scale applications such as chocolate tempering and bakery \nemulsification. Food manufacturers prefer liquid PGPR due to its consistent \nperformance and compatibility with automated dosing systems, which streamlines \nproduction and reduces operational costs. As a result, leading suppliers are \nfocusing on expanding their liquid PGPR portfolios, introducing tailored \nformulations for specific end-use sectors. \nPowder PGPR is gaining traction, particularly in niche applications that require \nprecise dosage, longer shelf life, and ease of transportation. This segment is \nwitnessing innovation in microencapsulation and blending technologies, enabling \npowder PGPR to deliver enhanced stability and functional benefits in dairy, \nbeverage, and processed food applications. Startups and specialty ingredient \ncompanies are investing in R&D to develop powder PGPR variants that cater to \nclean-label and allergen-free product lines. However, the segment faces barriers \nrelated to higher production"
+    },
+    {
+      "chunk_id": "DOC_5BC712652F98_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_4",
+      "signal_score": 42,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "chocolate",
+            "cocoa",
+            "cocoa butter",
+            "milk",
+            "pgpr"
+          ],
+          "supplier": [],
+          "cost_price": [
+            "cost",
+            "market",
+            "ppi"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [
+            "distribution"
+          ],
+          "retail": [],
+          "regulatory": [
+            "emulsifier"
+          ]
+        },
+        "candidate_companies": [
+          "EPA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [
+          "55%"
+        ],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "d functional benefits in dairy, \nbeverage, and processed food applications. Startups and specialty ingredient \ncompanies are investing in R&D to develop powder PGPR variants that cater to \nclean-label and allergen-free product lines. However, the segment faces barriers \nrelated to higher production costs and technical challenges in achieving uniform \ndispersion, which established players are addressing through continuous process \noptimization and patent filings. \nApplication Analysis \nThe Bakery and Confectionery segments collectively account for over 55% of the \nPGPR market revenue, driven by the critical role of emulsifiers in improving dough \ntexture, aeration, and chocolate viscosity. In the bakery sector, PGPR is used \nextensively to enhance crumb softness, prolong freshness, and support the \ndevelopment of gluten-free and low-fat products. Confectionery manufacturers \nleverage PGPR to achieve smoother chocolate flow, reduce cocoa butter usage, \nand ensure uniform coating in candies and bars. The dairy industry is also emerging \nas a significant application segment, with PGPR being utilized in processed cheese, \nice creams, and whipped toppings for improved emulsification and mouthfeel. \nThe beverage segment is seeing rising adoption of PGPR, particularly in the \nformulation of flavored milk, nutritional drinks, and plant-based beverages. PGPR’s \nability to prevent phase separation and stabilize emulsions is critical for \nmaintaining product quality during storage and distribution. The processed foods \nsegment, encompassing ready meals, sauces, and dressings, is also integrating \nPGPR to improve texture and extend shelf life. As consumer preferences shift \ntowards convenience and health, food processors are increasingly relying on PGPR"
+    },
+    {
+      "chunk_id": "DOC_5BC712652F98_CHUNK_0007",
+      "chunk_number": 7,
+      "page_or_section_hint": "page_5",
+      "signal_score": 40,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "chocolate",
+            "pgpr"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "market"
+          ],
+          "manufacturing": [
+            "processing"
+          ],
+          "logistics": [
+            "distribution"
+          ],
+          "retail": [
+            "target"
+          ],
+          "regulatory": [
+            "emulsifier"
+          ]
+        },
+        "candidate_companies": [
+          "Target"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "s \nprimary role in stabilizing oil-in-water and water-in-oil emulsions across food \napplications. PGPR’s unique molecular structure enables it to reduce interfacial \ntension, facilitating the formation of stable, homogenous mixtures in chocolates, \nbakery creams, and processed foods. The Stabilizer and Thickener segments are \nalso gaining prominence, as food manufacturers seek multifunctional ingredients \nthat deliver both texture and stability. PGPR is increasingly being incorporated into \nproduct formulations to address specific challenges such as fat migration, \nsyneresis, and viscosity control, driving demand in both traditional and emerging \napplications. \nInnovation in functional blends, where PGPR is combined with other emulsifiers \nand hydrocolloids, is expanding the market’s addressable scope. Patent filings in \nthis area are on the rise, targeting proprietary formulations that offer enhanced \nperformance in challenging processing conditions. The competitive intensity in the \nfunction segment is high, with suppliers investing in application-specific technical \nsupport and co-development initiatives with major food brands. Barriers to entry\n\n\n--- PAGE 6 ---\ninclude the need for specialized formulation expertise and compliance with \nevolving food safety standards, underscoring the importance of R&D and regulatory \nalignment. \nDistribution Channel Analysis \nThe PGPR market’s distribution landscape is segmented \ninto Direct and Indirect channels. Direct sales, primarily to large-scale food \nmanufacturers and multinational brands, account for the bulk of market revenues, \nreflecting the need for customized solutions, bulk procurement, and technical \nsupport. Leading PGPR suppliers maintain dedicated sales teams and technical \nservice centers to address the complex requirements of industrial clients, ensuring \nseamless integration of PGPR into diverse product lines. Long-term supply \nagreements and strategic partnerships are common, fostering stability and mutual \ngrowth. \nIndirect channels, including distributors, wholesalers, and online platforms, are \ngaining traction, particularly among small and medium-sized enterprises (SMEs) \nand regional food processo"
+    },
+    {
+      "chunk_id": "DOC_5BC712652F98_CHUNK_0008",
+      "chunk_number": 8,
+      "page_or_section_hint": "page_6",
+      "signal_score": 39,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [
+            "pgpr",
+            "natural flavor"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "partner",
+            "partnership"
+          ],
+          "cost_price": [
+            "cost",
+            "market"
+          ],
+          "manufacturing": [
+            "production",
+            "plant"
+          ],
+          "logistics": [
+            "distribution"
+          ],
+          "retail": [],
+          "regulatory": [
+            "natural flavor"
+          ]
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": ". Long-term supply \nagreements and strategic partnerships are common, fostering stability and mutual \ngrowth. \nIndirect channels, including distributors, wholesalers, and online platforms, are \ngaining traction, particularly among small and medium-sized enterprises (SMEs) \nand regional food processors. These channels offer greater market reach and \nflexibility, enabling suppliers to penetrate new geographic markets and serve niche \nsegments. However, the indirect channel faces challenges related to product \ntraceability, quality assurance, and regulatory compliance, which leading \ndistributors are addressing through digitalization and enhanced supply chain \ntransparency. As the market matures, a hybrid distribution model combining the \nstrengths of both channels is likely to emerge, enhancing efficiency and customer \nengagement. \nOpportunities & Market Challenges \nThe PGPR market is ripe with opportunities, particularly in the context of digital \ntransformation and the rise of personalized nutrition. Advances in process \nautomation, data analytics, and quality control are enabling manufacturers to \noptimize PGPR production, reduce costs, and deliver consistent quality at scale. \nUnmet demand for clean-label, allergen-free, and plant-based food products is \ndriving the development of next-generation PGPR variants, opening new growth \navenues in premium and functional food segments. Crossovers with adjacent \nmarkets, such as nutraceuticals and specialty beverages, are creating \nopportunities for product differentiation and value-added offerings, supported by \ncollaborative innovation across the food ecosystem. \nNiche innovation in PGPR applications, such as vegan bakery, low-fat \nconfectionery, and fortified dairy alternatives, is attracting investment from both \nestablished players and startups. The integration of PGPR with novel ingredients, \nsuch as prebiotics, proteins, and natural flavors, is expanding its functional"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

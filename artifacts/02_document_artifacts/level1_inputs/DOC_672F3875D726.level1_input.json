@@ -1,0 +1,82 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_672F3875D726",
+    "file_name": "hershey_sustainable_sugar_sourcing_policy.pdf",
+    "relative_path": "03_ingredient_research/sugar/hershey_evidence/hershey_sustainable_sugar_sourcing_policy.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/hershey_evidence/hershey_sustainable_sugar_sourcing_policy.pdf",
+    "packet": "sugar",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "file_extension": ".pdf",
+    "file_size_bytes": 244992,
+    "sha256": "b932b8c9ceaede77ecd1c6969da830bfecfccc42b0f18f352e8967afd100520f"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 81,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_672F3875D726.txt",
+    "page_count": 1,
+    "total_text_length": 1889,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_672F3875D726/page_001.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_672F3875D726_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 24,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [
+            "supplier",
+            "suppliers",
+            "sourcing",
+            "sourced"
+          ],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [
+          "Hershey",
+          "The Hershey Company"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2020"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\nSustainable Sugar Sourcing Policy \nThe Hershey Company is committed to high standards in responsible and sustainable sugar sourcing. \nHershey currently buys sugar for its operations around the world. The sugarcane industry is nuanced by \ngeography, with sustainability, social, and labor practices varying by region. \nThe Hershey Company will procure 100 percent of our sugar purchases by 2020 from responsible and \nsustainable sources, keeping in line with the expectations in our supplier code of conduct. \nFor U.S. sourced sugar: \n• \nAll suppliers will be required to complete independent social audits of their refineries and other \nfacilities to the Sedex Members Ethical Trade Audit (SMETA) standard by 2020. Suppliers will be \nrequired to address any and all non-compliances with this standard in a prompt manner and \nsubmit corrective actions for our review. \n• \nWe will conduct annual reviews of our sugar suppliers’ sustainability programs to assess the \nenvironmental impact of sugarcrop farming. The results of this ongoing exercise will factor into \nour sourcing decisions as we seek to drive sustainability throughout our supply chain. \nFor international sugar: \n• \nWe will work with our suppliers to incorporate third party evaluations within their supply chains \nagainst Hershey’s Supplier Code of Conduct and industry best practices on sustainability \ninitiatives. \n• \nIn addition, Hershey will implement Hershey’s Learn to Grow program within our sugar supply \nchain to train sugar farmers on productivity and community development enhancements. \nThe Hershey Company intends to work with suppliers that not only share our values but are committed \nto action plans to adhere to this policy. We will communicate progress against this policy through \ncompany publications including our annual Corporate Social Responsibility Report and corporate \nwebsite."
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

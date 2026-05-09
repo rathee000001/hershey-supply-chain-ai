@@ -1,0 +1,32 @@
+{
+  "doc_id": "DOC_4D6583498B7A",
+  "file_name": "target_hershey_1_55oz_price_page.pdf",
+  "relative_path": "05_retail_price_evidence/target/target_hershey_1_55oz_price_page.pdf",
+  "packet": "retail_price_evidence",
+  "document_type": "pdf_document",
+  "evidence_role": "retail_price_evidence",
+  "extracted_at": "2026-05-06T19:57:17",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_4D6583498B7A.txt",
+      "page_count": 1,
+      "total_text_length": 14,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_4D6583498B7A/page_001.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "doc_id": "DOC_CA4CD5A61616",
+    "file_name": "hershey_2025_10k_full.pdf",
+    "packet": "hershey_company",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 2728,
+    "chunk_count": 2,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_920988DD536E",
+    "file_name": "Dairy-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+    "packet": "hershey_company",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_4798F11F2524",
+    "file_name": "Palm-Oil-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+    "packet": "hershey_company",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_381414594006",
+    "file_name": "Pulp-Paper-The-Hershey-Company-05-06-2026_02_23_PM.pdf",
+    "packet": "hershey_company",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_6152C93503AC",
+    "file_name": "hershey_responsible_sourcing_cocoa_page.pdf",
+    "packet": "hershey_company",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_73F44125570A",
+    "file_name": "hershey_latest_esg_sugar_section.pdf",
+    "packet": "hershey_company",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 363048,
+    "chunk_count": 205,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_BF1CF5E24E2A",
+    "file_name": "034000002405_3.png",
+    "packet": "product_sku_1_55oz",
+    "document_type": "image_or_logo",
+    "evidence_role": "unknown",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_CF8C4A1F434C",
+    "file_name": "hershey 1.55 oz page.pdf",
+    "packet": "product_sku_1_55oz",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_D7D512504DFA",
+    "file_name": "hershey unwrapped.png",
+    "packet": "product_sku_1_55oz",
+    "document_type": "image_or_logo",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_35AC43ECE38F",
+    "file_name": "Hershey back.webp",
+    "packet": "product_sku_1_55oz",
+    "document_type": "image_or_logo",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_463FD3B8EDC9",
+    "file_name": "Hershey Front.webp",
+    "packet": "product_sku_1_55oz",
+    "document_type": "image_or_logo",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_3A67DADA572A",
+    "file_name": "barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 404679,
+    "chunk_count": 228,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1EC92FF65460",
+    "file_name": "barry_callebaut_company_profile.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1082CA3E3F2A",
+    "file_name": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 7316,
+    "chunk_count": 4,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_71BF5D9AF123",
+    "file_name": "barry_callebaut_hershey_supply_agreement_page.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_444A249CB5CF",
+    "file_name": "barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 271677,
+    "chunk_count": 155,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C87C22CB90A7",
+    "file_name": "Cocoa-The-Hershey-Company-05-06-2026_02_25_PM.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_8F85C09572BC",
+    "file_name": "hershey_cocoa_for_good_strategy.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_260B1720A1EF",
+    "file_name": "hershey_cocoa_sustainability_page.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_E37A29B6C990",
+    "file_name": "barry_logo.svg",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_F976C0BE2B9A",
+    "file_name": "usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 40024,
+    "chunk_count": 23,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_033AA20F1EE1",
+    "file_name": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 44757,
+    "chunk_count": 25,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_FD5AB5AB5E8F",
+    "file_name": "icco_cocoa_statistics_page.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_08137C490006",
+    "file_name": "ice_cocoa_futures_optional_screenshot.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_B3858C187B41",
+    "file_name": "cocoa_beans_quality_requirements_processing_guide.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 252539,
+    "chunk_count": 145,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_2D8BE31DFAC8",
+    "file_name": "icco_cocoa_butter_powder_faq.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 5535,
+    "chunk_count": 3,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1E80FF9B816E",
+    "file_name": "icco_processing_cocoa_page.pdf",
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_3FF97ACFA90D",
+    "file_name": "hershey_dairy_sourcing_page.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_3DACF0FBC836",
+    "file_name": "hershey_latest_esg_dairy_section.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 252523,
+    "chunk_count": 140,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_75DA5EE841E9",
+    "file_name": "hershey_sustainable_dairy_pa_2021_press_release.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_DC5C9E72C77A",
+    "file_name": "land_o_lakes_2025_annual_report.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 44859,
+    "chunk_count": 28,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_BA82764C244F",
+    "file_name": "land_o_lakes_community_impact_report.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_3C5045700A98",
+    "file_name": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_D9B23C06662B",
+    "file_name": "land_o_lakes_home_page.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_2F8EE4491545",
+    "file_name": "land_o_lakes_who_we_are_page.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_FEA243351909",
+    "file_name": "alliance_sustainable_dairy_pa_page.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "unknown",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_6ECEDE6AFBC2",
+    "file_name": "epa_hershey_land_o_lakes_pa_dairy_farms_2m_commitment.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_9C88D07C6DBF",
+    "file_name": "usda_ams_advanced_class_prices_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 11906,
+    "chunk_count": 7,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_E2BE0206EF0C",
+    "file_name": "usda_ams_class_iv_milk_price_reference.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 1355,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_7FED8B7042EA",
+    "file_name": "usda_ams_dairy_market_news_weekly_report_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 78106,
+    "chunk_count": 42,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_9232C3E84540",
+    "file_name": "usda_ams_dairy_monthly_averages_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 3693,
+    "chunk_count": 3,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_A5418FB79897",
+    "file_name": "usda_ams_national_dairy_products_sales_report_latest.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 7169,
+    "chunk_count": 5,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_B28013FB1CA9",
+    "file_name": "dairy_ingredients_in_chocolate_explanation.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C041385635A5",
+    "file_name": "milk_fat_butterfat_explanation.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_E3E6C7C84910",
+    "file_name": "milk_processing_separation_explanation.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 149382,
+    "chunk_count": 90,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_400268FDC92A",
+    "file_name": "nonfat_dry_milk_skim_milk_explanation.pdf",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_CD36102F0A4D",
+    "file_name": "land_o_lakes_logo_asset.png",
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_C5E013D8DC8A",
+    "file_name": "fda_21_cfr_101_22_natural_flavor_definition.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 158,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1D4C129E0BD4",
+    "file_name": "fda_flavor_labeling_regulation_reference.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 341434,
+    "chunk_count": 202,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_F0190DCF0884",
+    "file_name": "natural_flavor_declaration_fda_definition_reference.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 12131,
+    "chunk_count": 7,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_B690BF25DADF",
+    "file_name": "fema_flavor_ingredient_library_page.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "unknown",
+    "text_length": 10809,
+    "chunk_count": 7,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_DAEB12849174",
+    "file_name": "fema_gras_program_page.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_12314C1C49CF",
+    "file_name": "interim_gras_33_apr_2026.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 10809,
+    "chunk_count": 7,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1164AEC6C38C",
+    "file_name": "natural_flavor_function_in_food_explanation.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_0DD09547ACD4",
+    "file_name": "natural_flavor_extraction_distillation_fermentation_explanation.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_399D89EF9892",
+    "file_name": "natural_flavor_market_overview_reference.pdf",
+    "packet": "natural_flavor",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_F89879677373",
+    "file_name": "hershey_latest_esg_packaging_section.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 363048,
+    "chunk_count": 205,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_26064332B82F",
+    "file_name": "hershey_pulp_paper_page.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1ED749BEB0B8",
+    "file_name": "pulp-and-paper-sourcing-policy.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 7253,
+    "chunk_count": 4,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_66F839469130",
+    "file_name": "hershey_pulp_and_paper_sourcing_data.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 5207,
+    "chunk_count": 3,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C5BF7969016D",
+    "file_name": "hershey_pulp_paper_supplier_mill_list.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 5207,
+    "chunk_count": 3,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_D22719A8CDC8",
+    "file_name": "flexible_packaging_market_overview_reference.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 215,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_FE10C8C34BF6",
+    "file_name": "bls_ppi_packaging_materials_benchmark.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_BCA0BB066D42",
+    "file_name": "paperboard_packaging_market_overview_reference.pdf",
+    "packet": "packaging_wrapper",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_8E60E28B0A31",
+    "file_name": "efsa_pgpr_e476_reevaluation.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 2008,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_9F0DF6069C86",
+    "file_name": "fda_pgpr_gras_notice_inventory_page.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 9296,
+    "chunk_count": 5,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_101588EC345D",
+    "file_name": "fda_pgpr_gras_response_letter.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 9296,
+    "chunk_count": 5,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_A6A693D3495F",
+    "file_name": "pgpr_and_lecithin_chocolate_emulsifier_use.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_F398FB109346",
+    "file_name": "pgpr_function_in_chocolate_explanation.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1BE15D0DAB2F",
+    "file_name": "castor_oil_ricinoleic_acid_pgpr_origin_reference.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_5EE6EEAC2420",
+    "file_name": "pgpr_processing_polyglycerol_ricinoleic_acid_explanation.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_5BC712652F98",
+    "file_name": "pgpr_market_overview_reference.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 21787,
+    "chunk_count": 13,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_23BD14F34CEF",
+    "file_name": "pgpr_market_price_reference.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_A2C285FFEE37",
+    "file_name": "pgpr_industry_supplier_function_reference.pdf",
+    "packet": "pgpr",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C341E0016B61",
+    "file_name": "fda_lecithin_food_additive_or_gras_reference.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_51C8BD35B96E",
+    "file_name": "lecithin_emulsifier_chocolate_use.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_2FB8D1A92FFF",
+    "file_name": "soy_lecithin_function_in_chocolate_explanation.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_B544BFB9CF00",
+    "file_name": "soybean_to_soy_lecithin_processing_explanation.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_7A2EEB1A9F31",
+    "file_name": "soy_lecithin_market_price_reference.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_A632502DE1F8",
+    "file_name": "usda_soybean_soybean_oil_price_benchmark.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C035EBC878BA",
+    "file_name": "soy_lecithin_industry_supplier_reference.pdf",
+    "packet": "soy_lecithin",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_0E5990AC3AEF",
+    "file_name": "asr_belize_sugar_industries_page.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_4FB6669959F5",
+    "file_name": "asr_fy23_sustainability_report.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 252296,
+    "chunk_count": 150,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_535DD6E652B7",
+    "file_name": "asr_group_about_page.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_DB66DBC968F9",
+    "file_name": "asr_group_home_page.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1E0944AC1DC5",
+    "file_name": "asr_hershey_learn_to_grow_belize.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_02F4A4A84A57",
+    "file_name": "asr_refined_sugar_process_or_products.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C2BD8E23F83C",
+    "file_name": "asr_sustainable_supply_chain_page.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_EBE512C33BCD",
+    "file_name": "domino_sugar_asr_brand_page.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_74966F03A6A3",
+    "file_name": "hershey_sugar_sourcing_page.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_672F3875D726",
+    "file_name": "hershey_sustainable_sugar_sourcing_policy.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 1889,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_E5889DB5914A",
+    "file_name": "Sugar-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_0CCBAF9E6D49",
+    "file_name": "ASR_Group_logo.svg",
+    "packet": "sugar",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_257C2CABB7C1",
+    "file_name": "Group3-Tables-US-Sugar-Crop-Production-and-Sugar-Production-Deliveries-and-Stocks.csv",
+    "packet": "sugar",
+    "document_type": "csv_table",
+    "evidence_role": "unknown",
+    "text_length": 8590,
+    "chunk_count": 4,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_D24FEC8E2E35",
+    "file_name": "usda_ers_sugar_market_outlook_latest.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_E2CBD160658D",
+    "file_name": "usda_ers_sugar_outlook_latest_pdf.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 25236,
+    "chunk_count": 16,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_6F01C5426EEB",
+    "file_name": "usda_ers_sugar_sweeteners_yearbook_tables.xlsx",
+    "packet": "sugar",
+    "document_type": "excel_workbook",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 139785,
+    "chunk_count": 22,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_32FA1CD834CD",
+    "file_name": "sugar_cane_beet_processing_explanation.pdf",
+    "packet": "sugar",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 49228,
+    "chunk_count": 27,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_71CE92D20645",
+    "file_name": "hershey_distribution_center_logistics_reference.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "direct_company_evidence",
+    "text_length": 122,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_FDA0D8F4DCE2",
+    "file_name": "mclane_company_facts_reference.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_050BBCAC6B3F",
+    "file_name": "mclane_company_profile.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_0C6FF4D0AACE",
+    "file_name": "mclane_grocery_retail_distribution_page.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "supplier_relationship_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_940D070C225C",
+    "file_name": "bls_warehousing_storage_ppi_benchmark.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1EB5146FBACE",
+    "file_name": "bls_truck_transportation_ppi_benchmark.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_89FEEC7103A9",
+    "file_name": "eia_diesel_price_benchmark.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_C1E296D7AAAC",
+    "file_name": "trucking_rate_market_reference.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "benchmark_proxy",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_55B0E1DB0BD6",
+    "file_name": "common_carrier_freight_explanation.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_88DAB6FD44D8",
+    "file_name": "cpg_distribution_center_explanation.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 215,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_41FA1AC07EDD",
+    "file_name": "retail_wholesale_distribution_explanation.pdf",
+    "packet": "logistics_distribution",
+    "document_type": "pdf_document",
+    "evidence_role": "process_or_function_context",
+    "text_length": 86,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_3C7D40BBDFD0",
+    "file_name": "mclane_logo_asset.png",
+    "packet": "logistics_distribution",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_F203E734500B",
+    "file_name": "PCU484484.xlsx",
+    "packet": "logistics_distribution",
+    "document_type": "excel_workbook",
+    "evidence_role": "unknown",
+    "text_length": 2762,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_11A00D6495C0",
+    "file_name": "PCU49314931.xlsx",
+    "packet": "logistics_distribution",
+    "document_type": "excel_workbook",
+    "evidence_role": "unknown",
+    "text_length": 2830,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_4ED7D04B1CB5",
+    "file_name": "pswrgvwall.xls",
+    "packet": "logistics_distribution",
+    "document_type": "excel_workbook",
+    "evidence_role": "unknown",
+    "text_length": 522504,
+    "chunk_count": 38,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_01971A613130",
+    "file_name": "WPU09150336.csv",
+    "packet": "logistics_distribution",
+    "document_type": "csv_table",
+    "evidence_role": "unknown",
+    "text_length": 717,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_0D21678E3116",
+    "file_name": "cvs_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_4D6583498B7A",
+    "file_name": "target_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_5E90ED0F32AB",
+    "file_name": "walgreens_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_1F6D46FB75CC",
+    "file_name": "walmart_hershey_1_55oz_price_page.pdf",
+    "packet": "retail_price_evidence",
+    "document_type": "pdf_document",
+    "evidence_role": "retail_price_evidence",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  },
+  {
+    "doc_id": "DOC_AB943BE3F9BC",
+    "file_name": "hershey_company_logo.png",
+    "packet": "brand_logo_assets",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "text_length": 0,
+    "chunk_count": 0,
+    "has_text": false
+  },
+  {
+    "doc_id": "DOC_7AD7B5853282",
+    "file_name": "Hersheyland-Explore-Hershey-Products.pdf",
+    "packet": "reference_only",
+    "document_type": "pdf_document",
+    "evidence_role": "reference_only",
+    "text_length": 14,
+    "chunk_count": 1,
+    "has_text": true
+  }
+]

@@ -1,0 +1,274 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_F0190DCF0884",
+    "file_name": "natural_flavor_declaration_fda_definition_reference.pdf",
+    "relative_path": "03_ingredient_research/natural_flavor/00_regulatory_definition/natural_flavor_declaration_fda_definition_reference.pdf",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/natural_flavor/00_regulatory_definition/natural_flavor_declaration_fda_definition_reference.pdf",
+    "packet": "natural_flavor",
+    "source_category": "ingredient_or_packaging_research",
+    "document_type": "pdf_document",
+    "evidence_role": "regulatory_definition",
+    "file_extension": ".pdf",
+    "file_size_bytes": 233226,
+    "sha256": "b94696fab1907b4d7e713c97e7b583a6662c03dddfa18fcdbb356542f667265c"
+  },
+  "ai_input_mode": "text_only",
+  "priority_score": 42,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F0190DCF0884.txt",
+    "page_count": 4,
+    "total_text_length": 12131,
+    "rendered_page_images": [
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_001.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_002.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_003.png",
+      "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_004.png"
+    ],
+    "tables": [],
+    "copied_image_asset": null,
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": false,
+    "errors": []
+  },
+  "selected_chunks": [
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0001",
+      "chunk_number": 1,
+      "page_or_section_hint": "",
+      "signal_score": 21,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "fda",
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "USDA",
+          "FDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "--- PAGE 1 ---\n23FLAVDEC1F. doc \n                              Effective Date:1/1/2023 \n \n \n \nNATURAL FLAVOR DECLARATION \n \nBACKGROUND INFORMATION: The USDA National Organic Program (NOP) allows the use of certain natural \n(nonsynthetic) flavors in products labeled as “Organic” and “Made with Organic (specified ingredients or \nfood groups).” For use in products labeled as “Organic” natural (nonsynthetic flavors) are allowed only when \norganic flavors are not commercially available. A documented Organic Flavor Search and a Commercial \nAvailability Plan is required for all nonorganic natural flavors in use in ”Organic” products.  \n \nNatural Flavors are defined with the following language from FDA 21 CFR Part 101.22(a)(3): “The term \nnatural flavor or natural flavoring means the essential oil, oleoresin, essence or extractive, protein \nhydrolysate, distillate, or any product of roasting, heating or enzymolysis, which contains the flavoring \nconstituents derived from a spice, fruit or fruit juice, vegetable or vegetable juice, edible yeast, herb, bark, \nbud, root, leaf or similar plant material, meat, seafood, poultry, eggs, dairy products, or fermentation \nproducts thereof, whose significant function in food is flavoring rather than nutritional. Natural flavors \ninclude the natural essence or extractives obtained from plants listed in §§ 182.10, 182.20, 182.40, and \n182.50 and part 184 of this chapter, and the substances listed in §172.510 of this chapter.”  \n \nIn addition, for use in certified organic products, natural flavors must meet the natural flavor annotation on \nthe National List of Allowed and Prohibited Substances (7 CFR 205.605) and the NOP requirements for the \nuse of excluded methods.  Nonsynthetic flavors allowed at §205.605(a) include, “Flavors – nonsynthetic \nflavors may be used when organic flavors are not commercially available. Organic or nonsynthetic sources \nonly and must not be produced using synthetic solvents and carrier systems or any artificial preservative.” \nNOP §§205.105 (e) and (f) prohibits excluded methods and ionizing radiation, as defined in §205.2. More \nspecifics on these requirements are described below. \n \nThis form must be co"
+    },
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0002",
+      "chunk_number": 2,
+      "page_or_section_hint": "page_1",
+      "signal_score": 17,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [
+            "sugar"
+          ],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "fda",
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "FDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "sources \nonly and must not be produced using synthetic solvents and carrier systems or any artificial preservative.” \nNOP §§205.105 (e) and (f) prohibits excluded methods and ionizing radiation, as defined in §205.2. More \nspecifics on these requirements are described below. \n \nThis form must be completed by the manufacturer of each natural flavor used by certified operations in \nproducts labeled as “organic” or “made with organic (specified food groups).” Additional information may \nbe required if needed to verify compliance with applicable regulations and policies. \n \n             ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ \n \nSpecific Identification of Product (Name/Code): \n           \n \n \n \n \n \n \n \n \n \n \nType of flavor (select one or more as necessary):   \n☐ Compounded flavor    ☐ Distillate    ☐ Extract ☐   Essential oil    ☐   Essential oil isolate    ☐ Isolate  \n☐ Oleoresin  ☐ Protein Hydrolysate   ☐ Compounded with other natural flavor       \n☐ Other (specify): ______________________________\n\n\n--- PAGE 2 ---\n23FLAVDEC1F. doc \n                              Effective Date:1/1/2023 \n \n \nNatural Flavor Product \nA.  Flavor Constituents   \nNOTE: Flavors are products that are added to food to impart, modify, or enhance the flavor of food. Flavors \ndo not include: 1) flavor enhancers; and 2) substances that have an exclusively sweet, sour, or salty taste \n(e.g. sugar, nutritive sweeteners, vinegar, and table salt). \n \nAccording to definitions in NOP §205.2: A Nonsynthetic (natural) substance is derived from mineral, plant, or \nanimal matter and does not undergo a synthetic process as defined in the Act (7 U.S.C. 6502(21)).  \nA synthetic substance is formulated or manufactured by a chemical process or by a process that chemically \nchanges a substance extracted from naturally occurring plant, animal or mineral sources, except that such \nterm shall not apply to substances created by naturally occurring biological processes.  \n \nAll of the flavor constituents in the natural flavor product named above must comply with the following \ncriteria:      \n● Does the material meet the FDA definition of a natural flavor [see above, FDA 21 CFR Part \n101.22(a)(3)]?   ☐ YES    ☐ NO (no"
+    },
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0003",
+      "chunk_number": 3,
+      "page_or_section_hint": "page_2",
+      "signal_score": 16,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "plant"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "fda",
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "FDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "ed by naturally occurring biological processes.  \n \nAll of the flavor constituents in the natural flavor product named above must comply with the following \ncriteria:      \n● Does the material meet the FDA definition of a natural flavor [see above, FDA 21 CFR Part \n101.22(a)(3)]?   ☐ YES    ☐ NO (not allowed) \n \n● List all sources of the flavor (e.g. [Specific] spice, plant part, essential oil, etc). \n______________________________________________________________________ \n \n● Is the material only used for flavoring purposes (no nutritional use or other functions)? \n☐ YES    ☐ NO (not allowed) \n \n● Does the flavoring substance(s) in the natural flavor impart an exclusively sweet, sour, or salty taste  \n(“flavors with modifying properties”) rather than a specific characteristic flavor? For example, if the \nonly flavoring substance in the material is Luo Han Guo (Monk Fruit) derived products, Thaumatin, \nGlycosylated Steviol Glycosides, or similar then the answer should be “Yes”.   \n☐ YES    ☐ NO    ☐ N/A  \n○ If YES, attach documentation detailing the maximum usage rate for the overall flavor material \nto qualify as a natural flavor: ☐ Attached  \n \n● Can the material legally be labeled as a “natural flavor” on the finished product labels? ☐ YES   ☐ NO  \n(FDA labeling regulations, \nhttps://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/CFRSearch.cfm?fr=101.22  sections 101.22(h)(1) \nstates that a natural flavor must be identified in the ingredient statement as a natural flavor, and sections \n101.22(i)(1)(i) includes that on the principal display panel the name of the flavor may be immediately preceded \nby the word \"natural\" and shall be immediately followed by the word \"flavored\". )  \n○ If the flavor consists of a natural flavoring that must be declared by its common or usual \nname on the label, list the name here: ______________  ☐ N/A \n \n B.   Non‐flavor constituents and other ingredients \nNatural flavors authorized for use in NOP “organic” or “made with organic…” products must NOT be \nproduced using synthetic extraction solvents. Extraction may only use natural, non‐petroleum based \nsolvents. Allowed solvents include water, natural ethanol, super‐critical carbo"
+    },
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0004",
+      "chunk_number": 4,
+      "page_or_section_hint": "page_2",
+      "signal_score": 10,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [
+            "ingredients"
+          ],
+          "ingredient": [],
+          "supplier": [
+            "supplier"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "production"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023"
+        ],
+        "candidate_units": []
+      },
+      "text": "and other ingredients \nNatural flavors authorized for use in NOP “organic” or “made with organic…” products must NOT be \nproduced using synthetic extraction solvents. Extraction may only use natural, non‐petroleum based \nsolvents. Allowed solvents include water, natural ethanol, super‐critical carbon dioxide, authentic essential \noil, natural glycerin and vegetable oils. No hydrocarbon solvents, or chlorinated, or halogenated solvents \nmay be used. Propane, hexane, triglycerides, and freon are examples of solvents that are prohibited.\n\n\n--- PAGE 3 ---\n23FLAVDEC1F. doc \n                              Effective Date:1/1/2023 \n \n \n \n \n● Is/are the natural flavor constituent(s) made using NOP allowed extraction solvents?   \n \n \n \n☐ YES  ☐ NO (not allowed) ☐ N/A, no extraction solvents used \n○ Please list any solvent(s) used in the production of this Natural Flavor Product.    \n \n \n \n______________________________________________ \n○ If alcohol/ethanol is used, attach confirmation (MOSA Naturally Produced Verification form \nfrom the supplier/manufacturer that the alcohol/ethanol is produced naturally (via \nfermentation).   ☐ Attached    ☐ N/A \n○ If glycerin is used as a solvent, attach confirmation (MOSA Naturally Produced Verification \nform) from the supplier/manufacturer that it was produced from agricultural source materials \nand processed using biological or mechanical/physical methods.   ☐ Attached ☐ N/A  \n \nNatural flavors authorized for use in NOP “organic” or “made with organic…” products must not contain any \nprohibited synthetic carrier systems or any artificial preservatives. Prohibited substances include but are \nnot limited to propylene glycol, polyglycerol esters of fatty acids, mono‐, di‐, and tri‐glycerides, benzoic acid, \nand polysorbate 80. Carriers and preservatives on the National List at section 205.605 and 205.606 may be \nused.  \n \n● Is/are the carrier systems used nonsynthetic?  \n☐ YES  ☐ NO (not allowed)  ☐ N/A, no carrier system used \n○ Please list any carrier system(s) used in this natural flavor product.  ____________________ \n○ If maltodextrin is used as a carrier, attach confirmation (MOSA Naturally Produced Verification \nform) from the sup"
+    },
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0005",
+      "chunk_number": 5,
+      "page_or_section_hint": "page_3",
+      "signal_score": 12,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [
+            "supplier"
+          ],
+          "cost_price": [],
+          "manufacturing": [
+            "production",
+            "plant",
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "systems used nonsynthetic?  \n☐ YES  ☐ NO (not allowed)  ☐ N/A, no carrier system used \n○ Please list any carrier system(s) used in this natural flavor product.  ____________________ \n○ If maltodextrin is used as a carrier, attach confirmation (MOSA Naturally Produced Verification \nform) from the supplier/manufacturer that enzymes are responsible for the hydrolysis.              \n☐ Attached    ☐ N/A   \n○ If glycerin is used as a carrier, attach confirmation (MOSA Naturally Produced Verification form) \nfrom the supplier/manufacturer that it was produced from agricultural source materials and \nprocessed using biological or mechanical/physical methods. ☐ Attached ☐ N/A  \n \n● Is/are the preservative(s) used nonsynthetic? \n☐ YES  ☐ NO (not allowed)  ☐ N/A, no preservative(s) used \n○ Please list any preservative(s) used in this natural flavor product:  ____________________ \n○ If citric acid is used as a preservative, is it produced via fermentation of carbohydrates?  \n☐ YES ☐ NO (not allowed) ☐ N/A \n \nC.  Excluded Methods (GMOs) may not be used at any stage in the process of making natural flavor products \nused in certified organic products. NOP §205.2 defines excluded methods as “a variety of methods used to \ngenetically modify organisms or influence their growth and development by means that are not possible \nunder natural conditions or processes and are not considered compatible with organic production. Such \nmethods include cell fusion, microencapsulation and macroencapsulation, and recombinant DNA technology \n(including gene deletion, gene doubling, introducing a foreign gene, and changing the positions of genes \nwhen achieved by recombinant DNA technology).”  Other methods such as gene silencing, synthetic biology, \ncisgenesis, plastic transformation, intragenesis, agro‐infiltration, transposons, and induced mutagenesis are \nalso prohibited. Therefore, GMO‐plant extracts may not be used, nor may natural flavors be the product of \nGMO‐yeast fermentation, for example.  \n \nThis natural flavor product, including any solvents, carriers, preservatives, or processing aids used or contained \ntherein, was produced and handled without the use of excluded methods.  ☐ YES  ☐"
+    },
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0006",
+      "chunk_number": 6,
+      "page_or_section_hint": "page_3",
+      "signal_score": 18,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [
+            "production",
+            "processing"
+          ],
+          "logistics": [],
+          "retail": [],
+          "regulatory": [
+            "fda",
+            "cfr"
+          ]
+        },
+        "candidate_companies": [
+          "FDA"
+        ],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [
+          "2023",
+          "1990"
+        ],
+        "candidate_units": []
+      },
+      "text": "ts may not be used, nor may natural flavors be the product of \nGMO‐yeast fermentation, for example.  \n \nThis natural flavor product, including any solvents, carriers, preservatives, or processing aids used or contained \ntherein, was produced and handled without the use of excluded methods.  ☐ YES  ☐ NO (not allowed)\n\n\n--- PAGE 4 ---\n23FLAVDEC1F. doc \n                              Effective Date:1/1/2023 \n \n \nD.  Ionizing radiation as described in FDA regulation 21 CFR 179.26 is prohibited for all uses involving food \npreservation, pest control and pathogen control in certified organic products. Other radiation uses, including \nfood inspection, are permitted, provided such use meets applicable FDA regulation, which establishes \nlimitations applicable to all (organic and nonorganic) food products.  \n \nIs this natural flavor product produced and handled without the use of ionizing radiation as described in FDA \nregulation 21 CFR 179.26?  ☐ YES   ☐ NO (not allowed)               \n \nE.  Nanotechnology, or technologies intentionally manipulating matter at atomic, molecular, or \nmacromolecular dimensions typically between 1 and 100 nm to create materials, devices and systems with \nfundamentally new properties and functions, is prohibited for all uses and materials used in organic products. \nNaturally occurring nano‐sized particles or those produced incidentally are permitted.  \n \nIs this natural flavor product produced and handled without the use of nanotechnology as described in NOP \nPolicy Memo 15‐2? ☐ YES   ☐ NO (not allowed)         \n \nTo be signed by a qualified, technical representative of the manufacturer. Any operation that makes a false \nstatement under The Organic Foods Production Act of 1990 to an accredited certifying agent shall be subject to the \nprovisions of section 1001 of title 18, United States Code (205.100(c)(2)). \n  \n \n \n \n \n \n \n \nPursuant to applicable regulations, I, on behalf of the manufacturer, hereby attest that the information provided in \nthis form is accurate and truthful to the best of my knowledge.  \nName (please print) ____________________________________ Position ______________________________ \nManufacturer name_______________________"
+    },
+    {
+      "chunk_id": "DOC_F0190DCF0884_CHUNK_0007",
+      "chunk_number": 7,
+      "page_or_section_hint": "page_4",
+      "signal_score": 0,
+      "signals": {
+        "keyword_hits": {
+          "product_sku": [],
+          "ingredient": [],
+          "supplier": [],
+          "cost_price": [],
+          "manufacturing": [],
+          "logistics": [],
+          "retail": [],
+          "regulatory": []
+        },
+        "candidate_companies": [],
+        "candidate_price_mentions": [],
+        "candidate_percentages": [],
+        "candidate_years": [],
+        "candidate_units": []
+      },
+      "text": "regulations, I, on behalf of the manufacturer, hereby attest that the information provided in \nthis form is accurate and truthful to the best of my knowledge.  \nName (please print) ____________________________________ Position ______________________________ \nManufacturer name__________________________________________________________________ \nAddress___________________________________________________________________________________ \nCity____________________________________________  State______________________ Zip ___________ \nPhone____________________________________     Email_________________________________________ \n \n \nSignature __________________________________________________     Date _________________________ \nSIGN"
+    }
+  ],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": []
+}

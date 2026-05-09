@@ -1,0 +1,235 @@
+[
+  {
+    "packet": "hershey_company",
+    "file_count": 6,
+    "supported_file_count": 6,
+    "document_type_counts": {
+      "pdf_document": 6
+    },
+    "evidence_role_counts": {
+      "direct_company_evidence": 6
+    },
+    "extension_counts": {
+      ".pdf": 6
+    }
+  },
+  {
+    "packet": "product_sku_1_55oz",
+    "file_count": 5,
+    "supported_file_count": 5,
+    "document_type_counts": {
+      "image_or_logo": 4,
+      "pdf_document": 1
+    },
+    "evidence_role_counts": {
+      "unknown": 1,
+      "direct_company_evidence": 4
+    },
+    "extension_counts": {
+      ".png": 2,
+      ".pdf": 1,
+      ".webp": 2
+    }
+  },
+  {
+    "packet": "cocoa_chocolate_cocoa_butter",
+    "file_count": 16,
+    "supported_file_count": 16,
+    "document_type_counts": {
+      "pdf_document": 15,
+      "image_or_logo": 1
+    },
+    "evidence_role_counts": {
+      "supplier_relationship_context": 5,
+      "direct_company_evidence": 3,
+      "visual_asset": 1,
+      "benchmark_proxy": 6,
+      "process_or_function_context": 1
+    },
+    "extension_counts": {
+      ".pdf": 15,
+      ".svg": 1
+    }
+  },
+  {
+    "packet": "dairy_milk_skim_milk_milk_fat",
+    "file_count": 20,
+    "supported_file_count": 20,
+    "document_type_counts": {
+      "pdf_document": 19,
+      "image_or_logo": 1
+    },
+    "evidence_role_counts": {
+      "direct_company_evidence": 3,
+      "supplier_relationship_context": 6,
+      "unknown": 1,
+      "benchmark_proxy": 5,
+      "process_or_function_context": 4,
+      "visual_asset": 1
+    },
+    "extension_counts": {
+      ".pdf": 19,
+      ".png": 1
+    }
+  },
+  {
+    "packet": "natural_flavor",
+    "file_count": 9,
+    "supported_file_count": 9,
+    "document_type_counts": {
+      "pdf_document": 9
+    },
+    "evidence_role_counts": {
+      "regulatory_definition": 5,
+      "unknown": 1,
+      "process_or_function_context": 2,
+      "benchmark_proxy": 1
+    },
+    "extension_counts": {
+      ".pdf": 9
+    }
+  },
+  {
+    "packet": "packaging_wrapper",
+    "file_count": 8,
+    "supported_file_count": 8,
+    "document_type_counts": {
+      "pdf_document": 8
+    },
+    "evidence_role_counts": {
+      "direct_company_evidence": 3,
+      "supplier_relationship_context": 2,
+      "benchmark_proxy": 3
+    },
+    "extension_counts": {
+      ".pdf": 8
+    }
+  },
+  {
+    "packet": "pgpr",
+    "file_count": 10,
+    "supported_file_count": 10,
+    "document_type_counts": {
+      "pdf_document": 10
+    },
+    "evidence_role_counts": {
+      "regulatory_definition": 3,
+      "process_or_function_context": 4,
+      "benchmark_proxy": 2,
+      "supplier_relationship_context": 1
+    },
+    "extension_counts": {
+      ".pdf": 10
+    }
+  },
+  {
+    "packet": "soy_lecithin",
+    "file_count": 7,
+    "supported_file_count": 7,
+    "document_type_counts": {
+      "pdf_document": 7
+    },
+    "evidence_role_counts": {
+      "regulatory_definition": 1,
+      "process_or_function_context": 3,
+      "benchmark_proxy": 2,
+      "supplier_relationship_context": 1
+    },
+    "extension_counts": {
+      ".pdf": 7
+    }
+  },
+  {
+    "packet": "sugar",
+    "file_count": 17,
+    "supported_file_count": 17,
+    "document_type_counts": {
+      "pdf_document": 14,
+      "image_or_logo": 1,
+      "csv_table": 1,
+      "excel_workbook": 1
+    },
+    "evidence_role_counts": {
+      "supplier_relationship_context": 8,
+      "direct_company_evidence": 3,
+      "visual_asset": 1,
+      "unknown": 1,
+      "benchmark_proxy": 3,
+      "process_or_function_context": 1
+    },
+    "extension_counts": {
+      ".pdf": 14,
+      ".svg": 1,
+      ".csv": 1,
+      ".xlsx": 1
+    }
+  },
+  {
+    "packet": "logistics_distribution",
+    "file_count": 16,
+    "supported_file_count": 16,
+    "document_type_counts": {
+      "pdf_document": 11,
+      "image_or_logo": 1,
+      "excel_workbook": 3,
+      "csv_table": 1
+    },
+    "evidence_role_counts": {
+      "direct_company_evidence": 1,
+      "supplier_relationship_context": 3,
+      "benchmark_proxy": 4,
+      "process_or_function_context": 3,
+      "visual_asset": 1,
+      "unknown": 4
+    },
+    "extension_counts": {
+      ".pdf": 11,
+      ".png": 1,
+      ".xlsx": 2,
+      ".xls": 1,
+      ".csv": 1
+    }
+  },
+  {
+    "packet": "retail_price_evidence",
+    "file_count": 4,
+    "supported_file_count": 4,
+    "document_type_counts": {
+      "pdf_document": 4
+    },
+    "evidence_role_counts": {
+      "retail_price_evidence": 4
+    },
+    "extension_counts": {
+      ".pdf": 4
+    }
+  },
+  {
+    "packet": "brand_logo_assets",
+    "file_count": 1,
+    "supported_file_count": 1,
+    "document_type_counts": {
+      "image_or_logo": 1
+    },
+    "evidence_role_counts": {
+      "visual_asset": 1
+    },
+    "extension_counts": {
+      ".png": 1
+    }
+  },
+  {
+    "packet": "reference_only",
+    "file_count": 1,
+    "supported_file_count": 1,
+    "document_type_counts": {
+      "pdf_document": 1
+    },
+    "evidence_role_counts": {
+      "reference_only": 1
+    },
+    "extension_counts": {
+      ".pdf": 1
+    }
+  }
+]

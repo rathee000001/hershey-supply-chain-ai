@@ -1,0 +1,246 @@
+{
+  "doc_id": "DOC_101588EC345D",
+  "file_name": "fda_pgpr_gras_response_letter.pdf",
+  "source_owner": "FDA",
+  "document_title": "Fda Pgpr Gras Response Letter",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for fda_pgpr_gras_response_letter.pdf. Packet: pgpr. Evidence role: regulatory_definition. Input mode: text_only. Detected entities/stages include: USDA ERS, FDA, EPA, Chocolate, Cocoa, Cocoa Butter, PGPR, processing.",
+  "useful_for_project": true,
+  "usefulness_score": 5.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "FDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: food and drug administration"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Cocoa Butter",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa butter"
+    },
+    {
+      "entity_name": "PGPR",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: pgpr"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: store"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: fda"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n (FDA, we) completed our evaluation of GRN \n001105. We received Unilever’s notice on September 21, 2022, and filed it on January \n23, 2023. Unilever submitted amendments to the notice on April 20, 2023,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n of GRN \n001105. We received Unilever’s notice on September 21, 2022, and filed it on January \n23, 2023. Unilever submitted amendments to the notice on April 20, 2023, April 28, \n2023, and May 8, 2023, c"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": ", 2022, and filed it on January \n23, 2023. Unilever submitted amendments to the notice on April 20, 2023, April 28, \n2023, and May 8, 2023, clarifying intended uses, specifications, and estimates of dieta"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "it on January \n23, 2023. Unilever submitted amendments to the notice on April 20, 2023, April 28, \n2023, and May 8, 2023, clarifying intended uses, specifications, and estimates of dietary \nexposure and"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3, 2023. Unilever submitted amendments to the notice on April 20, 2023, April 28, \n2023, and May 8, 2023, clarifying intended uses, specifications, and estimates of dietary \nexposure and providing additio"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2015",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s for PGPR in the 12th Edition of the Food Chemicals Codex. \n \nUsing food consumption data from the 2015-2018 National Health and Nutrition \nExamination Survey (NHANES), Unilever estimates the eaters-only"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2018",
+      "unit": "",
+      "page_or_location": "",
+      "context": "PGPR in the 12th Edition of the Food Chemicals Codex. \n \nUsing food consumption data from the 2015-2018 National Health and Nutrition \nExamination Survey (NHANES), Unilever estimates the eaters-only diet"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "1999",
+      "unit": "",
+      "page_or_location": "",
+      "context": "79, 000266, 000270, and 000466. We evaluated these \nnotices and responded in letters dated April 2, 1999, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no que"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": ", and 000466. We evaluated these \nnotices and responded in letters dated April 2, 1999, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no questions at those ti"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2009",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e evaluated these \nnotices and responded in letters dated April 2, 1999, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no questions at those times regarding t"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2013",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s and responded in letters dated April 2, 1999, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no questions at those times regarding the notifiers’ GRAS \nconcl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2006",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tive increases \nin liver and kidney weigh\n\n--- DOC_101588EC345D_CHUNK_0004 page_2 ---\n, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no questions at those ti"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2009",
+      "unit": "",
+      "page_or_location": "",
+      "context": "in liver and kidney weigh\n\n--- DOC_101588EC345D_CHUNK_0004 page_2 ---\n, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no questions at those times regarding t"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2013",
+      "unit": "",
+      "page_or_location": "",
+      "context": "h\n\n--- DOC_101588EC345D_CHUNK_0004 page_2 ---\n, January 20, 2006, June 15, 2009, and September 25, \n2013, respectively, stating that we had no questions at those times regarding the notifiers’ GRAS \nconcl"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "a-, penta-, and higher-polyglycerols. Unilever performs an updated literature search \nthrough April 2023 and reports no new safety data that would contradict the current \nGRAS conclusion. \n \nBased on the"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ty concern \nfrom the intended uses.\n\n--- PAGE 4 ---\nDigitally signed by Susan \nJ. Carlson -5 \nDate: 2023.06.14 16:46:49 \n-04'00' \nPage 4 – Ms. Spoden \nIn accordance with 21 CFR 170.275(b)(2), the text of"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2022",
+    "2023",
+    "2015",
+    "2018",
+    "1999",
+    "2006",
+    "2009",
+    "2013"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "KOH/g), iodine value (72-103), refractive index (1.463-1.467), saponification value (170-",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "responsible for ensuring that marketed products are safe and compliant with all",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 40,
+    "selected_chunk_count": 5,
+    "requires_future_ai_or_visual_review": false
+  }
+}

@@ -1,0 +1,1015 @@
+{
+  "doc_id": "DOC_7FED8B7042EA",
+  "file_name": "usda_ams_dairy_market_news_weekly_report_latest.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Ams Dairy Market News Weekly Report Latest",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_ams_dairy_market_news_weekly_report_latest.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: benchmark_proxy. Input mode: text_plus_page_images. Detected entities/stages include: USDA, USDA ERS, USDA AMS, Milk, Skim Milk, Milk Fat, processing, manufacturing.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 5",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 20",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 24",
+      "page_or_location": "page_10",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 25",
+      "page_or_location": "page_10",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: skim milk"
+    },
+    {
+      "entity_name": "Milk Fat",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: butterfat"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: refining"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: plant"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: retail"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "weight",
+      "metric_value": "8 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "DAIRY \nWEIGHTED AVERAGE ADVERTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "8 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "8 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz."
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "8 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "heese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4."
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "16 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4.12\n$4.69 \n$4.79 \nIce Cream - 14-16 oz. \n$6.97 \n$6.54"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "8 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4.12\n$4.69 \n$4.79 \nIce Cream - 14-16 oz. \n$6.97 \n$6.54\n$7.56 \nIce Cream - 48-"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "16 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4.12\n$4.69 \n$4.79 \nIce Cream - 14-16 oz. \n$6.97 \n$6.54\n$7.56 \nIce Cream - 48-64 oz. \n$12.23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.0"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "64 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": ". \n$5.42 \n$4.70 \nn.a.\n$4.12\n$4.69 \n$4.79 \nIce Cream - 14-16 oz. \n$6.97 \n$6.54\n$7.56 \nIce Cream - 48-64 oz. \n$12.23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cr"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "16 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "6 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "32 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "allon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36\n\n--- DOC_7FE"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "32 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36\n\n--- DOC_7FED8B7042EA_CHUNK_0025 pa"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "64 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2\n$1.84\n$8.00\n$5.36\n\n--- DOC_7FED8B7042EA_CHUNK_0025 page_10 ---\n$6.97 \n$6.54\n$7.56 \nIce Cream - 48-64 oz. \n$12.23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cr"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "16 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".23 \n$12.25\nn.a.\nMilk - Half Gal \n$4.52 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "6 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2 \n$4.38\n$5.01\nMilk - Gallon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "32 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "allon \n$7.71 \n$8.25\n$9.99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36\n\n--- PAGE 11"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "32 oz",
+      "unit": "",
+      "page_or_location": "",
+      "context": "99\nSour Cream - 16 oz. \n$4.04 \n$3.88\n$4.26\nYogurt - 4-6 oz. Yogurt \nYogurt - 32 oz. Greek \nYogurt - 32 oz. Yogurt \n$1.86 \n$6.15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36\n\n--- PAGE 11 ---\nDAIRY MARKET NEWS,"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "40 POUND",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(N.C.) \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n1.6150 \n(N.C.) \n(N.C.) \n1.6150 \n(+0.0240) \n 40 POUND BLOCKS \n1.6525 \n(+0.0075) \n1.6525 \n(N.C.) \n1.6300 \n(-0.0225) \n1.6400 \n(+0.0100) \n1.6400 \n(N.C.) \n(-"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "1 lb",
+      "unit": "",
+      "page_or_location": "",
+      "context": "PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "133 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "last month's preliminary production estimate. \nProduction per cow in the 24 major States averaged 2,133 pounds for March, 7 pounds above March 2025. \nThe number of milk cows on farms in the 24 major States was"
+    },
+    {
+      "metric_name": "weight",
+      "metric_value": "7 pounds",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ry production estimate. \nProduction per cow in the 24 major States averaged 2,133 pounds for March, 7 pounds above March 2025. \nThe number of milk cows on farms in the 24 major States was 9.18 million head, 1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "7042EA_CHUNK_0001 ---\n--- PAGE 1 ---\nDAIRY MARKET NEWS \nMMN Slug ID 2998 \nWEEK OF APRIL 27 – MAY 1, 2026 \nVOLUME 93, REPORT 18 \n \nDAIRY MARKET NEWS AT A GLANCE\nCME GROUP CASH MARKETS (5/1) \nBUTTER: Grade"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "05 page_2 ---\nmed in producer households. \n FINAL CLASS PRICES (FMMO): The following are the \nApril 2026 class prices under the Federal milk order pricing system \nand changes from the previous month: Clas"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s IV: $20.22 ($+1.28). Under \nthe Federal milk order pricing system, the butterfat price for April \n2026 is $1.8692 per pound. Thus, the Class II butterfat price is \n$1.8762 per pound. The protein and oth"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the Class II butterfat price is \n$1.8762 per pound. The protein and other solids prices for April \n2026 are $2.5190 and $0.3888 per pound, respectively. These \ncomponent prices set the Class III skim mil"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "spectively. These \ncomponent prices set the Class III skim milk price at $10.65 per \ncwt. The April 2026 Class IV skim milk price is $14.17, which is \nderived from the nonfat solids price of $1.5241 per p"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s \nderived from the nonfat solids price of $1.5241 per pound. The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, and dry whey $0.6443. \nNATIONAL RETA"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "he conventional and organic \naisles is yogurt.\n\n--- PAGE 3 ---\nDAIRY MARKET NEWS, APRIL 27 – MAY 1, 2026 \n-2- \nVOLUME 93, REPORT 18 \nCOMMODITY \nMONDAY \nApr 27 \nTUESDAY \nApr 28 \nWEDNESDAY \nApr 29 \nTHURSDAY"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tually visit: \nhttps://www.ams.usda.gov/event/national-organic-standards-board-\nnosb-meeting-spring-2026 \nThe Pennsylvania Monthly Organic Dairy Report, a report created as\npart of the Organic Dairy Initi"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2018",
+      "unit": "",
+      "page_or_location": "",
+      "context": "hly Organic Dairy Report, a report created as\npart of the Organic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted aver"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "created as\npart of the Organic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted average price for fluid milk decreased"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted average price for fluid milk decreased by 2.47\npercent from Januar"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "www.ams.usda.gov/mnreports/pn_da001.pdf \nVolume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,38"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,389\n$44.27\n30.85\n4.63%\n3.43%\n% Change\n2.90%\n-2.47"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "vember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,389\n$44.27\n30.85\n4.63%\n3.43%\n% Change\n2.90%\n-2.47%\n27.32%\n-1.91%\n0.29%\nThe Vermont Monthly Orga"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2018",
+      "unit": "",
+      "page_or_location": "",
+      "context": "hly Organic Dairy Report, a report created as part\nof the Organic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted aver"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "created as part\nof the Organic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted average price for fluid milk increased"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nic Dairy Initiative sponsored by the 2018 farm bill,\ncovering February 2026 was released on May 1, 2026. This report\nshowed the weighted average price for fluid milk increased 1.33\npercent from January."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "www.ams.usda.gov/mnreports/vt_da001.pdf \nVolume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,21"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,213\n$41.86\n61\n4.26%\n3.29%\n% Change\n6.49%\n1.33%\n9."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "vember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,213\n$41.86\n61\n4.26%\n3.29%\n% Change\n6.49%\n1.33%\n9.83%\n0.47%\n1.54%\nORGANIC DAIRY FLUID OVERVIEW"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Order 1, in the Northeast, reports utilization of \ntypes of organic milk by regulated plants. March 2026, organic whole \nmilk utilization totaled 22.27 million pounds, up from 21.13 million \npounds the pr"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".15 \n$5.20 \nn.a.\nn.a.\n$4.92\n$1.84\n$8.00\n$5.36\n\n--- PAGE 11 ---\nDAIRY MARKET NEWS, APRIL 27 – MAY 1, 2026 \n-9-\nVOLUME 93, REPORT 18 \nMarch Milk Production \nMilk production in the 24 major States during Mar"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "oduction in the 24 major States during March totaled 19.6 billion pounds, up 2.4 percent from March 2025. February revised production, \nat 17.5 billion pounds, was up 3.0 percent from February 2025. The F"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "March 2025. February revised production, \nat 17.5 billion pounds, was up 3.0 percent from February 2025. The February revision represented an decrease of 11 million pounds or 0.1 percent \nfrom last month"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e. \nProduction per cow in the 24 major States averaged 2,133 pounds for March, 7 pounds above March 2025. \nThe number of milk cows on farms in the 24 major States was 9.18 million head, 188,000 head more"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "er of milk cows on farms in the 24 major States was 9.18 million head, 188,000 head more than March 2025, and 8,000 head more \nthan February 2026. \nMarch 2026 Milk Cows and Milk Production, by States \nSta"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "States was 9.18 million head, 188,000 head more than March 2025, and 8,000 head more \nthan February 2026. \nMarch 2026 Milk Cows and Milk Production, by States \nState \nMilk Cows 1 \nMilk per Cow 2 \nMilk Pro"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "18 million head, 188,000 head more than March 2025, and 8,000 head more \nthan February 2026. \nMarch 2026 Milk Cows and Milk Production, by States \nState \nMilk Cows 1 \nMilk per Cow 2 \nMilk Production 2 \n20"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "26 Milk Cows and Milk Production, by States \nState \nMilk Cows 1 \nMilk per Cow 2 \nMilk Production 2 \n2025 \n2026 \n2025 \n2026 \n2025 \n2026 \nChange from 2025 \n(thousands) \n(pounds) \n(million pounds) \n(percent)"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.5950",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1, 2026 \nVOLUME 93, REPORT 18 \n \nDAIRY MARKET NEWS AT A GLANCE\nCME GROUP CASH MARKETS (5/1) \nBUTTER: Grade AA closed at $1.5950. The weekly average for Grade\nAA is $1.6505 (-0.0505). \nCHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400. Th"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6505",
+      "unit": "",
+      "page_or_location": "",
+      "context": "T NEWS AT A GLANCE\nCME GROUP CASH MARKETS (5/1) \nBUTTER: Grade AA closed at $1.5950. The weekly average for Grade\nAA is $1.6505 (-0.0505). \nCHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400. The\nweekly average for barrels is $1.6150 (+0."
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6150",
+      "unit": "",
+      "page_or_location": "",
+      "context": ") \nBUTTER: Grade AA closed at $1.5950. The weekly average for Grade\nAA is $1.6505 (-0.0505). \nCHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400. The\nweekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DR"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6400",
+      "unit": "",
+      "page_or_location": "",
+      "context": "at $1.5950. The weekly average for Grade\nAA is $1.6505 (-0.0505). \nCHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400. The\nweekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DRY MILK: Grade A closed at"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6150",
+      "unit": "",
+      "page_or_location": "",
+      "context": "A is $1.6505 (-0.0505). \nCHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400. The\nweekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DRY MILK: Grade A closed at $2.2625. The weekly\naverage for Grade A is"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6430",
+      "unit": "",
+      "page_or_location": "",
+      "context": "SE: Barrels closed at $1.6150 and 40# blocks at $1.6400. The\nweekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DRY MILK: Grade A closed at $2.2625. The weekly\naverage for Grade A is $2.2590 (+0.0220). \nDRY WHEY:"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.2625",
+      "unit": "",
+      "page_or_location": "",
+      "context": ". The\nweekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DRY MILK: Grade A closed at $2.2625. The weekly\naverage for Grade A is $2.2590 (+0.0220). \nDRY WHEY: Extra grade dry whey closed at $0.6975. The weekly\nave"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.2590",
+      "unit": "",
+      "page_or_location": "",
+      "context": "(+0.0240) and blocks $1.6430\n(+0.0240). \nNONFAT DRY MILK: Grade A closed at $2.2625. The weekly\naverage for Grade A is $2.2590 (+0.0220). \nDRY WHEY: Extra grade dry whey closed at $0.6975. The weekly\naverage for dry whey is $0.7025 (+0.0030). \n B"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.6975",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ade A closed at $2.2625. The weekly\naverage for Grade A is $2.2590 (+0.0220). \nDRY WHEY: Extra grade dry whey closed at $0.6975. The weekly\naverage for dry whey is $0.7025 (+0.0030). \n BUTTER HIGHLIGHTS: Stakeholders in the West and Central\nregion"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.7025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "for Grade A is $2.2590 (+0.0220). \nDRY WHEY: Extra grade dry whey closed at $0.6975. The weekly\naverage for dry whey is $0.7025 (+0.0030). \n BUTTER HIGHLIGHTS: Stakeholders in the West and Central\nregions report steady domestic butter demand. Stak"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ce stocks. Central region milk output is steady and above\nyear-ago levels. Class III spot milk trades are light, priced $5-under to\nflat. Cheesemakers’ schedules are busy. Barrel demand is strong and\nblock demand is steady to strong. Retail b"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ction schedules are\nfull, and whey demand will maintain this trend moving forward. Class\nIII milk spot sales range from $5-under to flat Class this week. Class\nIV demand is steady to strong. There are very few spot sales of cream\nfor butter m"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$18.82",
+      "unit": "",
+      "page_or_location": "",
+      "context": "he \nApril 2026 class prices under the Federal milk order pricing system \nand changes from the previous month: Class II: $18.82 ($+1.48), \nClass III: $16.82 ($+0.66), and Class IV: $20.22 ($+1.28). Under \nthe Federal milk order pricing system, the"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$16.82",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nder the Federal milk order pricing system \nand changes from the previous month: Class II: $18.82 ($+1.48), \nClass III: $16.82 ($+0.66), and Class IV: $20.22 ($+1.28). Under \nthe Federal milk order pricing system, the butterfat price for April \n2"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$20.22",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cing system \nand changes from the previous month: Class II: $18.82 ($+1.48), \nClass III: $16.82 ($+0.66), and Class IV: $20.22 ($+1.28). Under \nthe Federal milk order pricing system, the butterfat price for April \n2026 is $1.8692 per pound. Thus,"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.8692",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6), and Class IV: $20.22 ($+1.28). Under \nthe Federal milk order pricing system, the butterfat price for April \n2026 is $1.8692 per pound. Thus, the Class II butterfat price is \n$1.8762 per pound. The protein and other solids prices for April \n202"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.8762",
+      "unit": "",
+      "page_or_location": "",
+      "context": "order pricing system, the butterfat price for April \n2026 is $1.8692 per pound. Thus, the Class II butterfat price is \n$1.8762 per pound. The protein and other solids prices for April \n2026 are $2.5190 and $0.3888 per pound, respectively. These"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.5190",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ound. Thus, the Class II butterfat price is \n$1.8762 per pound. The protein and other solids prices for April \n2026 are $2.5190 and $0.3888 per pound, respectively. These \ncomponent prices set the Class III skim milk price at $10.65 per \ncwt. The"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.3888",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the Class II butterfat price is \n$1.8762 per pound. The protein and other solids prices for April \n2026 are $2.5190 and $0.3888 per pound, respectively. These \ncomponent prices set the Class III skim milk price at $10.65 per \ncwt. The April 2026 C"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10.65",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ril \n2026 are $2.5190 and $0.3888 per pound, respectively. These \ncomponent prices set the Class III skim milk price at $10.65 per \ncwt. The April 2026 Class IV skim milk price is $14.17, which is \nderived from the nonfat solids price of $1.5241"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$14.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "hese \ncomponent prices set the Class III skim milk price at $10.65 per \ncwt. The April 2026 Class IV skim milk price is $14.17, which is \nderived from the nonfat solids price of $1.5241 per pound. The \nproduct price averages for April 2026 are: b"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.5241",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t $10.65 per \ncwt. The April 2026 Class IV skim milk price is $14.17, which is \nderived from the nonfat solids price of $1.5241 per pound. The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, an"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.7707",
+      "unit": "",
+      "page_or_location": "",
+      "context": "h is \nderived from the nonfat solids price of $1.5241 per pound. The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, and dry whey $0.6443. \nNATIONAL RETAIL REPORT: In week 18 conventional dairy"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.7788",
+      "unit": "",
+      "page_or_location": "",
+      "context": "fat solids price of $1.5241 per pound. The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, and dry whey $0.6443. \nNATIONAL RETAIL REPORT: In week 18 conventional dairy \nadvertisements grew 67 p"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.6427",
+      "unit": "",
+      "page_or_location": "",
+      "context": "of $1.5241 per pound. The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, and dry whey $0.6443. \nNATIONAL RETAIL REPORT: In week 18 conventional dairy \nadvertisements grew 67 percent, and orga"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$0.6443",
+      "unit": "",
+      "page_or_location": "",
+      "context": "The \nproduct price averages for April 2026 are: butter $1.7707, nonfat \ndry milk $1.7788, cheese $1.6427, and dry whey $0.6443. \nNATIONAL RETAIL REPORT: In week 18 conventional dairy \nadvertisements grew 67 percent, and organic ads are up 38 perc"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$43.89",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ttps://www.ams.usda.gov/mnreports/pn_da001.pdf \nVolume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,389\n$44.27\n30.85\n4.63%\n3.43%\n% Change"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$45.39",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Volume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,389\n$44.27\n30.85\n4.63%\n3.43%\n% Change\n2.90%\n-2.47%\n27.32%\n-1.91%\n0.29%\nThe Vermont M"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$44.27",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tein\nNovember 2025\n679,477\n$43.89\n25.82\n4.70%\n3.51%\nDecember 2025\n637,911\n$45.39\n24.23\n4.72%\n3.42%\nJanuary 2026\n656,389\n$44.27\n30.85\n4.63%\n3.43%\n% Change\n2.90%\n-2.47%\n27.32%\n-1.91%\n0.29%\nThe Vermont Monthly Organic Dairy Report, a report created"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$39.70",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ttps://www.ams.usda.gov/mnreports/vt_da001.pdf \nVolume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,213\n$41.86\n61\n4.26%\n3.29%\n% Change\n6."
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$41.31",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Volume (lbs)\nAvg\nDaily Prod/Cow\nButterfat\nProtein\nNovember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,213\n$41.86\n61\n4.26%\n3.29%\n% Change\n6.49%\n1.33%\n9.83%\n0.47%\n1.54%\nORGANIC DAIRY FLUID"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$41.86",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tein\nNovember 2025\n862,303\n$39.70\n49.94\n4.31%\n3.23%\nDecember 2025\n938,306\n$41.31\n55.54\n4.24%\n3.24%\nJanuary 2026\n999,213\n$41.86\n61\n4.26%\n3.29%\n% Change\n6.49%\n1.33%\n9.83%\n0.47%\n1.54%\nORGANIC DAIRY FLUID OVERVIEW \nFederal Milk Market Order 1, in the"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$6.97",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e cream product is 14-16-ounce containers. Organic 14-16-\nounce ice cream ads grew 34 percent, and the average price is $6.97,\nup 43 cents. Conventional ice cream sold in 14-16-ounce containers \nhas an average price of $3.91. The organic premium"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$3.91",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the average price is $6.97,\nup 43 cents. Conventional ice cream sold in 14-16-ounce containers \nhas an average price of $3.91. The organic premium for this product is\n$3.06 this week. \nThe fourth most advertised organic commodity, sour cream, ap"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$3.06",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tional ice cream sold in 14-16-ounce containers \nhas an average price of $3.91. The organic premium for this product is\n$3.06 this week. \nThe fourth most advertised organic commodity, sour cream, appeared\nin 97 percent more ads this week. The on"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$4.54",
+      "unit": "",
+      "page_or_location": "",
+      "context": "week 17 and week 18 was 16-ounce containers. The \naverage price for 16-ounce organic sour cream increased 16 cents, to \n$4.54. In the conventional aisle, the average price for 16-ounce sour \ncream is $2.23. The organic premium for 16-ounce sour"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.23",
+      "unit": "",
+      "page_or_location": "",
+      "context": "anic sour cream increased 16 cents, to \n$4.54. In the conventional aisle, the average price for 16-ounce sour \ncream is $2.23. The organic premium for 16-ounce sour cream is \n$1.81. \nNATIONAL RETAIL ORGANIC DAIRY \nWEIGHTED AVERAGE ADVERTISED PRI"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.81",
+      "unit": "",
+      "page_or_location": "",
+      "context": "onventional aisle, the average price for 16-ounce sour \ncream is $2.23. The organic premium for 16-ounce sour cream is \n$1.81. \nNATIONAL RETAIL ORGANIC DAIRY \nWEIGHTED AVERAGE ADVERTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nBut"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$6.16",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ETAIL ORGANIC DAIRY \nWEIGHTED AVERAGE ADVERTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$4.99",
+      "unit": "",
+      "page_or_location": "",
+      "context": "RGANIC DAIRY \nWEIGHTED AVERAGE ADVERTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$7.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "GE ADVERTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$7.96",
+      "unit": "",
+      "page_or_location": "",
+      "context": "RTISED PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sli"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10.49",
+      "unit": "",
+      "page_or_location": "",
+      "context": "PRICES \nCOMMODITY \nThis \nWeek \nLast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4."
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5.27",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ast \nWeek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Chees"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5.49",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ek \nLast \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$3.97",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t \nYear \nButter - 8 oz. \n$6.16 \n$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCr"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$5.53",
+      "unit": "",
+      "page_or_location": "",
+      "context": "$4.99 \nn.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.7"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$4.00",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n.a.\nButter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a."
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$4.99",
+      "unit": "",
+      "page_or_location": "",
+      "context": "utter - 1 lb. \n$7.17 \n$7.96 \n$10.49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4.12"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$4.80",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".49 \nCheese - 6-8 oz. Block \n$5.27 \n$5.49 \n$3.97 \nCheese - 6-8 oz. Shred \n$5.53 \n$4.00 \n$4.99 \nCheese - 6-8 oz. Sliced \n$4.80 \n$5.40 \n$5.98 \nCottage Cheese - 16 oz. \nCream Cheese - 8 oz. \n$5.42 \n$4.70 \nn.a.\n$4.12\n$4.69 \n$4.79 \nIce Cream - 14-16"
+    }
+  ],
+  "extracted_dates": [
+    "2026",
+    "2018",
+    "2025"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "DAIRY MARKET NEWS AT A GLANCE",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "CME GROUP CASH MARKETS (5/1)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "BUTTER: Grade AA closed at $1.5950.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "AA is $1.6505 (-0.0505).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "CHEESE: Barrels closed at $1.6150 and 40# blocks at $1.6400.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "weekly average for barrels is $1.6150 (+0.0240) and blocks $1.6430",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "NONFAT DRY MILK: Grade A closed at $2.2625.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "average for Grade A is $2.2590 (+0.0220).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "DRY WHEY: Extra grade dry whey closed at $0.6975.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "average for dry whey is $0.7025 (+0.0030).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "prices continue to bring international buyer interest.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "overages range from 2 cents below to 5 cents above market across all",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Class III spot milk trades are light, priced $5-under to",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "III milk spot sales range from $5-under to flat Class this week.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Class II nonfat solids are driving prices higher, but demand",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "DRY PRODUCTS HIGHLIGHTS: Nonfat dry milk prices rose",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dry buttermilk prices",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Dry whey markets were mostly steady, though slight upward",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "movement was noted at the bottom of the Central price range and the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "top of the East price range.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Lactose prices strengthened at both ends of",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "the price range, including a significant increase at the bottom, while",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "prices strengthened throughout the price series, highlighted by a",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "notable increase at the top of the price ran",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "FINAL CLASS PRICES (FMMO): The following are the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "April 2026 class prices under the Federal milk order pricing system",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "and changes from the previous month: Class II: $18.82 ($+1.48),",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Class III: $16.82 ($+0.66), and Class IV: $20.22 ($+1.28).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "the Federal milk order pricing system, the butterfat price for April",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "2026 is $1.8692 per pound.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Thus, the Class II butterfat price is",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The protein and other solids prices for April",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "2026 are $2.5190 and $0.3888 per pound, respectively.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "component prices set the Class III skim milk price at $10.65 per",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "The April 2026 Class IV skim milk price is $14.17, which is",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "derived from the nonfat solids price of $1.5241 per pound.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "product price averages for April 2026 are: butter $1.7707, nonfat",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "dry milk $1.7788, cheese $1.6427, and dry whey $0.6443.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "DAIRY MARKET NEWS, APRIL 27 – MAY 1, 2026",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Prices are USD per lb.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 71,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": true
+  }
+}

@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --hershey-dark: #2b0909;
+  --hershey-brown: #4b1d16;
+  --cream: #fff7ed;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #fff7ed;
+  color: #24100c;
+}
+
+* {
+  box-sizing: border-box;
+}

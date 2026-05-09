@@ -1,0 +1,800 @@
+{
+  "doc_id": "DOC_033AA20F1EE1",
+  "file_name": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Fas Ghana Cocoa Sector Overview 2025",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_fas_ghana_cocoa_sector_overview_2025.pdf. Packet: cocoa_chocolate_cocoa_butter. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: Target, USDA, USDA ERS, ICCO, EPA, Chocolate, Cocoa, Cocoa Butter.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 11",
+      "page_or_location": "page_7",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 12",
+      "page_or_location": "page_8",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 13",
+      "page_or_location": "page_8",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 14",
+      "page_or_location": "page_9",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "Target",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: target"
+    },
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "ICCO",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: international cocoa organization"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Cocoa Butter",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa butter"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: supplier"
+    },
+    {
+      "entity_name": "processing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: processing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "L U.S. GOVERNMENT POLICY \n \nVoluntary Report – Voluntary - Public Distribution \n \n \nDate: March 31, 2025 \n \n \n \n \n \n \n \n \nReport Number: GH2025-0008 \n \nReport Name: Ghana - Cocoa Sector Overview - 2025 \nC"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "1, 2025 \n \n \n \n \n \n \n \n \nReport Number: GH2025-0008 \n \nReport Name: Ghana - Cocoa Sector Overview - 2025 \nCountry: Ghana \nPost: Accra \nReport Category: Agricultural Situation, Agriculture in the Economy,"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Agricultural Counselor \n \nReport Highlights: \nGhana's cocoa bean production in marketing year (MY) 2024/2025 (October-September) is expected to \nclimb to 700,000 metric tons (MT), up 32 percent from the"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cultural Counselor \n \nReport Highlights: \nGhana's cocoa bean production in marketing year (MY) 2024/2025 (October-September) is expected to \nclimb to 700,000 metric tons (MT), up 32 percent from the MY 20"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "25 (October-September) is expected to \nclimb to 700,000 metric tons (MT), up 32 percent from the MY 2023/2024 season's 531,000 MT \nproduction figure. The jump in production is attributable to improved yie"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ctober-September) is expected to \nclimb to 700,000 metric tons (MT), up 32 percent from the MY 2023/2024 season's 531,000 MT \nproduction figure. The jump in production is attributable to improved yields r"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "improved yields recorded during the early \npart of the current year’s main crop harvest. In the MY 2024/2025 season, reportedly more effective \npruning exercises are underway. Also, the Ghanaian governme"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "oved yields recorded during the early \npart of the current year’s main crop harvest. In the MY 2024/2025 season, reportedly more effective \npruning exercises are underway. Also, the Ghanaian government is"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "EXECUTIVE SUMMARY \n \nFAS Accra (Post) foresees Ghanaian cocoa bean production in market year (MY) 2024/2025 (October-\nSeptember) at 700,000 metric tons (MT), representing a 32 percent increase from the"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CUTIVE SUMMARY \n \nFAS Accra (Post) foresees Ghanaian cocoa bean production in market year (MY) 2024/2025 (October-\nSeptember) at 700,000 metric tons (MT), representing a 32 percent increase from the prece"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "agricultural commodity and source of export earnings, but production will remain depressed in MY \n2024/2025 compared to the MY 2021/2022 high of 1.04 million metric tons (MMT). The Ghana Cocoa \nBoard (C"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "icultural commodity and source of export earnings, but production will remain depressed in MY \n2024/2025 compared to the MY 2021/2022 high of 1.04 million metric tons (MMT). The Ghana Cocoa \nBoard (COCOBO"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "source of export earnings, but production will remain depressed in MY \n2024/2025 compared to the MY 2021/2022 high of 1.04 million metric tons (MMT). The Ghana Cocoa \nBoard (COCOBOD) had previously announ"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e of export earnings, but production will remain depressed in MY \n2024/2025 compared to the MY 2021/2022 high of 1.04 million metric tons (MMT). The Ghana Cocoa \nBoard (COCOBOD) had previously announced c"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nually, making it a major contributor to government coffers and gross domestic product (GDP). \n \nMY 2024/2025 figures indicate a recovery in cocoa bean exports. Cocoa bean exports are\n\n--- DOC_033AA20F1EE"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "y, making it a major contributor to government coffers and gross domestic product (GDP). \n \nMY 2024/2025 figures indicate a recovery in cocoa bean exports. Cocoa bean exports are\n\n--- DOC_033AA20F1EE1_CHU"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "h a population of over 34.5 million, is growing at 2.15 percent (Central Intelligence Agency (CIA), 2024 \nestimate). It has a young age structure, with approximately 56 percent of the population under the"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "as a young age structure, with approximately 56 percent of the population under the age of 25 (CIA, 2020). \n8 Ghana’s 2023 GDP (most recent) is reported as $76.37 billion, up from 2022’s $74.26 billion, b"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ucture, with approximately 56 percent of the population under the age of 25 (CIA, 2020). \n8 Ghana’s 2023 GDP (most recent) is reported as $76.37 billion, up from 2022’s $74.26 billion, but not quite havin"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "the age of 25 (CIA, 2020). \n8 Ghana’s 2023 GDP (most recent) is reported as $76.37 billion, up from 2022’s $74.26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s reported as $76.37 billion, up from 2022’s $74.26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2019",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2’s $74.26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries - 5 years\nMetric Tons\n266,839\n431,795\n303"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries - 5 years\nMetric Tons\n266,839\n431,795\n303,130\n214"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "on, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries - 5 years\nMetric Tons\n266,839\n431,795\n303,130\n214,551\n178"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries - 5 years\nMetric Tons\n266,839\n431,795\n303,130\n214,551\n178,665\n -"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries - 5 years\nMetric Tons\n266,839\n431,795\n303,130\n214,551\n178,665\n -\n 50,000"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "450,000\n 500,000\nMetric Tons\nMarket Year\n\n--- PAGE 8 ---\nPage 8 of 16 \n \nTrade \n \nExports: Early MY 2024/2025 figures foretell a recovery in Ghanaian cocoa bean (harmonized system - \nHS 1801) exports. Rep"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "00\n 500,000\nMetric Tons\nMarket Year\n\n--- PAGE 8 ---\nPage 8 of 16 \n \nTrade \n \nExports: Early MY 2024/2025 figures foretell a recovery in Ghanaian cocoa bean (harmonized system - \nHS 1801) exports. Reported"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "beans from these nations and is a major exporter of cocoa paste, butter, \nand powder in turn. In MY 2023/2024, Ghana’s top five cocoa bean export destinations include: 1) the \nNetherlands (75,423 MT, down"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "from these nations and is a major exporter of cocoa paste, butter, \nand powder in turn. In MY 2023/2024, Ghana’s top five cocoa bean export destinations include: 1) the \nNetherlands (75,423 MT, down 15 p"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "T, down 48 percent); and 10) Canada (10,425 MT, down 14 percent). \n \nSo, What’s Going On: In the MY 2023/2024 season, production shortfalls in both Côte d’Ivoire \n(world’s largest producer) and Ghana (sec"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "wn 48 percent); and 10) Canada (10,425 MT, down 14 percent). \n \nSo, What’s Going On: In the MY 2023/2024 season, production shortfalls in both Côte d’Ivoire \n(world’s largest producer) and Ghana (second l"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "caused cocoa prices to skyrocket. \nCocoa futures prices hit a record high of $12,000/MT during the 2024 holiday season. Together these \ntwo key West African producers contribute to over 60 percent of the"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "nished chocolate products represent around less than 1.5 percent of exports. In calendar year (CY) \n2024 (January-December), Ghana exports of cocoa beans and cocoa products HS 1801, 1802, 1803, \n1804, 180"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "food preparations containing cocoa HS 1806 surpassed some \n512,000 MT, down about 7 percent from CY 2023. The Netherlands accounts for over 139,000 MT (up \n3 percent) of the trade; followed by the United"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cent) of \nGhana’s cocoa and cocoa products exports. \n \nExports, Cocoa Pricing: Through mid-February 2025, dry weather conditions in the West African \nproducers Côte d’Ivoire and Ghana influenced cocoa fut"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "could result in \na slow start, raising concerns of potential cocoa bean shortages this coming April 2025. With improving \ncrop growing conditions taking root, thanks to above-average rains mixed with long"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ook is starting to \nstrengthen. The International Cocoa Organization is currently projecting for MY 2024/2025 a supply \nsurplus of 142,000 MT, following three consecutive years of deficits. \n \nGhana’s Coc"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s starting to \nstrengthen. The International Cocoa Organization is currently projecting for MY 2024/2025 a supply \nsurplus of 142,000 MT, following three consecutive years of deficits. \n \nGhana’s Cocoa Be"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "is one of the top three exporters of chocolate and candy products worldwide. In calendar \nyear (CY) 2024 (January-December), U.S. exports of chocolate and cocoa products to the world were \n$2.36 billion."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2015",
+      "unit": "",
+      "page_or_location": "",
+      "context": "y-December), U.S. exports of chocolate and cocoa products to the world were \n$2.36 billion. Between 2015 and 2024, U.S. exports had a compound average growth rate of 3.1 percent, \nwith a three-year averag"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r), U.S. exports of chocolate and cocoa products to the world were \n$2.36 billion. Between 2015 and 2024, U.S. exports had a compound average growth rate of 3.1 percent, \nwith a three-year average of $2.0"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "wth rate of 3.1 percent, \nwith a three-year average of $2.04 billion. By volume, U.S. exports in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 per"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ree-year average of $2.04 billion. By volume, U.S. exports in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, th"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "up 31 percent and a record high); and Vie\n\n--- DOC_033AA20F1EE1_CHUNK_0014 page_9 ---\nxports in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 per"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "and Vie\n\n--- DOC_033AA20F1EE1_CHUNK_0014 page_9 ---\nxports in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, th"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362."
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "10 ---\nPage 10 of 16 \n \nTable 2: United States, Top 10 Chocolate and Cocoa Export Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "l likely induce imports of standard quality beans for domestic \ngrinding. Post’s sources project MY 2024/2025 cocoa bean imports to hover at around the 15,000 MT \nmark, representing a 25 percent increase"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2",
+      "unit": "",
+      "page_or_location": "",
+      "context": "a industry employs some 800,000 farm families \nin 10 out of the country’s 16 administrative regions. The crop generates $2 billion in foreign exchange \nannually, making it a major contributor to government coffers and gross domestic product ("
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$76.37",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ximately 56 percent of the population under the age of 25 (CIA, 2020). \n8 Ghana’s 2023 GDP (most recent) is reported as $76.37 billion, up from 2022’s $74.26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion."
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$74.26",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lation under the age of 25 (CIA, 2020). \n8 Ghana’s 2023 GDP (most recent) is reported as $76.37 billion, up from 2022’s $74.26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/2"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$79.52",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ported as $76.37 billion, up from 2022’s $74.26 billion, but not quite having caught \nup yet to 2021 record high GDP of $79.52 billion. \n2019/20\n2020/21\n2021/22\n2022/23\n2023/24\nLocal Cocoa Deliveries - 5 years\nMetric Tons\n266,839\n431,795\n303,130"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$12,000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ucer) and Ghana (second largest producer), caused cocoa prices to skyrocket. \nCocoa futures prices hit a record high of $12,000/MT during the 2024 holiday season. Together these \ntwo key West African producers contribute to over 60 percent of the"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10,000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ions in the West African \nproducers Côte d’Ivoire and Ghana influenced cocoa futures markets; then keeping these above \n$10,000/MT. More recently, with improving weather conditions in West Africa’s key production \nregions, there is growing specula"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$10,000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ions in the West African \nproducers Côte d’Ivoire and Ghana influenced cocoa futures markets; then keeping these above \n$10,000/MT. More recently, with improving weather conditions in West Africa’s key production \nregions, there is growing specula"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$8,000",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ey production \nregions, there is growing speculation of surpluses helping to drive down cocoa futures now to about the \n$8,000/MT mark. Cocoa farmers throughout the production region are hopeful that improved growing \nconditions will reinvigorate"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.36",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ldwide. In calendar \nyear (CY) 2024 (January-December), U.S. exports of chocolate and cocoa products to the world were \n$2.36 billion. Between 2015 and 2024, U.S. exports had a compound average growth rate of 3.1 percent, \nwith a three-year aver"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.04",
+      "unit": "",
+      "page_or_location": "",
+      "context": "n. Between 2015 and 2024, U.S. exports had a compound average growth rate of 3.1 percent, \nwith a three-year average of $2.04 billion. By volume, U.S. exports in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products incr"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.36",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "roducts increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vie\n\n--- DOC_033AA20F1EE1_CHU"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$362.6",
+      "unit": "",
+      "page_or_location": "",
+      "context": "o $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vie\n\n--- DOC_033AA20F1EE1_CHUNK_0014 page_9 ---\nxports in CY 2024, reach"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.36",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s in CY 2024, reached 421,848 MT. \n \nIn CY 2024, U.S. exports of chocolate products increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "roducts increased by nearly 24.5 percent to $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$362.6",
+      "unit": "",
+      "page_or_location": "",
+      "context": "o $2.36 billion. In \n2024, the top three U.S. export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \nChart 3: U"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$60.9",
+      "unit": "",
+      "page_or_location": "",
+      "context": "clude: Canada ($1.17 billion, up 32.9 percent); Mexico \n($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a \nrecord high). \n \nChart 3: United States, Top 10 Chocolate and Cocoa Products Export Marke"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.17",
+      "unit": "",
+      "page_or_location": "",
+      "context": "le 2: United States, Top 10 Chocolate and Cocoa Export Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$362.64",
+      "unit": "",
+      "page_or_location": "",
+      "context": "0 Chocolate and Cocoa Export Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$60.97",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Markets by Value (2024) \n \nMarket \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustrali"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$51.89",
+      "unit": "",
+      "page_or_location": "",
+      "context": "t \nTotal Value (USD) \n1 \nCanada \n$1.17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$51.44",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".17 Billion \n2 \nMexico \n$362.64 Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$49.56",
+      "unit": "",
+      "page_or_location": "",
+      "context": "Million \n3 \nVietnam \n$60.97 Million \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Mil"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$46.89",
+      "unit": "",
+      "page_or_location": "",
+      "context": "llion \n4 \nSouth Korea \n$51.89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Ac"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$38.55",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".89 Million \n5 \nEuropean Union \n$51.44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office resear"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$36.15",
+      "unit": "",
+      "page_or_location": "",
+      "context": ".44 Million \n6 \nPhilippines \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office research. \n \nImports: Limited domestic de"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$28.5",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s \n$49.56 Million \n7 \nAustralia \n$46.89 Million \n8 \nChina \n$38.55 Million \n9 \nUnited Kingdom \n$36.15 Million \n10 \nPeru \n$28.5 Million \nSource: USDA/FAS, FAS Accra, Abidjan office research. \n \nImports: Limited domestic deliveries will likely indu"
+    }
+  ],
+  "extracted_dates": [
+    "2025",
+    "2024",
+    "2023",
+    "2021",
+    "2022",
+    "2020",
+    "2019",
+    "2015",
+    "1947"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Expand International Marketing Opportunities, SP2 - Prevent or Resolve Barriers to Trade that Hinder",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Ghana's cocoa bean production in marketing year (MY) 2024/2025 (October-September) is expected to",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "FAS Accra (Post) foresees Ghanaian cocoa bean production in market year (MY) 2024/2025 (October-",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The crop generates $2 billion in foreign exchange",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "8 Ghana’s 2023 GDP (most recent) is reported as $76.37 billion, up from 2022’s $74.26 billion, but not quite having caught",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "up yet to 2021 record high GDP of $79.52 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "(world’s largest producer) and Ghana (second largest producer), caused cocoa prices to skyrocket.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Cocoa futures prices hit a record high of $12,000/MT during the 2024 holiday season.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "producers Côte d’Ivoire and Ghana influenced cocoa futures markets; then keeping these above",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "producers Côte d’Ivoire and Ghana influenced cocoa futures markets; then keeping these above",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "regions, there is growing speculation of surpluses helping to drive down cocoa futures now to about the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "with a three-year average of $2.04 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "exports of chocolate products increased by nearly 24.5 percent to $2.36 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "($362.6 million, up 31 percent and a record high); and Vie",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "exports of chocolate products increased by nearly 24.5 percent to $2.36 billion.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "export markets include: Canada ($1.17 billion, up 32.9 percent); Mexico",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "($362.6 million, up 31 percent and a record high); and Vietnam ($60.9 million, up 18 percent and a",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Chart 3: United States, Top 10 Chocolate and Cocoa Products Export Markets by Year",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Table 2: United States, Top 10 Chocolate and Cocoa Export Markets by Value (2024)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Ghana’s Cocoa Board, a Legacy of State Market Control and Structure: In 1947, the British",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "Marketing Board/Ghana Marketing Board (1947-79), the forerunner to the Ghana Cocoa Board also",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "mission is to encourage and facilitate the production, processing and marketing of quality cocoa in an",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "efficient and cost-effective manner.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "extension, internal and external marketing, and quality control.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 66,
+    "selected_chunk_count": 6,
+    "requires_future_ai_or_visual_review": false
+  }
+}

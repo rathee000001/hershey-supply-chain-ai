@@ -1,0 +1,415 @@
+{
+  "doc_id": "DOC_A5418FB79897",
+  "file_name": "usda_ams_national_dairy_products_sales_report_latest.pdf",
+  "source_owner": "USDA",
+  "document_title": "Usda Ams National Dairy Products Sales Report Latest",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for usda_ams_national_dairy_products_sales_report_latest.pdf. Packet: dairy_milk_skim_milk_milk_fat. Evidence role: benchmark_proxy. Input mode: text_only. Detected entities/stages include: USDA, USDA ERS, USDA AMS, EPA, Milk, Skim Milk, Milk Fat, warehousing.",
+  "useful_for_project": true,
+  "usefulness_score": 8.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "USDA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: usda"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: agricultural marketing service"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: nonfat dry milk"
+    },
+    {
+      "entity_name": "Milk Fat",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: butterfat"
+    },
+    {
+      "entity_name": "warehousing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: storage"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    },
+    {
+      "entity_name": "regulatory",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: cfr"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "griculture\nAgricultural Marketing Service\nDairy Program\nMarket Information Branch\nNDPSR-0733\nMay 6, 2026\nEmail us with accessibility issues regarding \nthis report.\nNational Dairy Products Sales Report Hig"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "tment of Agriculture (USDA) \nGrade AA standards averaged $1.72 per pound for the week ending May 2, 2026. The United States (US) price per \npound decreased 3.0 cents from the previous week.\nCheddar Cheese"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ddar Cheese prices received for 40-pound blocks averaged $1.65 per pound for the week ending May 2, 2026. The \nUS price per pound decreased 0.1 cent from the previous week. \nDry Whey prices received for b"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "sales meeting USDA Extra Grade standards averaged 63.5 cents \nper pound for the week ending May 2, 2026. The US price per pound increased 0.1 cent from the previous week.\nNonfat Dry Milk prices received"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ublic \nHealth Service (USPHS) Grade A standards averaged $2.02 per pound for the week ending May 2, 2026. The US price \nper pound increased 15.1 cents from the previous week.\nNational Dairy Products Sales"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "eased 15.1 cents from the previous week.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per poun"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cents from the previous week.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "A5418FB79897_CHUNK_0002 page_1 ---\nweek.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per poun"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "7_CHUNK_0002 page_1 ---\nweek.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(dollars per pound)\nWeighted"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "d\n\n--- PAGE 2 ---\nNational Dairy Products Sales Report\nUSDA - Agricultural Marketing Service\nMay 6, 2026\n40-Pound Block Cheddar Cheese Prices and Sales\nUnited States\n4-Apr\n11-Apr\n18-Apr\n25-Apr\n2-May\n(doll"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2\n\n--- PAGE 3 ---\nNational Dairy Products Sales Report\nUSDA - Agricultural Marketing Service\nMay 6, 2026\nSurvey Methodology: National Dairy Products Sales Report \nData collection: The National Dairy Produ"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2026",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3\n\n--- PAGE 4 ---\nNational Dairy Products Sales Report\nUSDA - Agricultural Marketing Service\nMay 6, 2026\nInformation Contacts\nListed below are the specialists in the Agricultural Marketing Service, Dairy"
+    }
+  ],
+  "extracted_prices": [
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.72",
+      "unit": "",
+      "page_or_location": "",
+      "context": "for 25-kilogram and 68-pound boxes meeting United States Department of Agriculture (USDA) \nGrade AA standards averaged $1.72 per pound for the week ending May 2, 2026. The United States (US) price per \npound decreased 3.0 cents from the previou"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$1.65",
+      "unit": "",
+      "page_or_location": "",
+      "context": "rice per \npound decreased 3.0 cents from the previous week.\nCheddar Cheese prices received for 40-pound blocks averaged $1.65 per pound for the week ending May 2, 2026. The \nUS price per pound decreased 0.1 cent from the previous week. \nDry Whey"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "$2.02",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e, and tanker sales meeting USDA Extra Grade or United States Public \nHealth Service (USPHS) Grade A standards averaged $2.02 per pound for the week ending May 2, 2026. The US price \nper pound increased 15.1 cents from the previous week.\nNationa"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "3.0 cents",
+      "unit": "",
+      "page_or_location": "",
+      "context": "A standards averaged $1.72 per pound for the week ending May 2, 2026. The United States (US) price per \npound decreased 3.0 cents from the previous week.\nCheddar Cheese prices received for 40-pound blocks averaged $1.65 per pound for the week ending"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "63.5 cents",
+      "unit": "",
+      "page_or_location": "",
+      "context": "he previous week. \nDry Whey prices received for bag, tote, and tanker sales meeting USDA Extra Grade standards averaged 63.5 cents \nper pound for the week ending May 2, 2026. The US price per pound increased 0.1 cent from the previous week.\nNonfat Dr"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "15.1 cents",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e (USPHS) Grade A standards averaged $2.02 per pound for the week ending May 2, 2026. The US price \nper pound increased 15.1 cents from the previous week.\nNational Dairy Products Sales Report for Weeks Ending: 4/4/2026 - 5/2/2026\nButter Prices and Sa"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "1.72 per pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": "for 25-kilogram and 68-pound boxes meeting United States Department of Agriculture (USDA) \nGrade AA standards averaged $1.72 per pound for the week ending May 2, 2026. The United States (US) price per \npound decreased 3.0 cents from the previous week.\nCh"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "1.65 per pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ice per \npound decreased 3.0 cents from the previous week.\nCheddar Cheese prices received for 40-pound blocks averaged $1.65 per pound for the week ending May 2, 2026. The \nUS price per pound decreased 0.1 cent from the previous week. \nDry Whey prices re"
+    },
+    {
+      "metric_name": "price_or_cost_mention",
+      "metric_value": "2.02 per pound",
+      "unit": "",
+      "page_or_location": "",
+      "context": ", and tanker sales meeting USDA Extra Grade or United States Public \nHealth Service (USPHS) Grade A standards averaged $2.02 per pound for the week ending May 2, 2026. The US price \nper pound increased 15.1 cents from the previous week.\nNational Dairy Pr"
+    }
+  ],
+  "extracted_dates": [
+    "2026"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Market Information Branch",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Butter prices received for 25-kilogram and 68-pound boxes meeting United States Department of Agriculture (USDA)",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Grade AA standards averaged $1.72 per pound for the week ending May 2, 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The United States (US) price per",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "pound decreased 3.0 cents from the previous week.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Cheddar Cheese prices received for 40-pound blocks averaged $1.65 per pound for the week ending May 2, 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "US price per pound decreased 0.1 cent from the previous week.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Dry Whey prices received for bag, tote, and tanker sales meeting USDA Extra Grade standards averaged 63.5 cents",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "per pound for the week ending May 2, 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "The US price per pound increased 0.1 cent from the previous week.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Nonfat Dry Milk prices received for bag, tote, and tanker sales meeting USDA Extra Grade or United States Public",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Health Service (USPHS) Grade A standards averaged $2.02 per pound for the week ending May 2, 2026.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "per pound increased 15.1 cents from the previous week.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Butter Prices and Sales",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Butter Prices and Sales",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "USDA - Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "40-Pound Block Cheddar Cheese Prices and Sales",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Dry Whey Prices and Sales",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Nonfat Dry Milk Prices and Sales",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "USDA - Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "USDA - Agricultural Marketing Service",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Listed below are the specialists in the Agricultural Marketing Service, Dairy Program, Market Information Branch to",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Marketing Specialist, Coordinator",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Marketing Specialist",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Marketing Specialist",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Marketing Specialist",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Marketing Specialist, Coordinator",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy Products Marketing Specialist",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Marketing Order Statistics page.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "To receive e-mail notification for Dairy Product Mandatory Reporting Program (DPMRP) or Federal Milk Marketing",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Order Statistics (FMMOS) reports, visit My Market News (https://mymarketnews.ams.usda.gov/).",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:20",
+    "ai_input_mode": "text_only",
+    "priority_score": 65,
+    "selected_chunk_count": 5,
+    "requires_future_ai_or_visual_review": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "level1_input_version": "v1",
+  "created_at": "2026-05-06T20:04:03",
+  "project_scope": {
+    "project": "Hershey Supply Chain AI",
+    "product": "HERSHEY'S Milk Chocolate Candy Bar",
+    "sku_size": "1.55 oz / 43 g",
+    "market": "United States",
+    "rule": "Extract facts only. Do not create final supplier or cost conclusions at Level 1."
+  },
+  "prompt_file": "D:/HersheySupplyChainAI/prompts/level1_document_parser.md",
+  "doc_metadata": {
+    "doc_id": "DOC_3C7D40BBDFD0",
+    "file_name": "mclane_logo_asset.png",
+    "relative_path": "04_logistics_distribution/05_logo_assets/mclane_logo_asset.png",
+    "absolute_path": "D:/HersheySupplyChainAI/data/raw_sources/04_logistics_distribution/05_logo_assets/mclane_logo_asset.png",
+    "packet": "logistics_distribution",
+    "source_category": "logistics_distribution",
+    "document_type": "image_or_logo",
+    "evidence_role": "visual_asset",
+    "file_extension": ".png",
+    "file_size_bytes": 2297,
+    "sha256": "d72ebf821c233d938160df19c4080b1da0681f26e5b28d1dd73f28aed3bb8440"
+  },
+  "ai_input_mode": "visual_asset_only",
+  "priority_score": 25,
+  "extraction_summary": {
+    "has_stage05_artifact": true,
+    "text_path": null,
+    "page_count": null,
+    "total_text_length": 0,
+    "rendered_page_images": [],
+    "tables": [],
+    "copied_image_asset": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_3C7D40BBDFD0/mclane_logo_asset.png",
+    "image_width": null,
+    "image_height": null,
+    "needs_visual_review": true,
+    "errors": [
+      "image_metadata_error: cannot identify image file 'D:\\\\HersheySupplyChainAI\\\\data\\\\raw_sources\\\\04_logistics_distribution\\\\05_logo_assets\\\\mclane_logo_asset.png'"
+    ]
+  },
+  "selected_chunks": [],
+  "level1_expected_output": "parsed_document_artifact_json",
+  "level1_warnings": [
+    "This source needs visual/manual/vision review because text extraction is weak or the file is image-based.",
+    "Visual asset only. Logo/image does not prove supplier relationship."
+  ]
+}

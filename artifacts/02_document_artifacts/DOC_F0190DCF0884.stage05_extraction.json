@@ -1,0 +1,45 @@
+{
+  "doc_id": "DOC_F0190DCF0884",
+  "file_name": "natural_flavor_declaration_fda_definition_reference.pdf",
+  "relative_path": "03_ingredient_research/natural_flavor/00_regulatory_definition/natural_flavor_declaration_fda_definition_reference.pdf",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "evidence_role": "regulatory_definition",
+  "extracted_at": "2026-05-06T19:56:40",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_F0190DCF0884.txt",
+      "page_count": 4,
+      "total_text_length": 12131,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 2892
+        },
+        {
+          "page": 2,
+          "text_length": 3315
+        },
+        {
+          "page": 3,
+          "text_length": 3559
+        },
+        {
+          "page": 4,
+          "text_length": 2296
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_F0190DCF0884/page_004.png"
+      ],
+      "needs_visual_review": false,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": []
+}

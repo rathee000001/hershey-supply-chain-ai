@@ -1,0 +1,289 @@
+{
+  "doc_id": "DOC_1ED749BEB0B8",
+  "file_name": "pulp-and-paper-sourcing-policy.pdf",
+  "source_owner": "packaging_wrapper",
+  "document_title": "Pulp And Paper Sourcing Policy",
+  "packet": "packaging_wrapper",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for pulp-and-paper-sourcing-policy.pdf. Packet: packaging_wrapper. Evidence role: direct_company_evidence. Input mode: text_only. Detected entities/stages include: The Hershey Company, USDA ERS, USDA AMS, EPA, Packaging, ingredient sourcing, manufacturing, packaging.",
+  "useful_for_project": true,
+  "usefulness_score": 6.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_1",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 3",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 4",
+      "page_or_location": "page_2",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "The Hershey Company",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: the hershey company"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "USDA AMS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ams"
+    },
+    {
+      "entity_name": "EPA",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: epa"
+    },
+    {
+      "entity_name": "Packaging",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "packaging",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: packaging"
+    },
+    {
+      "entity_name": "freight",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: transport"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--\n--- PAGE 1 ---\nTHE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021\nHershey recognizes that forests serve as important reservoirs of greenhouse gases that would otherw"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2015",
+      "unit": "",
+      "page_or_location": "",
+      "context": "it as food packaging, wrapping, transportation and \nmarketing for our beloved brands. Beginning in 2015, Hershey committed to responsibly sourcing virgin fibers and recyclable \nmaterials for our products"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2017",
+      "unit": "",
+      "page_or_location": "",
+      "context": "y committed to responsibly sourcing virgin fibers and recyclable \nmaterials for our products. Since 2017, we have required that 100% of pulp and paper sourced for our U.S. and Canada \noperations come from"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "g Policy\nSCOPE\nHershey’s Responsible Pulp & Paper Sourcing Policy (Pulp & Paper Policy), updated in 2021, replaces our previous \nrequirements and commitments. It should be read in connection with Hershey’"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ithin their own business operations, third party suppliers and raw material producers.\nOUR GOALS\nBy 2025, Hershey’s goals for our global supply chain are to: \n• \nResponsibly source 100% o\n\n--- DOC_1ED749B"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ithin their own business operations, third party suppliers and raw material producers.\nOUR GOALS\nBy 2025, Hershey’s goals for our global supply chain are to: \n• \nResponsibly source 100% of our pulp and pa"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": ")\n\n--- PAGE 2 ---\nTHE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021\n 2 As defined by The HCV Resource Network\n 3 As defined by The HCS Approach\n 4 In accordance with t"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s\n\n--- PAGE 3 ---\nTHE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021\nPreference for Recycled Fiber\nTo reduce our use of virgin pulp & paper, we will maintain a preferen"
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2021",
+    "2015",
+    "2017",
+    "2025"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "THE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "Beginning in 2015, Hershey committed to responsibly sourcing virgin fibers and recyclable",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "Hershey’s Responsible Pulp & Paper Sourcing Policy (Pulp & Paper Policy), updated in 2021, replaces our previous",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "It should be read in connection with Hershey’s Supplier Code of Conduct, Human Rights",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Packaging",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "Our Pulp & Paper Policy applies to all direct (“tier one”) suppliers that provide pulp and paper-based packaging made from",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "virgin fibers or recycled materials that is sourced by Hershey, as well as by our subsidiaries and contract packaging and contract",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "manufacturing partners for all Hershey products.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Packaging",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "We expect our direct suppliers to meet and communicate these expectations throughout their pulp and paper supply chain by",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Packaging",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "Paper Policy within their own business operations, third party suppliers and raw material producers.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Packaging",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "Paper Policy within their own business operations, third party suppliers and raw material producers.",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "THE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "and from which we source palm oil, Hershey requires our suppliers to adhere to the following practices that comply with No",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "USDA ERS",
+      "to_entity": "Packaging",
+      "relationship": "company-to-ingredient/stage relationship language detected",
+      "evidence_text": "suppliers, peers, civil society, government, and others to help transform the pulp and paper sector to align with",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "THE HERSHEY COMPANY RESPONSIBLE PULP & PAPER SOURCING POLICY ©The Hershey Company 2021",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "If a supplier is not in compliance with our Pulp & Paper Policy, Hershey may suspend or remove the pulp & paper supplier from",
+      "page_or_location": ""
+    },
+    {
+      "from_entity": "The Hershey Company",
+      "to_entity": "USDA ERS",
+      "relationship": "relationship language detected",
+      "evidence_text": "Hershey intends to work with pulp & paper suppliers that not only share our values and are willing to develop action plans to",
+      "page_or_location": ""
+    }
+  ],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "packaging",
+      "evidence_text": "We use it as food packaging, wrapping, transportation and",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "marketing for our beloved brands.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "In addition to compliance with all applicable national, state, and local laws and regulations in the markets where we operate",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_only",
+    "priority_score": 59,
+    "selected_chunk_count": 4,
+    "requires_future_ai_or_visual_review": false
+  }
+}

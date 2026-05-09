@@ -1,0 +1,627 @@
+{
+  "doc_id": "DOC_3A67DADA572A",
+  "file_name": "barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+  "source_owner": "Barry Callebaut",
+  "document_title": "Barry Callebaut Annual Report Or Full Year Results 2024 25",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "summary": "Local Level 1 parse for barry_callebaut_annual_report_or_full_year_results_2024_25.pdf. Packet: cocoa_chocolate_cocoa_butter. Evidence role: supplier_relationship_context. Input mode: text_plus_page_images. Detected entities/stages include: Barry Callebaut, USDA ERS, Sugar, Chocolate, Cocoa, Milk, Skim Milk, ingredient sourcing.",
+  "useful_for_project": true,
+  "usefulness_score": 9.0,
+  "relevant_sections": [
+    {
+      "section_title": "Selected chunk 1",
+      "page_or_location": "",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 2",
+      "page_or_location": "page_3",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 9",
+      "page_or_location": "page_8",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 10",
+      "page_or_location": "page_10",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 35",
+      "page_or_location": "page_21",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 41",
+      "page_or_location": "page_24",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    },
+    {
+      "section_title": "Selected chunk 44",
+      "page_or_location": "page_25",
+      "why_relevant": "Contains supply-chain, ingredient, supplier, cost, regulatory, or benchmark signals."
+    }
+  ],
+  "extracted_entities": [
+    {
+      "entity_name": "Barry Callebaut",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: barry callebaut"
+    },
+    {
+      "entity_name": "USDA ERS",
+      "entity_type": "company_or_institution",
+      "context": "Matched term: ers"
+    },
+    {
+      "entity_name": "Sugar",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: sugar"
+    },
+    {
+      "entity_name": "Chocolate",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: chocolate"
+    },
+    {
+      "entity_name": "Cocoa",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: cocoa"
+    },
+    {
+      "entity_name": "Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: milk"
+    },
+    {
+      "entity_name": "Skim Milk",
+      "entity_type": "ingredient_or_input",
+      "context": "Matched term: skim milk"
+    },
+    {
+      "entity_name": "ingredient sourcing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: sourcing"
+    },
+    {
+      "entity_name": "manufacturing",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: manufacturing"
+    },
+    {
+      "entity_name": "retail",
+      "entity_type": "supply_chain_stage",
+      "context": "Matched term: price"
+    }
+  ],
+  "extracted_metrics": [
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "--- DOC_3A67DADA572A_CHUNK_0001 ---\n--- PAGE 1 ---\nANNUAL REPORT\n2024/25\n\n--- PAGE 2 ---\n3\nThis is Barry Callebaut\n4\nKey Figures\n6\nFiscal Year in Brief\n7\nLetter to Share"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "s\n140\nContact & Financial Calendar\nTABLE OF \nCONTENTS\n\n--- PAGE 3 ---\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n3\n THIS IS BARR"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "han\n175 years\nof chocolate heritage\nMore than\n125,000\nchocolate professionals trained \nin-person in 2024/25\nMore than\n13,000\nemployees\nDoing business in over\n140\ncountries\n 1 Refer to page 139 for detaile"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "CHF million \n+6.4% in local currencies\nin CHF billion\n\n--- PAGE 4 ---\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n4\nKEY FIGURES"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n4\nKEY FIGURES \n2024/25\nSALES \nVOLUME\nEBIT \nRECURRING2\nNET PROFIT \nRECURRING2\n2.1\n703.4\n249.6\nin million tonnes\nin CHF m"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r to page 139 for detailed recurring results reconciliation.\n\n--- PAGE 5 ---\nSales volume\nin tonnes\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT r"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "e 139 for detailed recurring results reconciliation.\n\n--- PAGE 5 ---\nSales volume\nin tonnes\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "r detailed recurring results reconciliation.\n\n--- PAGE 5 ---\nSales volume\nin tonnes\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF m"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ed recurring results reconciliation.\n\n--- PAGE 5 ---\nSales volume\nin tonnes\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ring results reconciliation.\n\n--- PAGE 5 ---\nSales volume\nin tonnes\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3/24\n2024/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "4/25\n0\n400,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "00,000\n800,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "00,000\n1,200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": ",200,000\n1,600,000\n2,000,000\n2,400,000\nEBIT reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,0"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reporte"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2021/22\n2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2022/23\n2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "2023/24\n2024/25\n0\n150\n300\n450\n600\n750\nSales revenue\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "24\n2024/25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n100\n200\n300\n400\n500\nSales volume by Sales Group\nin tonnes\nWest"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "25\n0\n2,000\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n100\n200\n300\n400\n500\nSales volume by Sales Group\nin tonnes\nWestern Euro"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "00\n4,000\n6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n100\n200\n300\n400\n500\nSales volume by Sales Group\nin tonnes\nWestern Europe\n679,9"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "6,000\n8,000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n100\n200\n300\n400\n500\nSales volume by Sales Group\nin tonnes\nWestern Europe\n679,942\nNorth"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": ",000\n10,000\n12,000\n14,000\n16,000\nNet profit reported\nin CHF million\n2020/21\n2021/22\n2022/23\n2023/24\n2024/25\n0\n100\n200\n300\n400\n500\nSales volume by Sales Group\nin tonnes\nWestern Europe\n679,942\nNorth America"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "3Refer to page 139 for detailed recurring results reconciliation. \nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n5\n32%\n24%\n19%\n1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "fficer\n“\n\n--- PAGE 9 ---\nOVERVIEW\n10\n5-Year Overview\n11\nRisk Overview\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n9\n\n--- PAGE 10"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "on page 138.\n2 Refer to page 139 for detailed recurring results reconciliation. \n3 From fiscal year 2024/25, Net debt represents the amount as at August 31, instead of an average. Previous years were adju"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "amount as at August 31, instead of an average. Previous years were adjusted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "as at August 31, instead of an average. Previous years were adjusted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "gust 31, instead of an average. Previous years were adjusted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "instead of an average. Previous years were adjusted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2 %\nReturn"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "of an average. Previous years were adjusted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2 %\nReturn on inve"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "%\n 15.3 %\n 12.4 %\n 14.3 %\n\n--- DOC_3A67DADA572A_CHUNK_0010 page_10 ---\nsted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "%\n 12.4 %\n 14.3 %\n\n--- DOC_3A67DADA572A_CHUNK_0010 page_10 ---\nsted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "%\n 14.3 %\n\n--- DOC_3A67DADA572A_CHUNK_0010 page_10 ---\nsted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "%\n\n--- DOC_3A67DADA572A_CHUNK_0010 page_10 ---\nsted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2 %\nReturn"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "DOC_3A67DADA572A_CHUNK_0010 page_10 ---\nsted \naccordingly.\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nRatios\nReturn on invested capital \n(ROIC)\n%\n 6.8 %\n 6.6 %\n 13.1 %\n 11.5 %\n 12.2 %\nReturn on inve"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "13,418\n12,783\nBeans processed\nTonnes\n (2.8) %\n882,627\n1,015,632\n991,007\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOve"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2023",
+      "unit": "",
+      "page_or_location": "",
+      "context": "12,783\nBeans processed\nTonnes\n (2.8) %\n882,627\n1,015,632\n991,007\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBu"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2022",
+      "unit": "",
+      "page_or_location": "",
+      "context": "eans processed\nTonnes\n (2.8) %\n882,627\n1,015,632\n991,007\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness H"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2021",
+      "unit": "",
+      "page_or_location": "",
+      "context": "cessed\nTonnes\n (2.8) %\n882,627\n1,015,632\n991,007\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlight"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2020",
+      "unit": "",
+      "page_or_location": "",
+      "context": "onnes\n (2.8) %\n882,627\n1,015,632\n991,007\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinanc"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "07\n1,000,080\n987,991\nCAGR (%)\n2024/25\n2023/24\n2022/23\n2021/22\n2020/21\nBARRY CALLEBAUT\nAnnual Report 2024/25\nLetter to Shareholders\nOverview\nBusiness Highlights\nFinancial Reports\nGovernance\n10\n\n--- DOC_3A6"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "f-home and impulse consumption.\n2 Source: London terminal market prices for 2nd position, September 2024 to August 2025. Terminal market prices exclude Living Income Differential (LID) and country differe"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "lse consumption.\n2 Source: London terminal market prices for 2nd position, September 2024 to August 2025. Terminal market prices exclude Living Income Differential (LID) and country differentials.\n\n--- PA"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "urope, \nsugar prices fell by an average of -26.8%, reflecting increased sugar \nbeet acreage for the 2024/25 campaign, which concluded in \nSeptember 2025. This expansion resulted in a better-supplied \nmark"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "%, reflecting increased sugar \nbeet acreage for the 2024/25 campaign, which concluded in \nSeptember 2025. This expansion resulted in a better-supplied \nmarket compared to the prior period. \nDairy prices i"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2024",
+      "unit": "",
+      "page_or_location": "",
+      "context": "ed to the prior period. \nDairy prices increased on average by +0.6% compared to the prior \nyear. In 2024 and 2025, milk supply generally declined, while global \ndemand stayed healthy, leading to market vo"
+    },
+    {
+      "metric_name": "year",
+      "metric_value": "2025",
+      "unit": "",
+      "page_or_location": "",
+      "context": "prior period. \nDairy prices increased on average by +0.6% compared to the prior \nyear. In 2024 and 2025, milk supply generally declined, while global \ndemand stayed healthy, leading to market volatility."
+    }
+  ],
+  "extracted_prices": [],
+  "extracted_dates": [
+    "2024",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2025",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019"
+  ],
+  "extracted_locations": [],
+  "explicit_relationships": [],
+  "cost_bucket_mentions": [
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Share price at fiscal year-",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Market capitalization at",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Price-earnings ratio at",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "2 Source: London terminal market prices for 2nd position, September 2024 to August 2025.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Terminal market prices exclude Living Income Differential (LID) and country differentials.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "sugar",
+      "evidence_text": "Global sugar prices averaged -16.0% lower than the same period",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "sugar",
+      "evidence_text": "sugar prices fell by an average of -26.8%, reflecting increased sugar",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "market compared to the prior period.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "dairy",
+      "evidence_text": "Dairy prices increased on average by +0.6% compared to the prior",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "demand stayed healthy, leading to market volatility.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Source: Company compiled data, based on key market price indicators",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "In fiscal year 2024/25, foreign exchange markets remained volatile",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Throughout the fiscal year 2024/25, several key emerging market",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Capital markets overview",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "-21.5% below the previous year’s closing price.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Performance Index (price) was down -0.6%.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Food & Beverage Index (price) decreased -8.5%.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Market capitalization",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "Share price development Barry Callebaut vs.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "underperformed the SMI Small and Mid Cap Index (+67.0%) and the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "broader SPI Index (price) (+42.0%).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "against the EURO STOXX Food & Beverage Index (-14.0%), and was",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "even stronger when calculating the share price in EUR (+21.0%).",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "chocolate confectionery market according to Nielsen",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "context of volatility and significantly higher prices.",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "developed markets offset double-digit growth in India,",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "market environment and the residual impact of the",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "general_cost_or_market_context",
+      "evidence_text": "(-6.6%) was significantly impacted as higher prices",
+      "page_or_location": ""
+    },
+    {
+      "cost_bucket": "cocoa_chocolate_cocoa_butter",
+      "evidence_text": "mainly driven by higher cocoa prices.",
+      "page_or_location": ""
+    }
+  ],
+  "confidence_notes": [],
+  "excluded_content": [],
+  "level1_status": "complete",
+  "local_parser_meta": {
+    "parser_name": "step08_level1_local_parser",
+    "parser_type": "deterministic_local_baseline",
+    "created_at": "2026-05-06T20:06:19",
+    "ai_input_mode": "text_plus_page_images",
+    "priority_score": 87,
+    "selected_chunk_count": 7,
+    "requires_future_ai_or_visual_review": true
+  }
+}

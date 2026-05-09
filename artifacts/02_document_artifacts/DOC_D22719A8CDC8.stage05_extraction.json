@@ -1,0 +1,87 @@
+{
+  "doc_id": "DOC_D22719A8CDC8",
+  "file_name": "flexible_packaging_market_overview_reference.pdf",
+  "relative_path": "03_ingredient_research/packaging_wrapper/02_packaging_material_process/flexible_packaging_market_overview_reference.pdf",
+  "packet": "packaging_wrapper",
+  "document_type": "pdf_document",
+  "evidence_role": "benchmark_proxy",
+  "extracted_at": "2026-05-06T19:56:45",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_D22719A8CDC8.txt",
+      "page_count": 12,
+      "total_text_length": 215,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        },
+        {
+          "page": 2,
+          "text_length": 0
+        },
+        {
+          "page": 3,
+          "text_length": 0
+        },
+        {
+          "page": 4,
+          "text_length": 0
+        },
+        {
+          "page": 5,
+          "text_length": 0
+        },
+        {
+          "page": 6,
+          "text_length": 0
+        },
+        {
+          "page": 7,
+          "text_length": 0
+        },
+        {
+          "page": 8,
+          "text_length": 0
+        },
+        {
+          "page": 9,
+          "text_length": 0
+        },
+        {
+          "page": 10,
+          "text_length": 0
+        },
+        {
+          "page": 11,
+          "text_length": 0
+        },
+        {
+          "page": 12,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_004.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_005.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_006.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_007.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_008.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_009.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_010.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_011.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D22719A8CDC8/page_012.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}

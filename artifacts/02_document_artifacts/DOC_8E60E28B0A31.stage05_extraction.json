@@ -1,0 +1,481 @@
+{
+  "doc_id": "DOC_8E60E28B0A31",
+  "file_name": "efsa_pgpr_e476_reevaluation.pdf",
+  "relative_path": "03_ingredient_research/pgpr/00_regulatory_evidence/efsa_pgpr_e476_reevaluation.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "evidence_role": "regulatory_definition",
+  "extracted_at": "2026-05-06T19:56:46",
+  "extraction": {
+    "pdf": {
+      "extractor": "pymupdf",
+      "text_path": "D:/HersheySupplyChainAI/artifacts/01_extracted_text/DOC_8E60E28B0A31.txt",
+      "page_count": 106,
+      "total_text_length": 2008,
+      "page_text_stats": [
+        {
+          "page": 1,
+          "text_length": 0
+        },
+        {
+          "page": 2,
+          "text_length": 0
+        },
+        {
+          "page": 3,
+          "text_length": 0
+        },
+        {
+          "page": 4,
+          "text_length": 0
+        },
+        {
+          "page": 5,
+          "text_length": 0
+        },
+        {
+          "page": 6,
+          "text_length": 0
+        },
+        {
+          "page": 7,
+          "text_length": 0
+        },
+        {
+          "page": 8,
+          "text_length": 0
+        },
+        {
+          "page": 9,
+          "text_length": 0
+        },
+        {
+          "page": 10,
+          "text_length": 0
+        },
+        {
+          "page": 11,
+          "text_length": 0
+        },
+        {
+          "page": 12,
+          "text_length": 0
+        },
+        {
+          "page": 13,
+          "text_length": 0
+        },
+        {
+          "page": 14,
+          "text_length": 0
+        },
+        {
+          "page": 15,
+          "text_length": 0
+        },
+        {
+          "page": 16,
+          "text_length": 0
+        },
+        {
+          "page": 17,
+          "text_length": 0
+        },
+        {
+          "page": 18,
+          "text_length": 0
+        },
+        {
+          "page": 19,
+          "text_length": 0
+        },
+        {
+          "page": 20,
+          "text_length": 0
+        },
+        {
+          "page": 21,
+          "text_length": 0
+        },
+        {
+          "page": 22,
+          "text_length": 0
+        },
+        {
+          "page": 23,
+          "text_length": 0
+        },
+        {
+          "page": 24,
+          "text_length": 0
+        },
+        {
+          "page": 25,
+          "text_length": 0
+        },
+        {
+          "page": 26,
+          "text_length": 0
+        },
+        {
+          "page": 27,
+          "text_length": 0
+        },
+        {
+          "page": 28,
+          "text_length": 0
+        },
+        {
+          "page": 29,
+          "text_length": 0
+        },
+        {
+          "page": 30,
+          "text_length": 0
+        },
+        {
+          "page": 31,
+          "text_length": 0
+        },
+        {
+          "page": 32,
+          "text_length": 0
+        },
+        {
+          "page": 33,
+          "text_length": 0
+        },
+        {
+          "page": 34,
+          "text_length": 0
+        },
+        {
+          "page": 35,
+          "text_length": 0
+        },
+        {
+          "page": 36,
+          "text_length": 0
+        },
+        {
+          "page": 37,
+          "text_length": 0
+        },
+        {
+          "page": 38,
+          "text_length": 0
+        },
+        {
+          "page": 39,
+          "text_length": 0
+        },
+        {
+          "page": 40,
+          "text_length": 0
+        },
+        {
+          "page": 41,
+          "text_length": 0
+        },
+        {
+          "page": 42,
+          "text_length": 0
+        },
+        {
+          "page": 43,
+          "text_length": 0
+        },
+        {
+          "page": 44,
+          "text_length": 0
+        },
+        {
+          "page": 45,
+          "text_length": 0
+        },
+        {
+          "page": 46,
+          "text_length": 0
+        },
+        {
+          "page": 47,
+          "text_length": 0
+        },
+        {
+          "page": 48,
+          "text_length": 0
+        },
+        {
+          "page": 49,
+          "text_length": 0
+        },
+        {
+          "page": 50,
+          "text_length": 0
+        },
+        {
+          "page": 51,
+          "text_length": 0
+        },
+        {
+          "page": 52,
+          "text_length": 0
+        },
+        {
+          "page": 53,
+          "text_length": 0
+        },
+        {
+          "page": 54,
+          "text_length": 0
+        },
+        {
+          "page": 55,
+          "text_length": 0
+        },
+        {
+          "page": 56,
+          "text_length": 0
+        },
+        {
+          "page": 57,
+          "text_length": 0
+        },
+        {
+          "page": 58,
+          "text_length": 0
+        },
+        {
+          "page": 59,
+          "text_length": 0
+        },
+        {
+          "page": 60,
+          "text_length": 0
+        },
+        {
+          "page": 61,
+          "text_length": 0
+        },
+        {
+          "page": 62,
+          "text_length": 0
+        },
+        {
+          "page": 63,
+          "text_length": 0
+        },
+        {
+          "page": 64,
+          "text_length": 0
+        },
+        {
+          "page": 65,
+          "text_length": 0
+        },
+        {
+          "page": 66,
+          "text_length": 0
+        },
+        {
+          "page": 67,
+          "text_length": 0
+        },
+        {
+          "page": 68,
+          "text_length": 0
+        },
+        {
+          "page": 69,
+          "text_length": 0
+        },
+        {
+          "page": 70,
+          "text_length": 0
+        },
+        {
+          "page": 71,
+          "text_length": 0
+        },
+        {
+          "page": 72,
+          "text_length": 0
+        },
+        {
+          "page": 73,
+          "text_length": 0
+        },
+        {
+          "page": 74,
+          "text_length": 0
+        },
+        {
+          "page": 75,
+          "text_length": 0
+        },
+        {
+          "page": 76,
+          "text_length": 0
+        },
+        {
+          "page": 77,
+          "text_length": 0
+        },
+        {
+          "page": 78,
+          "text_length": 0
+        },
+        {
+          "page": 79,
+          "text_length": 0
+        },
+        {
+          "page": 80,
+          "text_length": 0
+        },
+        {
+          "page": 81,
+          "text_length": 0
+        },
+        {
+          "page": 82,
+          "text_length": 0
+        },
+        {
+          "page": 83,
+          "text_length": 0
+        },
+        {
+          "page": 84,
+          "text_length": 0
+        },
+        {
+          "page": 85,
+          "text_length": 0
+        },
+        {
+          "page": 86,
+          "text_length": 0
+        },
+        {
+          "page": 87,
+          "text_length": 0
+        },
+        {
+          "page": 88,
+          "text_length": 0
+        },
+        {
+          "page": 89,
+          "text_length": 0
+        },
+        {
+          "page": 90,
+          "text_length": 0
+        },
+        {
+          "page": 91,
+          "text_length": 0
+        },
+        {
+          "page": 92,
+          "text_length": 0
+        },
+        {
+          "page": 93,
+          "text_length": 0
+        },
+        {
+          "page": 94,
+          "text_length": 0
+        },
+        {
+          "page": 95,
+          "text_length": 0
+        },
+        {
+          "page": 96,
+          "text_length": 0
+        },
+        {
+          "page": 97,
+          "text_length": 0
+        },
+        {
+          "page": 98,
+          "text_length": 0
+        },
+        {
+          "page": 99,
+          "text_length": 0
+        },
+        {
+          "page": 100,
+          "text_length": 0
+        },
+        {
+          "page": 101,
+          "text_length": 0
+        },
+        {
+          "page": 102,
+          "text_length": 0
+        },
+        {
+          "page": 103,
+          "text_length": 0
+        },
+        {
+          "page": 104,
+          "text_length": 0
+        },
+        {
+          "page": 105,
+          "text_length": 0
+        },
+        {
+          "page": 106,
+          "text_length": 0
+        }
+      ],
+      "rendered_page_images": [
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_001.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_002.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_003.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_004.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_005.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_006.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_007.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_008.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_009.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_010.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_011.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_012.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_013.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_014.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_015.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_016.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_017.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_018.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_019.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_020.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_021.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_022.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_023.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_024.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_025.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_026.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_027.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_028.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_029.png",
+        "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8E60E28B0A31/page_030.png"
+      ],
+      "needs_visual_review": true,
+      "errors": []
+    }
+  },
+  "stage05_status": "extracted",
+  "stage05_notes": [
+    "PDF has weak/extracted text on some pages or needs visual review."
+  ]
+}
