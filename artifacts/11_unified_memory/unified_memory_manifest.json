@@ -1,0 +1,20 @@
+{
+  "unified_memory_version": "v1",
+  "created_at": "2026-05-09T19:52:57",
+  "root": "D:/HersheySupplyChainAI",
+  "purpose": "Merged parser memory from original extracted text/table chunks plus visual OCR screenshot/image chunks.",
+  "input_sources": {
+    "original_text_chunk_files": [
+      "D:/HersheySupplyChainAI/artifacts/02_text_chunks/text_chunks.jsonl"
+    ],
+    "visual_ocr_chunk_file": "D:/HersheySupplyChainAI/artifacts/02_visual_text/visual_ocr_chunks.jsonl"
+  },
+  "outputs": {
+    "unified_chunks_jsonl": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_chunks.jsonl",
+    "unified_chunks_summary_csv": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_chunks_summary.csv",
+    "unified_document_memory_json": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_document_memory.json",
+    "unified_document_memory_summary_csv": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_document_memory_summary.csv"
+  },
+  "frontend_rule": "This is a research brain artifact. Frontend should not display raw unified memory directly; frontend displays approved audited JSON only.",
+  "rag_rule": "Vector/RAG index should be built from unified_chunks.jsonl with metadata preserved."
+}

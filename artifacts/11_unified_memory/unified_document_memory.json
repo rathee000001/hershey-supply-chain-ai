@@ -1,0 +1,3862 @@
+[
+  {
+    "doc_id": "DOC_01971A613130",
+    "file_names": [
+      "WPU09150336.csv"
+    ],
+    "primary_file_name": "WPU09150336.csv",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 472,
+    "usefulness_counts": {
+      "low_background": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_02F4A4A84A57",
+    "file_names": [
+      "asr_refined_sugar_process_or_products.pdf"
+    ],
+    "primary_file_name": "asr_refined_sugar_process_or_products.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 6455,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "domino"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_033AA20F1EE1",
+    "file_names": [
+      "usda_fas_ghana_cocoa_sector_overview_2025.pdf"
+    ],
+    "primary_file_name": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 25,
+    "total_text_length": 51366,
+    "usefulness_counts": {
+      "low_background": 25
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_050BBCAC6B3F",
+    "file_names": [
+      "mclane_company_profile.pdf"
+    ],
+    "primary_file_name": "mclane_company_profile.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3483,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "mclane",
+        "walgreens"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_08137C490006",
+    "file_names": [
+      "ice_cocoa_futures_optional_screenshot.pdf"
+    ],
+    "primary_file_name": "ice_cocoa_futures_optional_screenshot.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3733,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "cocoa",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_0C6FF4D0AACE",
+    "file_names": [
+      "mclane_grocery_retail_distribution_page.pdf"
+    ],
+    "primary_file_name": "mclane_grocery_retail_distribution_page.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 2747,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "mclane"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_0D21678E3116",
+    "file_names": [
+      "cvs_hershey_1_55oz_price_page.pdf"
+    ],
+    "primary_file_name": "cvs_hershey_1_55oz_price_page.pdf",
+    "packets": [
+      "retail_price_evidence"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 979,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "cvs",
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "1.55 oz",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_0DD09547ACD4",
+    "file_names": [
+      "natural_flavor_extraction_distillation_fermentation_explanation.pdf"
+    ],
+    "primary_file_name": "natural_flavor_extraction_distillation_fermentation_explanation.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3056,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "fda",
+        "usda"
+      ],
+      "ingredients": [
+        "cocoa",
+        "natural flavor"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_0E5990AC3AEF",
+    "file_names": [
+      "asr_belize_sugar_industries_page.pdf"
+    ],
+    "primary_file_name": "asr_belize_sugar_industries_page.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 2160,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "domino"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_101588EC345D",
+    "file_names": [
+      "fda_pgpr_gras_response_letter.pdf"
+    ],
+    "primary_file_name": "fda_pgpr_gras_response_letter.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 10486,
+    "usefulness_counts": {
+      "low_background": 5
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1082CA3E3F2A",
+    "file_names": [
+      "barry_callebaut_hershey_supply_agreement_news_release.pdf"
+    ],
+    "primary_file_name": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 8109,
+    "usefulness_counts": {
+      "low_background": 4
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1164AEC6C38C",
+    "file_names": [
+      "natural_flavor_function_in_food_explanation.pdf"
+    ],
+    "primary_file_name": "natural_flavor_function_in_food_explanation.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 4991,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "fda"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "milk",
+        "natural flavor",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_11A00D6495C0",
+    "file_names": [
+      "PCU49314931.xlsx"
+    ],
+    "primary_file_name": "PCU49314931.xlsx",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 1130,
+    "usefulness_counts": {
+      "low_background": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_12314C1C49CF",
+    "file_names": [
+      "interim_gras_33_apr_2026.pdf"
+    ],
+    "primary_file_name": "interim_gras_33_apr_2026.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 7,
+    "total_text_length": 12599,
+    "usefulness_counts": {
+      "low_background": 7
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1BE15D0DAB2F",
+    "file_names": [
+      "castor_oil_ricinoleic_acid_pgpr_origin_reference.pdf"
+    ],
+    "primary_file_name": "castor_oil_ricinoleic_acid_pgpr_origin_reference.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 13,
+    "total_text_length": 25099,
+    "usefulness_counts": {
+      "low_background": 11,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "lecithin"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1D4C129E0BD4",
+    "file_names": [
+      "fda_flavor_labeling_regulation_reference.pdf"
+    ],
+    "primary_file_name": "fda_flavor_labeling_regulation_reference.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 203,
+    "total_text_length": 401159,
+    "usefulness_counts": {
+      "low_background": 203
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1E0944AC1DC5",
+    "file_names": [
+      "asr_hershey_learn_to_grow_belize.pdf"
+    ],
+    "primary_file_name": "asr_hershey_learn_to_grow_belize.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3412,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "hershey"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1E80FF9B816E",
+    "file_names": [
+      "icco_processing_cocoa_page.pdf"
+    ],
+    "primary_file_name": "icco_processing_cocoa_page.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 8593,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "icco",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "milk",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1EB5146FBACE",
+    "file_names": [
+      "bls_truck_transportation_ppi_benchmark.pdf"
+    ],
+    "primary_file_name": "bls_truck_transportation_ppi_benchmark.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 897,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1EC92FF65460",
+    "file_names": [
+      "barry_callebaut_company_profile.pdf"
+    ],
+    "primary_file_name": "barry_callebaut_company_profile.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5470,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "barry callebaut"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1ED749BEB0B8",
+    "file_names": [
+      "pulp-and-paper-sourcing-policy.pdf"
+    ],
+    "primary_file_name": "pulp-and-paper-sourcing-policy.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 8145,
+    "usefulness_counts": {
+      "low_background": 4
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_1F6D46FB75CC",
+    "file_names": [
+      "walmart_hershey_1_55oz_price_page.pdf"
+    ],
+    "primary_file_name": "walmart_hershey_1_55oz_price_page.pdf",
+    "packets": [
+      "retail_price_evidence"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5108,
+    "usefulness_counts": {
+      "high_sku_evidence": 3,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "walmart"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "1.55 oz",
+        "ingredients",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_23BD14F34CEF",
+    "file_names": [
+      "pgpr_market_price_reference.pdf"
+    ],
+    "primary_file_name": "pgpr_market_price_reference.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 1368,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "pgpr"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_257C2CABB7C1",
+    "file_names": [
+      "Group3-Tables-US-Sugar-Crop-Production-and-Sugar-Production-Deliveries-and-Stocks.csv"
+    ],
+    "primary_file_name": "Group3-Tables-US-Sugar-Crop-Production-and-Sugar-Production-Deliveries-and-Stocks.csv",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 8425,
+    "usefulness_counts": {
+      "low_background": 4
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_26064332B82F",
+    "file_names": [
+      "hershey_pulp_paper_page.pdf"
+    ],
+    "primary_file_name": "hershey_pulp_paper_page.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3559,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_260B1720A1EF",
+    "file_names": [
+      "hershey_cocoa_sustainability_page.pdf"
+    ],
+    "primary_file_name": "hershey_cocoa_sustainability_page.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5462,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_2D8BE31DFAC8",
+    "file_names": [
+      "icco_cocoa_butter_powder_faq.pdf"
+    ],
+    "primary_file_name": "icco_cocoa_butter_powder_faq.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 6648,
+    "usefulness_counts": {
+      "low_background": 3,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_2F8EE4491545",
+    "file_names": [
+      "land_o_lakes_who_we_are_page.pdf"
+    ],
+    "primary_file_name": "land_o_lakes_who_we_are_page.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3625,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "land o'lakes"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_2FB8D1A92FFF",
+    "file_names": [
+      "soy_lecithin_function_in_chocolate_explanation.pdf"
+    ],
+    "primary_file_name": "soy_lecithin_function_in_chocolate_explanation.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 11,
+    "total_text_length": 20480,
+    "usefulness_counts": {
+      "high_sku_evidence": 4,
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 5
+    },
+    "signals": {
+      "companies": [
+        "fda",
+        "usda"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "soy lecithin"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_32FA1CD834CD",
+    "file_names": [
+      "sugar_cane_beet_processing_explanation.pdf"
+    ],
+    "primary_file_name": "sugar_cane_beet_processing_explanation.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 27,
+    "total_text_length": 55722,
+    "usefulness_counts": {
+      "low_background": 27
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_35AC43ECE38F",
+    "file_names": [
+      "Hershey back.webp"
+    ],
+    "primary_file_name": "Hershey back.webp",
+    "packets": [
+      "product_sku_1_55oz"
+    ],
+    "source_types": [
+      "visual_ocr"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 420,
+    "usefulness_counts": {
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": false
+  },
+  {
+    "doc_id": "DOC_381414594006",
+    "file_names": [
+      "Pulp-Paper-The-Hershey-Company-05-06-2026_02_23_PM.pdf"
+    ],
+    "primary_file_name": "Pulp-Paper-The-Hershey-Company-05-06-2026_02_23_PM.pdf",
+    "packets": [
+      "hershey_company"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3559,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_399D89EF9892",
+    "file_names": [
+      "natural_flavor_market_overview_reference.pdf"
+    ],
+    "primary_file_name": "natural_flavor_market_overview_reference.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 11,
+    "total_text_length": 20898,
+    "usefulness_counts": {
+      "high_sku_evidence": 5,
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 4
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "milk",
+        "natural flavor"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_3A67DADA572A",
+    "file_names": [
+      "barry_callebaut_annual_report_or_full_year_results_2024_25.pdf"
+    ],
+    "primary_file_name": "barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 229,
+    "total_text_length": 472668,
+    "usefulness_counts": {
+      "low_background": 229
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_3C5045700A98",
+    "file_names": [
+      "land_o_lakes_hershey_chesapeake_bay_page.pdf"
+    ],
+    "primary_file_name": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 8129,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "land o'lakes"
+      ],
+      "ingredients": [
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_3DACF0FBC836",
+    "file_names": [
+      "hershey_latest_esg_dairy_section.pdf"
+    ],
+    "primary_file_name": "hershey_latest_esg_dairy_section.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 141,
+    "total_text_length": 286123,
+    "usefulness_counts": {
+      "low_background": 140,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_3FF97ACFA90D",
+    "file_names": [
+      "hershey_dairy_sourcing_page.pdf"
+    ],
+    "primary_file_name": "hershey_dairy_sourcing_page.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 6402,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "land o'lakes",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_400268FDC92A",
+    "file_names": [
+      "nonfat_dry_milk_skim_milk_explanation.pdf"
+    ],
+    "primary_file_name": "nonfat_dry_milk_skim_milk_explanation.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5640,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "milk",
+        "packaging",
+        "skim milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_41FA1AC07EDD",
+    "file_names": [
+      "retail_wholesale_distribution_explanation.pdf"
+    ],
+    "primary_file_name": "retail_wholesale_distribution_explanation.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 13,
+    "total_text_length": 24975,
+    "usefulness_counts": {
+      "low_background": 13
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [
+        "upc"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_444A249CB5CF",
+    "file_names": [
+      "barry_callebaut_social_environmental_impact_report_2024_25.pdf"
+    ],
+    "primary_file_name": "barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 156,
+    "total_text_length": 317914,
+    "usefulness_counts": {
+      "low_background": 156
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_463FD3B8EDC9",
+    "file_names": [
+      "Hershey Front.webp"
+    ],
+    "primary_file_name": "Hershey Front.webp",
+    "packets": [
+      "product_sku_1_55oz"
+    ],
+    "source_types": [
+      "visual_ocr"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 78,
+    "usefulness_counts": {
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": false
+  },
+  {
+    "doc_id": "DOC_4798F11F2524",
+    "file_names": [
+      "Palm-Oil-The-Hershey-Company-05-06-2026_02_22_PM.pdf"
+    ],
+    "primary_file_name": "Palm-Oil-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+    "packets": [
+      "hershey_company"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 10,
+    "total_text_length": 17970,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 7
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_4D6583498B7A",
+    "file_names": [
+      "target_hershey_1_55oz_price_page.pdf"
+    ],
+    "primary_file_name": "target_hershey_1_55oz_price_page.pdf",
+    "packets": [
+      "retail_price_evidence"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 1507,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "milk fat",
+        "pgpr",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_4ED7D04B1CB5",
+    "file_names": [
+      "pswrgvwall.xls"
+    ],
+    "primary_file_name": "pswrgvwall.xls",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 38,
+    "total_text_length": 78522,
+    "usefulness_counts": {
+      "low_background": 38
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_4FB6669959F5",
+    "file_names": [
+      "asr_fy23_sustainability_report.pdf"
+    ],
+    "primary_file_name": "asr_fy23_sustainability_report.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 151,
+    "total_text_length": 296944,
+    "usefulness_counts": {
+      "low_background": 151
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_51C8BD35B96E",
+    "file_names": [
+      "lecithin_emulsifier_chocolate_use.pdf"
+    ],
+    "primary_file_name": "lecithin_emulsifier_chocolate_use.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 6270,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "sugar",
+        "wrapper"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_535DD6E652B7",
+    "file_names": [
+      "asr_group_about_page.pdf"
+    ],
+    "primary_file_name": "asr_group_about_page.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3165,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "domino"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_55B0E1DB0BD6",
+    "file_names": [
+      "common_carrier_freight_explanation.pdf"
+    ],
+    "primary_file_name": "common_carrier_freight_explanation.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 2177,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_5BC712652F98",
+    "file_names": [
+      "pgpr_market_overview_reference.pdf"
+    ],
+    "primary_file_name": "pgpr_market_overview_reference.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 13,
+    "total_text_length": 25379,
+    "usefulness_counts": {
+      "low_background": 13
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_5E90ED0F32AB",
+    "file_names": [
+      "walgreens_hershey_1_55oz_price_page.pdf"
+    ],
+    "primary_file_name": "walgreens_hershey_1_55oz_price_page.pdf",
+    "packets": [
+      "retail_price_evidence"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5603,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "walgreens"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk",
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients",
+        "milk chocolate",
+        "nutrition facts",
+        "upc"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_5EE6EEAC2420",
+    "file_names": [
+      "pgpr_processing_polyglycerol_ricinoleic_acid_explanation.pdf"
+    ],
+    "primary_file_name": "pgpr_processing_polyglycerol_ricinoleic_acid_explanation.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 10,
+    "total_text_length": 19112,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 8
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "pgpr",
+        "soy lecithin",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_6152C93503AC",
+    "file_names": [
+      "hershey_responsible_sourcing_cocoa_page.pdf"
+    ],
+    "primary_file_name": "hershey_responsible_sourcing_cocoa_page.pdf",
+    "packets": [
+      "hershey_company"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 8269,
+    "usefulness_counts": {
+      "high_sku_evidence": 4,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_66F839469130",
+    "file_names": [
+      "hershey_pulp_and_paper_sourcing_data.pdf"
+    ],
+    "primary_file_name": "hershey_pulp_and_paper_sourcing_data.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 5807,
+    "usefulness_counts": {
+      "low_background": 3
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_672F3875D726",
+    "file_names": [
+      "hershey_sustainable_sugar_sourcing_policy.pdf"
+    ],
+    "primary_file_name": "hershey_sustainable_sugar_sourcing_policy.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 1885,
+    "usefulness_counts": {
+      "low_background": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_6ECEDE6AFBC2",
+    "file_names": [
+      "epa_hershey_land_o_lakes_pa_dairy_farms_2m_commitment.pdf"
+    ],
+    "primary_file_name": "epa_hershey_land_o_lakes_pa_dairy_farms_2m_commitment.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 6583,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "land o'lakes",
+        "target",
+        "usda"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_6F01C5426EEB",
+    "file_names": [
+      "usda_ers_sugar_sweeteners_yearbook_tables.xlsx"
+    ],
+    "primary_file_name": "usda_ers_sugar_sweeteners_yearbook_tables.xlsx",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 22,
+    "total_text_length": 44352,
+    "usefulness_counts": {
+      "low_background": 22
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_71BF5D9AF123",
+    "file_names": [
+      "barry_callebaut_hershey_supply_agreement_page.pdf"
+    ],
+    "primary_file_name": "barry_callebaut_hershey_supply_agreement_page.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 4835,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [
+        "barry callebaut",
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_71CE92D20645",
+    "file_names": [
+      "hershey_distribution_center_logistics_reference.pdf"
+    ],
+    "primary_file_name": "hershey_distribution_center_logistics_reference.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 8,
+    "total_text_length": 11985,
+    "usefulness_counts": {
+      "low_background": 1,
+      "medium_context_evidence": 7
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_73F44125570A",
+    "file_names": [
+      "hershey_latest_esg_sugar_section.pdf"
+    ],
+    "primary_file_name": "hershey_latest_esg_sugar_section.pdf",
+    "packets": [
+      "hershey_company"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 206,
+    "total_text_length": 424001,
+    "usefulness_counts": {
+      "low_background": 205,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_74966F03A6A3",
+    "file_names": [
+      "hershey_sugar_sourcing_page.pdf"
+    ],
+    "primary_file_name": "hershey_sugar_sourcing_page.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 7097,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [
+        "american sugar refining",
+        "asr",
+        "hershey",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_75DA5EE841E9",
+    "file_names": [
+      "hershey_sustainable_dairy_pa_2021_press_release.pdf"
+    ],
+    "primary_file_name": "hershey_sustainable_dairy_pa_2021_press_release.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 7856,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "land o'lakes"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_7A2EEB1A9F31",
+    "file_names": [
+      "soy_lecithin_market_price_reference.pdf"
+    ],
+    "primary_file_name": "soy_lecithin_market_price_reference.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 2544,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "lecithin",
+        "soy lecithin"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_7AD7B5853282",
+    "file_names": [
+      "Hersheyland-Explore-Hershey-Products.pdf"
+    ],
+    "primary_file_name": "Hersheyland-Explore-Hershey-Products.pdf",
+    "packets": [
+      "reference_only"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 4041,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "milk chocolate",
+        "upc"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_7FED8B7042EA",
+    "file_names": [
+      "usda_ams_dairy_market_news_weekly_report_latest.pdf"
+    ],
+    "primary_file_name": "usda_ams_dairy_market_news_weekly_report_latest.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 43,
+    "total_text_length": 90780,
+    "usefulness_counts": {
+      "low_background": 42,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "usda"
+      ],
+      "ingredients": [
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_88DAB6FD44D8",
+    "file_names": [
+      "cpg_distribution_center_explanation.pdf"
+    ],
+    "primary_file_name": "cpg_distribution_center_explanation.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 8,
+    "total_text_length": 13876,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_background": 3,
+      "medium_context_evidence": 4
+    },
+    "signals": {
+      "companies": [
+        "fda"
+      ],
+      "ingredients": [
+        "packaging",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_89FEEC7103A9",
+    "file_names": [
+      "eia_diesel_price_benchmark.pdf"
+    ],
+    "primary_file_name": "eia_diesel_price_benchmark.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5119,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "eia"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_8E60E28B0A31",
+    "file_names": [
+      "efsa_pgpr_e476_reevaluation.pdf"
+    ],
+    "primary_file_name": "efsa_pgpr_e476_reevaluation.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 41,
+    "total_text_length": 80244,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_background": 2,
+      "medium_context_evidence": 38
+    },
+    "signals": {
+      "companies": [
+        "efsa"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "milk",
+        "pgpr"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_8F85C09572BC",
+    "file_names": [
+      "hershey_cocoa_for_good_strategy.pdf"
+    ],
+    "primary_file_name": "hershey_cocoa_for_good_strategy.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 8640,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 4
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_920988DD536E",
+    "file_names": [
+      "Dairy-The-Hershey-Company-05-06-2026_02_22_PM.pdf"
+    ],
+    "primary_file_name": "Dairy-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+    "packets": [
+      "hershey_company"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 6402,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "land o'lakes",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_9232C3E84540",
+    "file_names": [
+      "usda_ams_dairy_monthly_averages_latest.pdf"
+    ],
+    "primary_file_name": "usda_ams_dairy_monthly_averages_latest.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 4268,
+    "usefulness_counts": {
+      "low_background": 3
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_940D070C225C",
+    "file_names": [
+      "bls_warehousing_storage_ppi_benchmark.pdf"
+    ],
+    "primary_file_name": "bls_warehousing_storage_ppi_benchmark.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 1168,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_9C88D07C6DBF",
+    "file_names": [
+      "usda_ams_advanced_class_prices_latest.pdf"
+    ],
+    "primary_file_name": "usda_ams_advanced_class_prices_latest.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 7,
+    "total_text_length": 13701,
+    "usefulness_counts": {
+      "low_background": 7
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_9F0DF6069C86",
+    "file_names": [
+      "fda_pgpr_gras_notice_inventory_page.pdf"
+    ],
+    "primary_file_name": "fda_pgpr_gras_notice_inventory_page.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 10486,
+    "usefulness_counts": {
+      "low_background": 5
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_A2C285FFEE37",
+    "file_names": [
+      "pgpr_industry_supplier_function_reference.pdf"
+    ],
+    "primary_file_name": "pgpr_industry_supplier_function_reference.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5930,
+    "usefulness_counts": {
+      "high_sku_evidence": 2,
+      "low_background": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_A5418FB79897",
+    "file_names": [
+      "usda_ams_national_dairy_products_sales_report_latest.pdf"
+    ],
+    "primary_file_name": "usda_ams_national_dairy_products_sales_report_latest.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 8367,
+    "usefulness_counts": {
+      "low_background": 5
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_A632502DE1F8",
+    "file_names": [
+      "usda_soybean_soybean_oil_price_benchmark.pdf"
+    ],
+    "primary_file_name": "usda_soybean_soybean_oil_price_benchmark.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3503,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "usda"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_A6A693D3495F",
+    "file_names": [
+      "pgpr_and_lecithin_chocolate_emulsifier_use.pdf"
+    ],
+    "primary_file_name": "pgpr_and_lecithin_chocolate_emulsifier_use.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 1581,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "pgpr"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_AB943BE3F9BC",
+    "file_names": [
+      "hershey_company_logo.png"
+    ],
+    "primary_file_name": "hershey_company_logo.png",
+    "packets": [
+      "brand_logo_assets"
+    ],
+    "source_types": [
+      "visual_ocr"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 66,
+    "usefulness_counts": {
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": false
+  },
+  {
+    "doc_id": "DOC_B28013FB1CA9",
+    "file_names": [
+      "dairy_ingredients_in_chocolate_explanation.pdf"
+    ],
+    "primary_file_name": "dairy_ingredients_in_chocolate_explanation.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 11,
+    "total_text_length": 20857,
+    "usefulness_counts": {
+      "high_sku_evidence": 6,
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "milk fat",
+        "packaging",
+        "skim milk",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "calories",
+        "ingredients",
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_B3858C187B41",
+    "file_names": [
+      "cocoa_beans_quality_requirements_processing_guide.pdf"
+    ],
+    "primary_file_name": "cocoa_beans_quality_requirements_processing_guide.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 146,
+    "total_text_length": 295152,
+    "usefulness_counts": {
+      "low_background": 145,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_B544BFB9CF00",
+    "file_names": [
+      "soybean_to_soy_lecithin_processing_explanation.pdf"
+    ],
+    "primary_file_name": "soybean_to_soy_lecithin_processing_explanation.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 4,
+    "total_text_length": 5813,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "lecithin",
+        "soy lecithin"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_B690BF25DADF",
+    "file_names": [
+      "fema_flavor_ingredient_library_page.pdf"
+    ],
+    "primary_file_name": "fema_flavor_ingredient_library_page.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 7,
+    "total_text_length": 12599,
+    "usefulness_counts": {
+      "low_background": 7
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_BA82764C244F",
+    "file_names": [
+      "land_o_lakes_community_impact_report.pdf"
+    ],
+    "primary_file_name": "land_o_lakes_community_impact_report.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3003,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "land o'lakes"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_BCA0BB066D42",
+    "file_names": [
+      "paperboard_packaging_market_overview_reference.pdf"
+    ],
+    "primary_file_name": "paperboard_packaging_market_overview_reference.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 9,
+    "total_text_length": 16090,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 8
+    },
+    "signals": {
+      "companies": [
+        "target"
+      ],
+      "ingredients": [
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_BF1CF5E24E2A",
+    "file_names": [
+      "034000002405_3.png"
+    ],
+    "primary_file_name": "034000002405_3.png",
+    "packets": [
+      "product_sku_1_55oz"
+    ],
+    "source_types": [
+      "visual_ocr"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 761,
+    "usefulness_counts": {
+      "high_sku_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "calories",
+        "milk chocolate",
+        "nutrition facts"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": false
+  },
+  {
+    "doc_id": "DOC_C035EBC878BA",
+    "file_names": [
+      "soy_lecithin_industry_supplier_reference.pdf"
+    ],
+    "primary_file_name": "soy_lecithin_industry_supplier_reference.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 2212,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "lecithin",
+        "soy lecithin"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C041385635A5",
+    "file_names": [
+      "milk_fat_butterfat_explanation.pdf"
+    ],
+    "primary_file_name": "milk_fat_butterfat_explanation.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 7841,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [
+        "eia"
+      ],
+      "ingredients": [
+        "milk",
+        "milk fat",
+        "skim milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C1E296D7AAAC",
+    "file_names": [
+      "trucking_rate_market_reference.pdf"
+    ],
+    "primary_file_name": "trucking_rate_market_reference.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 1625,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C2BD8E23F83C",
+    "file_names": [
+      "asr_sustainable_supply_chain_page.pdf"
+    ],
+    "primary_file_name": "asr_sustainable_supply_chain_page.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 2188,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "hershey"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C341E0016B61",
+    "file_names": [
+      "fda_lecithin_food_additive_or_gras_reference.pdf"
+    ],
+    "primary_file_name": "fda_lecithin_food_additive_or_gras_reference.pdf",
+    "packets": [
+      "soy_lecithin"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3362,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "fda"
+      ],
+      "ingredients": [
+        "lecithin",
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C5BF7969016D",
+    "file_names": [
+      "hershey_pulp_paper_supplier_mill_list.pdf"
+    ],
+    "primary_file_name": "hershey_pulp_paper_supplier_mill_list.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 5807,
+    "usefulness_counts": {
+      "low_background": 3
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C5E013D8DC8A",
+    "file_names": [
+      "fda_21_cfr_101_22_natural_flavor_definition.pdf"
+    ],
+    "primary_file_name": "fda_21_cfr_101_22_natural_flavor_definition.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 14,
+    "total_text_length": 25623,
+    "usefulness_counts": {
+      "high_sku_evidence": 3,
+      "low_background": 8,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "natural flavor",
+        "sugar",
+        "wrapper"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_C87C22CB90A7",
+    "file_names": [
+      "Cocoa-The-Hershey-Company-05-06-2026_02_25_PM.pdf"
+    ],
+    "primary_file_name": "Cocoa-The-Hershey-Company-05-06-2026_02_25_PM.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 7,
+    "total_text_length": 11767,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 5
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_CA4CD5A61616",
+    "file_names": [
+      "hershey_2025_10k_full.pdf"
+    ],
+    "primary_file_name": "hershey_2025_10k_full.pdf",
+    "packets": [
+      "hershey_company"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 55,
+    "total_text_length": 109285,
+    "usefulness_counts": {
+      "high_sku_evidence": 9,
+      "low_background": 11,
+      "medium_context_evidence": 35
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "mclane",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "milk",
+        "packaging",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_CD36102F0A4D",
+    "file_names": [
+      "land_o_lakes_logo_asset.png"
+    ],
+    "primary_file_name": "land_o_lakes_logo_asset.png",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "visual_ocr"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 88,
+    "usefulness_counts": {
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "land o'lakes"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": false
+  },
+  {
+    "doc_id": "DOC_CF8C4A1F434C",
+    "file_names": [
+      "hershey 1.55 oz page.pdf"
+    ],
+    "primary_file_name": "hershey 1.55 oz page.pdf",
+    "packets": [
+      "product_sku_1_55oz"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 7,
+    "total_text_length": 13187,
+    "usefulness_counts": {
+      "high_sku_evidence": 6,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "natural flavor",
+        "pgpr",
+        "skim milk",
+        "sugar",
+        "wrapper"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "calories",
+        "ingredients",
+        "milk chocolate",
+        "upc"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_D22719A8CDC8",
+    "file_names": [
+      "flexible_packaging_market_overview_reference.pdf"
+    ],
+    "primary_file_name": "flexible_packaging_market_overview_reference.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 16,
+    "total_text_length": 28926,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_background": 1,
+      "medium_context_evidence": 14
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "upc"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_D24FEC8E2E35",
+    "file_names": [
+      "usda_ers_sugar_market_outlook_latest.pdf"
+    ],
+    "primary_file_name": "usda_ers_sugar_market_outlook_latest.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 2970,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "usda"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_D9B23C06662B",
+    "file_names": [
+      "land_o_lakes_home_page.pdf"
+    ],
+    "primary_file_name": "land_o_lakes_home_page.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3852,
+    "usefulness_counts": {
+      "low_background": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "land o'lakes"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_DAEB12849174",
+    "file_names": [
+      "fema_gras_program_page.pdf"
+    ],
+    "primary_file_name": "fema_gras_program_page.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 11,
+    "total_text_length": 20093,
+    "usefulness_counts": {
+      "high_sku_evidence": 7,
+      "low_background": 2,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "fda"
+      ],
+      "ingredients": [
+        "natural flavor"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_DB66DBC968F9",
+    "file_names": [
+      "asr_group_home_page.pdf"
+    ],
+    "primary_file_name": "asr_group_home_page.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 2668,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 2
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "domino"
+      ],
+      "ingredients": [
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_DC5C9E72C77A",
+    "file_names": [
+      "land_o_lakes_2025_annual_report.pdf"
+    ],
+    "primary_file_name": "land_o_lakes_2025_annual_report.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 34,
+    "total_text_length": 64099,
+    "usefulness_counts": {
+      "low_background": 33,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "eia"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_E2BE0206EF0C",
+    "file_names": [
+      "usda_ams_class_iv_milk_price_reference.pdf"
+    ],
+    "primary_file_name": "usda_ams_class_iv_milk_price_reference.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 3434,
+    "usefulness_counts": {
+      "low_background": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "usda"
+      ],
+      "ingredients": [
+        "milk",
+        "skim milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_E2CBD160658D",
+    "file_names": [
+      "usda_ers_sugar_outlook_latest_pdf.pdf"
+    ],
+    "primary_file_name": "usda_ers_sugar_outlook_latest_pdf.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 16,
+    "total_text_length": 29553,
+    "usefulness_counts": {
+      "low_background": 16
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_E3E6C7C84910",
+    "file_names": [
+      "milk_processing_separation_explanation.pdf"
+    ],
+    "primary_file_name": "milk_processing_separation_explanation.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 90,
+    "total_text_length": 175072,
+    "usefulness_counts": {
+      "low_background": 90
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_E5889DB5914A",
+    "file_names": [
+      "Sugar-The-Hershey-Company-05-06-2026_02_22_PM.pdf"
+    ],
+    "primary_file_name": "Sugar-The-Hershey-Company-05-06-2026_02_22_PM.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 7097,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 3
+    },
+    "signals": {
+      "companies": [
+        "american sugar refining",
+        "asr",
+        "hershey",
+        "target"
+      ],
+      "ingredients": [
+        "chocolate",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_EBE512C33BCD",
+    "file_names": [
+      "domino_sugar_asr_brand_page.pdf"
+    ],
+    "primary_file_name": "domino_sugar_asr_brand_page.pdf",
+    "packets": [
+      "sugar"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 1909,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "asr",
+        "asr group",
+        "domino"
+      ],
+      "ingredients": [
+        "packaging",
+        "sugar"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_F0190DCF0884",
+    "file_names": [
+      "natural_flavor_declaration_fda_definition_reference.pdf"
+    ],
+    "primary_file_name": "natural_flavor_declaration_fda_definition_reference.pdf",
+    "packets": [
+      "natural_flavor"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 7,
+    "total_text_length": 13929,
+    "usefulness_counts": {
+      "low_background": 7
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_F203E734500B",
+    "file_names": [
+      "PCU484484.xlsx"
+    ],
+    "primary_file_name": "PCU484484.xlsx",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 1,
+    "total_text_length": 1121,
+    "usefulness_counts": {
+      "low_background": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_F398FB109346",
+    "file_names": [
+      "pgpr_function_in_chocolate_explanation.pdf"
+    ],
+    "primary_file_name": "pgpr_function_in_chocolate_explanation.pdf",
+    "packets": [
+      "pgpr"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 10,
+    "total_text_length": 18441,
+    "usefulness_counts": {
+      "high_sku_evidence": 5,
+      "low_short_text": 1,
+      "medium_context_evidence": 4
+    },
+    "signals": {
+      "companies": [
+        "fda",
+        "usda"
+      ],
+      "ingredients": [
+        "chocolate",
+        "cocoa",
+        "cocoa butter",
+        "lecithin",
+        "milk",
+        "pgpr",
+        "soy lecithin",
+        "sugar",
+        "wrapper"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "ingredients"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_F89879677373",
+    "file_names": [
+      "hershey_latest_esg_packaging_section.pdf"
+    ],
+    "primary_file_name": "hershey_latest_esg_packaging_section.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 206,
+    "total_text_length": 424001,
+    "usefulness_counts": {
+      "low_background": 205,
+      "low_short_text": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_F976C0BE2B9A",
+    "file_names": [
+      "usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf"
+    ],
+    "primary_file_name": "usda_fas_cote_divoire_cocoa_sector_overview_2025.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table"
+    ],
+    "chunk_count": 23,
+    "total_text_length": 46056,
+    "usefulness_counts": {
+      "low_background": 23
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": false,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_FD5AB5AB5E8F",
+    "file_names": [
+      "icco_cocoa_statistics_page.pdf"
+    ],
+    "primary_file_name": "icco_cocoa_statistics_page.pdf",
+    "packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 8212,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 4
+    },
+    "signals": {
+      "companies": [
+        "icco"
+      ],
+      "ingredients": [
+        "cocoa"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_FDA0D8F4DCE2",
+    "file_names": [
+      "mclane_company_facts_reference.pdf"
+    ],
+    "primary_file_name": "mclane_company_facts_reference.pdf",
+    "packets": [
+      "logistics_distribution"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 5,
+    "total_text_length": 7846,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 4
+    },
+    "signals": {
+      "companies": [
+        "mclane"
+      ],
+      "ingredients": [],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_FE10C8C34BF6",
+    "file_names": [
+      "bls_ppi_packaging_materials_benchmark.pdf"
+    ],
+    "primary_file_name": "bls_ppi_packaging_materials_benchmark.pdf",
+    "packets": [
+      "packaging_wrapper"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 2,
+    "total_text_length": 953,
+    "usefulness_counts": {
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [],
+      "ingredients": [
+        "packaging"
+      ],
+      "claim_terms": [],
+      "sku_terms": [],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  },
+  {
+    "doc_id": "DOC_FEA243351909",
+    "file_names": [
+      "alliance_sustainable_dairy_pa_page.pdf"
+    ],
+    "primary_file_name": "alliance_sustainable_dairy_pa_page.pdf",
+    "packets": [
+      "dairy_milk_skim_milk_milk_fat"
+    ],
+    "source_types": [
+      "text_or_table",
+      "visual_ocr"
+    ],
+    "chunk_count": 3,
+    "total_text_length": 3642,
+    "usefulness_counts": {
+      "high_sku_evidence": 1,
+      "low_short_text": 1,
+      "medium_context_evidence": 1
+    },
+    "signals": {
+      "companies": [
+        "hershey",
+        "land o'lakes"
+      ],
+      "ingredients": [
+        "chocolate",
+        "milk"
+      ],
+      "claim_terms": [],
+      "sku_terms": [
+        "milk chocolate"
+      ],
+      "cost_terms": []
+    },
+    "has_visual_ocr": true,
+    "has_text_or_table": true
+  }
+]

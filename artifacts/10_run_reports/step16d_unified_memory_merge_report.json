@@ -1,0 +1,41 @@
+{
+  "run_name": "step16d_unified_memory_merge",
+  "run_time": "2026-05-09T19:52:57",
+  "root": "D:/HersheySupplyChainAI",
+  "original_text_rows_seen": 1901,
+  "visual_ocr_rows_seen": 402,
+  "unified_chunks_created": 2303,
+  "documents_in_unified_memory": 116,
+  "duplicates_removed": 0,
+  "source_type_counts": {
+    "text_or_table": 1901,
+    "visual_ocr": 402
+  },
+  "usefulness_counts": {
+    "high_sku_evidence": 90,
+    "low_background": 1900,
+    "low_short_text": 72,
+    "medium_context_evidence": 241
+  },
+  "packet_counts": {
+    "brand_logo_assets": 1,
+    "cocoa_chocolate_cocoa_butter": 624,
+    "dairy_milk_skim_milk_milk_fat": 376,
+    "hershey_company": 283,
+    "logistics_distribution": 93,
+    "natural_flavor": 267,
+    "packaging_wrapper": 246,
+    "pgpr": 105,
+    "product_sku_1_55oz": 10,
+    "reference_only": 3,
+    "retail_price_evidence": 12,
+    "soy_lecithin": 30,
+    "sugar": 253
+  },
+  "unified_chunks_jsonl": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_chunks.jsonl",
+  "unified_chunks_summary_csv": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_chunks_summary.csv",
+  "unified_document_memory_json": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_document_memory.json",
+  "unified_document_memory_summary_csv": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_document_memory_summary.csv",
+  "manifest_json": "D:/HersheySupplyChainAI/artifacts/11_unified_memory/unified_memory_manifest.json",
+  "next_step": "Step 16E: build local vector/RAG index from unified_chunks.jsonl."
+}
