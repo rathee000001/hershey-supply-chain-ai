@@ -1,0 +1,47 @@
+{
+  "doc_id": "DOC_7A2EEB1A9F31",
+  "file_name": "soy_lecithin_market_price_reference.pdf",
+  "packet": "soy_lecithin",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_7A2EEB1A9F31.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2230,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "soy lecithin",
+      "lecithin"
+    ],
+    "supply_chain_terms": [
+      "products",
+      "retail",
+      "price",
+      "cost",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7A2EEB1A9F31/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7A2EEB1A9F31/page_001.png",
+      "sha256": "626bc012b69fad443c8cce11c2edc02a4fd4f115d4559573be0b8112f8531d78",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "oogle Market price page for soy lecithin if freely available x EAA\nAlMode All Shopping Shortvideos Images Forums Videos More ~ Tools ~\n+> Al Overview :\nMarket prices for soy lecithin are available through several industrial, wholesale, and\nretail platforms. Prices vary based on whether it is liquid or powder, and whether it is for Pure Liquid Soy Lecithin Gluten-Free Vegan .\nindustrial or food-grade use. @ OU Kosher Certified Bs\nB\nIndustrial & Wholesale Prices (Bulk) BS as Be EET aa a\n+ Made-in-China.com: Lists wholesale soy lecithin liquid for US $1.00-$2.87 per kg. Ape :\n* Alibaba.com: Offers various food-grade liquid and powder soy lecithin options, with\nprices commonly ranging between $1.30-$20 per kg, depending on purity and BulkSupplements.com Soy Lecithin Powder - a7\nAmazon.com sor\nvolume. wera\nBulkSupplements.com Soy Lecithin Powder - Lecithin abe\n« SupplyLeader.com: Tracks wholesale prices for liquid and powder ‘Supplement, Nutritional Supplement, Food Grade -... bold\nlecithin. 4 Madein-China.com +3 a ‘com ;\nIndustry Price Trends\nSoy Lecithin Market Size, Share | Analysis\n* Procurement Resource: Provides market price trends and analysis, noting a price of Report [2033]\napproximately 1293 USD/MT (FOB) in the US market as of March 2024. @ Dec 15, 2024 — For example, in the fourth quarter of\n2021, Deoiled Soya Lecithin Powder costs were...\nRetail & Small-Batch Prices\n@ SkyQuest Technology :\n+ Amazon.com: Retails food-grade soy lecithin powder (e.g., BulkSupplements) and\nliquid (e.g., Modernist Pantry). Show all\n« Etsy.com: Offers various, often non-GMO, liquid and powder lecithin, with smaller\nquantities (e.g., 250g) ranging around $11-$16. @ Amazon.com +4\nKey Price Factors\n+ Form: Liquid lecithin is generally less expensive than deoiled powder.\n* Type: Non-GMO, Organic, and Sunflower lecithin (a soy alternative) often command\nhigher prices than standard soy lecithin.\n+ Market Trends: Global prices are influenced by soy production, particularly in China\nand the US. @ Amazon.com +4\nPrices and availability are subject to change, especially for wholesale and commodity\nproducts.\nAlcan make mistakes, so double-check responses Oo < ® Q :\nAsk anything\n¥",
+      "ocr_text_length": 2190,
+      "word_count": 340,
+      "avg_confidence": 86.58,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_7A2EEB1A9F31.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_7A2EEB1A9F31.visual_ocr.json",
+  "created_at": "2026-05-09T19:40:02"
+}

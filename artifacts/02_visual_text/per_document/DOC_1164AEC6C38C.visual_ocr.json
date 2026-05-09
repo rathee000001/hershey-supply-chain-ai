@@ -1,0 +1,52 @@
+{
+  "doc_id": "DOC_1164AEC6C38C",
+  "file_name": "natural_flavor_function_in_food_explanation.pdf",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_1164AEC6C38C.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 4377,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "fda"
+    ],
+    "ingredients": [
+      "sugar",
+      "cocoa",
+      "chocolate",
+      "milk",
+      "natural flavor"
+    ],
+    "supply_chain_terms": [
+      "sourcing",
+      "sustainability",
+      "ingredient"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1164AEC6C38C/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1164AEC6C38C/page_001.png",
+      "sha256": "26ac44cc2a19474fb4f7fa116ad8144101640483f9d98921290ff7b461094fb7",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "The °\nHOME SHOP + ABOUT¥ STORELOCATOR THECIRCLE Conscious Qe\nBar\nThe Truth About “Natural Flavor” in\n© Feb 26,2026 © By Yaniv Simpson\n: INEAN:\nIf you’ve ever turned over a chocolate bar and seen the words “natural flavor’ on the ingredient list, you\nprobably assumed it was a good thing.\nAfter all, “natural” sounds safe. Clean. Better than artificial.\nBut the reality is more nuanced.\nHere's what “natural flavor’ actually means and what it doesn't.\nWhat Is a Natural Flavor?\nAccording to the FDA, natural flavors are substances derived from plant or animal materials such as:\ne Fruits\n« Vegetables\n« Spices\ne Herbs\ne Bark\n« Roots\n« Dairy\n« Edible yeast\nThey're extracted through processes like heating, roasting, distilling, or enzymatic treatment.\nThe key distinction: the flavor must originate from a natural source, rather than being fully synthesized in a\nlab.\nThat’s where the clarity ends.\n“Natural flavor’ is legally allowed to represent a proprietary blend.\nManufacturers are not required to disclose the specific compounds inside that blend, unless it contains\none of the top major allergens (like milk, soy, peanuts, etc.).\nThat means:\n« The exact source may not be clear\n« The processing aids may not be listed\n« The stabilizers or solvents used may not appear on the label\nThe phrase can represent dozens of individual compounds combined into a single flavor system.\nWhat's A lly Inside aN 1 Fl\nat’s Actually Inside a Natural Flavor\nBlend?\nWhile the original source must be natural, the final mixture can contain incidental additives such as:\ne Propylene glycol (solvent)\n« Preservatives\n« Emulsifiers\ne Stabilizers\nIn some cases, these additives can make up 80-90% of the final flavor mixture.\nThese ingredients do not need to be individually listed.\nit) 99 =\nNatural Chocolate Flavor” Isn't Always\nCocoa\nThis surprises many people.\n“Natural chocolate flavor’ may not come directly from cocoa beans. It can be a blend of other natural\nextracts (such as vanilla or malt derivatives) designed to replicate or enhance chocolate notes.\nIt's about taste, not necessarily more cacao.\nAre Natural Flavors Safe?\nGenerally, yes.\nThey are classified as GRAS (Generally Recognized as Safe) by the FDA for the general population.\nHowever: c\n3\ne They offer no meaningful nutritional value 3\n2\ne They may contain undisclosed allergens (outside required disclosures) g\n« Some individuals report sensitivities (migraines, digestive discomfort, dizziness) 3\n« They are engineered to enhance palatability, which may influence appetite and g\n* cravings\nFor vegans or vegetarians, it’s also worth noting that natural flavors may sometimes be animal derived. x)\nAre There Any Benefits?\nThe primary benefit is consistency and taste enhancement.\nNatural flavors help manufacturers:\n¢ Standardize flavor across batches\n¢ Improve aroma\n« Intensify sweetness perception without adding sugar\nSome extracts (like vanillin or cinnamaldehyde) may retain trace antioxidant or anti-inflammatory\nproperties, but these are typically present in very small amounts.\nThe issue with “natural flavor’ isn't necessarily safety. It’s transparency.\nWhen a label says “natural flavor,” you don’t truly know:\n« What exact compounds are used\n« How they were processed\n« What stabilizers support them\nFor consumers who prioritize simplicity, shorter ingredient lists often mean fewer unknowns.\nFinal Takeaway\n“Natural flavor’ doesn’t automatically mean unhealthy.\nBut it doesn’t mean whole, simple, or minimally processed either.\nIt's a regulatory term, not a purity guarantee.\nAnd when it comes to food labels, clarity is power.\nSources\n¢ GoodRx. What Are Natural Flavors?\n¢ Holland Hospital. What Are Natural Flavors and Are They Bad for You?\ne EatingWell. What Are Natural Flavors?\n¢ National Center for Biotechnology Information (PMC12082435)\n« National Center for Biotechnology Information (PMC10894155)\nShare f X P @\n=> Reading next\nProcessed Suga\nWhat Does “Processed Sugar” Actually Does Chocolate Have to Spike Your Blood\nMean? Sugar?\n© Feb18,2026 © Yaniv Simpson © Feb27,2026 ©@ Yaniv Simpson\nLeave a comment\nThis site is protected by hCaptcha and the hCaptcha Privacy Policy and Terms of Service apply.\nName E-ma\nMessage\nSign up to our newsletter Pages Others Support\nHome FAQ Contact\nSustainability Privacy Policy\nSourcing Affiliate Progran\nBlogs\nf @ dg in",
+      "ocr_text_length": 4337,
+      "word_count": 686,
+      "avg_confidence": 89.31,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1164AEC6C38C.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1164AEC6C38C.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:42"
+}

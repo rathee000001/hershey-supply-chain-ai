@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_A632502DE1F8",
+  "file_name": "usda_soybean_soybean_oil_price_benchmark.pdf",
+  "packet": "soy_lecithin",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_A632502DE1F8.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3189,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "usda"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "products",
+      "price",
+      "market",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A632502DE1F8/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A632502DE1F8/page_001.png",
+      "sha256": "687e75e1f040d6ac78e21a49b4e3a3aa58c22672bb4f8d32cf4020c5ed7fbdb5",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "= An official website of the United States government Here’s how you know v\nUSDA Economic Research Service Calendar About Careers Contact Us\nMMMM US. DEPARTMENT OF AGRICULTURE ee ° |\nTopics | Data- Analysis~y | Newsroom~ | Amber Waves\nHome > Topics » Crops >» Soybeans and OilCrops >» Market Outlook\ne\nSoybeans and Oil Crops - Market Outlook\nUpdated: 4/14/2026 Contact: Maria Bukowski or Bryn Swearingen\nIn this section - See the latest Soybeans and Oil Crops Outlook report.\nOverview\n2025/26 U.S. Soybean Crush Is Forecast To Reach\nOil Crops Sector at a Glance\nNew Record\n| Market Outlook\noye The U.S. soybean crush for marketing year (MY) 2025/26 is raised by 35 million bushels, to a record high of 2.61 billion\nRelated Data & Statistics . . ; . . .\nbushels, on higher domestic use for soybean meal and soybean oil. The higher use of soybeans domestically is offset by\nlower exports. The U.S. soybean export forecast is reduced this month by 35 million bushels to 1.54 billion bushels, on\nhigher soybean exports from Brazil. U.S. soybean ending stocks for MY 2025/26 are unchanged this month and stand at\n350 million bushels. The soybean season-average price received by farmers forecast is raised from $10.20 per bushel to\n$10.30 per bushel. Soybean meal and soybean oil prices are raised this month to $310 per short ton and 59 cents per\npound, respectively.\nInternationally, global sunflowerseed production is raised this month by 0.6 million metric tons to 54.7 million metric\ntons—on higher production in Russia, China, the European Union, and South Africa—more than offsetting lower\nproduction in Turkey. With higher sunflowerseed supply, the global sunflowerseed crush forecast for MY 2025/26 is\nraised by 0.5 million metric tons to 49.6 million metric tons (on higher crush for Russia, China, and South Africa).\nSunflowerseed crush in Russia is increased to a record of 16.7 million metric tons, on strong demand for sunflowerseed\nproducts.\nBrazil’s soybean export and crush forecasts for MY 2025/26 are raised to record highs of 115 million tons and 61.5 million\nmetric tons, respectively, on larger supply, due to revised higher carry over and imports, and a record crop of 180 million\nmetric tons (unchanged this month).\nry , 7) 4 . _ rr 4 } %\\ . “al a e ™ 7 \"i . 7 ay 1. Pa ee ee\n7 We'd ] ‘ oy Lt DN IV 1\\M¥ y! 5 .¢ *\n| r taf | e'd welcome your ’ my | ry \\ ay , Yr ig “Jk ;\n, Aa ‘lb WHE feedback! a. MTS > N/E ee y'bte OF\n' \\ \\\" I « { wy /, Would you be willing to answer a few quick questions Ney yh) 4] | in | Y\\' '\\\\ \\ 4 ( i4 (7, | 4 ¢ a °\nf NY j % about your experience? y y uf Y i \\ ; f ge’ 4 pb \\eay 4 ° h\n} oa! | A 4 1 ry | } , i , ee,\niy 4 \\ ‘| \\ f Yes, I'll give feedback Wl B\\i WW ] MY Ai | | MIAN 7\nUY i aS \\ \\vé@ ’ f \\ iy a | wy /\niD =) dl : ' j j i) \\ \\/f Wy \\ 4\n) / iy i bf 4 i \\ 4\n} f Ved 4 | \\ WY \\ ais \\ i \\ } J s\nReturn to top\nERS Links USDA Links ERS E-newsletters\nAccessibility FOIA Subscribe 7\nCareers Non-Discrimination\nStatement @\nContact Us\nPlain Writing &\nHelp\n. . Report Fraud @\nInformation Quality\nPrivacy Policy USDA.gov &\nSite Map USA.gov 4\nWhite House.gov &\nUSDA . ;\ngag ~EConomic Research Service xX in]",
+      "ocr_text_length": 3149,
+      "word_count": 628,
+      "avg_confidence": 73.86,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_A632502DE1F8.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_A632502DE1F8.visual_ocr.json",
+  "created_at": "2026-05-09T19:42:18"
+}

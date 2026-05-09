@@ -1,0 +1,50 @@
+{
+  "doc_id": "DOC_400268FDC92A",
+  "file_name": "nonfat_dry_milk_skim_milk_explanation.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_400268FDC92A.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 5028,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "chocolate",
+      "milk",
+      "skim milk",
+      "packaging"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sustainability",
+      "ingredient",
+      "products"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_400268FDC92A/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_400268FDC92A/page_001.png",
+      "sha256": "4a407c3846cfa6451feac74d76792a022137e31640cff6c6f210aa45934cf4b2",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "7 Portugués TiéngViét Espafol Baas stSO} py i a\ni e e ;\n! hink USA Dairy Search for LQ | ;\n\nDiscover U.S. Dairy Supplier Search Using Dairy Nutrition & Trends About USDEC\nDiscover U.S. Dairy U.S. DAIRY PRODUCTS > MILK POWDERS > MILK POWDER CATEGORIES\nJe See eens, Non-fat Dry Milk & Skim Milk\nIndustry Facts and Figures d\nU.S. Dairy Products P O Ww € r\nSutter & Milkist Product Definition\nCheese\nLact Nonfat dry milk and skimmed milk powder are very\nactose similar but are defined by two different sets of\nMilk Powders regulations and authorities. NDM is defined by the U.S. >\nWhy US. Milk Powe Food and Drug Administration, while SMP is defined by\ny ue Powaer CODEX Alimentarius. Both are obtained by removing\nMilk Powder Categories water from pasteurized skim milk. Both contain 5% or y | 4\nNon-fat Dry Milk & Skim Milk less moisture (by weight) and 1.5% or less milkfat (by J\non rym imMu weight). The difference is that skimmed milk powder has\nPowder a minimum milk protein content of 34%, whereas nonfat f\ndry milk has no standardized protein level. oe\nDry Whole Milk & Whole Milk “\nPowder Nonfat dry milk and skimmed milk powder are classified\nbry Buttermillc & Buttermille Pow for use as ingredients according to the heat treatment\nry Butters urtermile Fowaer used in their manufacture. There are three main classifications: high-heat, medium-\nFunctional Properties heat and low-heat. Spray-dried nonfat dry milk and skimmed milk powders are\navailable in two forms: ordinary or non-agglomerated (non-instant) and agglomerated\nHealth & Nutrition °\n(instant).\nUsing Milk Powder\nCommon Questions Typical Applications\nMilk Proteins For bakery, confectionery, dairy, meat products, and prepared mixes as:\nPermeate\ne An economical source of nonfat dairy solids\nWhey Protein & Ingredients e Asource of functional dairy solids\nYogurt e High-heat nonfat dry milk & skimmed milk powder is important for good loaf\nvolume in breads\nQuality Assurance e Low-heat nonfat dry milk & skimmed milk powder is important for optimizing\nsensory properties in dairy foods and beverages\nSustainability & Stewardship ¢ A partial replacement for whey protein concentrate that provides similar\nconcentrations of lactose but different types of protein and minerals/ash\nIndustry Links ¢ Aneasily transported and stored dairy ingredient\nTypical Composition\nProtein 34.0% - 37.0%\nLactose 49.5% - 52.0%\nFat 0.6% - 1.25%\nAsh 8.2% - 8.6%\n. 3.0% - 4.0% (non-instant)\nMoisture 3.5% - 4.5% (instant)\nPhysical and Chemical Characteristics\nTypical Microbiological Analysis:\nStandard plate count < 10,000 cfu/g*\nColiform < 10/g (maximum)\nE.coli Negative\nSalmonella Negative\nListeria Negative\nCoagulase-positive staphylococci Negative\nOther Characteristics:\n. 7.5 - 15.0mg (spray-dried)\nScorched particle content 225mg (roller-dried)\nTitratable acidity 0.14 - 0.15%\n1.0 ml (instant)\na. 1.2 ml (spray-dried, low-heat) 2.0 ml\nSpiele fiay antes: (spray-dried, high-heat)\n15.0 ml (roller-dried)\nColor White to light cream color\nFlavor Clean, pleasing dairy flavor\n*Extra grade\nPackaging\nStitched or glued, multiwall kraft bag with polyethylene inner liner. No staples or metal\nfasteners. Also available in plastic-lined corrugated paperboard or aluminum tote bins.\nStorage\nShip and store in a cool, dry environment at temperatures less than 27°C and relative\nhumidity less than 65%. The shelf life of non-instant nonfat dry milk powder is 12-18\nmonths; instant is 6-12 months. Note that storage life is very dependent on storage\nconditions, and that this figure is only a guide. Under ideal conditions, non-instant\nnonfat dry milk powder can retain its physical and functional properties for at least two\nyears; however, quality will be impaired if temperatures and humidity are too high and\nstorage is extended. For more information on milk powders, please see our Milk\nPowder Storage Fact Sheet.\nRecommended Uses of a Function of Heat Treatment\nTypical Processing TreatmentUndenatured Whey Protein Nitrogen*\n(mg/g)Recommended Applications\naaa Typical Processing eee bey Recommended\nClassification Treatment Protein Nitrogen Applications\n(mg/g) 3\nFluid milk\nCumulative heat igeniitesition\ntreatment of milk Goi ENESES,\nLow-heat > 6.00 cultured skim milk,\nnot more than 70°C\n: starter culture,\nfor 2 minutes A\nchocolate dairy\ndrinks, ice cream\nCumulative heat Prepared mixes, ice\n- treatment of 70 cream,\nMedium-heat -78°C for 20 151-5.99 confectionery, meat\nminutes products\nCumulative heat paar cer\nHigh-heat treatment of 882°C << 1.50 oven Cet\nfor 30 minutes eel aa\nmixes\n* Higher temperatures and/or extended holding times contribute directly to whey protein denaturation. This index is used\nas a measure of the cumulative heat effects during processing of nonfat dry/skimmed milk powder.\nContact U.S. Dairy Export Council | For Media | Privacy, Policies, and Civil Rights Compliance | Disclaimer | Site Map\n© 2025 U.S. Dairy Export Council. Alll rights reserved Managed by Dairy Management Inc. ™\nFollow us on social media",
+      "ocr_text_length": 4988,
+      "word_count": 781,
+      "avg_confidence": 87.28,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_400268FDC92A.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_400268FDC92A.visual_ocr.json",
+  "created_at": "2026-05-09T19:37:57"
+}

@@ -1,0 +1,51 @@
+{
+  "doc_id": "DOC_26064332B82F",
+  "file_name": "hershey_pulp_paper_page.pdf",
+  "packet": "packaging_wrapper",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_26064332B82F.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3245,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [
+      "chocolate",
+      "packaging"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourcing",
+      "sourced",
+      "sustainability",
+      "sustainable",
+      "products",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_26064332B82F/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_26064332B82F/page_001.png",
+      "sha256": "ff3ca0c53b938f316661e2ab8c2110bf64514d913ecf897d5c7fba5972e2e866",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "CAREERS MEDIA NVESTORS\nHERSHEY.\nf% > Home Sustainability > Sustainability Issues\nPulp and paper-based packaging is integral to Hershey's business. We use it as food packaging,\nwrapping, transportation and marketing for our well-loved brands. The forests that provide the . ee\nmaterial for these products serve as important reservoirs of greenhouse gases, provide important Sustainability\nhabitats and biodiversity, and support livelihoods for local communities. Issues\nSustainable forest management is crucial to protecting this vital resource, which is why Hershey is Our actions are informed by the\ncommitted to responsibly sourcing recycled materials and certified virgin fibers for our products. issues that matter to our business\nand stakeholders. We are focused on\ne the issues where we can make the\nOur Responsible Pulp and Paper greatest impact.\ne\nSourcing Approach\nWe are committed to achieving a responsibly sourced pulp and paper packaging (virgin fiber and\nrecycled) supply chain that is free from deforestation, peatland development and worker\nexploitation. Our Responsible Pulp & Paper Sourcing Policy outlines our virgin fiber sourcing\nrequirements and expands our responsible sourcing goals to our global supply chain. Progress on\nese\nPriorities\nSince 2020, we have obtained 100 percent of the pulp and paper sourced for products from TT\nrecycled material or certified mills. We are now working to source 100 percent of our pulp and We are working toward several\npaper packaging from recycled or certified sources globally by 2025. Hershey accepts the ambitious goals designed to help us\nfollowing certification standards: Forest Stewardship Council, Programme for Endorsement of create a stronger, more resilient\nForest Certification or the Sustainable Forestry Initiative. business. We publicly track and\nreport our progress to stay\nStarting in 2023, through our collaboration with Earthworm Foundation, we are gathering transparent and accountable.\ninformation on mill level data for our recycled and virgin fiber supply chains and country of\nharvest data for the virgin fiber we source; and are analyzing our exposure to deforestation, forest\ndegradation and social conflicts.\nWe continue to provide transparency by annually publishing our list of pulp and paper suppliers\nand mill groups that supply to our global operations.\nTo learn more about Hershey’s packaging, please visit the Sustainable Packaging section of our\nwebsite.\n— \\- ,\n— aii hd _ MBS eer om Ea ,\na! “ hi Wa MAA! is Oy) gat UF FR KN |\nSUSTAINABILITY @ HERSHEY » : y A RES Via Bs fie iP | e\ne ge ~ VEAL AES 1\nRelated Topics LN 4, i Wis ag V a\nSA, SSA: Srrve verry ,\nOur People Responsible Sourcing Human Rights Youth\n< >\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nHERSHEY < CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD breeches\nFAQ HERSHEYPARK PRODUCT LOCATOR\nis\nf X linn >) RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCID HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMIT AN IDEA\nSUPPLIERS\nDO NOT SELL OR SHARE MYPERSONALINFORMATION = PRIVACYPOLICY = TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.\nWEBACCESSIBILITY | COOKIE PREFERENCES",
+      "ocr_text_length": 3205,
+      "word_count": 504,
+      "avg_confidence": 85.62,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_26064332B82F.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_26064332B82F.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:35"
+}

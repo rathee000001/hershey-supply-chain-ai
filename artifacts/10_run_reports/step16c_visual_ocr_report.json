@@ -1,0 +1,17 @@
+{
+  "run_name": "step16c_visual_ocr_parser",
+  "run_time": "2026-05-09T19:48:11",
+  "root": "D:/HersheySupplyChainAI",
+  "ocr_engine": "tesseract_local",
+  "tesseract_cmd": "C:\\Program Files\\Tesseract-OCR\\tesseract.EXE",
+  "stage05_documents_seen": 120,
+  "documents_with_visual_ocr_attempted": 93,
+  "documents_with_visual_text": 91,
+  "total_pages_or_images_ocr_attempted": 197,
+  "total_pages_or_images_ocr_success": 196,
+  "total_visual_ocr_chunks": 402,
+  "visual_ocr_documents_json": "D:/HersheySupplyChainAI/artifacts/02_visual_text/visual_ocr_documents.json",
+  "visual_ocr_chunks_jsonl": "D:/HersheySupplyChainAI/artifacts/02_visual_text/visual_ocr_chunks.jsonl",
+  "visual_ocr_summary_csv": "D:/HersheySupplyChainAI/artifacts/02_visual_text/visual_ocr_summary.csv",
+  "next_step": "Step 16D: merge visual OCR chunks with existing text chunks into unified parser memory."
+}

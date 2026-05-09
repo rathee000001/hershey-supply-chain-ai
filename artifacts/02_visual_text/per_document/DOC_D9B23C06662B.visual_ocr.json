@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_D9B23C06662B",
+  "file_name": "land_o_lakes_home_page.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_D9B23C06662B.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3539,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "land o'lakes"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "supplier",
+      "sustainable",
+      "products",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D9B23C06662B/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_D9B23C06662B/page_001.png",
+      "sha256": "2759977e260d0c16f353dc2e4e1a172e1c954d86015d2f616c9160bac437391d",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "MEMBERS ¥ | PRESS\n7\nLAND IN) LAKES INC. WHO WE ARE WHAT WE DO OUR IMPACT CAREERS NEWS & FEATURES\nROOTED IN TOMORROW\nU\n: QV\n-\nA .\n*\n4\n, * |\né..\nan - :\n=>\n7\n> a\nQQ WE'VE ALWAYS DONE THINGS DIFFERENTLY.\n| :\n=\n: WE WERE FOUNDED BY FARMERS WHO BELIEVED THAT\nia\n[of\nfe)\n=\nfe)\n: YOU WORK BETTER WHEN YOU WORK TOGETHER\n=\na a\nrT\n8\n9 As the world changes around us, our cooperative has remained\nrooted in this belief, allowing us to grow and achieve far more\n| than our founders had envisioned. And we're proud to say,\nwe're just getting started.\nma /\n(> ' i ZS. EGS/ KCTS\n{ &- - Being a co-op means our owners have their boots on the ‘S | ! ;\n. é\n= ae ground. This unique business model allows us to use the — i j\nee : “ power of teamwork, shared resources and decades of E AL ray >:\nSe ee ‘ know-how to help our members and communities thrive. 5 Jf Vi =? 2\nNet Desiree ae See DISCOVER OUR STORY ‘ a\nones Tay As tS - ” ~ - : ——\na y, ; ~ y ~ 23s = \\ e/ . 24, 1 4\ni» XK ® MEMBER-OWNERS EMPLOYEES © > b 4 ¢\nGAY ge is |X as\naS? Rg OM q pw\neT Anas ig i ee\nSy SSL hae? the @ 0 hi r I] a a a\nORs Bee = illion million million\n4% ‘ J A Se om. | of r |\nrss port \"ee ays wO$ e\n5M WIS lool By \"ve KIS IN NET SALES RETURNED TO MEMBERS DONATED\nOr Ss °\n. is 5 \" c =. hy) i;\nSA Oe ee a eee HF — , AM on\nXV \\ ie sovances Qe . aad a ss 4 a 5 ’ Zz gay Nad\nan \"SHER PLOT K > from CLES | ta ' (fP I Wi\n— . SS N —— = 4 <a - J 7 x é 9 a hy ¥ Wi NN \\ ’ N\na a a = oe ? \\ e ¥ ¥\nOur work spans across the agriculture industry, so there’s a good\nchance you already know and love some of our brands. From\ndelicious dairy products and nutritious animal feeds, to innovative\ncrops and sustainable programs, there’s even more for you to\ndiscover.\nLEARN MORE\nWe believe success shouldn’t only be\nmeasured in financials and figures, but also in\nstories told and lives changed. That’s why\nwe’re using our voice to elevate the ongoing\nwork our farmers, members and employees\nare doing in their communities and beyond.\nWII = | (is ~~\n44 . \\\nY IMPACT LOL @ SxSw IN THE NEWS MOST INFLUENTIAL\nANNUAL REPORT THINK OF RURAL O'LAKES TIMEI00 LIST\nDIVE DEEPER > READ MORE > READ MORE > READ MORE IN TIME > E\n—\nCAREERS AT LAND O'LAKES\nAcross the country and around the world,\nour team is redefining the future of agriculture.\n7 . > ~~ » Se\n‘y | x Land o'Lakes .\n\\ + _ _ \\ : v7 Kiel, N .\n37 = «=! ¥\n\\ . & e ¢ és g> ‘\n{ { ‘ ( Xs\" ; = Oe\n\\ taddddis! % . ¥\n\\ cme \\, i aa iG TA | .\nPEOPLE PEOPLE BUSINESS BUSINESS\n— Stronger After The Storm Turning Passion Into Land O'Lakes And Two Care\naie After a devastating tornado, a Impact Vermont Creamery Years An\n< ? Tennessee family farm rebuilds with Our employee grantmaking group Recognized At World Impact\n' , Championship Cheese\nthe support of Armor® Seed and strengthens Land O'Lakes Contest Two employ\nWinField United communities with hands-on experience s\nphilanthropy This year's contest received over opportunity\n3,300 entries from 25 countries in150 what it mear\nclass categories\nREAD MORE — READ MORE — READ MORE — READ MORE\n@\nROOTED IN TOMORROW\"\nWHO WE ARE California Supply Chain Contact Us\nAct\nWHAT WE DO 4001 Lexington Ave. N.\nInvestors Arden Hills, MN 55126-2998\nOUR IMPACT ‘in) Privacy Notice 800 328 9680 / 651375 2222\nCAREERS . ;\nSupplier Quality Contact Land O'Lakes, Inc.\nNEWS & FEATURES £)\nStatement on Human\nTrafficking and Slavery Contact Dairy Foods Customer Service\n=apeher Presa Contact Government Relations\nCode of Conduct\nTerms Of Use\nYour Privacy Choices © 2026 Land O'Lakes, Inc.\na ©",
+      "ocr_text_length": 3499,
+      "word_count": 757,
+      "avg_confidence": 68.34,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_D9B23C06662B.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_D9B23C06662B.visual_ocr.json",
+  "created_at": "2026-05-09T19:46:18"
+}

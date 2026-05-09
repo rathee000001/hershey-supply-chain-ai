@@ -1,0 +1,49 @@
+{
+  "doc_id": "DOC_1E0944AC1DC5",
+  "file_name": "asr_hershey_learn_to_grow_belize.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_1E0944AC1DC5.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3098,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "asr",
+      "asr group"
+    ],
+    "ingredients": [
+      "sugar"
+    ],
+    "supply_chain_terms": [
+      "sustainability",
+      "sustainable",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1E0944AC1DC5/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1E0944AC1DC5/page_001.png",
+      "sha256": "41a85acb85917fec9aaeb1cefa6c7c451a8888c9cafa2c63ed743e2bb5cfbe66",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "L—\nYAS R ABOUT US OUR BRANDS OUR COMPANIES SUSTAINABILITY NEWSROOM CAREERS Q\nSUSTAINABILITY / SOCIAL / SUSTAINABLE & ETHICAL SUPPLY CHAIN / HIGHLIGHT STORY\nLearn to Grow with The Hershe\ne ] e b e ] li e\nCo. in Belize — Mobile Application\nmS\nae oe re, ase {2h i Se ae Ot ae RE\nay , we \\. . Sain eee \\/ hh > t “, Pile gk } XS wh > Sr ae » Wi RTS + eS\na met lS A a 1S PIS Uhg~ eon Ye ae eee FS\nIn Belize, the “Learn to Grow” program continued to expand on the initial successes\nthrough FY19-21. By the close of FY22, the program benefited about 2,560 farmers,\nmonitored over 1,000 hectares of sugarcane fields for pests, reduced the use of\nnearly 3,000 kgs of pesticide, and saved farmers a total of $389,000.\nThe new Farmers Alert App for Pests and Weather, a mobile phone application which\nwas under development in FY21, provides climate change resilience information to\nsugarcane farmers surrounding our Belize Sugar Industries (BSI) sugar mill, helping\nfarmers plan for weather incidents and pests. The app provides pest alert data, mill\ninformation, climate, and historical forecasting information, as well as an interactive\nsection where farmers can ask questions and request assistance from technical\nofficers. A youth tech coach program was implemented to teach the 2,560 participants\nin “Learn to Grow” how to use the app effectively.\nSeveral “Farmer Field School” sessions were conducted with farmers whose fields\ncomprise those used as pest monitoring sites which provide data for the Farmers\nAlert App. The sessions bring together neighboring farmers to learn through practice\nand share knowledge amongst each other. This year, several training sessions\nfocused on biological pest control to avoid the use of synthetic chemicals.\nDemonstrations of the biological controls were conducted in over 600 hectares,\nhelping to reduce the use of over 7,000 kgs of chemicals and saving about $73,000.\nAdditionally, as part of BSI’s ongoing efforts to increase women farmer participation\nand contribution to the sugar industry of northern Belize, in May 2022, BSI held its\nFirst Women Farmer Field School to impart information about Land Preparation and\nits related activities, as part of the Hershey “Learn to Grow” program and a Caribbean\nCommunity Climate Change Center (5C’s) ongoing project. This will positively aid\nfarmers in their cane production leading to higher yields and by extension, positively\nimpacting them financially.\nAll the research collected through pest monitoring during the “Learn to Grow”\nprogram was presented to cane farmers and local organizations during the first-of-\nits-kind Sugarcane Pest Symposium in May, 2022. The Organismo Internacional\nRegional de Sanidad Agropecuaria (OIRSA) and the Sugar Industry Research &\nDevelopment Institute (SIRDI) also attended and discussed the importance of\nbiological pest control.\n(i About Us Sustainability\n‘ASR Our Brands Newsroom\nGROUP\nOur Companies Careers\nContactUs Document Downloads Legal Sitemap PrivacyPolicy ASR Group Codes & Policies in| oom!\n© 2026 ASR GROUP ALL RIGHTS RESERVED",
+      "ocr_text_length": 3058,
+      "word_count": 498,
+      "avg_confidence": 86.68,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1E0944AC1DC5.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1E0944AC1DC5.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:06"
+}

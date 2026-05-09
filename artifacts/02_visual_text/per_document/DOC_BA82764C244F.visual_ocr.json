@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_BA82764C244F",
+  "file_name": "land_o_lakes_community_impact_report.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_BA82764C244F.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2689,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "land o'lakes"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "supplier",
+      "sustainability",
+      "retail",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_BA82764C244F/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_BA82764C244F/page_001.png",
+      "sha256": "76938eae31ecbae2349d1c9b38e291dfcc1d48cf1170c7acaf4ec563996fd6e5",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "MEMBERS V | PRESS\n4 :\nLAN D I) LAKES INC. WHO WE ARE WHAT WE DO OUR IMPACT CAREERS NEWS & FEATURES\nROOTED IN TOMORROW\"\nEe : N\n, ™\ney\nay\nOur 2023 Community Impact Report\nLand O'Lakes, Inc. 2023 Community Impact Report highlights\nour important work and the progress we’re making.\nAt Land O'Lakes, our core purpose is to put farmers and agricultural retailers at the\nheart of creating a better world for all of us. As one of America’s largest cooperatives\n—with a network that touches half the harvested acres in the U.S.—we’re committed\nto the vibrancy and vitality of the communities and individuals charged with ensuring\na resilient food system that benefits every one of us.\nOur 2023 Community Impact Report expands on the work that has long been\nunderway across Land O'Lakes, Inc. and showcases the activities and progress we’re\nmaking toward achieving our Community Impact Goals.\nOur efforts are focused in areas where our businesses and cooperative network can\nhave the most impact—especially in contributing to the vibrancy of rural\ncommunities, enhancing sustainability across our supply chain, and ensuring a safe\nand plentiful food supply.\nHere are just a few highlights from this year’s report:\n¢ Surpassed our 2030 goal of 3 million pounds of in-kind product donations in just\none year—thanks to Land O'Lakes innovation through Spoiler Alert, recently\nfeatured in Fast Company’s World Changing Ideas Awards.\n¢ Expanded our innovative Flex Work Program to 60 manufacturing facilities\nacross the U.S.\n© Sequestered over 1 million metric tons of carbon (and returning $21 million to\nfarmers) since the inception of our Truterra carbon program.\n* Contributed a total of $9.9 million to nonprofit organizations across our national\nfootprint, supporting a culture of giving that’s been the cornerstone of our\ncooperative since 1921.\ne\nRelated Stories\n‘ ms ( ‘\n* f ( % ~ Os |p ps . aia o 7 LAND @ LAKES INC. Me\n= é Yen oe? He 4 L .\n\\ oe AP: ¥ ¢ Z\n= — - te er Pe a *¢ 4 = : ‘\nA ,- a Be? ae ¥ we F , .\n~ RESPONSIBILITY pee RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY\nREAD MORE >\nPRESERVE THE LAND FOR\n“ee GENERATIONS TO COME ~~\nREAD MORE\nL @\nROOTED IN TOMORROW\"\nWHO WE ARE California Supply Chain Contact Us\nAct\nWHAT WE DO 4001 Lexington Ave. N.\nOUR IMPACT Investors Arden Hills, MN 55126-2998\nfin) Privacy Notice 800 328 9680 / 651375 2222\nCAREERS . .\nee Supplier Quality Contact Land O'Lakes, Inc.\n£) Statement on Human\nTrafficking and Slavery Contact Dairy Foods Customer Service\ni altho Contact Government Relations\nCode of Conduct\nTerms Of Use\nYour Privacy Choices © 2026 Land O'Lakes, Inc.\nSy ae ‘oe ae C5\nA ae x Fae Perak ie etais> ks) a oS",
+      "ocr_text_length": 2649,
+      "word_count": 473,
+      "avg_confidence": 81.74,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_BA82764C244F.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_BA82764C244F.visual_ocr.json",
+  "created_at": "2026-05-09T19:42:50"
+}

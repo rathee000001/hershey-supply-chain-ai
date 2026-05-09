@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_2F8EE4491545",
+  "file_name": "land_o_lakes_who_we_are_page.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_2F8EE4491545.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3311,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "land o'lakes"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "supplier",
+      "products",
+      "retail",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_2F8EE4491545/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_2F8EE4491545/page_001.png",
+      "sha256": "d118c687f23ba0e1c14316cd2249624e4cf1b992a5279bb8974fac786632c286",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "MEMBERS V | PRESS\n7\nLAND IN) LAKES INC. WHO WE ARE WHAT WE DO OUR IMPACT CAREERS NEWS & FEATURES\nWE AREN'T JUST TALK. FROM DAY ONE, WE'VE\nWALKED THE WALK.\nQYy\nOUR STORY\n4\not rs\nLe aeree tr @ In 1921, 320 Minnesota dairy\n= farmers UNITED to form our cooperative.\nThese hardworking men and women shared a simple,\npowerful belief—they were stronger when they\nworked === together. «&\n—,)\nBs4 Rema As our co-op has grown, we've\npe ™ kept our farmers and ag retailers\nfirmly ROOTED at the heart of ie\neverything we do. Their ri\nunwavering COMMITMENT to #eo————.\nthat simple idea continues to\nset us apart and INSPIRE us every ___ day.\n' e\nad Together, we believe we can\nv\nchange the world 4 é, for the better.\nnd\n: LL Farmers are the original et ©\nenvironmentalists. You don’t farm,the wath\n. same piece of land for 265 years without”\n| intentional and consistent efforts to\n) preserve, conserve,.and sustain the\nresources around you.\n> as “eid ¢*s 2 \\ 3 » fi\nNe. WS es ay re ~~ EN ee eee Fe |\nget = aoe <= 4 ee a i\nSete | ' Se eee)\nRies ae, Sar ; / Sl. 9° OSS Se Sa ee ON\nBait ee —- val } eae. ES ae ee ea\n\\- Neen ( } . z ~ SS Ne DD SSE ee Cae te can y\na 3 oa = ; — : ie a, See Be ee isos f pete ots\nOur century-old cooperative has grown far beyond its humble Minnesota roots. Today, Land\nO’Lakes is one of the largest co-ops in America, operating in all 50 states and more than 60\ncountries. We are proudly owned by both farmers and ag retailers. Many of these businesses are\nfamily-owned and have been committed for generations to not only producing high-quality\nproducts but also to bettering the land and their communities.\nGE RS See 6 OY OER SR Bee cu «\nSD Sc ceed B ie ste = 9 8\nO BSED LOSS =\nSS Oe ea YESS 2 wo\n(o} “ Se, Vee oF segue mye S gions 4 —\nC Seep tO. LE SAR ere: a oc\nAntes, ~ 4 . ‘ IN ¥ ae NS\n73) lle — —\n. A ig = Lip, Fae =\nOur agricultural producers Bat! A F i yi | . |\ngrow and harvest crops such =f] 4 lar\nas corn and soybeans. wf\n~ fe z 4 J ‘ % j :\n0 (Aah 9S Lee\n+\n+\na + : 7\n® \\ ’ ie)\nae - |\n| @Y AT LAND O° LAKES, ING., OUR COOPERATIVE MODEL\n| at |\n3\n<x\n: MEANS COMMUNITY COMES FIRST\n= 5\nE 1\ng AND EVERYONE'S SUCCESS IS CONNECTED\nS a\nal\n|\nYes, we have silos, but our approach is anything but\nsiloed. Our businesses give us a complete view of\nagriculture. And as a cooperative, we're dedicated to\nsharing our expertise and insights, ensuring all our £\nbusinesses benefit. e¢ <\nEXPLORE WHAT WE DO\n—_— [|\nVERMONT KOZYSHACK\n“hie LAND O LAKES = ee ea ef Gm, WI\ny) A a a\nKW 9) ‘in X i :\nPX\\i NA 4 ny wy J ay\n\\\n4 »\nLEADING THE CH ARGE he} \"| believe our value as\na § .\nWw leaders is best measured\n> by the success of the\n, to help.”\nBETH FORD | PRESIDENT AND CEO\nCAREERS AT LAND O' LAKES\nWherever and however you like to work, we're always\nlooking for new people to join our team.\n@\nROOTED IN TOMORROW\"\nWHO WE ARE California Supply Chain Contact Us\nA\nWHAT WE DO “ 4001 Lexington Ave. N.\nInvestors Arden Hills, MN 55126-2998\nome itermeT ‘in) Privacy Notice 800 328 9680 / 651375 2222\nCAREERS . ;\nSupplier Quality Contact Land O'Lakes, Inc.\nNEWS & FEATURES £)\nStatement on Human\nTrafficking and Slavery Contact Dairy Foods Customer Service\nSupplier Program Contact Government Relations\nCode of Conduct\nTerms Of Use\nYour Privacy Choices © 2026 Land O'Lakes, Inc.",
+      "ocr_text_length": 3271,
+      "word_count": 694,
+      "avg_confidence": 68.47,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_2F8EE4491545.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_2F8EE4491545.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:56"
+}

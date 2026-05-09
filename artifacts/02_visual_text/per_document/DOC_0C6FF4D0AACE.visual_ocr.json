@@ -1,0 +1,45 @@
+{
+  "doc_id": "DOC_0C6FF4D0AACE",
+  "file_name": "mclane_grocery_retail_distribution_page.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_0C6FF4D0AACE.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2433,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "supplier",
+      "distribution",
+      "retail",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0C6FF4D0AACE/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0C6FF4D0AACE/page_001.png",
+      "sha256": "b7614722237f6533bd6389371688318a6f91c9e621cb5f0c259444f5daf4556e",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Careers Newsroom Locations (| BecomeaCustomer ) (Login)\nAA About ~ __ DistributionExpertise ~ | C-StoreSolutions ~ Innovation ~ Suppliers Contact\nMcLANE\n—_ .\nF basal il .\neading the Retail Industry, —\nRetail\nHome Distribution Expertise Retall\n. .\nStreamline your supply chain and boost your\n.\nbottom line.\nFor more than 130 years, retailers of every size have turned to McLane as a distribution partner. We've proudly\ngrown alongside them, leading the industry together.\nMcLane combines a vast national network with a track record of reliability and proven expertise in tackling\ncomplex supply chain challenges. Our procurement experience and massive buying power translate into\nadvantaged pricing and product optimization that drive growth. We also provide deep merchandising insights to\nhelp find the product mix that sells best - down to the individual store level.\nTogether with our customers, from independent stores and emerging chains to the largest retailers in America,\nMcLane will continue to make bold moves and shape the future of modern retail.\n=\nSs A am\nPaap — ”\n~ 3 Pa, T aS\n. m Pepa ts Ps =\n\\ ESS ea Fou\nSolutions for independent, regional, and\nnational chain convenience stores | ELEVEN y\nExplore Our Convenience —\nExpertise\naan r . {\nt /f err) |\nage Sg\n- _ = s a\nee: aj ie i _\nBl —Saein oe. , Mass Market Retailers\n1 s'e 14 ft int Solutions for club, drug, di t,and\n| od ee fin fc : olutions Tor ciub, arug, alscount, an\nCo bal ae s _ grocery stores\n7 a @iie - meee\n[540g Gee - & ae\n& fia >: aw ns Sti \"= Explore Our Mass Market —>\nNENT ag Expertise\n& . ~<\ni > % @\nSS a a iJ\namo ) ‘ier fs s\nj mt é »s\n- \\ ea a}\nSpeak to a dedicated expert about our\nend-to-end solutions\nGet In Touch\nMcLANE.\nFounded in 1894, McLane Company Inc. is one of the largest distributors in America, serving\nconvenience stores, mass merchants, and chain restaurants. As an industry-leading partner to the\nbiggest retail and restaurant businesses, McLane buys, sells, delivers, and serves the world’s most\nbeloved brands. With headquarters in Temple, Texas, McLane has more than 80 distribution centers\nacross the country, employs more than 25,000 teammates, and delivers to nearly every zip code in the\nUS. McLane is a wholly owned subsidiary of Berkshire Hathaway, Inc. in f xX\n© 2026 McLANE COMPANY, INC.. ALL RIGHTS RESERVED. LEGAL\nWEBSITE PRIVACY POLICY | PERSONAL INFORMATION REQUEST | SEIS\nrp |",
+      "ocr_text_length": 2393,
+      "word_count": 430,
+      "avg_confidence": 74.2,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0C6FF4D0AACE.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0C6FF4D0AACE.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:27"
+}

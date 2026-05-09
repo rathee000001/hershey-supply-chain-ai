@@ -1,0 +1,49 @@
+{
+  "doc_id": "DOC_FEA243351909",
+  "file_name": "alliance_sustainable_dairy_pa_page.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_FEA243351909.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3328,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "land o'lakes"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "sustainable",
+      "farm"
+    ],
+    "sku_terms": [
+      "milk chocolate"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FEA243351909/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FEA243351909/page_001.png",
+      "sha256": "46a9f65f29f0ca53deaf328392cfd17200a991a6ad9a0dcd03945168b399897a",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "NEWS EVENTS = CONTACT | ONATE | Q | Select Language v\nAy for the Chesapeake Bay What We Do v Who WeAre v Get Involved v Resources V\nHome / Blogs / New Initiative, Sustainable Dairy PA, Sparks Promise for More Climate-Friendly Dairy Supply Chain in Chesapeake Bay Watershed\nNEW INITIATIVE, SUSTAINABLE DAIRY PA, SPARKS PROMISE FOR\nJUNE 30, 2021\n~ era . | RECENT POSTS\ni z +\n; - |) Thank You for a Successful 2026 Wild\n— & Scenic Film Festival!\n. . — i\n* 3 » Hie Conservation Efforts Unite: Alliance\n5 * gal _~ / And Joe Jurgielewicz & Son, Ltd.\n; % f F J _ ™ Partner To Create Cleaner Waterways\nz ’ : a < AG, 7 ot es and Lower Environmental Impact\n7 - 7 { A . ~\ni at | 4 j } . Volunteers Remove 630 Pounds of\n‘ 4 | Trash from the Bay in One Day!\nf f } L, z Digging into State Soils: Soil\na if ; ' , x .\n~ | x cw Q < | 3 Taxonomy and Formation\ni ? . ry nee ee 12 Engaging and Providing Technical\nget \\y Pp | - > 2 7 Ww Assistance for Local Government\nsin eee se / 4 ~~ Officials\n‘ a. » } |\nhe Hershey Company, Land O'Lakes, Inc., and the Alliance for the Chesapeake Bay CATEGORIES\nT have partnered to implement on-farm best management practices to reduce\ngreenhouse gas emissions and help improve water quality in the Chesapeake Bay Select Category 2\nwatershed.\n“We recognize that global impact means teaming up with other leading organizations like ARCHIVES\nThe Hershey Company and the Alliance for the Chesapeake Bay, and we're excited to Select Month a.\nelect Mon\nsupport this new initiative,” said Glenda Gehl, Land O'Lakes Senior Director of Member a\nRelations. “Through the Land O'Lakes Dairy 2025 Commitment, we are committed to\ndeveloping measurable ways for our farmer-members to reduce their environmental\nfootprint in a manner that supports on-farm profitability and meets the expectations of our\ncustomers and consumers.”\nSustainable Dairy PA\nAlliance for the Chesapeake Bay\nad\n; 3 4 C4\n<a,\n>\n> © Watch on @§ YouTube\n“As we continue on our path to reduce our environmental footprint and address climate\nchange, we're excited to partner with Land O'Lakes and the Alliance for the Chesapeake\nBay to promote best on-farm sustainable management practices in our dairy supply\nchain,” said Eric Boyle, Director of Commodities Procurement at The Hershey Company.\n“Not only will this initiative help Hershey to reduce our GHG footprint and improve water\nquality in the Chesapeake Bay and other watersheds in the region, it will also help to\nimprove soil health and protect biodiversity, and strengthen our connection to our dairy\nproducers who are so integral to the creation of Hershey’s Milk Chocolate.”\nMore information can be found at allianceforthebay.org/SustainableDairyPA.\nN (4 4 Communications Director\n= E PENNSYLVANIA OFFICE\n@ email\nF- \\ 717-324-7820\nCATEGORIES\nPRESS RELEASES\nPREVIOUS POST NEXT POST\nSTAY CONNECTED\nto stay in the know\nWASHINGTON, DC MARYLAND PENNSYLVANIA VIRGINIA\n& ALLIANCE 729 8th Street SE 151 West Street 841 Flory Mill Road 612 Hull Street\n~» for the Chesapeake Bay Suite 200 Suite 101 2nd Floor Suite 101C\nWashington, DC 20003 Annapolis, MD 21401 Lancaster, PA 17601 Richmond, VA 23224\n443-949-0575 717-517-8698 804-775-0951\nCHESAPEAKE Taneparenoy\n@@ ®@®@ ee Aa sewortos aaa DONATE ABOUT CONTACT BOARD PORTAL PRIVACY POLICY\nOR ERLE RE IME AE Candid.\n|",
+      "ocr_text_length": 3288,
+      "word_count": 588,
+      "avg_confidence": 79.41,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FEA243351909.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FEA243351909.visual_ocr.json",
+  "created_at": "2026-05-09T19:48:11"
+}

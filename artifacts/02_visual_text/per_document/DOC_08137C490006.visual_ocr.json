@@ -1,0 +1,47 @@
+{
+  "doc_id": "DOC_08137C490006",
+  "file_name": "ice_cocoa_futures_optional_screenshot.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_08137C490006.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3419,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "sugar",
+      "cocoa"
+    ],
+    "supply_chain_terms": [
+      "sustainability",
+      "products",
+      "warehouse",
+      "price",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_08137C490006/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_08137C490006/page_001.png",
+      "sha256": "22c4a67d5e5f08fb72bf7ec7b34813848c245226f6053a9382029132f981f612",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "ICE NYSE LOGIN WEBICE\nSolutions Resources Insights About Us Q\nIce\nReturn to Product List | Product Spec Data Expiry Details MarginRates Additional Information Reports Trading\nAgriculture | Cocoa\nICE Futures U.S.\nDescription\nICE’s ice\nThe Cocoa contract is the world benchmark for the global cocoa market. The approach to supporti ng ,\ncontract prices the physical delivery of exchange-grade product from a variety of EUDR compliance Ly aay 4\nAfrican, Asian and Central and South American origins to any of five US delivery ICE Commodity Traceability 4 a\nports. a\nMarket Specifications\nRelated Products\nTrading Screen Product Name\nCoffee C ® Futures\nCocoa Futures\nLondon Cocoa Futures\nTrading Screen Hub Name Sugar No. 11 Futures\nCocoa Options\nNYCC\nContract Symbol .\nTrading Hours\nCC\nContract Size City Trading Pre-Open\n10 metric tons\nNEW YORK 4:45 AM - 1:30 PM 8:00 PM\nPrice Quotation\na 04:45 - 13:30 20:00\nDollars per metric tons\nLONDON 9:45 AM - 6:30 PM 1:00 AM\nContract Series\n09:45 - 18:30 01:00\nMarch, May, July, September, December\n4:45 PM - 1:30 AM* 8:00 AM\nMinimum Price Fluctuation SINGAPORE 16:45 - 01:30 08:00\n$1.00/metric ton, equivalent to $10.00 per contract. . . .\nSettlement **In addition to the Pre-Open start time shown above, there will be a Post-Close Pre-Open order entry\nPhysical Delivery session from 2:00 pm to 6:00 pm NY time on the prior Exchange business day.\nDaily Price Limit ee\nNone Codes\nDeliverable Origins Clearing Admin Name GMI (FC)\nThe Growth of any country is deliverable, and Growths are divided into three delivery Cocoa cy\nGroups:\nPhysical ION A.C.N.\nGroup A (deliverable at a premium of $160/ton) includes the Growths of Ghana, Ivory cc 2050\nCoast, Nigeria, Sierra Leone and Togo.\nLogical Symbol Code\nGroup B (deliverable at a premium of $80/ton) includes the Growths of Arriba cc cc\n(Ecuador), Cameroon, Colombia, New Guinea, Venezuela and several other Growths.\nGroup C (deliverable at par) includes the Growths of Bolivia, Haiti, Indonesia- Oth A\ner Agriculture Products\nSulawesi, Malaysia and all other Growths not specified in the contract Rules as g\nbeing in Groups A, B or C. Canola\nCocoa\nDelivery Locations Coffee\nAt licensed warehouses in the Port of New York District, Delaware River Port District, Cotton\nPort of Hampton Roads, Port of Albany or Port of Baltimore. Frozen Orange Juice\nGrains\nFirst Notice Day Sugar\nTen business days prior to the sixth business day of delivery month.\nLast Trading Day\nOne business day prior to last notice day.\nLast Notice Day\nTen business days prior to last business day of delivery month\nPosition Limit\n\"Position Limit and Position Accountability information for all IFUS products can be\nfound here.\nMarkers\nTAS (Trade at Settlement)\nMIC Code\nIFUS\nClearing Venues\nICUS\nSolutions Tools and Sources Support\nExchanges & Clearing Markets Trade & clearing helpdesk\n| ce Fixed Income & Data Services Clearing ICE data services support\nMortgage Technology Product guide ICE Education\nBenchmark Administration Market reports ICE developer portal\nExpiry calendars Subscriptions\nMargins\nFees\nAbout Insights\nMedia center Climate risk\nInvestor Relations Energy markets\nContact Fixed Income & Data\nCareers Mortgage\nICE events\nSustainability\naoa |x] [a [i |\nPrivacy & SecurityCenter | Your Privacy Choices | Terms of Use | Do Not Sell or Share My Personal Information\n© 2026 Intercontinental Exchange, Inc.",
+      "ocr_text_length": 3379,
+      "word_count": 549,
+      "avg_confidence": 92.46,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_08137C490006.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_08137C490006.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:23"
+}

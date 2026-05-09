@@ -1,0 +1,53 @@
+{
+  "doc_id": "DOC_75DA5EE841E9",
+  "file_name": "hershey_sustainable_dairy_pa_2021_press_release.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_75DA5EE841E9.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 6942,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "land o'lakes"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sustainable",
+      "products",
+      "market",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "milk chocolate"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_75DA5EE841E9/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_75DA5EE841E9/page_001.png",
+      "sha256": "0a3eea22685663894e15778d2d7fefea3b1caf1950b1de023b5cb4f20dc2ca88",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "CAREERS MEDIA INVESTORS\nHERSHEY, Pa., June 29, 2021 /PRNewswire/ - The Hershey Company (NYSE: HSY), Land O'Lakes, Inc., and\nthe Alliance for the Chesapeake Bay have partnered to implement on-farm best management practices to\nreduce greenhouse gas emissions and help improve water quality in the Chesapeake Bay watershed.\npe :\nen |\n' ag\nmer, ~,\nles Lb *\nWie ~\n7 » ad i {va\n- % ‘ a\na _ WFQ _ ail\nInitial funding for Sustainable Dairy PA comes from The Hershey Company's $300,000 commitment to\nsupport the Alliance for the Chesapeake Bay and Land O'Lakes in helping install agricultural conservation\npractices on Land O'Lakes member dairy farms. The partnership includes 119 Land O'Lakes member-\nowners in Central Pennsylvania that ship 50% or more of their milk supply to Hershey.\nThe Alliance for the Chesapeake Bay will utilize Hershey's funds to leverage additional grant funding to\nimplement conservation plans and innovative on-farm environmental practices. The solutions range from\nriparian buffer plantings that reduce stream bank erosion and improve habitat to animal waste storage\nsystems and other sustainable farming practices to support a reduction in greenhouse gas emissions and\nwater pollution.\n“Leadership from corporations, like that of Hershey and Land O'Lakes, is critical to restoring Pennsylvania's\nrivers and the Chesapeake Bay, and reaching our climate goals. With so many passionate businesses in our\nwatershed, we hope this partnership inspires others to take action towards a more sustainable future,\"\nshared Jenna Mitchell Beckett, Pennsylvania State Director and Agriculture Program Director at the\nAlliance for the Chesapeake Bay.\nThe initiative has begun working with dairy farmers in south-central Pennsylvania and is actively building a\nlist of their conservation needs that will guide the program's priorities. In addition to working with the initial\n119 farms, the partnership has the potential to reach more than 400 Land O'Lakes member farms supplying\nmilk to Hershey as funding and support grows.\n“We recognize that global impact means teaming up with other leading organizations like The Hershey\nCompany and the Alliance for the Chesapeake Bay, and we're excited to support this new initiative,\" said\nGlenda Gehl, Land O'Lakes Senior Director of Member Relations. \"Through the Land O'Lakes Dairy 2025\nCommitment, we are committed to developing measurable ways for our farmer-members to reduce their\nenvironmental footprint in a manner that supports on-farm profitability and meets the expectations of our\ncustomers and consumers.\"\nThe initiative recognizes that dairy producers are important players in helping improve water quality and\nmitigating climate change and was established to provide dairy farmers with the resources needed to\nimprove their impact on the environment. This allows farmers to produce quality farm products while\ncontributing to the health of the Bay, its tributaries, and the planet. The work seeks to demonstrate that\nconservation and economic profit are compatible, and high-quality milk produced on farms using clean\nwater and climate-smart practices provides a value-added premium in the marketplace and addresses the\ngrowing demands of discerning consumers.\n“As we continue on our path to reduce our environmental footprint and address climate change, we're\nexcited to partner with Land O'Lakes and the Alliance for the Chesapeake Bay to promote best on-farm\nsustainable management practices in our dairy supply chain,\" said Eric Boyle, Director of Commodities\nProcurement at The Hershey Company. “Not only will this initiative help Hershey to reduce our GHG\nfootprint and improve water quality in the Chesapeake Bay and other watersheds in the region, it will also\nhelp to improve soil health and protect biodiversity, and strengthen our connection to our dairy producers\nwho are so integral to the creation of Hershey's Milk Chocolate.\"\nCLICK TO DOWNLOAD APPROVED PHOTOS/VIDEO\nAbout The Hershey Company\nThe Hershey Company is headquartered in Hershey, Pa., and is an industry-leading snacks company known\nfor bringing goodness to the world through its iconic brands, remarkable people and enduring commitment\nto help children succeed. Hershey has approximately 17,000 employees around the world who work every\nday to deliver delicious, quality products. The company has more than 90 brands around the world that\ndrive more than $8.1 billion in annual revenues, including such iconic brand names as Hershey's, Reese's,\nKit Kat®, Jolly Rancher, Ice Breakers, SkinnyPop, and Pirate's Booty.\nFor more than 125 years, Hershey has been committed to operating fairly, ethically and sustainably. Hershey\nfounder, Milton Hershey, created the Milton Hershey School in 1909 and since then the company has\nfocused on helping children succeed.\nTo learn more visit www.thehersheycompany.com.\nAbout the Alliance for the Chesapeake Bay\nHeadquartered in Annapolis, MD, with offices in Lancaster, PA, Washington, D.C., and Richmond, VA, the\nAlliance implements local programs that connect people to their local rivers and streams. As individuals\nbecome directly involved in local restoration efforts, our programs build resiliency among our communities\nand landscapes to continually adapt to a changing world.\nIn the last 50 years, the Alliance has:\n+ Planted over 1 million trees\n+ Installed over $10M in practices to reduce polluted stormwater runoff\n+ Implemented over 764 acres of on-farm best management practices\n+ Trained over 700 volunteer scientists to collect over 360,000 water quality data points\nVisit allianceforthebay.org to learn more.\nAbout Land O'Lakes, Inc.\nLand O'Lakes, Inc., one of America's premier agribusiness and food companies, is a member-owned\ncooperative with industry-leading operations that span the spectrum from agricultural production to\nconsumer foods. With 2020 annual sales of $14 billion, Land O'Lakes is one of the nation’s largest\ncooperatives, ranking 219 on the Fortune 500. Building on a legacy of more than 99 years of operation,\nLand O'Lakes today operates some of the most respected brands in agribusiness and food production\nincluding Land O'Lakes Dairy Foods, Purina Animal Nutrition, WinField United and Truterra. The company\ndoes business in all 50 states and more than 60 countries. Land O'Lakes, Inc. corporate headquarters are\nlocated in Arden Hills, Minnesota.\nSOURCE The Hershey Company\n¢ | @\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nHERSHEY'S CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD PLANT LOCATIONS\nFAQ HERSHEYPARK PRODUCT LOCATOR\n‘Ss\nf xX lin] Qa RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCID HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMIT AN IDEA\nSUPPLIERS\nDO NOT SELL OR SHARE MY PERSONAL INFORMATION PRIVACY POLICY TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED\nWEB ACCESSIBILITY COOKIE PREFERENCES",
+      "ocr_text_length": 6902,
+      "word_count": 1050,
+      "avg_confidence": 92.68,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_75DA5EE841E9.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_75DA5EE841E9.visual_ocr.json",
+  "created_at": "2026-05-09T19:40:01"
+}

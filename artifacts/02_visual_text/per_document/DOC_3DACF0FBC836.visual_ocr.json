@@ -1,0 +1,40 @@
+{
+  "doc_id": "DOC_3DACF0FBC836",
+  "file_name": "hershey_latest_esg_dairy_section.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_3DACF0FBC836.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 66,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3DACF0FBC836/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3DACF0FBC836/page_001.png",
+      "sha256": "dd021b325401ce2eb61cdcb22de073f5e4d1c6b88582e1219d7a589d66fc6fe4",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "powered od\nGodness\nHERSHEY",
+      "ocr_text_length": 26,
+      "word_count": 4,
+      "avg_confidence": 54.5,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3DACF0FBC836.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3DACF0FBC836.visual_ocr.json",
+  "created_at": "2026-05-09T19:37:47"
+}

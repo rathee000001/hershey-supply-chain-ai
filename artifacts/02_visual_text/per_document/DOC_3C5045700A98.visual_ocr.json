@@ -1,0 +1,52 @@
+{
+  "doc_id": "DOC_3C5045700A98",
+  "file_name": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_3C5045700A98.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 7217,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "land o'lakes"
+    ],
+    "ingredients": [
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sustainability",
+      "sustainable",
+      "ingredient",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3C5045700A98/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3C5045700A98/page_001.png",
+      "sha256": "c2ce66290070f9f7fca99ea0b715b5d4657c5c9278a57cb00a0c3869b09f0aa3",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "memBers ¥ | PRESS\n' ; /\nLAN D IN) LAKES INC. WHO WE ARE WHAT WE DO OUR IMPACT CAREERS NEWS & FEATURES\n“a ROOTED IN TOMORROW”\nFX a = |\n~~ ‘ hed . lode A ,/ “ sob Ae 4 th P Leo | cil g ne > \\ >) ‘\na @ Se, (SN W As Nae = w/e r Po ram yah FON we, ¢ ~~\n— = a a = = ‘ = “ww a ww ae rs = x ; dad\na, ep Ss i : b7.. a etal a\nA Z . . oN\nty aS ) fp os aN. Mle : ATANY LIONS : ;\nA = ev m4 ec <\niy LS Oks ia Se Pe) a ao?\n. > F as ~\nf .- | a \\\nCe »* 5 \\\n- ae , ~\n7 ty Collaborating to help create a cleaner\nEPA and Hershey together commit $2 million to Land O'Lakes\nMember Dairy Farms in Pennsylvania.\n\"What do the cows think about?\"\nThis is one of the unexpected questions Land O'Lakes member-owner Steve Harnish\nsays he gets from local elementary school students when he hosts annual farm tours\nat his third-generation farm in Lancaster, Pennsylvania. Every year, Steve’s family\norganizes these field trips to Central Manor Dairy for nearly 100 third graders in an\neffort to educate them about the hard work that goes into managing a farm\nsustainably.\n“As a farmer, | know first-hand the importance we play in feeding a rapidly growing\nworld, while also taking care of our environment. We are lucky to be located right\nnext to a local elementary school, so we bring four classrooms to our farm every year.\nNot to just show the kids our animals, buildings or machinery. We make sure they see\nwith their own eyes our sustainable management practices that include a riparian\nbuffer, manure storage system and our no-till operation. This is the advocacy work\nwe do that is the most meaningful because it helps kids at a young age understand\nthe challenges our teams go through to meet consumer expectations and the\neconomic reality for farmers,” said Steve.\nSteve says once students see these sustainable practices in action, their questions\nstart to get more technical.\n“They want to know more about how some farms can turn manure from waste to fuel\nand ask us to explain the cycle of harvesting crops and then returning nutrients to\nthe field to fertilize the next crop. You can also see the surprise on their faces when\nthey see the effort and precision it takes for us to mix the correct ingredients for our\ncows’ rations. The best questions usually come from the youngest students.”\nSteve recently hosted a special event at Central Manor Dairy to celebrate an\nexpanded initiative between The Hershey Company, Land O'Lakes, Inc. and the\nAlliance for the Chesapeake Bay (Alliance), funded in part by the United States\nEnvironmental Protection Agency (EPA). EPA and Hershey announced the joint\ncommitment of $2 million to support local dairy farmers in Pennsylvania. The\nAlliance, in collaboration with Land O'Lakes, Inc., will use the funds to promote the\nadoption of practices that support local and regional environmental goals with dairy\nfarmers like Steve in Land O'Lakes’ eastern region milk shed.\ni 4 | OR E - 4\na \\ Gees Pa a rr oo . és\n‘ A vy, Me. 3 AVY yer He fs a mi\nre + Puli ; wy INF 4 7a Lhe 2 a\neohcon come Blny: > Qui | Gagau\" Wo \\Z AE Bie ie\nSr eet g ye, p.. <3 \" , oe\nja se ee , MTs \\ Vou. ; f, “eff 2 i = >| q F ‘ 4 he\nae : Tt eg een é\nat Zi eS Sr ot A*& poo SEEN me Neo\na pee ce \\e ep. FZ 7 bs\npe? ree ec. ee\nEvery year, Steve’s family organizes these field trips to Central Manor Dairy for nearly 100 third graders in an effort to educate\nthem about the hard work that goes into managing a farm sustainably.\nThe Alliance, Hershey, and Land O'Lakes have been working together since 2021 on\nan initiative called “Sustainable Dairy PA.” The initiative takes a collaborative,\nindustry-led and public sector-supported approach to accelerate on-farm\nconservation efforts to help improve water quality and reduce greenhouse gas\nemissions. Since its launch, 45 farmers have already implemented or are in the\nprocess of implementing new sustainability practices.\nThe Alliance, Hershey, and Land O'Lakes have been working together since 2021 on\nan initiative called “Sustainable Dairy PA.” The initiative takes a collaborative,\nindustry-led and public sector-supported approach to accelerate on-farm\nconservation efforts to help improve water quality and reduce greenhouse gas\nemissions. Over 45 farmers have been engaged in this initiative to-date, working on a\nvariety of practice changes across Pennsylvania. Through this Sustainable Dairy PA,\nfarms are analyzed by technical experts, so all practice change recommendations are\ntailored to fit the needs of each farm.\nExamples of practice changes include installation of riparian buffers, barnyard\nstabilization techniques, adding or changing manure storage solutions and water run-\noff reduction solutions.\n“Collaborative initiatives like Sustainable Dairy PA endeavor to provide the necessary\nincentives to drive voluntary practice changes that not only help contribute to the\nhealth of the planet, but also help better position farmers for success in a\nchallenging operating environment,” said Tim Leviny, Land O'Lakes Senior Vice\nPresident of Global Dairy Ingredients & International.\nAs a cooperative, and largely enabled by our ag sustainability business Truterra, LLC,\nLand O'Lakes has taken a leadership position in on-farm sustainability by helping\ncustomers achieve their environmental goals, while keeping farmer profitability at\nthe forefront. The continued expansion of this industry-led initiative serves as a\nvaluable endorsement of a farmer-first approach to sustainable agriculture.\n“My family has been adopting sustainable practices on our farm for decades and it is\na continuous process. As we look ahead, we want to further our impact on water\nquality. Being a part of the Land O'Lakes cooperative system provides an opportunity\nfor farmers like us to access resources and funding,” said Steve.\nThe hope is that the increased funding for the initiative will help more local farmers\ninvest in the implementation of manure storage facilities, soil health practices,\nriparian forest buffers and other efforts to enhance sustainability on Land O'Lakes\nmember dairy farms.\n“| hope today’s event will showcase the challenges the ag industry faces and the\nways we can work to ensure a safe and plentiful food supply for the kids who visit my\nfarm, and the future generations to come by working together,” said Steve.\ny About the author\nMichelle joined the Land O'Lakes Communications Team in\n2021.\nREAD MORE ARTICLES BY MICHELLE\nMichelle Ngo\nRelated Stories\nLe]\n. ( ‘ A\nf a + * S\n( 67 f aia LAND LAKES INC. is.\n= * - “\"\n2 ROOTEDIN ae\nt () ¥ Fi\n~ RESPONSIBILITY }& Saesd RESPONSIBILITY RESPONSIBILITY RESPONSIBILITY\nOUR COMMUNITY OUR 2023 COMMUNITY COMBINING A PASSION CELEBRATING\n“ee “ee PRESERVE THE LAND FOR\nGENERATIONS T0 COME “ee\nREAD MORE\nROOTED IN TOMORROW\"\nWHO WE ARE California Supply Chain Contact Us\nAct\nWHAT WE DO 4001 Lexington Ave. N.\nee Investors Arden Hills, MN 55126-2998\n‘in) Privacy Notice 800 328 9680 / 651375 2222\nCAREERS . ;\nSupplier Quality Contact Land O'Lakes, Inc.\nNEWS & FEATURES\nStatement on Human\nTrafficking and Slavery Contact Dairy Foods Customer Service\nSupplier Program .\nPP 8 Contact Government Relations\nCode of Conduct\nTerms Of Use\nYour Privacy Choices © 2026 Land O'Lakes, Inc.",
+      "ocr_text_length": 7177,
+      "word_count": 1273,
+      "avg_confidence": 81.11,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3C5045700A98.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3C5045700A98.visual_ocr.json",
+  "created_at": "2026-05-09T19:37:46"
+}

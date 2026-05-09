@@ -1,0 +1,96 @@
+{
+  "doc_id": "DOC_DC5C9E72C77A",
+  "file_name": "land_o_lakes_2025_annual_report.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_DC5C9E72C77A.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 5,
+  "pages_ocr_attempted": 5,
+  "pages_ocr_success": 5,
+  "total_visual_ocr_text_length": 10073,
+  "total_visual_ocr_chunks": 6,
+  "visual_signal_hits": {
+    "companies": [
+      "eia"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_001.png",
+      "sha256": "d0fa806eb43a8f7603ed341024b350fa8ccfeca9c38a1df690b972aa187cc60b",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "@\nS\nVA\nVA\nVA,\nVA\nVA\nJ\nVA\nVA\nVA\nVA\nVA\nVi\n7\nVA\nVA\nY\n4\n1A,\n7\nke VA i)\nco VA fo)\n[e) VA\na V4 | |\nlw V4 :\ncc VA |\n<x\n>\nza\n= i)",
+      "ocr_text_length": 121,
+      "word_count": 44,
+      "avg_confidence": 56.77,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 2,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_002.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_002.png",
+      "sha256": "70c015efe4804b0bbe9dec58681ecc7133e155eed032ac256585d748a5f24c03",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "BMIWBBWMBCWSCWSTWea\nYBBBMWMSWSCWSWS@s@@\nBMIWVBWWBGTWSCWSTWeaQ\nYBRBESWTWTSTeCW@eege\nDBMIBMBMSWSWSWC@Q\nYBRBSESWTWTSTPCW@eee\nDBMIBMBWMBSWSWSWS@WQ\nVBVBSMSCMWGTWTWTeWeeee\nDBOIBMBWMBWSWSWS@WQ\nYBRBESBWSCWSTSTeC@eePg\nBMBWMBSBW@WCSTS@C@Q\nYBRBSESBWSCWTWTPS@ese\nBMBWMBSSW@WCBTS@C@aQ\nYBRBSESBWSCWCTWTPS@eeA\nDBMOBMSBWMSWSWSWE@e\nYBRBBWCWSTBTWeITeeeQ\nDBMIWBWBMBCWSSCWSWWea\nVBBMWWMSCWSCWSCWSW@sE@\nDBMIWBBWMBCWSCWSTWe\nYORBBETWSCTSTWeTeEgeg\nDBMIWBMBWMSWSWS@C@Q\nYBBRMMSCWSCWSCWTSW@eeO@\nBMIBMBWMSWSWSWC@Q\nYBORBESBWSCWSTSTeWCese\nDBMIBMWBWMSWSWSWS@Q\nDy dy dy ad ad ad a ag aD gag aD qQ&Y D&D &@",
+      "ocr_text_length": 572,
+      "word_count": 39,
+      "avg_confidence": 10.51,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 3,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_008.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_008.png",
+      "sha256": "eb050d707798791215ccf4f8e4f2374cc150698f2f7807a35ef0122585119ea9",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "= a\na\n& &\n” ml ‘i - l\n6 | 2025 ANNUAL REPORT",
+      "ocr_text_length": 44,
+      "word_count": 15,
+      "avg_confidence": 41.47,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 4,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_014.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_014.png",
+      "sha256": "d836e67284e969b0e4048d916bf4efb630b287c3cc91b67fd47563e25abe2d4e",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "> . ithe\neumezan oy ean sete ci\ni oe % ey . - Rea a Wate\n(SRA VSS ALA eS zd = <3 kM < Mnb\nDP yok ru Git OR sae, anal = ~, Arg eee a\nne WAN MPAA . a 7 Sit a ate fa\nVEY Spb Ney Ihe od 7... a. } a A ‘a biG\nYi i Sip KE oe »') 4 : a “ mt. OR See bY ie\nro wine AON) poe ons, 7 _—_— am ae ed BA be\naE 34 Sy 4 oe, , > whe i tos es Wy\nPY Chis mate Pe 4 = if | aM Fn SRS SON p\n> eee ont Yer “ae WH \\aen )- baer.” “4 Pe ae a\nhae pha = 1 Wi! i, Wiad stn\nia) ogi Vi Sgt eee oS Senet ie,\non alll A+ | See ees ES a es Pal\nte . ce TS ~ fh > --.._ ve : a 4 eS\nShe aes ea ~~ fe VSS ; # ra es a)\nCh a N : nee Myre:\n“tyes Soe A gy ? |\nii —— » -te- BE ae EN Patan a\nOi ae i — ~ A tees 3 a 4h nat}\nhee ont. — ¥ eee SS Be aed ty\nee cae * 2 = ery Khu ak ary\nfore z er, ‘ ay] ee\nee ry\n. , ; Rl\nbr 7\n] '\n12 | 2025 ANNUAL REPORT",
+      "ocr_text_length": 801,
+      "word_count": 247,
+      "avg_confidence": 29.29,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 5,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_024.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DC5C9E72C77A/page_024.png",
+      "sha256": "491c133ad5d9d5142a57ffc0fa849fecd5318d246dd5b721ef15c23b0ea9d39f",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "a\nricrie\nhate\nIa\narenas:\napensisasascs\nSeRSOROROSSs\neae\neens\nena\nsisaeane eee cerns\nsesso Sears\nBasan Seaeoatatass\naaa Reieeanntaes\nasia cinerea\nseas Seen\nSRaeoee an? Seas\nen ve BERR aaes\nseneie - Vex ReneS\nSera abe. Se shonaseeouoe\nferertentd Fey ‘ Sedonensean\nseas end \" ees\neae a PAT \\- pares\nxceGst set % Pad eeeGeaests\nsececin ‘st = <3’ siaihenanans\nas Pat) \\s * fee etercacata\nsoxGeGuss (vet fe 953 Pes Sous\nSrovonean sa Ps sess PAS cates:\nBar Om > ertericy (pe! pan\nener fe snatactss| 2 ve iabeu ona\nSees ~ eastssis aT a oe saetneasasos\naa ae erty ys\" Set * susearaoea\noeueiast st ates test Px) re “= saoweseaes\nSenne fea UTES we ; oe eouobaseucnes\nBAAR o. STEsT by Ye< fet t Ou\nstatistik Vex w< PAS as = Space Srekereees\nSend Ax) a {se¢s ry a oe eyes SrGraeeatass\nBasar ae e Tire PAY fey A aoltadns Crees\nseieistist ry a Rass tert ‘* = thschna Sacer\nTao Sef S (sess es = Maas (3: Sauce\narses th ys nti ESTES TAS) Ae AAS. ¢ Rae aaaS:\nLeimert Pry «| fe ey Atostss hatiey .* Hae aKe .* nee\nsn (Ss S oxen Cees: py ertiriis wi RPE Ona\nRena ei ys rineseed nepeed Ae oS ESS, we a Seana e os\nsae Paed fe poaieeest= Teer: a sissdsst —* seanazare:\nSAR OR (So S etsee Sectty rah) se rests 3 “ ianaueseeces\nBehan ves ry Bs afeey yet se RSTESTES 9 “< od Ss\nieajate PA fe meteetse >, A * LExTExTE <* ~~, a = 3%] Seer\nSRD AO AS (s>4 A Seeteet 5 we 3 erearity ie! XARY fc tw) oer\nnhaboeon ee ry Sabra: he, — te saashese os SEARTENT eh Sees\nsa vavavaice fees, ie artsy {Sos ad S Loxrexts | paws <3) eee\nane ord shes eo) ‘+ ss SY ie! Dae ix} be$e° pereronaran\nee ' % me a iY aetsetse os reorsenye “78 <3: eaeaensis\nnee . > Seg 4) * setsen: a ove ae) fee Ses eeanteas\nee Fd ee *: pe sviscise te ORR: ry) ~ Spoaiaaae\nsoueoec Seber 4] a, “ ba) aakzetes a reorceite wa .. phew spancnan oes\nSeaneoee Bie ees 4 te! 3] pa Seriertt -* pos det! na fe te Suanaeonone:\nseries cians ~ ‘: > Saray ie i aw) “ vo pera\neases cena 3° o fe aetaetee * ‘So ve _. oe vet uosonoeaee\nSonora Sains wey =) Px] Reyer t =) sve = fe yy ve SRORORE RE\npxceGuen SEER es yp Sri ry a “ + ime a rere\nSeAGRGHE HE Sioa A) fe eeateaees * Roe : o ce . Se\nSHG Biawaeavays 3) ny trstset =f swe > fe ne \" ROS ORG\nall Buasavavans “ets * Say ie oe ea. 1 = ‘She o eos\neee 2 ea co Liertiss , Datta vi We ts . PAVE\nac ao tat Lie Sea x) thet 7% EAISAY H fe fe ” ws ORS GAe\nOxGubuan Bane vs e ist SEO ? “. 3 Pe issEss3 Shana\nSree socio oe ke ao Derccrity . . TOY vs sco SOREN\nDeets See acer : 4 EEEAY A Ad BAO? < aneadeanas\noeaiane Se é ie Syssyss: - = OLOROE aeRO\nSeon — i -, icietisk mo 4 EEG) eee\nSeGnapaas atthe a - ve SATESTEAY yes fe Roorex ieeteaates\nSale — | & SS Revtier ~ “ BOL sce\ncal Dl eu pn aas wes ** Racca) sreecnteners\ncee Tele . “fe = ry =) Aa, ace tey SE neoaacs\naoc “7827 . a . oe, = ses het, Besasore:\nsania {35s i oe Ws < <¢ Gieeatte\nPano {35t3% | = roe > AAD, Ay Beate\nStree eter Cee rT rae? ie ieee 3 eae\nSaisie Oa: . - vee% vs Pritgl “% iaeeents\nRenata esses CC = ok — i * en Beason\nsaininaiss e33 er et se ayy Sed sees 3 nce\nsisson ho} : Ear vs read % ae\nBaan SHON i Aad. <>, ioe — ganna\nSerra oretiritt} eZ ie ve a opnatne\nsaa eistisciees 7 ens A cae\nsnGeoeae TTT! — 31 <j Geicancnas\nSe iarosot ae — rh Seareneneee\nBuanouoxO MES — = we aa\nseasons Tithe — = es Saaaeneasaa\neal orae? a = AY} Sapanosaees\nsasaauns aay i = otek Ro RORe eS\naren Diss _ PAPAS\nSey MATE — peemeaaian SORORORe\nsees NEVE a Se Nae Soren\nSeAehesSt Ve _ See Saarace\nSa MYA “7 cians Senet\nees MANS TO eee percents\nSeared ier yy. Gece Sears\neeeenas ey ,.. |\nseetrcuin Ot ; =\nSacer TEATtark a\neee pats -.. ee\nMoeteten Boaovess . ee\nSeed Cees .. fase: 5 es\nREAGAN ener — = rh Saeaniate\nsOeceioioe Sie eee |. eyes} So\nSeat ee ects . cde Boe\nDanan 2. Sher seater ata\nsoeteistise —{ a souocorn:\nSeana — SEeee\nSEGEG ASS “st de ee! Gases\nfouaennise ore ro -aaeths Giaeora.\nSarena Lares oO LS EES EAT\nieee Resi -— Lasker Geena\noe — SERENE hasnre\nSears fee To nope sistisuasise\narene Rn eos oo... ss OEOrSEES Percents\nSoeinstarie esesosers —. a\nSaas SOEOROEEE eee ee\nParma — gees\nseme —. e ee\nSET — toy Geeees\nHA AOROe Oo 6 SEO TENT or\nsaanoaee sens oe IORGRSS Serato\nsao 442% Rg RORGRSS Reet\nsanoeon YY ory (nui: 4 MNES prekittt\nSRavaox (ite ns P a RENGRGS pacer\nse ON terter ° Se NEMERAS drapes\nsoa SAAT Le . ee RISES avavec\n4 SEA rele n ee yetestes OnStar\n> Perfor TTT oo. rahe Bootes\netter IRL es PAPAS:\nATA (so¥sh oo 8 PO AOnOne\nSeni vis be ar Ororonee\nwe cae ae oo. guesses Savarese\n0 \"ee te rts ~~ oe BOROROrs\nSees = SPAY “Sette: ~ CeGRCREs FSacocoxin\nees tere Sere RL warseay\neter (oie Seer teer Rie\nscones ] ie ~ | _—\nence -- | ees\nacai Oe ORO\noy — erent\nsue Ly on Sea\n$ ee 7. 2M Darian\nc eassas exkeriit od wets aeosae\nuo ay eri . are? EOE\nwy eerririt =. . Seesteste Pasar\nthets mine oo. seen\ntee : gue\nSas SRST geese\n: econ RSTRE TASS eucieet\nyee OOOO ESE GES\nmestes | EES RISAL SAL, Resco\neenes tte be ota wee peers\nSos et eee erer cisiistasins\nSa — VD? eestictest\nena — ex Rrarerare\nene WA oth YO ohio:\nsae _ Beare ss Pescesceiten\nsiaeacectict ean * . exc ber hs ates\noats ie) 2ets .. ercerbt a seen\n. ths xt eo POCO, CEREAL Peta\nri seeks cy 257 es . Chores exer\natbeteates ct 225) rie _. TS saa\n-4 Seeke ty Ter ean DATTA? ipasasest\nseeenees 3e% Terk sorseneess - LERTeRre hs Re onone\non e* eetee Ort crt A oe . Leen? Roreteot\nUs 4 List *' 27550\" 29% Seo — ew ie Saver\n‘ ee Set = 300 So! 22% . SOR On One\nree AY - 3 20% . 3° 4 Soeeaase ee YXErKs Skareses\na t+ , 4 . a ae pet\na x ee oe) . -.. Saar Sones\nex t 2ee% \" —— aed 2 SeorGke:\n‘} meen es ra eee SEDO Rares\neeetnen weet v — iors BEE\n: ows 389% 32%) Se SIS Pei\n. Tin ‘ Ath rue souiausttias nies\n* — ¥¢ asetee of pabeonaeiia Mt, es\n4] ve s t y oe . ee Seo i erit soteeateate\n: c.. Sone - eneee = soeaeausts MS gorse:\ni ree 28\" Bennet” 23° vesetsees erersaTeo) Boner oacas\nso re =) . ‘ x <4 ve Sat FATED pears\n7 Beet J : r oe\" accereeri es PATIOS ARR ERE\n4 pees Sis ns 0 7 . ge orterits paar\n‘a es Bee eee as < i < 3 . rh Sree Dnceorae\n| pizets aE . rik <, RETA parecer\nCS ~ ,” anehne . : * na Seer ososexe\nra ee eae nae 2 eres See\" avatar\nme cs C Sata 4 ves EAE\nes t x ceaeee ec aetee G Pe Bats iosusst\n} oe ‘ oe ee! oo% rae tt aah [ itbeths! siciioets\n8 308 ; saaerieatest t pony = sistas tae\n. pes * a> < a * roe 3 eer\n_ _ 2e2% ; sence Chat DATE Pi TERY\n-— “20% et ak eencanaaatt . ee * =\n- ‘ roti eetnehes aneentet hee _ennts\n>... ‘ . ane sen asain = iit\noF meteetee r or x poi\n7D eriek aicete ——— ee peoeateat\n. ri ck <° sehen\n. \\ Soy serieasi\nP _ — meee <82 28 TS\no- . tat xt —_ nest >\nye . nets: i 94\n- , 2 Shh 0 ty 7 yen\n8 ree sees eet ,oF\n| rose é ax, . ge 2 ‘ry\n|. , an <3 5aet3e yee ss\n_ \" ahd vee! erry meets Coit\n _ . Oo qasetes x retest\n= _ | wanes 39508 3° er\nPate oe eee anes + Betee' yen nes ry\n-_ = nen LEEKS wcnanane +\n: cS t wiset rit et elte cet\n= Ch eee - see's\n-_ Ss) Lt\niz] _ _ = oes\nie ee ae ak Sse\n* _- Reete. noes\n: _ eae!\n._- rir titt °\n. Oe e =*\nA mae? 7 ~ AX\na yee! | Terry\nen +to oo eeu ts\noer Abe oe 7\nee re a. .\nA er Ets ae ,\naot a ered cea i\ntr tr: TASTY ose\np= .% tu aoe\nBY SS Slee, oe eos\n: @ wi bed * Steer\n: ‘tes <3 resi\nbe) ae) i? a0 esr¢\n= =f * i\n¥y. ; .\n“ That «¢\ne4 wecew Te ae\nJ Snes, LASS ines im\neet} sensee xt eens AS\nPay - tomy ee Ab eCere ray\npi Sot ange nearest sty B\neee agate Pay, baten \\ :\neke True paras estes Soe\nBe Ta Soaps aaa\npakesh = ARRURL Seaapen Se,\nfioeee istisses REED arose .\nyethenes paphse nc: Berrie phoeee\nneheeiet “tert Sarees, Ree ay\n. syeestes oA = canons , Rea .\nq ER isk i202 Page . eS aay 3\nmenos treet peer - Saar n\nNokake: oh = 4) me ‘. “ Skis coe\nhohe ca baa Lee rt? x errersy x\n‘ Das iret isis; el eae «> 5 5 SNARES\nat Dat ates anys’ arher des eae > 7 Dean .\nSovauoe ae orien \" 6 oS = Seertie\n‘ DR peers (Sc23s 4 woaeuatan aceata\npecs okaens EASE oc hel aust 4\n\\ Senet Seer! Male Oa «\nBio oaat: re, Fertert (asks -! Oa ae a\nFosicsma iat eee wo a eae\nSees Ee Mas Reese hae\nBisusonas recs Seae vasey eae mY 7\nEieauarare MaRS: vee s§ st ee\nproreer cia aR Rios Rae \" feteeie\nSESSagee et Sa ae xt eey rt al freien\nnae ee ‘seg od FSB 8\nrea RAP, ee. oe J Peas\na\" \\e Aaa <a comes\n- i eistee Serre. vi: = SCs\nae a *, 5 Se es ‘.\nSee Ag ATS * a Cis oss cam A\nTerese thes (ey om, 5 -_\nEENES arte. 7 t ~*\npointe) Seat ae Y >\nSeri eet e<eet * §\nmith er toee:\n;* nee Are\n-— Sse Be ;\nSeemed\nSater aintts 4\narta z° .\nSe Eeybeae is\nsea es ty vee\naces BN\nbe a\nSee hee\ns.f\n*\n»",
+      "ocr_text_length": 8327,
+      "word_count": 1921,
+      "avg_confidence": 17.14,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_DC5C9E72C77A.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_DC5C9E72C77A.visual_ocr.json",
+  "created_at": "2026-05-09T19:47:22"
+}

@@ -1,0 +1,48 @@
+{
+  "doc_id": "DOC_7AD7B5853282",
+  "file_name": "Hersheyland-Explore-Hershey-Products.pdf",
+  "packet": "reference_only",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_7AD7B5853282.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3728,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "products"
+    ],
+    "sku_terms": [
+      "milk chocolate",
+      "upc"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7AD7B5853282/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7AD7B5853282/page_001.png",
+      "sha256": "ec1dc702894def216ff614a761c71b60d60b40aead4cbf73d86b3da6ac1d947b",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "heuheyland, Recipes v Inspiration v Our Brands v Products About v e t f ts, recipe tivity ide Q\n\\ ———lf_\n~\n4 bl :\n* \\\\ \\ P. ‘\nRemix a Classic S’mores : [ | qf =\nThere’s more than one way to S’more. Mix up your fun! - = al = ~~ As d rs\n—_ Fee es = wy ZX\n2 ve 4 SS: 4 A a ‘3 peers\nExplore S'mores . : can ih ws [ina\nsey ‘ Py if ' sa es kx)\nre *\n“hy, %* r\nas ¥\nIt’s Always S’mores Season with Hershey\nIN How to Make S$\" sInd . More Way to Enjoy S'mores Prep for Warm-Weather\na low to Make S'mores Indoors \\ Desserts sst=t=CS S'mores Nights\nOur Latest Flavor Innovations\nWe J % ‘ SX a v . pS BS\nPees\ne Cc ericy rc\nJOLLY RANCHER Heat Wave REESE’S Marshmallow REESE’S PB&J Strawberry Fri\nSweet-and-spicy gummies are bringing a heat REESE’S Cups stuffed with marshmallow fluff. Enjoy a classic PB&J with REESE’S Cha\n. K\n=\n*\n\" a\nSnack Mix with a Twist ’ Dot’ )\nA SNacje Is\nWelcome picnic and barbecue season with the seasoned snack VV og ; Zz MIX hi a\nthat features your favorite pretzel twists. You'll get bold flavor in In y “i ‘i L ‘ a\nevery bite of DOT’S HOMESTYLE Original Seasoned Snack ot / Lh *, Fi id\nMix. ede | Ye. os\n‘’ ay , 4 > y ¥ N\nNET wr 1402 one\n*K . Be %\nSweet Spring Celebrations %\n— ._*\ni. . ; a . _ 4\n_—— ~ ‘ -\nMother’s Day Treats Grad Party Ideas National Chocolate Chip d\nBake something from the heart for mom’s Celebrate your grad with a themed dessert Day\nspecial day. party. May 15 calls for classic chocolate chip\ncookies.\nBring on Everything REESE’S\nLet’s kick off the warmer months with | Love REESE’S Day on May 18. Find a recipe featuring the\ndelicious duo of milk chocolate and peanut butter.\na rs, = Mii, REESE'S PIECES Peanut Butter\n> ay 2 % > “§ Cookies\na -,o >, ; ieee “ _— ¢ (33)\nR . e. =\nry a ee = = ¥ é REESE'S PIECES Cup Cookies\nlyre oS Le _ (1)\n~ —— a & —) REESE’S OREO® Cup Brownies\nREESE'S Peanut Butter & Chocolate Cupcakes P Smee ()\n7 \\S]\n- (5) | a ae y\nSweeten Your Everyday Moments\nFe pe Fe a 4 pee Tee aes\n© . 3 ay a ; == er 5 , < af’ eS ,\n4 owe, \" > ye '\n- < a ,~ , 2 ey ° s = hen °\n< P66 5 IS >\nS'mores More Anytime Host a Birthday Bash Sweet Streaming , « Sq\nYou don't need a campfire for baking We've got cake recipes for sure, but you can Cuddle up for a movie or TV show marathon, HEF\nS'mores-inspired desserts or making S'more... also find inspo for invites, activities and more! complete with sweet and salty snacks! swe\nStill Scrolling? Try One of These!\n3) / , = Guess Pees tN i? ¥:\nase a . a, ee e@ é@\nGET BAKINGTIPS & TRICKS SEE ACTIVITIES, GIFTS & MORE EXPLORE HERSHEY BRANDS ABOUT HERSHEYLAND\n\" = ne, bea gheht eeet al 4 PULSULIANLY LUOte member Mother's Day is this\n° eae eacher, r=) SJ si, « Remem Mother's Day is thi\nAppreciation e oe!\n& Chocolate + Fruit 1 Be soy chance we an do bunen\n- Dessert + es y & . joy erence we-can do brunch at\n7 he. ; LM om -h ¢\nz q p VA AR . 3 * oe\n‘ ‘ . Where is your next bite?\n. at ir » a. “ ~ SS. ge >\n+ A rs) , Planters f aoe ae ts\nMothers Day, Pick a 2) SZ a ‘ & ~~ < — Ay\nBrunch Perfection Number ~_ Mpg ” ry + B— ES\nI : £ .\nBrunch Vibe : > : PSE x Car dy Kebab Bar»\no 4 ) ae Pd\n= amish ch eA il\nking m\ng moments ma omens 4 m\ne\ni C7) A\nse ments © mak snes 20! GOOUNESS 4 Of G99, Kin 1”\nMak; sno mo AYY Ne\naking moments 4 makin’ 5 ais i 7,\nle anes <\n\"S 4 of go ess 2 of £0° %\nOdness 4 of goodn ,\nLet's Keep in Touch [J TREAT YOUR INBOX TO SOMETHING SWEET! s\nUnwrap recipe ideas, celebration inspiration and product\nnews.\n™~\nContact Customer Service Visit Hershey\nShop Hershey Store Hershey Foodservice\nKo\n©2026 The Hershey Company. All Rights Reserved. Do Not Sell or Share My Personal Information | Notice to Parents | Privacy Policy | Terms & Conditions | Web Accessibility | Cookie Preferences",
+      "ocr_text_length": 3688,
+      "word_count": 823,
+      "avg_confidence": 62.45,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_7AD7B5853282.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_7AD7B5853282.visual_ocr.json",
+  "created_at": "2026-05-09T19:40:10"
+}

@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_02F4A4A84A57",
+  "file_name": "asr_refined_sugar_process_or_products.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_02F4A4A84A57.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 5841,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "asr",
+      "asr group",
+      "domino"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "sustainability",
+      "refinery",
+      "warehouse"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_02F4A4A84A57/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_02F4A4A84A57/page_001.png",
+      "sha256": "c77d55af25658b9fa52595b030a2a61120bbd03a2325df2d8fccf08d3414453c",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "L—\nYAS R ABOUT US OUR BRANDS OUR COMPANIES SUSTAINABILITY NEWSROOM CAREERS Q\nGROUP\n\nBaltimore Refinery\n\n1100 Key Highway East\n\nBaltimore, Maryland 21230\n\nDirections to facility\n\nFrom Interstate 95 North or South\n\ne Take exit 55 toward Key Highway/Fort McHenry National Monument\n\ne Merge onto E McComas St\n\ne Use the left 2 lanes to turn left onto Key Hwy\n\ne Turn right onto Key Hwy E Street View\n\ne Turn left at Woodall St into the plant\n\nUpon entering the Baltimore Refinery - please follow the instruction of our staff security. They will direct you where to park. You must have a valid\n\ndriver's license on you and have your Domino pickup number.\n\nNumber to call for recorded directions\n\n410-752-6150\n\nHours of operation\n\nOpen 24 hours, Monday - Friday\n\nWe like appointments to be set from 8am to 4pm\n\nBluJay TMS will reflect current shipping hours and availability.\n\ne e e\n\nLink to appointment scheduling\n\nhttps://na-app.tms.e2open.com/ (Google Chrome works best)\n\nTMS instructions for customer arranged carriers (CPU) may be found at asr-group.com/BluJay. CPU orders are scheduled in the 3rd Party scheduler\n\nwithin BluJay. Search using the customer PO, domino sales order number, or delivery (PU) number along with the 2-letter state abbreviation for the PU\n\nlocation. CPU carriers and customers should contact ASRCPU@asr-group.com for assistance.\n\nDomino-arranged carriers (PPD loads) should schedule appointments through BluJay under Execution Status. Contact USLogistics@asr-group.com for\n\nassistance.\n\ne e e e\n\nAppointment scheduling guidelines\n\nTMS available to schedule: Orders populate in BluJay up to 7 days in advance of the pickup date. For CPU orders, BluJay will NOT show appointment\n\navailability prior to the planned pickup date. For PPD loads, BluJay will show appointment availability 24 hours prior to the planned pickup date.\n\nTMS hours: BluJay is accessible for scheduling from any web browser 24/7 (google chrome is recommended).\n\nSame Day Scheduling: Schedule in BluJay and use contacts below for assistance.\n\nContact: Sandy or Lori\nPhone: 800-638-9878\nEmail: Sandra.napier@asr-group.com; Lori.betch@asr-group.com\n\nRescheduling: Reschedule in BluJay. Contact Sandra.napier@asr-group.com for assistance on product availability if not able to move appointment within\n\nthe TMS.\n\nEarly/late for appointment policy\n\nWe have a 60/30 minute window on either side of your appointment.\n\ne If you come in earlier than 1 hour before your appointment, guards will turn you away and tell you to come back at your appointment\ntime.\n\ne If you arrive past the 30 minute late window we will try to work you in.\n\ne If you choose not to wait you must leave and call to make a new pickup appointment.\n\ne If you will be late do not show up. Reschedule in BluJay and use the contacts below.\n\nContact: Sandy or Lori |\nPhone: 800-638-9878\nEmail: Sandra.napier@asr-group.com; Lori.betch@asr-group.com\n\nRefinery check-in requirements and security\n\nCheck-in Requirements\n\ne All occupants must have valid government issued picture ID to enter the Plant. Drivers must have a valid DL for entry. All occupants\nmust sign in at the main gate.\n\ne All vehicles are subject to search. All operators who refuse will be turned away and not be loaded. Absolutely no contraband\n(drugs/alcohol) or weapons allowed on site. If discovered, law enforcement will be notified and asked to resolve the situation.\n\ne All drivers must lock out their truck and give the keys to the loader. The loader will then put the keys in a lock box. Driver will then\nsit on the bench next to lock box unless needed by loader. They must follow all instructions of the loading operator and staff while in\nthe plant.\n\nScaling In and Out\n\ne The driver will be able to scale in at the Refinery. Bob's Warehouse does not have a scale.\n\ne After getting loaded the driver must put the seal on the trailer prior to leaving the shipping departments.\n\nRules and Requirements\n\n¢ Trailers must be FOOD GRADE (Clean, Dry, Odor Free, No Holes, No more than 5 missing rivets or 2 missing rivets on the same cross\nmember). You will be rejected if you have problems in any of the above categories. Dirt, glass, foreign material or odors are the most\ncommon causes of rejection. Clean before you arrive.\n\ne Trailer must be swept out prior to arrival at the facilities you will not be able to sweep out once inside the facilities and will be\nrejected for dirty trailers.\n\ne Trucks must come in full on fuel as they will be scaled in and out at the refinery.\n\ne lf your trailer is rejected, correct reason for rejection and resubmit for inspection, replace with a different trailer.\n\ne lf your load is rejected at the customer you must call: Sandy, Lori or Mike 800-638-9878. They will work with you on what to do with\nthe product.\n\nTA TRUCK STOP\n\n5501 O'Donnell Street Cut Off, Baltimore, MD 21224\n\nOpen 24 hours\n\nPhone: (410) 633-4611\n\ne\n\nBaltimore Area Warehouses\n\nVisit: /baltimore-warehouses\n\nDelivery to customer\n\ne Please mark tenders in BluJay as being at the customer and departing the customer. This is how you will get paid.\n\ne ON TIME deliveries to our customers are imperative. If you will be late you must contact us immediately via a load note in BluJay.\nHaving our customer tell us we missed a delivery appointment before being notified by our transportation provider is unacceptable.\nWe need to be proactive and alert them we will be providing their product late.\n\ne If you have a load with rejected product call email USLogistics@asr-group.com or 800-638-9878 so that we can put you through to\nthe correct customer service rep.\n\n(ice About Us Sustainability\nGROUP Our Brands Newsroom\n\nOur Companies Careers\n\nContact Us Document Downloads Legal Sitemap Privacy Policy | ASR Group Codes & Policies in|\n\n© 2026 ASR GROUP ALL RIGHTS RESERVED",
+      "ocr_text_length": 5801,
+      "word_count": 954,
+      "avg_confidence": 94.14,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_02F4A4A84A57.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_02F4A4A84A57.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:12"
+}

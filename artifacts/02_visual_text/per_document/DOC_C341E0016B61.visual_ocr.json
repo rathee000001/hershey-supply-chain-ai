@@ -1,0 +1,47 @@
+{
+  "doc_id": "DOC_C341E0016B61",
+  "file_name": "fda_lecithin_food_additive_or_gras_reference.pdf",
+  "packet": "soy_lecithin",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_C341E0016B61.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3049,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "fda"
+    ],
+    "ingredients": [
+      "lecithin",
+      "packaging"
+    ],
+    "supply_chain_terms": [
+      "ingredient"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C341E0016B61/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C341E0016B61/page_001.png",
+      "sha256": "fbae271191045e243d5c53f1ae01d65776da110d5c076cc6d0a29468ef6b9b5f",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Rd Department of Health & Human Services AA\nU.S. FOOD & DRUG\nADMINISTRATION\nSubstances Added to Food (formerly EAFUS) Pa\n© FDAHome ®© Ingredients and Packaging © Food Ingredient and Packaging Inventories © Substances Added to Food (formerly EAFUS) =_\n© LECITHIN\nCAS Reg. No. (or other ID)*: 8002-43-5\nSubstance*: LECITHIN\nOther Names: # LECITHIN\n« LECITHINS\nUsed for*t (Technical Effect): ANTICAKING AGENT OR FREE-FLOW AGENT,\nANTIOXIDANT,\nDRYING AGENT,\nEMULSIFIER OR EMULSIFIER SALT,\nHUMECTANT,\nLUBRICANT OR RELEASE AGENT,\nMASTICATORY SUBSTANCE,\nNUTRIENT SUPPLEMENT,\nSURFACE-ACTIVE AGENT,\nTEXTURIZER\nFood additive and GRAS regulations (21 CFR Parts 170-186)*: 175.300\n176.170\n184.1400\nFood labeling and standards regulations (21 CFR Parts 100-169): 133.169 , 133.173 , 133.179 , 136.110 , 169.140 , 169.150\nSelect Committee on GRAS Substances (SCOGS): See report SCOGS no. 106\n*Definitions\n« CAS Reg. No. (or other ID): Chemical Abstract Service (CAS) Registry Number® for the substance or a numerical code assigned by HFP to those substances that do not\nhave a CAS Registry Number (977nnn-nn-n series).\n« Substance: The name of the ingredient as recognized by HFP_\nUsed fort (Technical Effect): The physical or technical effect(s) the substance has in or on food; see 21 CFR 170.3(0) for definitions.\ne 21 (CFR: Title 21 of the Code of Federal Regulations.\n« FEMA No.: The trade association, Flavor and Extract Manufacturers Association (FEMA), has established expert panels to evaluate and make independent determinations on\nthe GRAS status of flavoring substances. The FEMA number is provided here as a reference to FEMA's GRAS assessments.\no The GRAS Pub. No. is the FEMA GRAS™ publication number.\n© NLFG is no longer FEMAGRAS™.\n© For more information about FEMA GRAS, see About the FEMA GRAS™ Program <External Link Disclaimer> -\n« JECFA: The Joint Expert Committee on Food Additives (JECFA) is an international expert scientific committee that is administered jointly by the Food and Agriculture\nOrganization of the United Nations (FAO) and the World Health Organization (WHO). See JECFA Specifications for Flavourings <External Link Disclaimer>\ntcolor Additives\n« Fora substance to be used as a color additive in the US, it must be authorized by a regulation in 21 CFR Part 73, 74, or 82.\nPage Last Updated: 04/21/2026\nNote: If you need help accessing information in different file formats, see Instructions for Downloading Viewers and Players.\nLanguage Assistance Available: Espafiol | S288c#xz | Tiéng Viét | $+$04 | Tagalog | Pyccnit | 42 ,=! | Kreyél Ayisyen | Francais | Polski | Portugués | Italiano\n| Deutsch | A458 | 08 | English\nFA Accessibility | Contact FDA | Vulnerability Disclosure Policy | Careers | FDA Basics | FOIA | No FEAR Act | Nondiscrimination | Website Policies\nU.S. Food and Drug € U.S. Department of Health & Human Services\nAdministration\n10903 New Hampshire Avenue\nSilver Spring, MD 20993\nPh. 1-888-INFO-FDA (1-888-463-6332)\nContact FDA\nTi <A O Fe le\nForGovernment | ForPress",
+      "ocr_text_length": 3009,
+      "word_count": 478,
+      "avg_confidence": 89.58,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C341E0016B61.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C341E0016B61.visual_ocr.json",
+  "created_at": "2026-05-09T19:43:27"
+}

@@ -1,0 +1,51 @@
+{
+  "doc_id": "DOC_8F85C09572BC",
+  "file_name": "hershey_cocoa_for_good_strategy.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_8F85C09572BC.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 7726,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [
+      "cocoa",
+      "chocolate"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourcing",
+      "sustainability",
+      "sustainable",
+      "products",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8F85C09572BC/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_8F85C09572BC/page_001.png",
+      "sha256": "000699de18690258cc63b4c1d10a5cdcdc0b58a83486dee8c08acdd2708f11eb",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "CAREERS MEDIA INVESTORS\nHERSHEY.\nSUSTAINABILITY\nee 9\ne\nVisible Progress: Hershey’s Cocoa For\ni bl UJ 4 fv oT ae. (pM 7 J . (- rv\nPo SOOO TN Br 7 KS Ne\né uP a vay < ; . a\n# ws a > . . ‘ i a .\n? a / dina ‘\n‘ a 4 *\n2 @F et , ~ 7\n. a — Se be ed\n>. > td =e p J , ‘|\nKeres eS / Am <i ‘ geal\nLar > J ok aun A — , / PP 2\n= ag\" Sp. - Sw me) —, Cee P + ~\nCs ey 3 * A dy > __ .— Ss ae cae Pe vA\n= ‘ . . ~ ~\nSSN ~~ aes ba\nAngela Tejada Chavez\nHead of Cocoa Sustainable Sourcing\nFour years ago, Hershey launched our Cocoa For Good strategy, a 10-year, $500 million investment that\nexemplifies Hershey's commitment to achieve a more resilient and sustainable cocoa supply chain. Since joining\nthe company in late 2021, | have had the exciting opportunity to lead the implementation of the strategy,\ndrawing on what we've learned thus far from a range of Cocoa For Good activities conducted in cocoa-growing\ncommunities around the world.. These learnings are prompting us to evolve our ways of working, improve\ntransparency for our key stakeholders, and provide greater assurances about our products.\n| was born and raised in Peru, where cocoa production has dramatically increased over the past several years.\nThis experience instills in me a deep appreciation for the challenges that many developing economies and\ncocoa-growing communities face, whether they are in South America, Africa or Asia. Cocoa For Good raises\nHershey's ethical and social responsibility to these communities by seeking to create the best outcomes for\ncocoa farmers, their families, and communities throughout our supply chain through the following key\nobjectives:\n+ Improving farmer incomes and livelihoods\n+ Eliminating child labor and improving children’s nutrition\n+ Protecting the environment\nBy 2025, we aim to achieve 100% sourcing visibility in Céte d’lvoire and Ghana, the world’s top two producers of\ncocoa. Clear visibility into how and under what conditions the cocoa volumes we source is grown and cultivated\nenables us to refine Cocoa For Good, implementing programs that focus on helping improve farmer incomes,\nend child labor and protect the environment. Understanding the origin of cocoa is also essential to ensure that it\nmeets our human rights and environmental requirements.\n+ Specifically, this is the progress we have made to date:Improving farmer incomes and livelihoods\nThrough Cocoa For Good, we have supported more than 90,000 cocoa farmers with a range of services, including\ntraining on good agricultural practices that, when adopted, can help ensure that farmers are more successful. More\nthan 41,000 farmers have been individually coached, we have worked with more than 31,000 on development of\ndetailed farm management plans and another 3,000 have participated in income generating activities that focused\non diversifying income sources unrelated to cocoa farming (with a focus on empowering women to improve their\nlivelihoods). Through a partnership involving Hershey, the U.S. Agency for International Development, the\nGovernments of Céte d'Ivoire and Germany, and others, nearly 1,250 farmers received land tenure documents that\nwill help them secure rights to the land where they live and work. Farmers in Ghana received more than 79,000\ncocoa seedlings to help replace old or diseased trees. We also maintain our commitment to pay the Living Income\nDifferential, established in 2021 by the governments of Céte d'Ivoire and Ghana.\n+ Eliminating child labor and improving children’s nutrition\nBased on what we have learned during the past four years, we are expanding the coverage of our Child Labor\nMonitoring and Remediation Systems (CLMRS), the leading way to detect, remediate and eliminate child labor,\nacross our cocoa sourcing supply chain in Céte d'Ivoire and Ghana as we aim for 100% coverage of our Cocoa For\nGood farms by 2025. In 2021 alone, we monitored nearly 103,000 children. This includes engaging trusted members\nof farmers’ own communities in auditing farmers’ work practices and following up with them to identify appropriate\nremediation approaches that help farming families lessen their reliance on the work of children (and keep children in\nschool). By providing education and skills training for adult workers, we are also helping to create employment in\nrural communities and provide skilled laborers who can perform tasks that otherwise might be done by children on\ntheir families’ farms. Following the successful trial of our Energize Learning school feeding project in Ghana, we are\nnow expanding the project to include Céte d'Ivoire, where a new state-of-the art factory in San Pedro operated by\nour partners at Project Peanut Butter is producing ViVi, a vitamin-fortified ready to use therapeutic food that is\ndistributed to nearly 25,000 school children daily. Combined with the project’s reach in Ghana, ViVi is now being\nenjoyed by 45,000 children across both countries and its presence in schools serves both to nourish children and\nencourage them to attend school.\n+ Protecting the environment\nHershey’s is committed to eliminating commodity-driven deforestation from our entire supply chain by 2030, while\nrespecting and protecting human rights in the communities where our suppliers source the cocoa volume that is\nused in our products. We announced our no-deforestation policy in 2018 to advance environmental progress, guide\nHershey activities aimed at eliminating deforestation in our global supply chain and contribute to global climate\naction. To monitor deforestation and improve traceability in our supply chain, we are now requiring our suppliers to\npolygon map 100% of farms that produce Hershey’s cocoa volume in Céte d’lvoire and Ghana and are at 46%! of the\nway to our goal. Additionally, we are providing specialized guidance on environment-friendly actions, climate-smart\nfarming techniques, and agroforestry. Over the past four years, we have distributed more than ,1.3 million non-cocoa\ntrees to farmers for planting on their farms and in 2021 we have trained nearly 30,000 farmers in climate smart\nfarming practices. Through Cocoa For Good, we are partnering with other cocoa sector companies, the Government\nof Ghana, the U.S. Agency for International Development, and other partners to protect the landscape surrounding\nGhana’s Kakum National Park, which is home to antelopes, elephants, monkeys, and other endangered wildlife\nspecies. The activity includes paying more than 800 farmers for environmental services.\nFar from finished\nHershey's is today in a unique position to combine the philanthropic heritage passed down to us by our founder,\nMilton S. Hershey, with our success as a business to make a major difference in the lives of cocoa farmers. We\nmust continue to look for ways to achieve more impact and lift farmers out of poverty and toward living income.\nCocoa For Good is helping us stay on track toward that ambition and | am happy to be making a major\ncontribution to this effort.\nBeginning in 2021, to be considered polygon mapped, all farm plots managed by the farmer must be mapped, as defined by the World Cocoa\nFoundation. Previously a farmer was considered polygon mapped if at least one plot of land was mapped.\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nHERSHEVS CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD PLANT LOCATIONS\nFAQ ERSHEYEARIC PRODUCT LOCATOR\nSs\nf X ina) RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCID HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMITAN IDEA\nSUPPLIERS\nDO NOTSELLOR SHARE MYPERSONALINFORMATION = PRIVACYPOLICY = TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.\nWEBACCESSIBILITY | COOKIE PREFERENCES",
+      "ocr_text_length": 7686,
+      "word_count": 1256,
+      "avg_confidence": 88.13,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_8F85C09572BC.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_8F85C09572BC.visual_ocr.json",
+  "created_at": "2026-05-09T19:41:56"
+}

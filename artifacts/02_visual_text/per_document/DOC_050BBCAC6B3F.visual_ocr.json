@@ -1,0 +1,47 @@
+{
+  "doc_id": "DOC_050BBCAC6B3F",
+  "file_name": "mclane_company_profile.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_050BBCAC6B3F.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 3169,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "mclane",
+      "walgreens"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "supplier",
+      "products",
+      "distribution",
+      "warehouse",
+      "retail"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_050BBCAC6B3F/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_050BBCAC6B3F/page_001.png",
+      "sha256": "f1db62c103d0d09aeadd55219f0caefaae519cfebcb84ee547eb979debf31dbe",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Careers Newsroom Locations Become a Customer Login\nAd About v Distribution Expertise » | C-StoreSolutions » Innovation » Suppliers Contact\nMcLANE.\nSeason Success ~— ee\n: ; 4\n. ; wae\nSummer brings more trips, more impulse, and more ¢ \"ey\nopportunity. New line extensions and LTOs from * «A a ¢ S\nMcLane Fresh are designed to help operators move r y | : > 5 PA —\nfast —— adding variety, driving incremental sales, and ty > « ¢ SS =\nexecuting with confidence during the busiest months ‘alten t oS SS\nof the year. Backed by the programs, products, and < q ‘ = “SS\nsupport to help you win all summer long. * TN \\ aS\nre | ~ : _\n>\nfe.) ; 3\n<\nee DT ——E——\nD = = a ate — Ste E =\nistribution rar oe OE\nE = = ay st 1 — ls _ i \\ : oe Se * = =z ==:\nLearn how our wide range of supply chain solutions can help yg = - -_ im. \\ ; I\nimprove efficiency, increase productivity, and drive profitability “\nthroughout your entire organization.\n7 || oe on \\\nLearn More — a { ely - e \\ — 2\nah \\ :] )\n} k NN\n| Sea ao eae x\nht | = = a\n~ & a\n— (=\nF > a\nwe ‘ tog 1\n} \\ ‘ », NY x\na. Oe h\nJ bed ~\n' *\n5 - ‘ /\n: About Us\nEs\nTy A 25,000\n3) .\n- committed to\n) l l\nSs ° excetence.\ne -_. a McLane is one of the largest and most stable distribution\n™ leaders in the United States, delivering restaurant and retail\nsolutions for convenience stores, mass merchants, drug\nstores, and chain restaurants for more than 130 years.\nWho We Are —\nWawa\n(Bzhems\nOur Partners Breeze.\n) ISLAND GRILLE\nTHE <\nServing the best ~~\ng Kraft Heinz,\nd brightest\nOwe <=>\nnetwork O Ganden.\nA\ncustomers and ~~\n=\nry\nsuppliers mes\na\nHellegg's\nWalgreens\nMcLane By the Numbers\n1894 80+ 110,000 50,000+\nMcLane was Founded Distribution Centers Locations Served Consumer Products\nDelivered\n6,100 10 25,000 4.5\nMulti-Temp Trailers B 2 l l 2 Teammates Seconds A New\n| I Oo n + Delivery is Made\nPounds Of\nMerchandise\nDelivered Each Year\nCee\n| !\n*\ntaying ahead to\nto success.\nInnovation is ingrained in everything we do, from our warehouse\ndesign and engineering to our delivery operations, technology, and\nproblem-solving approach.\nCareers P\nes E\ndyt th\nIf you're ready to go the\ni ‘Il tak\ndistance, we'll take you as\nfar as you want to go.\nThere is a sense of pride and a dedicated spirit among McLane teammates.\nFrom our industry-leading 401k and paid time off to our best-in-class affordable\nhealthcare plans, McLane invests heavily in the well-being and future careers of\nour teammates.\nJoin Our Team —\nMcLANE.\nFounded in 1894, McLane Company Inc. is one of the largest distributors in America, serving\nconvenience stores, mass merchants, and chain restaurants. As an industry-leading partner to the\nbiggest retail and restaurant businesses, McLane buys, sells, delivers, and serves the world’s most\nbeloved brands. With headquarters in Temple, Texas, McLane has more than 80 distribution centers\nacross the country, employs more than 25,000 teammates, and delivers to nearly every zip code in the .\nUS. McLane is a wholly owned subsidiary of Berkshire Hathaway, Inc. in f X @O\n© 2026 McLANE COMPANY, INC.. ALL RIGHTS RESERVED. LEGAL\nWEBSITE PRIVACY POLICY | PERSONAL INFORMATION REQUEST | SSIS\nru",
+      "ocr_text_length": 3129,
+      "word_count": 609,
+      "avg_confidence": 72.66,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_050BBCAC6B3F.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_050BBCAC6B3F.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:19"
+}

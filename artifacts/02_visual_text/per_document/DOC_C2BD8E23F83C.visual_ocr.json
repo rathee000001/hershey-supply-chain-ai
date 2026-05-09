@@ -1,0 +1,51 @@
+{
+  "doc_id": "DOC_C2BD8E23F83C",
+  "file_name": "asr_sustainable_supply_chain_page.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_C2BD8E23F83C.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2174,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "asr",
+      "asr group"
+    ],
+    "ingredients": [
+      "sugar"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourced",
+      "sustainability",
+      "sustainable",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C2BD8E23F83C/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C2BD8E23F83C/page_001.png",
+      "sha256": "fc358ec0bb2f27e0ce82429495cddb84dacc714500e9ea56f5fab494b78c934b",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Ce\n‘ASR ABOUT US OUR BRANDS OUR COMPANIES SUSTAINABILITY NEWSROOM CAREERS Q\n: 4 | J 7 \\ a ! me SUSTAINABILITY / SOCIAL / SUSTAINABLE & ETHICAL SUPPLY CHAIN\nmy e Noae\n“a wr Sustainable &\nq | ) Sip Ethical Supply\n» x 4\ne\ni ee) | Chain\nZF \\ a dk\n3 fe aA ) OY =\nEd Oh _ hb s\\\n© Ks ‘ ~ — 3S \\\nX = 2 . = -_ ul\ne e\nOur Sustainable and Ethical Supply\ne\nChain Approach\nWe have a duty to protect both our natural assets and the diverse communities that farm,\nmill and refine cane sugar all over the world.\nSocial responsibility is at the core of what we do. As a global sugarcane group, we\nrecognize our potential social and environmental impact. We are striving to make sure all\nprocesses throughout our supply chain are conducted ethically and sustainably, with\npeople and planet in mind.\nOur goal is to only refine sustainably and ethically sourced raw sugar globally. We aim for\n95% of our raw sugar to be sustainably sourced by 2035.\na , \\ ‘\nt Our Sustainably Sourced and Ethically\nGrown commitment means we aim to\ni : ensure our raw Sugar comes from suppliers\nwho are independently assessed by third-\na party experts against reputable,\ninternationally recognized social standards\n- to verify they are upholding our values.\n: \\\n: Every step of the way, we have an opportunity to make a\nJ\nbs positive impact.\n4\n.\nj\n:\ne\n: Learn to Grow with The\n& 7) . ’ 1\neS Vo Hershey Co. in Belize — Mobile\nio ieee. 8 Application Helps Farmers Stay\nope oy 2. Alert of Pests and Weather\nve Sa. Patterns\n= a eae) if Bp C72\nes =, 4 Soa\n° er | AG = S 4 SS In Belize, the “Learn to Grow” program continued to expand on the initial successes through\nA ZZ ] rad — = , EEGs FY19-21. By the close of FY22, the program benefited about 2,540 farmers, monitored over 1,000\n“JS eo me > rm) : 2 eg oe hectares of sugarcane fields for pests, reduced the use of nearly 3,000 kgs of pesticide, and\n. ss Peat Ft\na ‘ aia Saas Bia saved farmers a total of $389,000.\nKe About Us Sustainability\nASR Our Brands Newsroom\nGROUP\nOur Companies Careers\nContactUs Document Downloads Legal Sitemap PrivacyPolicy ASR Group Codes & Policies in| ™A\n© 2026 ASR GROUP ALL RIGHTS RESERVED !)",
+      "ocr_text_length": 2134,
+      "word_count": 426,
+      "avg_confidence": 73.78,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C2BD8E23F83C.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C2BD8E23F83C.visual_ocr.json",
+  "created_at": "2026-05-09T19:43:25"
+}

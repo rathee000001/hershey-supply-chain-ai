@@ -1,0 +1,41 @@
+{
+  "doc_id": "DOC_55B0E1DB0BD6",
+  "file_name": "common_carrier_freight_explanation.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_55B0E1DB0BD6.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2163,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "retail",
+      "cost"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_55B0E1DB0BD6/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_55B0E1DB0BD6/page_001.png",
+      "sha256": "1aa1e866b5c762200eb4933319096a9ff6f126e3b9c3cf10b4bc235be39b19c3",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "+> Al Overview\n\nAcommon carrier is a transportation company, such as a trucking line or railroad, that\noffers shipping services to the general public for a fee. They typically specialize in Less-\nThan-Truckload (LTL) freight, consolidating smaller shipments from multiple customers to\noffer lower, scheduled rates. Common carriers operate on set routes, adhere to strict\nregulations, and are legally required to serve any shipper who pays their\n\nfates. @& Freightquote +3\n\nKey Features of Common Carriers\n\ne Public Service: They are available to any person or business, unlike private or\ncontract carriers that serve specific clients.\n\ne Regulations: Must have an MC (Motor Carrier) number and DOT (Department of\nTransportation) number to operate legally, often requiring at least $750k in liability\ninsurance.\n\ne Operation Method: They frequently use a \"hub-and-spoke\" model, where freight is\nmoved between regional hubs, increasing handling but allowing for cost-effective\ntransport of smaller loads.\n\ne Rates and Scheduling: Rates and routes are typically published and\nstandardized. « Wikipedia +3\n\nCommon Carrier vs. Other Carrier Types\n\ne Contract Carrier: Transports goods only for specific clients under contract, whereas\ncommon carriers serve the public.\n\ne Private Carrier: A company that owns its own trucks to transport its own goods.\n\ne Freight Forwarder: Arranges transportation but usually does not move the goods\nthemselves; they contract with common carriers to do the transport. »© Wikipedia +4\n\nBenefits and Limitations\n\n¢ Benefits: Cost-effective for small shipments (LTL),J~iZ (broad) accessibility, and high\ndependability.\n\ne Limitations: Increased touchpoints in a hub-and-spoke system can raise the risk of\ndamage or lost freight. s% Freightquote +2\n\nTypical Use Case\n\nA manufacturer using a common carrier to move a few pallets of goods to various\nretailers. The carrier picks up the goods, takes them to a local terminal, loads them onto\na larger trailer with other shippers' goods, and delivers them via a set\n\nroute. & Freightquote +4\n\nAl can make mistakes, so double-check responses O aa > Cp :",
+      "ocr_text_length": 2123,
+      "word_count": 324,
+      "avg_confidence": 92.43,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_55B0E1DB0BD6.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_55B0E1DB0BD6.visual_ocr.json",
+  "created_at": "2026-05-09T19:38:50"
+}

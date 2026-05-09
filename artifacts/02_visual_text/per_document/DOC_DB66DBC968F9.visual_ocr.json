@@ -1,0 +1,50 @@
+{
+  "doc_id": "DOC_DB66DBC968F9",
+  "file_name": "asr_group_home_page.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_DB66DBC968F9.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2355,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "asr",
+      "asr group",
+      "domino"
+    ],
+    "ingredients": [
+      "sugar"
+    ],
+    "supply_chain_terms": [
+      "sustainability",
+      "sustainable",
+      "ingredient",
+      "products",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DB66DBC968F9/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_DB66DBC968F9/page_001.png",
+      "sha256": "980417093ff8a98f70ecb07fc79c7f4d78b4bb6a8cfab3c0ca2c72d0b829880e",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Ce\nNA 7 ABOUT US OUR BRANDS OUR COMPANIES SUSTAINABILITY NEWSROOM CAREERS Q\nS t I\nur Vilalin | AN\ne . \\ aa 4\nWS _\\\nIngredient ~~\n.\nA Global Sugarcane Group : - {\nAs the world’s largest cane sugar refiner and marketer, our family of , di N < % . Py |\ncompanies sells our branded products and provides quality service to our a +\ncustomers in key channels, including grocery, industrial, foodservice and N g ;\nspecialty. = . {\nNO\n- a\n© '\nxpert in\niD |\nA a OC) Y]\nSugarcane-Based\nProducts\nvers — baal bat set — i a\nDomino FLORIDA .\n, — \\ CRYSTALS \\\nUGAR ; ef :\n4 . SINCE 1906 Om REGENERATIVE ORGANIC\nRaw Cane Sugar\n\\ _ PREMIUM a\nBe) = @ Pure Cane r\n—>—EEE\nNETWT 16021 1B) 453g + Sila\nJ ¥ Ls \\\"\nacucar | , |\ngee AREADO |\\\niG f- 2 \\Pwl AMaRELo \\ |} ———_ =|\nPepe a D | a © Ry eS We\n. eed Mi) = | - OP ee WS.\nRe sa /f).. PURE CANE ar OAL Sete BE 4\na 57 SRANULATED iil SR ABR C\nae | onus S|\nuf z i? :\n*.\nre\n** ~\nWDEAL FOR DECORATING,\nMIXING & CREATING\n@ @ @ @\n| Ld eye , | a e@\nUS aina 1 1 We aspire to be the most sustainable and\nethical sugarcane company and achieve net\nzero carbon as fast as we can, for now and\nfor generations to come.\n@ ey @\nustaina | ity ren\nLatest News\ni. ; ; ss Wa\n& & gS A, Ae tee E as licole Almeida\n\\ mo otse - 4 el i ey Pe 2 Brand Manager\n} Bocce Te SCAT\n7 on ey SYRUP SWIRL va |. pe = -- ~ (a\nMAY 05, 2026 MAY 01, 2026 APRIL 29, 2026\nBLOG ARTICLE WMAR 2 NEWS BLOG ARTICLE\nLyle’s® Golden Syrup Enters ‘Beacon of the City’: Domino How Nicole Almeida is\nthe Ice Cream Market! Sugars Sign Celebrates 75 Shaping the Future of our\nYears as a Baltimore... European Brands\nDISCOVER MORE DISCOVER MORE DISCOVER MORE\nExplore Careers\n. a aad J Our team of experts is 6,500 strong and the foundation of our success.\n\n“4 VILECS DPECULT A EAT OCU S45\n, JO; put a Li ‘ Ve ff \\ 21 OS BRA SNP RGD q Me Vi a AY, ea 4\n, Ui of : Z f wn \\ Dp g \" 7 ; q\\, 4 eas\n/ ‘ f P 4 SRE RS aN ‘oy b Pik ~ “a i 7 ‘ 2 + bye'y 5 ia a ee >\n\n(i About Us Sustainability\nASR Our Brands Newsroom\nGROUP\nOur Companies ‘©\nASR\nContactUs Document Downloads Legal Sitemap Privacy Policy © ASR Group Codes & Policies By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to\nenhance site navigation, analyze site usage, and assist in our marketing efforts. Privacy . .\n© 2026 ASR GROUP ALL RIGHTS RESERVED Policy",
+      "ocr_text_length": 2315,
+      "word_count": 522,
+      "avg_confidence": 62.28,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_DB66DBC968F9.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_DB66DBC968F9.visual_ocr.json",
+  "created_at": "2026-05-09T19:46:45"
+}

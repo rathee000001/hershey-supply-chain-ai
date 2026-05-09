@@ -1,0 +1,293 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
+ay ScienceDirect® Journals & Books @ Help Q Search & My account Mf Signin
+ack
+Ricinoleic Acid
+In subject area: Agricultural and Biological Sciences
+Ricinoleic acid (RA) is defined as a hydroxylated fatty acid (12-hydroxy-octadeca-cis-9-enoic acid) that is Also in subject areas:
+primarily sourced from castor oil and represents 90% of its total fatty acids. It is utilized in various
+industrial applications, including as a substrate for chemical reactions and in the production of | Biochemistry, Genetics and
+plasticizers, lubricants, and pharmaceuticals. Molecular Biology
+AI generated definition based on: Progress in Lipid Research, 2016 I Giants
+I Medicine and Dentistry
+How useful is this definition? * * + Show all v
+Discover more topics >
+© About this page ++ Add to Mendeley XX Set alert ne
+On this page Chapters and Articles
+Definition You might find these chapters and articles relevant to this topic.
+Chapters and Articles Review article
+Related Terms as a biotechnological chassis to produce usual and unusual fatty
+Recommended .
+Publications acids
+Featured Authors
+5.2 Ricinoleic acid (RA)
+Ricinoleic acid (RA; 12-hydroxy-octadeca-cis-9-enoic acid: C18:1-OH) is a hydroxylated
+unusual fatty acid that can be exploited in several industrial applications (Fig. 2). RA is
+considered a renewable material for the chemical industry, which can use it as a substrate for
+double-bond reactions (oxidation, polymerization, hydrogenation, epoxidation, halogenation,
+addition reactions, sulfonation and metathesis) and for hydroxyl-group reactions (dehydration,
+hydrolysis, caustic fusion, pyrolysis, alkoxylation, esterification, halogenation, urethane
+formation and sulfonation) [85]. Its derivatives can be used as plasticizers, lubricants, dyes,
+inks, suaps, adhesives, pharmaceuticals, paints, food additives, textiles, paper, electronic
+components, perfumes, cosmetics and biofuels [86,87].
+The major source of RA is castor oil, extracted from the seeds of the castor plant (Ricinus
+communis). RA represents 90% of the total fatty acids of seed oil. However, the castor plant is Journal
+Not a suitable crop for a variety of reasons: 1) Its cultivation is limited to tropical and
+subtropical regions. 2) It is primarily produced in areas with economic and political instability,
+which produces fluctuations in price and supply. 3) The seeds must be harvested by hand,
+which is not convenient for large-scale production. 4) The seeds contain ricin, a toxic protein
+that causes health problems to workers. Finally, 5) the refining process is long and tedious and
+includes many steps, such as removing undesired colors, odors, flavors and ricin.
+Therefore, the increasing number of potential applications of RA and the drawbacks associated 2016, Progress in
+with its traditional production have pushed the scientific community to find alternative sources Lipid Research
+of this unusual fatty acid.
+The molecular mechanisms involved in RA biosynthesis are known, which has permitted the Rodrigo
+development of metabolic engineering approaches to producing fatty acids in other plants and Ledesma-Amaro,
+microorganisms. RA is formed in a reaction catalyzed by a A12-hydroxylase (FAH12), which x ener
+Show more V
+Chapter
+Tissue Culture and Genetic Engineering of Oil Palm
+High Ricinoleate Oil Palm
+Ricinoleic acid (D-12-hydroxyoctadec-cis-9-enoic acid) is an important industrial fatty acid. It is
+hydroxylated and a constituent of sccd storage oil in at lcast 12 gencra from 10 familics of
+higher plants (Van de Loo et al., 1993). Ricinoleic acid can be used to produce cosmetics (~40%
+lipsticks), plastics (mainly nylon 11, nylon 10-10, nylon 6-10), surfactants, deodorants,
+plasticizers, diesel lubricants and coatings due to its effective drying properties (McKeon,
+2009). The hydroxyl group in ricinoleate makes it a good lubricant and good/double effective as
+biodiesel. The agriculturally important source of ricinoleate is castor oil (Ricinus communis L.).
+In this plant, ricinoleic acid is restricted to seed triacylglycerides and constitutes 85-90% of the
+fatty acids (Atsmon, 1989).
+Oleic acid is converted to ricinoleic acid by oleate 12-hydroxylase. The LFAH12 gene encoding
+for oleate 12-hydroxylase from L. fendleri has been isolated and characterized (Broun et al., Book
+1998). Analysis of the fatty acid composition of oil produced by transgenic plants expressing :
+the L. fendleri gene indicates that the enzyme exhibits both desaturase and hydroxylase activity. a
+AcDNA encoding oleate 12-hydroxylase from castor bean was later isolated and transformed F dl Palm oi!
+into Arabidopsis thaliana under control of the Brassica napus napin promoter. The resulting Rare “
+transgenic plants accumulate ricinoleic acid up to 17% of the seed fatty acids (Broun & i
+Somerville, 1997). Further investigation indicated that co-transformation of castor oleate 12- . J
+hydroxylase with diacylglycerol acyltransferase 2 (DGAT2) could improve the ricinoleic acid 2012, Palm Oil
+content in transgenic Arabidopsis seeds (Burgal et al., 2008). Therefore, introduction of castor
+oleate 12-hydroxylase into oil palm should result in synthesis of ricinoleic acid. Ghulam Kadir
+Three transformation vectors carrying oleate 12-hydroxylase from castor bean driven by Ahmad Parveez,
+ubiquitin, CaMV35S and mesocarp-specific promoters were assembled (Fig. 4.36) (Masani, ~~ Ravigadevi
+personal communication, 2008). Transformation of these constructs into oil palm cultures is Sambanthemurth
+Show more V
+Review article
+Chemical constituents of the oilseed crop and their
+pharmacological activities: A review
+3.7 Fatty acids
+Ricinoleic acid (12-hydroxyoctadeca-9-enoic acid) (65) is an hydroxylated fatty acid of
+particular interest to the chemical industry (Bafor et al., 1991). R. communis endosperm
+accumulates over 80% of this fatty acid. Although, 65 is mainly found in R. communis
+endosperm it was also isolated from its roots and leaves (Oloyede, 2012; Wafa et al., 2014).
+Four fatty acids were detected in the hexane leaf and seed extracts of R. communis by GC..3MS:
+linoleic acid (66), linolenic acid (67), palmitic acid (68), and stearic acid (69) (Ramos-L6pez et
+al., 2012; Ribeiro et al., 2015b, 2015c). The insectistatic and insecticidal activities of compounds
+66 and 67 was assessed Spodoptera frugiperda. The larval viability fifty (LVso) values were Journal
+849 ppm for compound 66 and 857 ppm for compound 67. The double bond between C15 and
+C16 of linolenic acid (67) seems to have increased the LVs9 as compared to linoleic acid (66).
+Compounds 66..469 were also isolated from R. communis roots and seeds (Oloyede, 2012;
+Ribeiro et al., 2014b; Tang et al., 2012; Wafa et al., 2014). Oloyede (2012) reported the
+identification of methyl ricinoleate (70) and methyl linoleate (71) from R. communis seeds, but
+it is mostly likely that these compounds are an artifact product of the extraction procedure, in
+which methanol was used. Aleuritic acid (72) was isolated from R. communis roots (Tang et al., 2016, Industrial
+2012) and gondoic acid (73) and oleic acid (74) were detected in the leaves and roots (Wafa et Crops and
+al., 2014). 1-Palmitic acid glycerol ester (75) and 1-palmitic acid glycerol-2,3-dimethylketal Products
+ester (76) were isolated from R. communis leaves (Bigi et al., 2004). n-Heptacosanyl oleate (77) Paulo R. Ribeiro,
+and triricinolein (78) were isolated from R. communis roots (Mittal and Ali, 2012; Tang et al., +» Luzimar G.
+2012). No pharmacological activity is reported for compounds 65, 68.478. Fernandez
+Chapter
+Engineering Fundamentals of Biotechnology
+2.10.5.4.3 Enzymatic hydrolysis of castor oil
+Castor oil contains ricinoleic acid, a hydroxy monounsaturated fatty acid, as main constituent of
+its fatty acid profile. This acid is cis-12-hydroxy-9-octadecenoic acid and has an unusual
+polarity due to position of the hydroxyl group. Castor oil, sometimes described as ricinoleic acid
+triglyceride, is the only commercially available vegetable oil containing hydroxy functionality of
+a fatty acid present abundantly (70-90%).
+Ricinoleic acid, the main hydroxy fatty acid used in oleochemical industry, can undergo a wide
+range of reactions enabling formation of several derivatives. These chemicals are comparable to
+petrochemical products for different chemical applications. Ricinoleic acid is used in pigment,
+printing ink, and textile finishing. It is sometimes added to Turkey red oil and dry-cleaning
+soaps. However, its main use is as chemical intermediate to produce various oleochemicals. Its
+various derivatives such as ricinoleyl alcohol, methyl ricinoleate, azelaic acid, and ricinenic acid
+are used as plasticizer and emulsifier. This acid is useful in detergent formulations also. It is a
+starting material of amphoteric surfactants such as betaine and imidazoline. In hair and skin Reference work
+conditioners, some of its derivatives are used as antistatic and softening agents.
+Ricinoleic acid can be produced by hydrolysis of castor oil. For this process, different methods
+yielding high conversions are available. In the case of base-catalyzed process, reaction
+conditions are mild (70-100°C) but product acid has a characteristic odor and coloration. For
+the high-temperature steam process, relatively high temperature (150-350°C) leads to the
+formation of an undesired product named ricinoleic acid estolide.
+Thus, in such scenario, enzyme (lipase)-catalyzed hydrolysis is the only suitable option for 2011,
+hydrolysis of castor oil, whose hydrolysis product ricinoleic acid, since it is of great industrial Comprehensive
+importance, gets degraded at acidic, alkaline, and high-temperature conditions employed in nn
+conventional hydrolytic processes. The use of hydrolytic enzyme allows the process of
+hydrolysis of the castor oil at atmospheric pressure and at ambient or slightly higher VJ. Parekh, ... A.B.
+temperature resulting in high-purity products. Pandit
+Chapter
+Emerging Industrial Oil Crops
+Introduction
+Hydroxylated fatty acids (HFAs) have valuable applications in the production of industrial
+materials (for more information, see chapter: Castor (Ricinus communis L.)). Currently, the only
+commercially available HFA is ricinoleic acid (C18:1-OH) from castor bean (Ricinus communis).
+Large-scale agricultural production of castor bean, however, is limited by the presence of the
+highly toxic protein ricin in the seeds (Lee etal., 2015). Physaria species (also known as
+Lesquerella species) can accumulate high amounts of HFA, including lesquerolic acid (C20:1-
+OH), in seeds, and are considered as a safe source of HFA (Fig. 11.6.1A). Lesquerolic acid is two
+carbons longer than ricinoleic acid, and lesquerolic oil has more favorable fuel properties than
+castor oil (Goodrum and Geller, 2005; Knothe etal., 2012). In Physaria fendleri, lesquerolic acid is
+synthesized from ricinoleic acid (Fig. 11.6.1B) (Reed etal., 1997). Briefly, oleic acid (C18:1) at sn-
+2 position of phosphatidylcholine (PC) is hydroxylated by a A12-hydroxylase (FAH12) to
+produce ricinoleic acid (C18: 1-OH). Ricinoleic acid is then released from PC and elongated by a
+fatty acid—condensing enzyme (KCS) to synthesize lesquerolic acid (C2U:1-OH).
+(A)
+HO.
+(e)
+a
+OH
+(B)
+18:14? _s 481.04 —“S + 20:1-0n
+Sign in to download full-size image
+Figure 11.6.1. (A) Structure and (B) biosynthesis of lesquerolic acid (C20:1-OH). FAH12, A12 hydroxylase; KCS, fatty acid- Book
+condensing enzyme.
+Physaria belongs to the mustard family (Brassicaceae). These plants can grow well in areas with ena
+250-400mm of rainfall and thus are ideal for the semi-arid regions of North America (Dierig
+etal., 2011). Among Physaria species, P. fendleri produces 24-36% of oil in seeds with the most
+agronomically important characteristics (Dierig and Ray, 2009; Dierig etal., 2011). In addition to
+the high content of HFA in seed oil, Physaria seed meal has high lysine content and is suitable
+for livestock and poultry feed (Carlson etal., 1990). Although P. fendleri is a short-lived 2016, Industrial
+perennial, it can tolerate freezing temperatures and thus can be planted in fall and harvest in Oil Crops
+June throughout the southwestern United States similar to other small grain crops. Moreover, Thomas A.
+farm equipment generally requires only slight modification for cultivating Physaria. Physaria McKeon, ...
+will not compete with current commodity crops but can be placed in rotation with them Thomas A.
+(Dierig etal., 2011). McKeon
+Chapter
+Chemical Derivatization of Castor Oil and Their Industrial
+Utilization
+8.3.6 Potent Hydroxy Derivatives of Ricinoleic Acid Book
+(Z)-Ethyl 12-nitrooxy-octadec-9-enoate (NCOE) was prepared from RA, and the studies revealed FATTY ACIDS
+that NCOE induces short-lasting hypotension and bradycardia, and promotes vasorelaxation parvo oe iad
+due to NO release through the compound metabolism (Machado et al., 2014). A series of RA- rence
+based glycosides were prepared from methyl ricinoleate under Koenig-Knorr conditions with ae ee 4
+good antibacterial activity (Kuppala et al., 2016). RA—-based Schiff bases with good antimicrobial oe
+and antibiofilm activities were prepared by reacting methyl-12-aminooctadec-9-enoate with : 2
+different substituted aromatic aldehydes (Mohini et al., 2014). A series of RA-based lipoamino 2017, Fatty Acids
+acid derivatives were synthesized from methyl-12-aminooctadec-9-enoate and |-amino acids, Rachapudi B.N.
+namely glycine, alanine, phenyl alanine, valine, leucine, isoleucine, proline, and tryptophan, and Prasad,
+some of the products exhibited promising antibacterial and antifungal activities (Mohini et al., Bhamidipati
+2016). V.S.K. Rao
+Chapter Book
+Principles
+3.5.3.1 Introduction
+The seeds of the shrublike ornamental castor plant, Ricinus communis (Euphorbiaceae), have
+three well-known noxious constituents: an oil, castor oil, which is the glyceride of ricinoleic
+acid; a mildly toxic alkaloid ricinine; and a highly poisonous glycoprotein ricin. Purified castor
+oil is an essentially harmless cathartic and is also used as an industrial raw material and engine 2001, Handbook
+lubricant. The toxic and proteinaceous properties of ricin were first established in 1887, and the of Pesticide
+substance was obtained in pure, crystalline form in 1958 (reviewed by Balint, 1974a). The ena ition)
+amino acid sequence of ricin (or ricin D as the toxic fraction from the beans is called) was
+determined by Funatsu et al. (1978, 1979). Ricin is one of the most toxic substances known. Istvan Ujvary
+Chapter
+Polymeric Products Derived From Industrial Oils for Paints,
+Coatings, and Other Applications
+Estolides and Polycondensation Products From Hydroxy Fatty Acids
+Castor and ricinoleic acid are multifunctional molecules that can serve as monomers in the
+synthesis of polyesters. Ricinoleic acid is well known to form homopolymers, serving as
+members of the “estolide” family. Estolides, oligoesters of hydroxy fatty acids and their
+derivatives, have potential utility as lubricant materials, sealant, adhesive, emollient, lip gloss
+agents, and in personal care applications (reviewed in Isbell, 2011; Zerkowski, 2008). Estolides
+occur in nature as well, including several species of the genus Lesquerella (reviewed in Hayes
+etal., 1995a). They readily form via polycondensation of hydroxy acids such as ricinoleic acid
+and lesquerolic acid, or their TAG, in the absence of catalyst at >175°C in vacuo (12-24h) (Isbell
+and Cermak, 2002) or via lipases (Bodalo etal., 2008, 2009; Hayes, 1996; Hayes and Kleiman,
+1995; Kelly and Hayes, 2006). They have been reported to occur during the isolation of
+dimorphotheca oil via mechanical expelling (Hayes etal., 1995b). Estolides are also produced
+from unsaturated fatty acids and oils (eg, oleic acid, meadowfoam oil fatty acids, soybean oil, Book
+and crambe oil) via sulfuric or perchloric (mineral) acid-catalysis at ~5O0-60°C for 12-24h
+(reviewed in Isbell, 2011; Zerkowski, 2008). The typical average degree of polymerization
+achieved via the catalytic or enzymatic route varies between 2 and 5, with the average position [a
+of the internal ester bonds described as a distribution centered at the double bond position of
+the starting material that spans two carbons from the double bond position. The mechanism of
+the acid-catalyzed estolide formation entails formation of a carbocation at a double bond
+position, which is attacked by the COOH unit of another molecule. 2016, Industrial
+In order for the estolide’s physical properties to be optimal (eg, low pour points for lubrication), Oil Crops
+both the COOH and —OH end groups of estolides should be “capped” by alcohols and fatty
+acids, respectively, through formation of ester bonds (Isbell, 2011; Zerkowski, 2008). When Douglas G.
+using a fatty acyl source that contains saturated fatty acyl groups for acid-catalyzed reactions Hayes, Marie~
+Josée Dumont
+Show more V
+Chapter
+Hydratase, Dehydrogenase, Isomerase, and Enone Reductase
+Involved in Fatty Acid Saturation Metabolism
+Book
+Production of Dicarboxylic Acids from Hydroxy- and Oxo Fatty Acids by
+Laccase-catalyzed Oxidative Cleavage sy Ecome ten,
+The establishment of renewable biofuel and chemical production is desirable because of global Eogooered Microbes
+warming and the exhaustion of petroleum reserves. Sebacic acid (decanedioic acid), the ie
+material of 6,10-nylon, is produced from ricinoleic acid, a carbon-neutral material, but the
+process is not eco-friendly because of its energy requirements. Laccase-catalyzing oxidative
+cleavage of fatty acid was applied to the production of dicarboxylic acids using hydroxy and oxo 2018, Lipid
+fatty acids involved in the saturation metabolism of unsaturated fatty acids in L. plantarum as Modification by
+substrates. Hydroxy- or oxo fatty acids with a functional group near the carbon-carbon double Enzymes and
+bond were cleaved at the carbon-carbon double bond, hydroxy group, or carbonyl group by Engineered
+laccase and transformed into dicarboxylic acids. After 8h, 0.58mM of sebacic acid was produced Microbes
+from 1.6mM 10-oxo-cis-12,cis-15-octadecadienoic acid with a conversion of 35% (mol/mol). Jun Ogawa, ...
+This laccase-catalyzed enzymatic process is a promising method to produce dicarboxylic acids Shigenobu
+from biomass-derived fatty acids (Takeuchi etal.,2016b). Kishino
+Chapter
+Pest Control Agents from Natural Products
+3.5.3 Ricin
+(a) Introduction
+The shrublike ornamental castor plant, Ricinus communis (Euphorbiaceae), is thought to be
+indigenous to northeast Africa and Asia but is now distributed worldwide. The seeds of the
+plant have three important constituents: an oil, castor oil, which is the glyceride of ricinoleic
+acid; a mildly toxic alkaloid ricinine [524-40-3]; and several isoforms of a highly poisonous
+glycoprotein ricin present up to 5% in the seeds. The yearly production of castor oil seed
+exceeds over 1 million metric tonnes (Food and Agricultural Organization of the United
+Nations, 2009). Purified castor oil has numerous uses. For example, it is an essentially harmless
+laxative, an industrial raw material, and an engine lubricant. It can also been converted by
+transesterification into biodiesel fuel.
+The toxic and proteinaceous properties of ricin were first established in 1887 by Stillmark at the Book
+university in Dorpat (now Tartu, Estonia), while the recognition of the specific binding
+properties of ricin by Ehrlich laid the foundation of immunology. The glycoprotein was
+obtained in pure, crystalline form in 1958 (reviewed by Balint, 1974; Olsnes, 2004). Ricin is one
+of the most toxic substances known and as such was once considered a chemical weapon
+(Agent W) but is now subject to the Chemical Weapons Convention. However, ricin has been
+used as a poison for criminal and terrorist purposes. Thus, the development of rapid, highly
+sensitive chemical and biological/immunological analytical methods capable of detecting the 2010, Hayes’
+toxin at or below ng/ml level is imperative (see, for example, Kalb and Barr, 2009; Lubelli et al., Handbook of
+2006; Uzawa et al., 2008). In cases where castor beans or crude ricin preparations are the Pesticide
+suspected poisons, ricinine can also serve as a biomarker (see, for example, Mouser et al., 2007). Toxicology (Third
+The seeds of the leguminous jequirity plant (crab’s eyes or rosary pea, Abrus precatorius) Edition)
+contain abrin [1393-62-0], a related glycoprotein with biological properties similar to those of oo
+Istvan Ujvary
+Show more Vv
+Related terms:
+Fatty Acids, Linoleic Acid, Lecithin, Triglyceride, Oleic Acid, Conjugated Linoleic Acid, Castor Oil, RNA, Oxygenase,
+Castor Beans.
+View all Topics >
+Recommended publications @
+Industrial Crops and Products
+Journal
+FOOD Food Chemistry
+~ Journal
+Biocatalysis and Agricultural Biotechnology
+Journal
+bd =6
+Food Research International
+Pa Journal
+Featured Authors @
+De, Sirshendu
+Indian Institute of Technology Kharagpur, Kharagpur, India
+Citations: 13,756 h-index:61 Publications: 232
+Sen, Ramkrishna K.
+Indian Institute of Technology Kharagpur, Kharagpur, India
+Citations: 11,686 h-index: 57 Publications: 112
+Basu, J. K.
+Indian Institute of Technology Kharagpur, Kharagpur, India
+Citations: 3,522 h-index:32 Publications: 47
+Gasparotto, Luiz H.S.
+Universidade Federal do Rio Grande do Norte, Natal, Brazil
+Citations: 2,069 h-index: 23 Publications: 21
+eae About ScienceDirect 2 Remote access Contact and support a Terms and conditions 2 Privacy policy 7 Cookie settings RR ELX™
+yen All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+ELSEVIER

@@ -1,0 +1,58 @@
+{
+  "doc_id": "DOC_3FF97ACFA90D",
+  "file_name": "hershey_dairy_sourcing_page.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_3FF97ACFA90D.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 5789,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "land o'lakes",
+      "target"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourcing",
+      "sourced",
+      "sustainability",
+      "sustainable",
+      "ingredient",
+      "products",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "milk chocolate",
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3FF97ACFA90D/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3FF97ACFA90D/page_001.png",
+      "sha256": "09640ff5ce355d19e16c6885c5aa529d4b88d8746dec25f0db074422517b50c4",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "CAREERS MEDIA INVESTORS\nHERSHEY.\nf& > Home > Sustainability > Sustainability Issues\nDairy aN\nFresh dairy milk is an important ingredient in Hershey's iconic milk chocolate. Dairy production\nsupports tens of thousands of farmers across the U.S. and can play an important role in enhancing\nsoil health with responsible stewardship.\nOur Approach to Responsibly Sourced\nDairy\nHershey has long-held codes and policies to support responsible dairy production, including our\nSupplier Code of Conduct and other relevant policies on the environment, human rights and\nanimal welfare. We also endorse the 11 key sustainability criteria and strategic intents of the\nglobal Dairy Sustainability Framework (DSF) and expect our dairy suppliers to work with us to\ndeliver on this vision of sustainable dairy.\nWithout proper stewardship, dairy sourcing can generate significant carbon emissions, lead to\npolluted water resources and contribute to human rights and animal rights abuses. This is why we\nare committed to responsible and sustainable dairy sourcing that positively impacts our shared\nenvironment and ensures the health and wellbeing of workers and animals.\nOur approach to implementing our sustainability commitments in our dairy supply chain focuses\non:\n1. Supplier Engagement, Monitoring and Verification through the Sustainable\nAgriculture Initiative (SAI) Platform Sustainable Dairy Partnership (SDP). We leverage\nthe SDP to engage with our dairy suppliers to strengthen their sustainability management\napproach, monitor performance and drive continuous sustainability improvements across\nour dairy supply chain.\n2. Investment in on-farm programs in our dairy supply chain to support water stewardship,\nGHG emissions reduction in line with our science-based targets and other sustainability\nobjectives.\nMost of the milk that goes into our products is sourced within a 100-mile radius of our chocolate\nmanufacturing plant in Hershey, PA. We also source milk-derived ingredients from suppliers\nacross the U.S. as well as New Zealand, and from suppliers in Brazil, India and Mexico for our\noperations in those countries.\nes e e\nSupplier Engagement, Monitoring and\ne e e\nVerification through the Sustainable\nDairy Partnership\nOur involvement in the Sustainable Dairy Partnership (SDP) is foundational to our interactions\nwith dairy suppliers. The SDP is a holistic management system standard and assurance model\nwith third-party data verification and progress reporting. SDP also includes sustainability\nrequirements that must be met by dairy processors and supplying farms. We encourage our dairy\nsuppliers to enroll in, undergo evaluation through and submit progress reports to us via the SDP.\nWe have committed to sourcing 100 percent of our dairy volumes from suppliers enrolled in and\nassessed through the SDP by 2024. So far, 82 percent of our volumes are sourced from such\nsuppliers. To verify compliance with our sustainability policies in our dairy supply chain and to\nengage with our suppliers in their journey towards more sustainable dairy production, we will\ncontinue to leverage the SAI Platform going forward.\nAs amember of the SDP Steering Committee, we actively advance the mission of the SDP.\nThrough this initiative, we collaborate with other industry members, jointly tackling collective\nchallenges such as GHG accounting and reporting, animal welfare and regenerative agriculture in\nthe dairy industry. To learn more about our commitment to sustainable sourcing, please see our\nlatest ESG report.\ne e\nClimate-Friendly Farms\nTo help our suppliers accelerate their sustainability efforts and contribute to the achievement of\nour goals, we are committed to investing with our suppliers in interventions at the field level\nfocused on our priority issues.\nWe are collaborating with Land O'Lakes, our highest-volume dairy supplier and strategic partner,\nand the Alliance for the Chesapeake Bay on a three-year pilot program, Sustainable Dairy PA.\nNow in its second year, this program aims to reduce GHG emissions and protect water quality\nacross dairy farms in our Pennsylvania supply chain. To achieve these goals, Hershey is providing\nfunding to support the implementation of riparian forest buffers and other efforts to enhance\nsustainability on our supplying farms.\nIn that past year, we have planted twelve acres of riparian buffer - that’s over 3,000 trees — and\nalmost a mile of stream coverage and fencing, among other projects. This will prevent over\n700,000 pounds of sediment, 850 pounds of phosphorous and almost 4,000 pounds of nitrogen\nfrom entering waterways feeding the Chesapeake Bay annually. These field-level projects are also\nhelping sequester 141 metric tons of CO2e per year. In addition, in partnership with two other\nsuppliers, we have begun piloting a methane reducing feed additive on some of our supplying\nfarms to further reduce GHG emissions.\nOur collaboration on Sustainable Dairy PA and work with our other dairy suppliers can create a\nmore climate resilient supply for the milk that we source.\nRead More About This Collaboration\n— a \\-\n= : ne <r. -\n‘mF ! . ~\n5\n; | a\nSUSTAINABILITY @ HERSHEY y > 7 } | eS !\n& | x\n/ | i\nRelated Topics i” oe,\n] j ae — b\nOur People Responsible Sourcing Human Rights Youth\n< >\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nHERSHEY < CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD PLANT LOCATIONS\nFAQ HERSHEYPARK PRODUCT LOCATOR\n‘Ss\nf X ‘in RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCID HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMIT AN IDEA\nSUPPLIERS\nDO NOT SELL OR SHARE MY PERSONAL INFORMATION PRIVACY POLICY TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.\nWEB ACCESSIBILITY COOKIE PREFERENCES",
+      "ocr_text_length": 5749,
+      "word_count": 892,
+      "avg_confidence": 92.24,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3FF97ACFA90D.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3FF97ACFA90D.visual_ocr.json",
+  "created_at": "2026-05-09T19:37:52"
+}

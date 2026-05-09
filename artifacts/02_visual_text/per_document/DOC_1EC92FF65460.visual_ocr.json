@@ -1,0 +1,52 @@
+{
+  "doc_id": "DOC_1EC92FF65460",
+  "file_name": "barry_callebaut_company_profile.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_1EC92FF65460.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 4857,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "barry callebaut"
+    ],
+    "ingredients": [
+      "cocoa",
+      "chocolate"
+    ],
+    "supply_chain_terms": [
+      "sourcing",
+      "sustainability",
+      "sustainable",
+      "ingredient",
+      "products",
+      "market"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1EC92FF65460/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1EC92FF65460/page_001.png",
+      "sha256": "055744eadc9b311ab2a5b20f0fbed7c72d07f097763fa2667bc8edf37394d037",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "® My Barry Callebaut Careers Contact B= United States - English Q\n| BARRY (()) CALLEBAUT | Products Segments Services Brands Trends & Insights Sustainability v About Us v\n4 f\nConfectioner q )\n“ mca Son\n\\ SA RUN OTA NCC eyo\nBeyond al mmm .\nline (\nLearnMore > “ | ee 7 g\ne\nHow can we help you?\nY C)\nD i eZ) =\na __ ae c™\n: — yet . ( : !\ni a att age muti \"> ° ) Re ~~\n> & i ) ad e aA ae | aN\n— . | » \\ | N = X at \\\n‘ TT f f \\ eo Py\nOur Products Our Services Our Brands About Us\nDiscover all our great quality Beyond supplying high quality Explore our unique range of Discover the world of Barry\ningredients and make inspiring ingredients, we offer a wide brands and discover how we can Callebaut - our rich history, latest\nchocolate experiences come true! range of services in support of support your success every step news, financial insights, and the\nChocolate, nuts, fillings, your success in the marketplace. of the way. passion that drives us.\ndecorations and more...\nShow me more > Show me more > Show me more > Show me more >\n. a | ;\n- . ” “e e ; : >= y ,\nee, - 5 a oes\n. _~ > gs <« =.’ >\n= @« : ar - ay Eo pu\nBeen’ _»? . —\n. 4 nm -~\n4 - a } . = = a ‘\n3 ~— PS : , ; an ~--- _ .\nie ta , ’ a\n. ¢ va & i\nNew Category Name, mpage a3 a = ~ <a, e\n“* Cacao Coatings & Inclusions ae 4 Zs\n~ are tags eer a y\nay tte No i a eee ek ent Soa\n= LearnMore > ~ wget et - Bee\ni ee el\nEy S rn Or ga Poet:\nSac Ce “t: “~ Bat asc.\"\n‘ bay aye. : Z Pat See\nF Pe Le\na . ae uF e ; a\nMasters of Taste Bin 4 y ae > -s\nDiscover our new brand essence | a »#s BSS eh\n; a “fe > i 7 4 }\nA \\awe *\n@o. -\n™ 7) ,\nTop lee Cream Flavors for Next Season Tall\nBa\nHelp Your Customers Celebrate ”\nEveryday Occasions! EZ : d\nBT . ®\n« ;\nAE.\nee a\n“7 ai ee aN co ca |\n|<° %’ Top Cookie Trends ss 2 2 in ‘ a\n, -; Bake It Happen in | ‘5 . ) 2 eee .\n“* 2026 and Beyond! — ae te :\nans ~ as a Se « a”\nSF a Si i oe >\n“Downloaded Your Report! > 7 Bs; wr a i wt\nTrends & Insights\n| 4 . : ——— M\\\ns * a ~ , < im\n{ ~ \\ 3 aif Wy me 2 . —— ~~\n— 7 - =~ . age\n| O08 de mo na\nA «\n. : = = ys Pn e ie ws\n: > . el a) ‘ i See\nrad ; a f = y Pe) KS ,\nDessert Trends Trail Mix & Snacking Trends Ice Cream Trends\nDesserts are universally loved by consumers. Snacking is no longer just snacking! Discover Explore the latest concepts, flavors, and trends\nEven with inflationary pressure and concerns what is driving consumers to snack more, that are shaping the frozen dessert landscape\nover health, indulgence still reigns supreme. including snacking on more trail mix. worldwide.\nExplore the latest dessert trends!\nShow me more > Show me more > Show me more >\nOur Commitment to\n‘ e e e\n> ae Sustainability\nA te a\n- _ m 14 w » Ro .. ae We are committed to driving the future of chocolate & cocoa through\n. | y, “ +k ’ &.° 2? . Ne ey sustainability. Our Forever Chocolate strategy guides our ethical sourcing and\n‘ , ad _ he az sustainable practices, ensuring we meet our long-term goals. Discover how we're\ni =—at y TTI Pay. g shaping a sustainable future in every aspect of our business.\n\\ =a i Sos\nTS ee. |\neek ae = / 4 . . Learnmore >\nTRE ee ee in oe\nMe AO aan SE Do oF ee yen Por Eas eee\ngs Racer ess wake Sit. 7 1FaS = ai Se Se ee\nTe egy ‘s Caray igh eo ae SRE i apie Fe\nSAL BS SORES a Cee ee =: Si 8\nESL PIER OE eRe Le eas borg\nfe ra Pr. * SS 2 me zee ~~\n+ BOM SIL Ae SD Ts. a Te\nas SS ~ ~ 7 LO en f “= A y A, =\nPe NN\na oe Vd Py S 3 Fy fhe I “GAO © y 4 ree Sf >\n; « } : yk at ee Pig. Pei? ce. Ce al SETA ae\n4. iC 2p=, a, CRONE RES 3 ey SF eq} ms ~ em\nPr Oe oe = Se Lea ‘ s-=- @ “ Gy > aes\n; SAS 5 ee eee\n+ & 4 v 54 * .\nA) Rr ee\ne\nNews and Press Releases Results and Presentations\nRead the latest news and stories from the Barry Callebaut Group: Stay updated with our latest financial results and in-depth publications,\nbrowse through our press releases, latest innovations and sustainability providing essential insights for analysts and shareholders.\nstories.\nContact ? se\n>) ev\nDo you have questions, feedback or need support? We ¥ » , \\\nare here for you. Please leave us a message on the ) ¥\nfollowing page. Your request will be sent to our £ d a / = |\ndedicated teams who will get back to you as soon as ) Y as 7 Yj 4\npossible. yA —\nU4\ni a\nImportant links Products Segments Account & settings\nBrands Chocolate Confectionery ® My Barry Callebaut\nTrends & Insights Chips & Chunks Bakery & Pastry 25 United States - English\nSustainability Cocoa Dairy & Drinks\nCareers Cacaofruit Ice Cream & Desserts\nContact Fillings\nServices\nReport a concern Coatings\nN Trends, Co-creation and\nuts A\nInspiration\nDecorations & inclusions Technical and R&D\nFood colorants .\nSourcing\nPersonalisation sheets Cisenicts Acederny\nView All\nhee Sustainable Choices Support\n© 2026 Barry Callebaut all rights reserved Responsible Disclosure Policy Legal information Privacy & cookie policy Cookie settings",
+      "ocr_text_length": 4817,
+      "word_count": 1101,
+      "avg_confidence": 57.91,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1EC92FF65460.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1EC92FF65460.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:25"
+}

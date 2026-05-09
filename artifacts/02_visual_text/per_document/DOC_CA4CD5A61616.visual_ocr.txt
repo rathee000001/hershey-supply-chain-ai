@@ -1,0 +1,1091 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
+5/6/26, 1:25 PM hsy-20241231
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-k
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2024
+OR
+O TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+Commission file number 1-183
+THE HERSHEY COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware 23-0691590
+(State or other jurisdiction of incorporation or organization) (LR.S. Employer Identification No.)
+19 East Chocolate Avenue, Hershey, PA 17033
+(Address of principal executive offices and Zip Code)
+(717) 534-4200
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class Trading Symbol(s) Name of cach exchange on which registered
+Common Stock, one dollar par value HSY New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: Class B Common Stock, one dollar par value
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes BH No O
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. YesO No ®
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes NoO
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted
+pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the
+registrant was required to submit such files). Yes NoO
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting
+company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting
+company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Smaller reporting Emerging growth
+Large accelerated filer Ki Accelerated filer 1 Non-accelerated filer 0 company Oo company Oo
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for
+complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 0
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness
+of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered
+public accounting firm that prepared or issued its audit report. &
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the
+registrant included in the filing reflect the correction of an error to previously issued financial statements. 0
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based
+compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b). 0
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No
+As of June 28, 2024 (the last business day of the registrant’s most recently completed second fiscal quarter), the aggregate market value
+of the voting and non-voting common equity held by non-affiliates was $26,717,916,357. Class B Common Stock is not listed for
+public trading on any exchange or market system. However, Class B shares are convertible into shares of Common Stock at any time
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 1/142
+
+--- VISUAL OCR PAGE 2: page_002.png ---
+5/6/26, 1:25 PM hsy-20241231
+on a share-for-share basis. Determination of aggregate market value assumes all outstanding shares of Class B Common Stock held by
+non-affiliates were converted to Common Stock as of June 28, 2024. The market value indicated is calculated based on the closing
+price of the Common Stock on the New York Stock Exchange on June 28, 2024 ($183.83 per share).
+Indicate the number of shares outstanding of each of the registrant’s classes of common stock, as of the latest practicable date.
+Common Stock, one dollar par value—147,797,121 shares, as of February 10, 2025.
+Class B Common Stock, one dollar par value—54,613,514 shares, as of February 10, 2025.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the Company’s Proxy Statement for the 2025 Annual Meeting of Stockholders are incorporated by reference into Part III of
+this Annual Report on Form 10-K.
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 2/142
+
+--- VISUAL OCR PAGE 3: page_003.png ---
+5/6/26, 1:25 PM hsy-20241231
+THE HERSHEY COMPANY
+Annual Report on Form 10-K
+For the Fiscal Year Ended December 31, 2024
+TABLE OF CONTENTS
+PART I
+Item 1. Business 2
+Item 1A. Risk Factors 9
+Item 1B. Unresolved Staff Comments 16
+Item _1C. Cybersecurity 16
+Item 2. Properties 18
+Item 3. Legal Proceedings 18
+Supplemental Item Information About Our Executive Officers 19
+PART II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of 20
+Equity Securities
+Item 6. [Reserved] 21
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations 22
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk 43
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure 98
+Item 9A. Controls and Procedures 98
+Item 9B. Other Information 99
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 99
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance 100
+Item 11. Executive Compensation 100
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder 100
+Matters
+Item 13. Certain Relationships and Related Transactions, and Director Independence 101
+Item 14. Principal Accountant Fees and Services 101
+PART IV
+Item 16, Form 10-K Summary 105
+Signatures 106
+Schedule 1I—Valuation and Qualifying Accounts 107
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 3/142
+
+--- VISUAL OCR PAGE 4: page_004.png ---
+5/6/26, 1:25 PM hsy-20241231
+Cautionary Note Regarding Forward-Looking Statements
+This Annual Report on Form 10-K, including the exhibits hereto and the information incorporated by reference herein, contains
+“forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995. Many of these forward-
+looking statements can be identified by the use of words such as “anticipate,” “assume,” “believe,” “continue,” “estimate,” “expect,”
+“forecast,” “future,” “intend,” “plan,” “potential,” “predict,” “project,” “strategy,” “target” and similar terms, and future or conditional
+tense verbs like “could,” “may,” “might,” “should,” “will” and “would,” among others. Forward-looking statements are predictions
+only and actual results could differ materially from management’s expectations due to a variety of factors, including those described
+below in Item 1A. “Risk Factors” and in Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations.” All forward-looking statements attributable to us or persons working on our behalf are expressly qualified in their entirety
+by such risk factors. Given these risks and uncertainties, you should not rely on forward-looking statements as a prediction of actual
+results. The forward-looking statements that we make in this Annual Report on Form 10-K are based on management’s current views
+and assumptions regarding future events and speak only as of their dates. We assume no obligation to update developments of these risk
+factors or to announce publicly any revisions to any of the forward-looking statements that we make, or to make corrections to reflect
+future events or developments, except as required by the federal securities laws.
+Pa
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 1 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 4/142
+
+--- VISUAL OCR PAGE 5: page_005.png ---
+5/6/26, 1:25 PM hsy-20241231
+PARTI
+Item 1. BUSINESS
+The Hershey Company was incorporated under the laws of the State of Delaware on October 24, 1927 as a successor to a business
+founded in 1894 by Milton S. Hershey. In this report, the terms “Hershey,” “Company,” “we,” “us” or “our” mean The Hershey
+Company and its wholly-owned subsidiaries and entities in which it has a controlling financial interest, unless the context indicates
+otherwise.
+Hershey is a global confectionery leader known for making more moments of goodness through chocolate, sweets, mints and other
+great tasting snacks. We are the largest producer of quality chocolate in North America, a leading snack maker in the United States and
+a global leader in chocolate and non-chocolate confectionery. We market, sell and distribute our products under more than 90 brand
+names in approximately 70 countries worldwide.
+Reportable Segments
+The Company reports its operations through three segments: (i) North America Confectionery, (ii) North America Salty Snacks and (iii)
+International. This organizational structure aligns with how our Chief Operating Decision Maker (““CODM”) manages our business,
+including resource allocation and performance assessment, and further aligns with our product categories and the key markets we serve.
+¢ North America Confectionery — This segment is responsible for our traditional chocolate and non-chocolate confectionery
+market position in the United States and Canada. This includes our business in chocolate and non-chocolate confectionery,
+gum and refreshment products, protein bars, spreads, snack bites and mixes, as well as pantry and food service lines. This
+segment also includes our retail operations, including Hershey’s Chocolate World stores in Hershey, Pennsylvania; New York,
+New York; Las Vegas, Nevada; Niagara Falls (Ontario) and Singapore, as well as operations associated with licensing the use
+of certain of the Company’s trademarks and products to third parties around the world.
+¢ North America Salty Snacks — This segment is responsible for our salty snacking products in the United States. This includes
+ready-to-eat popcorn, baked and trans fat free snacks, pretzels and other snacks.
+¢ International — International is a combination of all other operating segments that are not individually material, including
+those geographic regions where we operate outside of North America. We currently have operations and manufacture product
+in Mexico, Brazil, India and Malaysia, primarily for consumers in these regions, and also distribute and sell confectionery
+products in export markets of Asia, Latin America, Middle East, Europe, Africa and other regions.
+Financial and other information regarding our segments is provided in our Management’s Discussion and Analysis and Note 13 to the
+Consolidated Financial Statements.
+Business Acquisitions
+On November 8, 2024, we completed the acquisition of the Sour Strips brand from Actual Candy, LLC. Sour Strips is
+an emerging sour candy brand and is available in a wide range of food distribution channels in the United States.
+On May 31, 2023, we completed the acquisition of certain assets that provide additional manufacturing capacity from Weaver Popcorn
+Manufacturing, Inc. (“Weaver”), a leader in the production and co-packing of microwave popcorn and ready-to-eat popcorn, and
+former co-manufacturer of the Company’s SkinnyPop brand.
+Products and Brands
+Our principal product offerings include chocolate and non-chocolate confectionery products; gum and mint refreshment products and
+protein bars; snack items such as popcorn, pretzels, spreads, snack bites and mixes; and pantry items, such as baking ingredients,
+toppings and beverages.
+¢ Within our North America Confectionery segment, our product portfolio includes a wide variety of chocolate offerings
+marketed and sold under the renowned brands of Hershey s, Reese s and Kisses, along with other popular chocolate and non-
+chocolate confectionery brands such as Jolly Rancher, Almond Joy, Brookside, barkTHINS, Cadbury, Good & Plenty, Heath,
+Kit Kat®, Payday, Rolo®, Twizzlers, Sour Strips, Whoppers
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 5/142
+
+--- VISUAL OCR PAGE 6: page_006.png ---
+5/6/26, 1:25 PM hsy-20241231
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 2 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 6/142
+
+--- VISUAL OCR PAGE 7: page_007.png ---
+5/6/26, 1:25 PM hsy-20241231
+and York. Our protein bar products include ONE bar and our gum and mint products include Ice Breakers mints and chewing
+gum, Breath Savers mints and Bubble Yum bubble gum. We also have pantry items, including baking products, toppings and
+sundae syrups sold under the Hershey s, Reese s, Heath and Lily s brands, as well as Hershevs and Reese's chocolate spreads
+and snack bites and mixes.
+¢ Within our North America Salty Snacks segment, we have our salty snack items. This includes ready-to-eat SkinnyPop
+popcorn, baked and trans fat free Pirates Booty snacks and Dot's Homestyle Pretzels snacks.
+¢ Within our International segment, we manufacture, market and sell many of these same brands, as well as other brands that are
+marketed regionally, such as Pelon Pelo Rico confectionery products in Mexico, JO-JO snack products in Brazil and Sofit
+beverage products in India.
+Principal Customers and Marketing Strategy
+Our customers are mainly wholesale distributors, chain grocery stores, mass merchandisers, chain drug stores, vending companies,
+wholesale clubs, convenience stores, dollar stores, concessionaires and department stores. The majority of our customers, with the
+exception of wholesale distributors, resell our products to end-consumers in retail outlets in North America and other locations
+worldwide.
+In 2024, approximately 27% of our consolidated net sales were made to McLane Company, Inc., one of the largest wholesale
+distributors in the United States (“U.S.”) to convenience stores, drug stores, wholesale clubs and mass merchandisers and the primary
+distributor of our products to Wal-Mart Stores, Inc.
+The foundation of our marketing strategy is our strong brand equities, product innovation and the consistently superior quality of our
+products. We devote considerable resources to the identification, development, testing, manufacturing and marketing of new products.
+We utilize a variety of promotional programs directed towards our customers, as well as advertising and promotional programs for
+consumers of our products, to stimulate sales of certain products at various times throughout the year.
+In conjunction with our sales and marketing efforts, our efficient product distribution network helps us maintain sales growth and
+provide superior customer service by facilitating the shipment of our products from our manufacturing plants to strategically located
+distribution centers. We primarily use common carriers to deliver our products from these distribution points to our customers.
+vd
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 3 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 7/142
+
+--- VISUAL OCR PAGE 8: page_008.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+Raw Materials and Pricing
+Cocoa products, including cocoa liquor, cocoa butter and cocoa powder processed from cocoa beans, are the most significant raw
+materials we use to produce our chocolate products. These cocoa products are purchased directly from third-party suppliers, who
+source cocoa beans that are grown principally in Far Eastern, West African, Central and South American regions. West Africa accounts
+for approximately 70% of the world’s supply of cocoa beans.
+Adverse changes in climate or extreme weather, crop disease, political unrest and other problems in cocoa-producing countries have
+caused price fluctuations in the past, but have never resulted in the total loss of a particular producing country’s cocoa crop and/or
+exports. In the event that a significant disruption occurs in any given country, we believe cocoa from other producing countries and
+from current physical cocoa stocks in consuming countries would provide a significant supply buffer.
+Our trading company in Switzerland performs all aspects of cocoa procurement, including price risk management, physical supply
+procurement and sustainable sourcing oversight. The trading company optimizes the supply chain for our cocoa requirements, with a
+strategic focus on gaining real time access to cocoa market intelligence. It also provides us with the ability to recruit and retain world
+class commodities traders and procurement professionals and enables enhanced collaboration with commodities trade groups, the
+global cocoa community and sustainable sourcing resources.
+We also use substantial quantities of sugar, corn products, Class II and IV dairy products, wheat products, peanuts, almonds and energy
+in our production process. Most of these inputs for our domestic and Canadian operations are purchased from suppliers in the United
+States. For our international operations, inputs not locally available may be imported from other countries.
+We change prices and weights of our products when necessary to accommodate changes in input costs, the competitive environment
+and profit objectives, while at the same time maintaining consumer value. Price increases and weight changes help to offset increases in
+our input costs, including raw and packaging materials, fuel, utilities, transportation costs and employee benefits. When we implement
+price increases, there is usually a time lag between the effective date of the list price increases and the impact of the price increases on
+net sales, in part because we typically honor previous commitments to planned consumer and customer promotions and merchandising
+events subsequent to the effective date of the price increases. In addition, promotional allowances may be increased subsequent to the
+effective date, delaying or partially offsetting the impact of price increases on net sales.
+Competition
+Many of our confectionery and salty snack brands enjoy wide consumer acceptance and are among the leading brands sold in the
+marketplace in North America and certain international markets. We sell our brands in highly competitive markets with many other
+global multinational, national, regional and local firms. Some of our competitors are large private companies, as well as large retailers,
+that have significant resources and substantial international operations. Competition in our product categories is based on product
+innovation, product quality, price, brand recognition and loyalty, effectiveness of marketing and promotional activity, the ability to
+identify and satisfy consumer preferences, as well as convenience and service. We have also experienced increased competition from
+other snack items, and through innovation and acquisitions, we are continuing to expand the boundaries of our brands to capture new
+snacking occasions.
+Working Capital, Seasonality and Backlog
+Our sales are typically higher during the third and fourth quarters of the year, representing seasonal and holiday-related sales patterns.
+We manufacture primarily for stock and typically fill customer orders within a few days of receipt. Therefore, the backlog of any
+unfilled orders is not material to our total annual sales. Additional information relating to our cash flows from operations and working
+capital practices is provided in our Management’s Discussion and Analysis.
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 4 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 8/142
+
+--- VISUAL OCR PAGE 9: page_009.png ---
+5/6/26, 1:25 PM hsy-20241231
+Trademarks, Service Marks and License Agreements
+We own various registered and unregistered trademarks and service marks. The trademarks covering our key product brands are of
+material importance to our business. Depending on the country, trademarks remain valid for as long as they are in use or their
+registration status is maintained. Trademark registrations generally are renewable for fixed terms. We follow a practice of seeking
+trademark protection in the United States and other key international markets where our products are sold. We also grant trademark
+licenses to third parties to produce and sell pantry items, flavored milks and various other products primarily under the Hershey s and
+Reese's brand names.
+Furthermore, we have rights under license agreements with several companies to manufacture and/or sell and distribute certain
+products. Our rights under these agreements are extendible on a long-term basis at our option. Our most significant licensing
+agreements are as follows:
+Company Brand Location Requirements
+Kraft Foods Ireland Intellectual Property york Paul Almond Jov Worldwide None
+Limited/Cadbury UK Limited ond JOY
+Peter Paul Mounds
+; Minimum sales
+Cadbury UK Limited Cadbury United States requirement exceeded in
+Caramello 2024
+iété des Produits Nestlé SA Kit Katt nited States Minimum unit volume
+Société des Produits Nestlé S Rolow United State sales exceeded in 2024
+Good & Plenty
+Heath
+; Jolly Rancher Worldwide None
+Iconic IP Interests, LLC Milk Duds
+Payday
+Whoppers
+Research and Development
+We engage in a variety of research and development activities in a number of countries, including the U.S., Mexico, Brazil, India and
+Malaysia. We develop new products, improve the quality of existing products, improve and modernize production processes and
+develop and implement new technologies to enhance the quality and value of both current and proposed product lines. Information
+concerning our research and development expense is contained in Note | to the Consolidated Financial Statements.
+Food Quality and Safety Regulation
+The manufacture and sale of consumer food products is highly regulated. In the U.S., our activities are subject to regulation by various
+government agencies, including the Food and Drug Administration, the Department of Agriculture, the Federal Trade Commission, the
+Department of Commerce and the Environmental Protection Agency, as well as various state and local agencies. Similar agencies also
+regulate our businesses outside of the U.S.
+We believe our Product Excellence Program provides us with an effective product quality and safety program. This program is integral
+to our global supply chain platform and is intended to ensure that all products we purchase, manufacture and distribute are safe, are of
+high quality and comply with applicable laws and regulations.
+Through our Product Excellence Program, we evaluate our supply chain including ingredients, packaging, processes, products,
+distribution and the environment to determine where product quality and safety controls are necessary. We identify risks and establish
+controls intended to ensure product quality and safety. Various government agencies and third-party firms, as well as our quality
+assurance staff, conduct audits of all facilities that manufacture our products to assure effectiveness and compliance with our program
+and applicable laws and regulations.
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 9/142
+
+--- VISUAL OCR PAGE 10: page_010.png ---
+5/6/26, 1:25 PM hsy-20241231
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 5 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 10/142
+
+--- VISUAL OCR PAGE 11: page_011.png ---
+5/6/26, 1:25 PM hsy-20241231
+Environmental Considerations
+Beyond ordinary operating and capital expenditures that we make to comply with government regulations, including environmental
+laws and regulations, Hershey has made several voluntary commitments to drive long-term growth and business resilience and reduce
+our environmental impacts, including efforts to eliminate commodity-driven deforestation and reduce greenhouse gas (“GHG”)
+emissions across our own operations and supply chain. Our climate change related investments and expenditures primarily focus on our
+Scope | and 2 GHG emissions, Forest Land and Agriculture (“FLAG”) emissions and non-FLAG emissions consistent with global
+environmental standards. The annual operating and capital expenditures associated with ordinary course payments and additional
+climate change commitments are not material with respect to our results of operations, capital expenditures or competitive position.
+Sustainability
+The Company’s commitment to sustainability started with our founder’s belief in responsible citizenship. He was a purpose-driven
+leader who believed we could use chocolate to Make More Moments of Goodness in the world for our consumers today and for many
+generations to come. This belief resulted in a strong investment in local communities and the establishment of Milton Hershey School
+for disadvantaged kids. We continue that legacy today through our global sustainability strategy: Our Shared Goodness Promise, which
+guides how we empower the remarkable people who make and sell our brands, interact with farming communities that grow our
+ingredients, deliver on our commitments to consumers, customers, and external stakeholders, protect the environment and support
+children and youth.
+To learn more about our Sustainability-related goals, progress and initiatives, as well as review our annual ESG Report and
+accompanying suite of Environmental, Social and Governance (“ESG”) reporting frameworks, policies, and disclosures, access the
+Sustainability section of our website at: https://www.thehersheycompany.com/en_us/sustainability.html. Information found on the
+Company’s website is not part of this Annual Report on Form 10-K or any other report filed with the United States Securities and
+Exchange Commission (“SEC”).
+Financial Information by Geographic Area
+Our principal operations and markets are located in the United States. The percentage of total consolidated net sales for our businesses
+outside of the United States was 12.8% for 2024, 12.7% for 2023 and 12.5% for 2022. The percentage of total long-lived assets outside
+of the United States was 15.4% as of December 31, 2024 and 17.4% as of December 31, 2023.
+Human Capital
+As of December 31, 2024, the Company employed approximately 18,540 full-time and 1,490 part-time employees worldwide.
+Collective bargaining agreements covered approximately 6,525 employees, or approximately 33% of the Company’s employees
+worldwide. During 2025, agreements are expected to be negotiated for certain employees at seven facilities, none of which are within
+the United States, comprising approximately 69% of total employees under collective bargaining agreements. We believe our efforts in
+managing our workforce have been effective, as evidenced by a strong culture and a good relationship between the Company and our
+employees.
+We are a purpose-driven company and for more than a century, our iconic brands have been built on a foundation of community
+investment and connections between people around the world. We could not have achieved this without our remarkable employees who
+make our purpose a reality. As a result, our human capital strategies are material to our operations and core to the long-term success of
+the Company.
+
+* Our People, Safety and Employee Engagement. Our employees are among our most important resources and are critical to our
+continued success. We provide a workplace that develops, supports and motivates our people. The overall well-being and
+safety of our employees remains one of our top priorities. We continue to invest in training, workplace resources and leading
+systems and processes to ensure the responsible management of all facilities. Additionally, continuous listening surveys are
+distributed throughout the year to all employees globally to hear their thoughts on the Company’s direction and their place in
+it. These continuous touchpoints allow for real-time feedback and action from the Company. These surveys are further
+supplemented with quarterly and informative enterprise summits and team “Ask Me Anything” meetings, which, in
+conjunction with the continuous listening surveys, generate stronger employee engagement with the Company’s strategy,
+initiatives and leadership.
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 11/142
+
+--- VISUAL OCR PAGE 12: page_012.png ---
+5/6/26, 1:25 PM hsy-20241231
+a
+Table of Contents The Hershey Company | 2024 Form 10-1} Page6 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 12/142
+
+--- VISUAL OCR PAGE 13: page_013.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+* Talent Acquisition, Development and Training. Hiring and developing our employees is critically important to our operations
+and we are focused on creating experiences and programs that foster growth and performance. We provide all employees the
+chance to learn, grow and own their work. We have partnered with leading online content experts and increased internal
+learning development to expand our catalog of online and classroom courses. Additionally, we co-created a culture of
+development with the enthusiastic support of our employees. Through individual development plans, learning opportunities,
+feedback and coaching, employees can build careers at The Hershey Company, as evidenced by the fact that the majority of
+our executive officers were promoted from within the organization (see Information about Our Executive Officers).
+
+* Compensation, Benefits and Wellness. In addition to offering competitive, fair and transparent compensation, we also offer a
+suite of benefits, including comprehensive health and meaningful retirement benefits to eligible employees, tying incentive
+compensation to both business and individual performance, offering parental leave and adoption benefits and maintaining an
+employee stock purchase plan. We also provide a number of innovative programs designed to promote physical and emotional
+well-being, including ergonomic workspaces, a state-of-the-art fitness center at our Hershey, Pennsylvania campus and private
+rooms designed for quiet reflection, prayer or wellness breaks. The Company also offers SmartFlex benefits which is our suite
+of policies that allows individuals to create their own balance between work and personal life, including flexing work time
+based on work priorities or personal commitments, such as caring for children or family members. We believe that this
+flexibility improves productivity, boosts job satisfaction and increases employee engagement. Additionally, the Company
+offers a “Best of Both” flexible work model for corporate and commercial employees to balance work and personal well-
+being. This model allows employees the option to work either remotely, in-office, or both, depending on individual needs,
+personal schedules and work demands. This offers the benefits of flexibility and in-person collaboration, while maintaining
+productivity and overall job satisfaction.
+
+* Togetherness. We believe our business is stronger when we practice our Company value of Togetherness. Our people-focused
+programs help advance innovation, business growth and create a strong company culture that is fair, which enables us to
+delight consumers with beloved snacking brands. Our gender representation includes women occupying many of the top
+positions in the Company, including Chief Executive Officer and Chairman of the Board, Chief Accounting Officer and
+President, Salty Snacks, and approximately 50% representation across the Company. Additionally, four of our 10 Board
+members are women (40% representation). In 2024, we maintained fair and equitable pay achievements, including aggregate
+salary U.S. gender pay equity and aggregate U.S. salary people of color pay equity. Further, our eight employee-led Business
+Resource Groups, which include Abilities First, Black Heritage, Asian and Pacific Islander, GenH (Generations), Latino,
+Prism (LGBTQ), Veterans and Women’s, are open to all and play a critical role in providing mentoring and career
+development opportunities for all, delivering commercial business insights, and connecting people to the Company and the
+communities where we do business. In 2024, the Company was recognized among the World’s Most Ethical Companies as
+rated by Ethisphere, achieved global Great Place to Work certifications, and was recognized as a Best Place to Work for
+Disability Inclusion based on our Disability Equality Index score.
+
+* Community and Social Impact. Our philanthropy and volunteerism efforts reflect how we live out the Company’s value of
+making a difference and our purpose of Making More Moments of Goodness, from supporting causes our employees care
+about to investing in the long-term success of the communities where we live and work. We work closely with counterparts in
+each of our plant and office locations across the United States and globally to identify local community needs and craft
+tailored approaches to provide support. This work includes forging partnerships with local non-governmental organizations,
+providing grants and contributions and organizing volunteer service activities and employee fundraisers.
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 7 r
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 13/142
+
+--- VISUAL OCR PAGE 14: page_014.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+Business Realignment Activities and Strategic Initiatives
+From time to time, we implement business realignment activities to support key strategic initiatives designed to maintain long-term
+growth. Further to such goal, in February 2024, the Board of Directors approved the Advancing Agility & Automation Initiative, which
+is a multi-year productivity program to improve supply chain and manufacturing-related spend, optimize selling, general and
+administrative expenses, leverage new technology and business models to further simplify and automate processes, and generate long-
+term savings.
+In 2023, we completed our International Optimization Program, an initiative which began in the fourth quarter of 2020 and was
+designed to increase our operating effectiveness and efficiency, to reduce our costs and/or to generate savings that can be reinvested in
+other areas of our business.
+Costs associated with business realignment activities are classified in our Consolidated Statements of Income as described in Note 9 to
+the Consolidated Financial Statements.
+Available Information
+The Company's website address is www.thehersheycompany.com. We file or furnish annual, quarterly and current reports, proxy
+statements and other information, including amendments to these reports, with the SEC. You may obtain a copy of any of these reports,
+free of charge, from the Investors section of our website as soon as reasonably practicable after we electronically file such material
+with, or furnish it to, the SEC. The SEC maintains an Internet site that also contains these reports at www.sec.gov. In addition, copies of
+the Company’s annual report will be made available, free of charge, on written request to the Company.
+We have a Code of Conduct that applies to our Board of Directors (“Board”) and all Company officers and employees, including,
+without limitation, our Chief Executive Officer and “senior financial officers” (including the Chief Financial Officer, Chief Accounting
+Officer and persons performing similar functions). You can obtain a copy of our Code of Conduct, as well as our Corporate Governance
+Guidelines and charters for each of the Board’s standing committees, from the Investors section of our website at:
+https://www.thehersheycompany.com/en_us/investors.htm]. If we change or waive any portion of the Code of Conduct that applies to
+any of our directors, executive officers or senior financial officers, we will post that information on our website. Information found on
+the Company’s website is not part of this Annual Report on Form 10-K or any other report filed with the SEC.
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 8 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 14/142
+
+--- VISUAL OCR PAGE 15: page_015.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+Item 1A. RISK FACTORS
+You should carefully read the following discussion of significant factors, events and uncertainties when evaluating our business and the
+forward-looking information contained in this Annual Report on Form 10-K. The events and consequences discussed in these risk
+factors could materially and adversely affect our business, operating results, liquidity and financial condition. While we believe we
+have identified and discussed below the key risk factors affecting our business, these risk factors do not identify all the risks we face,
+and there may be additional risks and uncertainties that we do not presently know or that we do not currently believe to be significant
+that may have a material adverse effect on our business, performance or financial condition in the future.
+Risks Related to Our Business and Operations
+Our Company’s reputation or brand image might be impacted as a result of issues or concerns relating to the quality and safety of
+our products, ingredients or packaging, human and workplace rights, and other environmental, social or governance matters,
+which in turn could result in litigation or otherwise negatively impact our operating results.
+In order to sell our iconic, branded products, we need to maintain a good reputation with our customers, consumers, suppliers, vendors
+and employees, among others. Issues related to the quality and safety of our products, ingredients or packaging could jeopardize our
+Company’s image and reputation. We have in the past recalled or removed certain products from store shelves, and may in the future
+need to do so again in the future. Negative publicity related to these types of concerns, or related to product contamination or product
+tampering, whether valid or not, could decrease demand for our products or cause production and delivery disruptions. In addition,
+negative publicity related to our environmental, social or governance practices could also impact our reputation with customers,
+consumers, suppliers and vendors.
+We have been in the past and in the future could potentially be subject to litigation or government actions as a result of issues or
+concerns relating to the quality and safety of our products, ingredients or packaging, human and workplace rights, and other
+environmental, social or governance matters, which could result in payments of fines or damages. Costs associated with these potential
+actions, as well as the potential impact on our reputation or ability to sell our products, could negatively affect our operating results.
+Disruption to our manufacturing operations or supply chain could impair our ability to produce or deliver finished products,
+resulting in a negative impact on our operating results.
+Approximately 74% of our manufacturing capacity is located in the United States. Disruption to our global manufacturing operations or
+our supply chain could result from, among other factors, the following:
+
+* Natural disasters;
+
+* Pandemics, epidemics, coronavirus disease and/or other outbreak of disease;
+
+* Climate change and severity of extreme weather;
+
+* Fires or explosions;
+
+* — Terrorism or other acts of violence;
+
+* Labor strikes or other labor activities;
+
+* Unavailability of raw or packaging materials;
+
+* Third party service provider disruptions, such as cyber breaches or system failures;
+
+* Operational and/or financial instability of key suppliers, and other vendors or service providers; and
+
+* Suboptimal production planning which could impact our ability to cost-effectively meet product demand.
+We believe that we take adequate precautions to mitigate the impact of possible disruptions. We have strategies and plans in place to
+manage disruptive events if they were to occur, including our global supply chain strategies and our principle-based global labor
+relations strategy. If we are unable, or find that it is not financially feasible, to effectively plan for, mitigate or manage operational
+stability and business resiliency risks, particularly within our international markets and snacks portfolio, due to the potential impacts of
+such disruptive events on our manufacturing operations or supply chain, our financial condition and results of operations could be
+negatively impacted if such events were to occur.
+
+. ant
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 9 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 15/142
+
+--- VISUAL OCR PAGE 16: page_016.png ---
+5/6/26, 1:25 PM hsy-20241231
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 16/142
+
+--- VISUAL OCR PAGE 17: page_017.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+We might not be able to hire, engage and retain the talented global human capital we need to drive our growth strategies.
+Our future success depends upon our ability to identify, hire, develop, engage and retain talented personnel across the globe.
+Competition for global talent is intense, and we might not be able to identify and hire the personnel we need to continue to evolve and
+grow our business. In particular, if we are unable to hire the right individuals to fill new or existing senior management positions as
+vacancies arise, our business performance may be adversely impacted.
+Activities related to identifying, recruiting, hiring and integrating qualified individuals require significant time and attention. We may
+also need to invest significant amounts of cash and equity to attract talented new employees, and we may never realize returns on these
+investments.
+In addition to hiring new employees, we must continue to focus on retaining and engaging the talented individuals we need to sustain
+our core business and lead our developing businesses into new markets, channels and categories. This may require significant
+investments in training, coaching and other career development and retention activities. If we are not able to effectively retain and grow
+our talent, our ability to achieve our strategic objectives will be adversely affected, which may negatively impact our financial
+condition and results of operations.
+Risks associated with climate change and other environmental impacts, and increased focus and evolving views of our customers,
+stockholders and other stakeholders on climate change issues, could negatively affect our business and operations.
+Climate-related changes can increase variability in, or otherwise impact, natural disasters, including weather patterns, with the potential
+for increased frequency and severity of significant weather events, natural hazards, rising mean temperature and sea levels, and long-
+term changes in precipitation patterns. Climate change or weather-related disruptions to our supply chain can impact the availability
+and cost of materials needed for manufacturing, which may increase insurance and other operating costs.
+Increased focus on climate change has led to legislative and regulatory efforts to combat both potential causes and adverse impacts of
+climate change, including regulation of GHG emissions. New or increasing laws and regulations related to GHG emissions and other
+climate change related concerns may adversely affect us, our suppliers and our customers, and may require the Company to invest in
+additional capital investments to maintain compliance. Our value chain faces similar challenges as our products rely on agricultural
+ingredients and a global supply chain. Climate change poses a significant and increasing risk to global food production systems and to
+the safety and resilience of the communities where we live, work and source our ingredients. The GHG impacts of land-use change are
+most pronounced in our cocoa supply chain, where we have already been working for several years to prevent deforestation and build
+climate resilience. Additionally, any non-compliance with legislative and regulatory requirements could negatively impact our
+reputation and ability to do business.
+Investors, customers, advisory services, government regulators and other market participants may be focused on the environmental or
+sustainability practices, disclosures and performance of companies. We believe our sustainability practices, disclosures and
+performance are focused on the most material risks and opportunities to our business and support our environmental goals and continue
+to evolve to meet the growing needs of our stakeholders. However, if our environmental goals do not meet investor or other external
+stakeholder expectations and standards, our access to capital may be negatively impacted. An enforcement action for non-compliance
+with regulations or reporting requirements could harm our reputation, financial position and ability to grow. A failure to meet investor
+or other external stakeholder expectations or standards may adversely affect our results of operations, ability to manage our liquidity, or
+ability to implement our strategies.
+The Company publishes its environmental goals, with a particular focus on achieving an absolute reduction in our Scope | and 2 GHG
+emissions, Forest Land and Agriculture (FLAG) emissions, and non-FLAG emissions consistent with global environmental standards.
+The costs of our voluntary commitments may be greater than expected, and there can be no assurance the Company will achieve its
+goals, or meet the evolving sustainability expectations and standards of our investors or other external stakeholders. Any failure to
+achieve our goals, a perception of our failure to act responsibly with respect to the environment, or failure to respond to new or
+evolving legal and regulatory requirements or other sustainability concerns could adversely affect our business, reputation and increase
+risk of litigation.
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 10 a
+
+https:/Awww.sec.gov/Archives/edgar/data/47 111/0000047 1112500001 4/hsy-20241231.htm 17/142
+
+--- VISUAL OCR PAGE 18: page_018.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+The effects and costs of climate change, or any failure to mect related requirements and expectations, could have a negative impact on
+our reputation, financial condition and results of operations.
+Risks Related to the Industry in Which We Operate
+Increases in raw material and energy costs along with the availability of adequate supplies of raw materials could affect future
+financial results.
+We use many different commodities for our business, including cocoa products, sugar, corn products, dairy products, wheat products,
+peanuts, almonds, natural gas and diesel fuel.
+Commodities are subject to price volatility and changes in supply caused by numerous factors, including:
+
+¢ Commodity market fluctuations;
+
+¢ Currency exchange rates;
+
+¢ Imbalances between supply and demand;
+
+¢ — Rising levels of inflation and interest rates related to domestic and global economic conditions or supply chain issues;
+
+¢ — The effects of climate change and extreme weather on crop yield and quality;
+
+¢ Speculative influences;
+
+¢ Trade agreements among producing and consuming nations;
+
+¢ Supplier compliance with commitments;
+
+¢ Import/export requirements for raw materials and finished goods;
+
+¢ Political unrest in producing countries;
+
+¢ — Introduction of living income premiums or similar requirements;
+
+« Changes in governmental agricultural programs and energy policies; and
+
+* Other events beyond our control such as the impacts on the business or supply chain arising from the ongoing conflict between
+
+Russia and Ukraine.
+Although we use forward contracts and commodity futures and options contracts to hedge commodity prices where possible,
+commodity price increases ultimately result in corresponding increases in our raw material and energy costs. For example, our cost of
+sales during the year ended 2024 compared to the same period of 2023 experienced an incremental $563.0 million of favorable mark-
+to-market activity on our commodity derivative instruments intended to economically hedge future years’ commodity purchases, more
+than offsetting higher commodity costs. During the year ended 2024, market prices for the majority of our exchange traded
+commodities increased, including cocoa, which has increased approximately 130% since the beginning of the year.
+We continue to monitor and use our risk management strategy where possible to hedge commodity prices in order to mitigate
+corresponding increases in our raw materials and energy costs, however, if we are unable to offset cost increases for major raw
+materials and energy, there could be a negative impact on our financial condition and results of operations.
+Price increases may not be sufficient to offset cost increases and maintain profitability or may result in sales volume declines
+associated with pricing elasticity.
+We may be able to pass some or all raw material, energy and other input cost increases to customers by increasing the selling prices of
+our products or decreasing the size of our products; however, higher product prices or decreased product sizes may also result in a
+reduction in sales volume and/or consumption. If we are not able to increase our selling prices or reduce product sizes (including if
+inflation outpaces our pricing elasticity) sufficiently, or in a timely manner, to offset increased raw material, energy or other input costs,
+including packaging, freight, tariffs, direct labor, overhead and employee benefits, or if our sales volume decreases significantly, there
+could be a negative impact on our financial condition and results of operations.
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 11 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 18/142
+
+--- VISUAL OCR PAGE 19: page_019.png ---
+5/6/26, 1:25 PM hsy-20241231
+Market demand for new and existing products could decline.
+We operate in highly competitive markets and rely on continued demand for our products. To generate revenues and profits, we must
+sell products that appeal to our customers and to consumers. Our continued success is impacted by many factors, including the
+following:
+* Effective retail execution;
+* Appropriate advertising campaigns and marketing programs:
+* Our ability to secure adequate shelf space at retail locations;
+* Our ability to drive sustainable innovation and maintain a strong pipeline of new products in the confectionery and broader
+snacking categories;
+* Our ability to react to changes in product category consumption;
+* Our response to consumer demographics and trends, including but not limited to, trends relating to store trips and the impact
+of the growing digital commerce channel; and
+* Consumer health and wellness concerns, including weight management (i.e., use of medications, dieting) and the consumption
+of certain ingredients.
+There continues to be competitive product and pricing pressures in the markets where we operate, as well as challenges in maintaining
+profit margins. We must maintain mutually beneficial relationships with our key customers, including retailers and distributors, to
+compete effectively. Our largest customer, McLane Company, Inc., accounted for approximately 27% of our consolidated net sales in
+2024. McLane Company, Inc. is one of the largest wholesale distributors in the United States to convenience stores, drug stores,
+wholesale clubs and mass merchandisers, including Wal-Mart Stores, Inc.
+Increased marketplace competition could hurt our business.
+The global confectionery and snacks packaged goods industry is intensely competitive and consolidation in this industry continues.
+Some of our competitors are large private companies, as well as large retailers, that have significant resources and substantial
+international operations. We continue to experience increased levels of in-store activity for other snack items, which has pressured
+confectionery category growth. In order to protect our existing market share or capture increased market share in this highly
+competitive retail environment, we may be required to increase expenditures for promotions and advertising, and must continue to
+introduce and establish new products. Due to inherent risks in the marketplace associated with advertising and new product
+introductions, including uncertainties about trade and consumer acceptance, increased expenditures may not prove successful in
+maintaining or enhancing our market share and could result in lower sales and profits. In addition, we may incur increased credit and
+other business risks because we operate in a highly competitive retail environment.
+Risks Related to Strategic Initiatives
+Our financial results may be adversely impacted by the failure to successfully execute or integrate acquisitions, divestitures and
+joint ventures.
+From time to time, we may evaluate potential acquisitions, divestitures or joint ventures that align with our strategic objectives. The
+success of such activity depends, in part, upon our ability to identify suitable buyers, sellers or business partners; perform effective
+assessments prior to contract execution; negotiate contract terms; and, if applicable, obtain government approval. These activities may
+present certain financial, managerial, staffing and talent, and operational risks, including diversion of management’s attention from
+existing core businesses; difficulties integrating or separating businesses from existing operations; and challenges presented by
+acquisitions or joint ventures which may not achieve sales levels and profitability that justify the investments made. If the acquisitions,
+divestitures or joint ventures are not successfully implemented or completed, there could be a negative impact on our financial
+condition, results of operations and cash flows.
+In 2024, we completed the acquisition of the Sour Strips brand from Actual Candy, LLC. Sour Strips is an emerging sour candy brand.
+In 2023, we completed the acquisition of certain assets that provide additional manufacturing capacity from Weaver Popcorn, a
+manufacturer of SkinnyPop popcorn, which helped us strengthen our supply chain capabilities. While we believe significant operating
+synergies can be obtained in connection with these acquisitions, achievement of these synergies will be driven by our ability to
+successfully leverage Hershey’s resources, expertise, capability-building, distribution locations and customer base. In addition, the
+acquisitions of Dot’s and Pretzels in
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 19/142
+
+--- VISUAL OCR PAGE 20: page_020.png ---
+5/6/26, 1:25 PM hsy-20241231
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 12 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 20/142
+
+--- VISUAL OCR PAGE 21: page_021.png ---
+5/6/26, 1:25 PM hsy-20241231
+2021 were important steps in our journey to expand our breadth in snacking, as they should enable us to bring scale and category
+management capabilities to a key sub-segment of the warehouse snack aisle. If we are unable to successfully couple Hershey’s scale
+and expertise in brand building with the existing operations of our acquired brands, it may impact our ability to expand our snacking
+footprint at our desired pace.
+Our international operations may not achieve projected growth objectives, which could adversely impact our overall business and
+results of operations.
+In 2024, 2023 and 2022, respectively, we derived approximately 12.8%, 12.7% and 12.5% of our net sales from customers located
+outside of the United States. Additionally, approximately 15% of our total long-lived assets were located outside of the United States as
+of December 31, 2024. As part of our strategy, we have made investments outside of the United States, particularly in Canada,
+Malaysia, Mexico, Brazil and India. As a result, we are subject to risks and uncertainties relating to international sales and operations,
+including:
+¢ — The inability to manage operational stability and business resiliency within our international markets due to unforeseen global
+economic and environmental changes resulting in business interruption, supply constraints, inflation, deflation or decreased
+demand;
+¢ — The inability to establish, develop and achieve market acceptance of our global brands in international markets;
+¢ Difficulties and costs associated with compliance and enforcement of remedies under a wide variety of complex laws, treaties
+and regulations;
+¢ Unexpected changes in regulatory environments;
+¢ Political and economic instability, including the possibility of civil unrest, terrorism, mass violence or armed conflict;
+« Nationalization of our properties by foreign governments;
+* Tax rates that may exceed those in the United States and earnings that may be subject to withholding requirements and
+incremental taxes upon repatriation;
+* Potentially negative consequences from changes in tax laws;
+* The imposition of tariffs on U.S. imports and retaliatory tariffs in response, quotas, trade barriers, other trade protection
+measures and import or export licensing requirements;
+* Increased costs, disruptions in shipping or reduced availability of freight transportation;
+¢ The impact of currency exchange rate fluctuations between the U.S. dollar and foreign currencies;
+* Failure to gain sufficient profitable scale in certain international markets resulting in an inability to cover manufacturing fixed
+costs or resulting in losses from impairment or sale of assets; and
+* Failure to recruit, retain and build a talented and engaged global workforce.
+If we are not able to achieve our projected international growth objectives and mitigate the numerous risks and uncertainties associated
+with our international operations, there could be a negative impact on our financial condition and results of operations.
+We may not fully realize the expected cost savings and/or operating efficiencies associated with our strategic initiatives or
+restructuring programs, which may have an adverse impact on our business.
+We depend on our ability to evolve and grow, and as changes in our business environment occur, we may adjust our business plans by
+introducing new strategic initiatives or restructuring programs to meet these changes. Recently introduced strategic initiatives include
+our efforts to continue to expand our presence in digital commerce, to transform our manufacturing, commercial and corporate
+operations through digital technologies and to enhance our data analytics capabilities to develop new commercial insights. If we are
+not able to capture our share of the expanding digital commerce market, if we do not adequately leverage technology to improve
+operating efficiencies or if we are unable to develop the data analytics capabilities needed to generate actionable commercial insights,
+our business performance may be impacted, which may negatively impact our financial condition and results of operations.
+Additionally, from time to time we implement business realignment activities to support key strategic initiatives designed to maintain
+long-term sustainable growth, such as the International Optimization Program, which we commenced in the fourth quarter of 2020 and
+completed in 2023. This program was intended to increase our operating effectiveness and efficiency, to reduce our costs and/or to
+generate savings that can be reinvested in other areas of our business. Additionally, in February 2024, the Board of Directors approved
+the Advancing Agility & Automation
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 21/142
+
+--- VISUAL OCR PAGE 22: page_022.png ---
+5/6/26, 1:25 PM hsy-20241231
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 13 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 22/142
+
+--- VISUAL OCR PAGE 23: page_023.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+Initiative, which is a multi-year productivity program to improve supply chain and manufacturing-related spend, optimize selling,
+general and administrative expenses, leverage new technology and business models to further simplify and automate processes, and
+gencrate long-term savings. We cannot guarantee that we will be able to successfully implement these strategic initiatives and
+restructuring programs, that we will achieve or sustain the intended benefits under these programs, or that the benefits, even if
+achieved, will be adequate to meet our long-term growth and profitability expectations, which could in turn adversely affect our
+business.
+Risks Related to Governmental and Regulatory Changes
+Changes in governmental laws, regulations and policies could increase our costs and liabilities or impact demand for our products.
+Changes in U.S. and non-U.S. laws, regulations and policies and the manner in which they are interpreted or applied may alter our
+business environment. These negative impacts could result from changes in food and drug laws, laws related to advertising and
+marketing practices, accounting standards, taxation compliance and requirements, tariffs on U.S. imports and retaliatory tariffs in
+response, competition laws, employment laws, import/export requirements and environmental laws, among others. For example, the
+European Union’s Deforestation Regulation (“EUDR”) will require the Company to conduct extensive diligence on seven
+commodities, including cocoa, palm oil and soy, as well as products derived from these commodities, such as chocolate, and the value
+chain, to ensure the goods do not result from recent deforestation, forest degradation, or breaches of local laws in order to sell such
+products in the European Union market or exported from it. The EUDR is scheduled to be effective in December 2025, following a
+one-year postponement. The EUDR, and other current or proposed regulations in markets in which we operate, are likely to increase
+our compliance costs, could depress sales in such markets if our products are not in compliance by applicable effective dates, and could
+result in fines and penalties or reputational harm if we do not fully comply. It is possible that we could become subject to additional
+liabilities in the future resulting from changes in laws and regulations that could result in an adverse effect on our financial condition
+and results of operations.
+Political, economic and/or financial market conditions, including impacts on our business arising from the ongoing conflict
+between Russia and Ukraine, could negatively impact our financial results.
+Our operations are impacted by consumer spending levels and impulse purchases, which are affected by general macroeconomic
+conditions, consumer confidence, employment levels, the availability of consumer credit and interest rates on that credit, consumer
+debt levels, energy costs and other factors. Volatility in food and energy costs, sustained global recessions, broad political instability,
+rising unemployment, pandemic, or other outbreak of disease, climate change, weather, natural and other disasters, changing consumer
+demand, and declines in personal spending could adversely impact our revenues, profitability and financial condition.
+Changes in financial market conditions may make it difficult to access credit markets on commercially acceptable terms, which may
+reduce liquidity or increase borrowing costs for our Company, our customers and our suppliers. A significant reduction in liquidity
+could increase counterparty risk associated with certain suppliers and service providers, resulting in disruption to our supply chain
+and/or higher costs, and could impact our customers, resulting in a reduction in our revenue, or a possible increase in bad debt expense.
+Additionally, in February 2022, Russia invaded Ukraine and this conflict is still ongoing. In response, the U.S. and other countries have
+imposed sanctions on Russia and may impose further sanctions that could damage or disrupt international commerce and the global
+economy. With respect to the conflict between Russia and Ukraine, the situation remains dynamic and subject to rapid and possibly
+material change. The Company’s efforts to manage and mitigate any direct or indirect effects from this conflict may ultimately be
+unsuccessful, and the effectiveness of these efforts depends on factors beyond our control, including the duration of the conflict and
+potential governmental actions. The potential effects of the ongoing conflict between Russia and Ukraine may also impact many of the
+other risk factors described herein.
+
+Ps
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 14 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 23/142
+
+--- VISUAL OCR PAGE 24: page_024.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+Risks Related to Digital Transformation, Cybersecurity and Data Privacy
+Disruptions, failures or security breaches of our information technology infrastructure could have a negative impact on our
+operations.
+Information technology is critically important to our business operations. We use information technology to manage all business
+processes including manufacturing, financial, logistics, sales, marketing and administrative functions. These processes collect, interpret
+and distribute business data and communicate internally and externally with employees, suppliers, customers and other third parties.
+We are regularly the target of cyber, ransomware and other security threats. Therefore, we continuously monitor and update our
+information technology networks and infrastructure to prevent, detect, address and mitigate the risk of unauthorized access, misuse,
+computer viruses and other events that could have a security impact. We invest in industry standard security technology to protect the
+Company’s data and business processes against risk of data security breach and cyber attack. Our data security management program
+includes identity, trust, vulnerability and threat management business processes as well as adoption of standard data protection policies.
+We measure our data security effectiveness through industry-accepted methods and remediate significant findings. Additionally, we
+certify our major technology suppliers and any outsourced services through accepted security certification standards. We maintain and
+routinely test backup systems and disaster recovery, along with external network security penetration testing by an independent third
+party as part of our business resiliency preparedness. We also have processes in place to prevent disruptions resulting from our
+implementation of new software and systems. Employees are trained annually on cybersecurity wellness and our acceptable use policy
+and we have implemented phishing simulations to increase awareness and compliance. We also currently maintain a cyber insurance
+policy that provides coverage for security breaches; however, such insurance may not be sufficient in type or amount to cover us
+against claims related to security breaches, cyber-attacks and other related breaches.
+We have been subject to cyber attacks, ransomware and other security breaches, though these incidents historically have not had a
+significant impact on our business operations. The techniques that are used to obtain unauthorized access, disable or degrade service or
+sabotage systems change frequently and may be difficult to detect for long periods of time, and the sophistication of efforts by hackers
+to gain unauthorized access to information systems has continued to increase in recent years and may continue to do so. Despite
+continued vigilance in these areas, disruptions in or failures of information technology systems are possible and could have a negative
+impact on our operations or business reputation. Failure of our systems, including failures due to cyber attacks, ransomware or other
+security breaches that would prevent the ability of systems to function as intended, could cause transaction errors, loss of customers and
+sales, and could have negative consequences to our Company, our employees and those with whom we do business. This in turn could
+have a negative impact on our financial condition and results or operations. In addition, the cost to remediate any damages to our
+information technology systems suffered as a result of a cyber attack, ransomware or other security breach could be significant.
+Complications with the design or implementation of our new enterprise resource planning system could adversely impact our
+business and operations.
+We rely extensively on information systems and technology to manage our business and summarize operating results. We are in the
+process of a multi-year implementation of a new global enterprise resource planning (“ERP”) system; specifically, in April 2024, we
+operationalized the final phase of our project by implementing our new ERP system in the North America Confectionery segment and
+select business units included in our International segment. This ERP system replaces our legacy operating and financial systems and is
+designed to accurately maintain the Company’s financial records, enhance operational functionality and provide timely information to
+the Company’s management team related to the operation of the business. The ERP system implementation process has required, and
+will continue to require, the investment of significant personnel and financial resources as we support post-implementation efforts and
+system functionality. We may not be able to successfully support post-implementation efforts without experiencing delays, increased
+costs and other difficulties. Any disruptions or difficulties in using our ERP system could result in harm to our business, including our
+ability to forecast, manufacture or facilitate the shipment of our product, record net sales and collect our outstanding receivables. If we
+are unable to successfully manage post-implementation efforts related to our new ERP system as planned, our financial positions,
+results of operations and cash flows could be negatively impacted. Additionally, if the ERP system does not operate as intended, the
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 15 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 24/142
+
+--- VISUAL OCR PAGE 25: page_025.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+effectiveness of our internal control over financial reporting could be adversely affected or our ability to assess those controls
+adequately could be further delayed.
+Item 1B. UNRESOLVED STAFF COMMENTS
+None.
+Item 1C. CYBERSECURITY
+Cybersecurity Risk Management and Strategy
+Information technology is important to our business operations, and we are committed to protecting the privacy, security and integrity
+of our data, as well as our employee and customer data. The Company has a comprehensive cybersecurity program in place for
+assessing, identifying and managing cybersecurity risks that is designed to protect its systems and data from unauthorized access, use
+or other security impact, that is aligned with the National Institute of Standards and Technology (“NIST”). This program is integrated
+into the Company’s overall Enterprise Risk Management and Resiliency process.
+We continuously monitor and update our information technology networks and infrastructure to prevent, detect, address and mitigate
+risks associated with unauthorized access, misuse, computer viruses and other events that could have a security impact. We invest in
+industry standard security technology to protect the Company’s data and business processes against risk of cybersecurity incidents. Our
+data security management program includes identity, trust, vulnerability and threat management business processes, as well as adoption
+of standard data protection policies. We measure our data security effectiveness by benchmarking against industry-accepted methods
+and we work to remediate any significant findings. We maintain and routinely test backup systems and disaster recovery and also have
+processes in place to prevent disruptions resulting from our implementation of new software and systems.
+The Company has a comprehensive incident response plan to address cybersecurity incidents. The Company’s incident response plan
+includes procedures for identifying, containing and responding to cybersecurity incidents and is subject to regular review and
+assessment to ensure that it is effective in protecting the Company’s information technology. To date, the Company believes that its
+cybersecurity program has been effective in protecting the confidentiality, integrity, and availability of its information; however, the
+Company cannot guarantee that its cybersecurity program will be successful in preventing all cybersecurity incidents. Further, we
+currently maintain a cyber insurance policy that provides coverage for security breaches; however, such insurance may not be sufficient
+in type or amount to cover us against claims related to security breaches, cyber-attacks and other related breaches.
+The Company engages external parties, including consultants, computer security firms and risk management and governance experts,
+to enhance its cybersecurity oversight. In order to oversee and identify risks from cybersecurity threats associated with the Company’s
+use of third-party service providers, we also have a third-party risk management program designed to help protect against the misuse of
+information technology by third parties and business partners, which includes certification of our major technology suppliers and any
+outsourced services through accepted security certification standards.
+While we are regularly subject to cybersecurity attacks, ransomware and other security breaches, the Company has not experienced any
+material cybersecurity incidents or a series of related unauthorized occurrences for the year ended December 31, 2024. The Company
+does not believe that there are currently any known risks from cybersecurity threats that have materially affected or are reasonably
+likely to materially affect the Company or its business strategy, results of operations or financial condition. However, as discussed
+under “Item 1A. Risk Factors,” specifically the risks titled “Disruptions, failures or security breaches of our information technology
+infrastructure could have a negative impact on our operations,” the sophistication of cyber, ransomware and other security threats
+continues to increase, and the preventative actions we take to reduce the risk of these incidents and protect our systems and information
+may be insufficient. Accordingly, no matter how well designed or implemented our controls are, we will not be able to anticipate all
+cybersecurity attacks, ransomware and other security breaches and we may not be able to implement effective preventive measures
+against such security breaches in a timely manner.
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 16 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 25/142
+
+--- VISUAL OCR PAGE 26: page_026.png ---
+5/6/26, 1:25 PM hsy-20241231
+
+Cybersecurity Governance and Oversight
+The Company’s Board of Directors has a mix of experiences, skills, qualifications and backgrounds to support strategy and risk
+oversight, including expertise in cybersecurity and oversight of cybersecurity matters. This oversight is achieved through the
+Company’s Finance and Risk Management (“F&RM”) Committee, which is comprised of five members of our Board of Directors, and
+one Board member who serves in an ex-officio capacity. The F&RM Committee is responsible for reviewing key enterprise risks
+identified through our Enterprise Risk Management and Resiliency process, which includes information security strategies and risks, as
+well as data privacy and protection risks and mitigation strategies (collectively, “Information Security”). At each regularly scheduled
+F&RM Committee meeting, management, through the Company’s Chief Information Security Officer (“CISO”), reports on Information
+Security controls, audits, guidelines and developments and the F&RM Committee is notified between such updates regarding
+significant new cybersecurity threats or incidents.
+The CISO, who reports to the Chief Technology Officer (“CTO”), oversees a dedicated Information Security team that is supported by
+the Privacy Center of Excellence, and works in partnership with internal audit to review certain information technology-related internal
+controls with our independent auditors as part of the overall internal controls process. The Chief Information Officer (“CIO”), who also
+reports to the CTO, focuses on our technology modernization priorities, integrating innovative technology solutions to support our
+business goals, and leading enterprise-wide IT transformation initiatives. Our CTO, who reports to the Chief Executive Officer, has
+oversight of our Information Security team and leads the company’s global technology strategy, architecting and deploying digital
+capabilities that are innovative, flexible and prepared to meet the changing needs of our consumers, retail partners and employees.
+The CISO’s cybersecurity experience includes over thirty years of Information Technology experience, including twenty years within
+the Information Security field. The CISO’s Information Security roles have included security engineering, security architecture,
+strategy development and execution, risk and compliance management and identity and access management and incident response. The
+Company’s CIO has over twenty years of experience, including leading digital transformation and global information technology
+governance. The Company’s CTO has over twenty years of experience, including deep expertise in developing cutting-edge automated
+systems, supply chain planning, optimization and simulation, artificial intelligence and predictive analytics. Additional experience held
+by the CTO is described further under Information about Our Executive Officers.
+To ensure our employees are educated on potential cybersecurity threats or actions, we train our executive officers and global
+workforce on an ongoing basis in the event of a potential cyber threat or cybersecurity incident. Our Company-wide Information
+Security training program includes security awareness training, including regular phishing simulations, acceptable use training, cyber
+wellness trainings and other targeted trainings throughout the year. Additional training mechanisms we may use to assess, identify, and
+manage risks from cybersecurity threats, include simulations, tabletop exercises and response readiness tests to test our preparedness
+and incident response process. These trainings provide employees the opportunity to gain an understanding of the various forms of
+cybersecurity incidents and enable our employees to handle and report any suspicious activity or threat.
+
+a
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 17 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 26/142
+
+--- VISUAL OCR PAGE 27: page_027.png ---
+5/6/26, 1:25 PM hsy-20241231
+Item 2. PROPERTIES
+Our principal properties include the following:
+Status
+Country Location Type (Own/Lease)
+United States Hershey, Pennsylvania Manufacturing—confectionery products and pantry items Own
+(3 principal plants)
+Lancaster, Pennsylvania Manufacturing—confectionery products Own
+Hazleton, Pennsylvania Manufacturing—confectionery products Own
+Robinson, Illinois Manufacturing—confectionery products and pantry items Own
+Stuarts Draft, Virginia Manufacturing—confectionery products and pantry items Own
+Edgerton, Kansas Manufacturing—salty snack products Own
+Bluffton, Indiana Manufacturing—salty snack products Lease
+Plymouth, Indiana Manufacturing—salty snack products Lease
+Lawrence, Kansas Manufacturing—salty snack products Lease
+Whitestown, Indiana Manufacturing—salty snack products Lease
+Annville, Pennsylvania Distribution Own
+Palmyra, Pennsylvania Distribution Own
+Edwardsville, Illinois Distribution Own
+Ogden, Utah Distribution Own
+Kennesaw, Georgia Distribution Lease
+Whitestown, Indiana Distribution Lease
+Hershey, Pennsylvania Corporate administrative Lease
+New York, New York Retail Lease
+Canada Brantford, Ontario Distribution Own
+Mexico Monterrey, Mexico Manufacturing—confectionery products Own
+EI Salto, Mexico Manufacturing—confectionery products and pantry items Own
+Malaysia Johor, Malaysia Manufacturing—confectionery products Own
+In addition to the locations indicated above, we also own or lease several other properties and buildings worldwide which we use for
+manufacturing, sales, distribution and administrative functions. Our facilities are well maintained and generally have adequate capacity
+to accommodate seasonal demands, changing product mixes and certain additional growth. We regularly improve our facilities to
+incorporate the latest technologies. The largest facilities are located in Hershey, Lancaster and Hazleton, Pennsylvania; Monterrey and
+EI Salto, Mexico; and Stuarts Draft, Virginia. The U.S., Canada and Mexico facilities in the table above primarily support our North
+America Confectionery and North America Salty Snacks segments, while the Malaysia facility primarily serves our International
+segment. As discussed in Note 13 to the Consolidated Financial Statements, we do not manage our assets on a segment basis given the
+integration of certain manufacturing, warehousing, distribution and other activities in support of our global operations.
+Item 3. LEGAL PROCEEDINGS
+Information on legal proceedings is included in Note 15 to the Consolidated Financial Statements.
+Item 4. MINE SAFETY DISCLOSURES
+Not applicable.
+od
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 18 a
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 27/142
+
+--- VISUAL OCR PAGE 28: page_028.png ---
+5/6/26, 1:25 PM hsy-20241231
+SUPPLEMENTAL ITEM. INFORMATION ABOUT OUR EXECUTIVE OFFICERS
+The executive officers of the Company, their positions and, as of February 10, 2025, their ages are set forth below.
+Name Age Positions Held During the Last Five Years
+
+Andrew Archambault 51 President, U.S. Confection (February 2025)
+
+Deepak Bhatia °) 51 Senior Vice President, Chief Technology Officer (October 2023)
+
+Michele G. Buck 63. Chairman of the Board, President and Chief Executive Officer (October 2019)
+
+Rohit Grover §2 President, International (April 2019)
+
+Jennifer L. McCalman ®) 47 Vice President, Chief Accounting Officer (February 2021);
+
+Senior Director, Global Controller (March 2019)
+Jason R. Reiman 53 Senior Vice President, Chief Supply Chain Officer (June 2019)
+Christopher M. Scalia 49 — Senior Vice President, Chief Human Resources Officer (January 2020);
+Vice President, Global Human Resources (March 2018)
+James Turoff 48 Senior Vice President, General Counsel and Secretary (May 2021);
+Acting General Counsel (December 2020);
+Vice President, Deputy General Counsel (March 2019)
+Veronica Villasenor 45 President, Salty Snacks (February 2025);
+Vice President, General Manager Salty Snacks (April 2023);
+Vice President, General Manager Dot’s and Pretzels, Inc. (August 2022);
+Vice President, Marketing US Confection (July 2021);
+Vice President, Marketing Chocolate (February 2020)
+
+Steven E. Voskuil 56 Senior Vice President, Chief Financial Officer (February 2021);
+
+Senior Vice President, Chief Financial Officer and Chief Accounting Officer (November
+2019)
+There are no family relationships among any of the above-named officers of our Company.
+
+(1) Mr. Archambault was appointed President, U.S. Confection effective February 3, 2025. Prior to joining our Company he was
+President, U.S. Refreshment Beverages (November 2023), President, Commercial & Beverage Concentrates (August 2022),
+Chief Customer Officer (October 2018), and Senior Vice President of Commercial Strategy (December 2017) for Keurig Dr.
+Pepper (formerly Keurig Green Mountain), a beverage and coffeemaker company.
+
+(2) Mr. Bhatia was appointed Senior Vice President, Chief Technology Officer effective October 23, 2023. Prior to joining our
+Company he was the Vice President of Supply Chain Optimization Technologies (August 2021) and Vice President of
+Technology, Inventory Planning & Control in Supply Chain Optimization Technologies (March 2019) at Amazon.com, Inc., a
+multinational technology company.
+
+(3) Ms. McCalman was appointed Vice President, Chief Accounting Officer effective February 23, 2021. Prior to joining our
+Company she was Senior Director and Assistant Controller for Keurig Dr. Pepper (formerly Keurig Green Mountain) (May
+2017), a beverage and coffeemaker company.
+
+Our Executive Officers are generally appointed each year at the organization meeting of the Board in May.
+a
+
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 19 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 28/142
+
+--- VISUAL OCR PAGE 29: page_029.png ---
+5/6/26, 1:25 PM hsy-20241231
+PART II
+Item 5. MARKET FOR THE REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER
+PURCHASES OF EQUITY SECURITIES
+
+Our Common Stock is listed and traded principally on the New York Stock Exchange under the ticker symbol “HSY.” The Class B
+Common Stock (“Class B Stock”) is not publicly traded.
+The closing price of our Common Stock on December 31, 2024 (the last business day of the of the fiscal year) was $169.35. There were
+23,068 stockholders of record of our Common Stock and 5 stockholders of record of our Class B Stock as of December 31, 2024.
+We paid $1,084.8 million in cash dividends on our Common Stock and Class B Stock in 2024 and $889.1 million in 2023. The annual
+dividend rate on our Common Stock in 2024 was $5.480 per share.
+On February 5, 2025, our Board declared a quarterly dividend of $1.370 per share of Common Stock payable on March 14, 2025, to
+stockholders of record as of February 17, 2025. It is the Company’s 380th consecutive quarterly Common Stock dividend. A quarterly
+dividend of $1.245 per share of Class B Stock also was declared.
+Unregistered Sales of Equity Securities and Use of Proceeds
+None.
+Issuer Purchases of Equity Securities
+There were no purchases of shares of Common Stock made by or on behalf of Hershey, or any “affiliated purchaser” (as defined in
+Rule 10b-18(a)(3) under the Securities Exchange Act of 1934, as amended) of Hershey, for each fiscal month in the three months ended
+December 31, 2024.
+In July 2018, our Board of Directors approved a $500 million share repurchase authorization to repurchase shares of our Common
+Stock. As a result of the February 2023 Stock Purchase Agreement with Hershey Trust Company, as trustee for the Milton Hershey
+School Trust (the “School Trust”), the July 2018 share repurchase authorization was completed. In May 2021, our Board of Directors
+approved an additional $500 million share repurchase authorization, which was completed as of March 31, 2024. In December 2023,
+our Board of Directors approved an additional $500 million share repurchase authorization. This program commenced after the existing
+May 2021 authorization was completed and is to be utilized at management’s discretion. Approximately $470 million remains available
+for repurchases under our December 2023 share repurchase authorization. We are authorized to purchase our outstanding shares in open
+market and privately negotiated transactions. The program has no expiration date and acquired shares of Common Stock will be held as
+treasury shares. Purchases under approved share repurchase authorizations are in addition to our practice of buying back shares
+sufficient to offset those issued under incentive compensation plans.
+In February 2023, the Company entered into a Stock Purchase Agreement with Hershey Trust Company, as trustee for the School Trust,
+pursuant to which the Company purchased 1,000,000 shares of the Company’s Common Stock from the School Trust at a price equal to
+$239.91 per share, for a total purchase price of $239.9 million.
+In February 2022, the Company entered into a Stock Purchase Agreement with Hershey Trust Company, as trustee for the School Trust,
+pursuant to which the Company purchased 1,000,000 shares of the Company’s Common Stock from the School Trust at a price equal to
+$203.35 per share, for a total purchase price of $203.4 million.
+
+od
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 20 a
+
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 29/142
+
+--- VISUAL OCR PAGE 30: page_030.png ---
+5/6/26, 1:25 PM hsy-20241231
+Stockholder Return Performance Graph
+The following graph compares our cumulative total stockholder return (Common Stock price appreciation plus dividends, on a
+reinvested basis) over the last five fiscal years with the Standard & Poor’s 500 Index and the Standard & Poor’s 500 Packaged Foods
+Index.
+Comparison of 5 Year Cumulative Total Return*
+Among The Hershey Company, the S&P 500 Index,
+and the S&P 500 Packaged Foods Index
+$250
+$200
+$150
+$100
+$50 I I 1 I !
+2019 2020 2021 2022 2023 2024
+—@— The Hershey Company —— S&P 500 Index
+—A— S&P 500 Packaged Foods
+December 31,
+Company/Index 2019 2020 2021 2022 2023 2024
+The Hershey Company $ 100 $ 106 $ 137 $ 167 $ 137 $ 128
+S&P 500 Index $ 100 $ 118 § 152. $ 125 $ 157 $ 197
+S&P 500 Packaged Foods Index $ 100 $ 105 §$ 118 $ 129 $ 120 $ 113
+The stock price performance included in this graph is not necessarily indicative of future stock price performance.
+Item 6. /RESERVED]
+Table of Contents The Hershey Company | 2024 Form 10-K | Page 21 é
+https://www.sec.gov/Archives/edgar/data/47 111/000004711125000014/hsy-20241231.htm 30/142

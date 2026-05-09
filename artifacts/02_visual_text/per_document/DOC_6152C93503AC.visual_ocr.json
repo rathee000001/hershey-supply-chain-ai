@@ -1,0 +1,56 @@
+{
+  "doc_id": "DOC_6152C93503AC",
+  "file_name": "hershey_responsible_sourcing_cocoa_page.pdf",
+  "packet": "hershey_company",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_6152C93503AC.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 7358,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "target"
+    ],
+    "ingredients": [
+      "sugar",
+      "cocoa",
+      "chocolate"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourcing",
+      "sustainability",
+      "sustainable",
+      "ingredient",
+      "products",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_6152C93503AC/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_6152C93503AC/page_001.png",
+      "sha256": "f182f0c81d3845f91862cd5213f86812b8ad427520737d79fc7cf4feb64fb121",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "CAREERS MEDIA NVESTORS\nHERSHEY.\nft Home Sustainability Progress on Priorities Responsible Sourcing\nSys ESE witRO VS Mere ho USER LIS SLE ATELIER LGC trae 2 be on —\nbel! on mete ORES eed em - as ¢ ia 7\nR ible S ‘ BVT AG i ay i Wasi, ie ‘W Wie \\ ie: Ne\nDHA NEG AN NON TaN it hij gee \\\\ AN Uap ONS ON VAX\n\\) AN RE G// ‘ we IGE AS V4 High\nOur Responsible Sourcing Strategy guides how we positively contribute to the ES 4 \\ ‘ py URS HP te Pe ya ‘4 \\\\\nresilience of the communities and ecosystems we depend on to source ae WY 2% \\ Miike i eN ah\" i / ; ey BO x\nIN | SY eae <\\ Y Ar 4 = RAN WON\ningredients, manufacture and deliver our products. K \\ {| i Wie | ‘ iyi Xe NO 3 Si y Wa AA i \\! \\\nSPAS NIN Te\n: Key, AILS RAN ‘ Li FS\nMS IRSA OS IW/2h fa | X\nNN: TRS 7/ ALE S\niPS ¢ ~ = 1 ( q 7 fle\nLy SN \\ \\ =:\na AN Y Sg\n\\ ]\nRN NY) Le gm\nNy hij { ye\ng i! 4\nCONTENTS:\nOur Responsible Sourcing Strategy, which is guided by our commitments to human rights and the\n+ Our Responsible Sourcing environment, is designed to move beyond risk mitigation and compliance to deliver positive\nStrategy impact and long-term resilience in Hershey's end-to-end supply chain. We do this by working\n+ Priority Ingredients and closely with our suppliers, farmers and industry partners. Collaboration with our global network of\nRaw Materials Hershey-owned operations, suppliers and business partners is critical in executing our strategy\n+ Responsible Sourcing and making sustainable, systemic progress.\nResources\ne e\nOur Responsible Sourcing Strategy\ne\nincludes four key focus areas:\nFostering Sustainable Agricultural Communities\nHershey’s beloved brands rely on ingredients and raw materials grown and provided by millions of\npeople all over the world. Hershey is committed to reducing the environmental impacts of\nsourcing our ingredients and raw materials and building resilient agricultural communities by\naddressing the social and economic challenges they face. Learn more about our Priority\nIngredients and Raw Materials below.\nResponsibly Sourcing Goods and Services\nHershey is committed to delivering a resilient supply chain, and we count on our vast network of\nsuppliers and business partners around the globe to help us. We engage our suppliers around the\nexpectations set forth in our Supplier Code of Conduct, including respecting human rights and\nreducing their environmental impact. Read more about our Responsible Recruitment Program.\nPromoting Transparency\nHershey is committed to knowing and understanding where, how and who grows and\nmanufactures the ingredients and raw materials that make up our Hershey products. We map our\nsupply chain so we can best invest in the people and ecosystems we rely on and measure,\ncommunicate and share the progress of our investments.\nBuilding Hershey Capabilities\nThe integration of Hershey's Responsible Sourcing Strategy across the enterprise is integral to\nour business strategy and long-term success. We provide our remarkable people across Hershey\nwith training, tools and technology to achieve our Responsible Sourcing commitments.\nvw. ' t\\ a j y ; Ay —_ BC . ve r\n» {On ea 7 . ’ 4 =. ,\n\\, Wy be : fe rae Fa\\ ‘ Sa \\ yy: ine \\ . a «.\n. ‘ R ‘ Wi et’? ’ \\ . Am 4 \"2 er f . \\ 5\n+ ayy) =f Wore ch ey, ( i. mY 43\n| » . 3 s* oe a SY $ P< e bal i U ‘ -\nee : ‘ h 5 f Shi N . \" } ] \\ $ a “ . ‘ had\nyg Be CES N\\N Wee . x\nVa = Saethe cig UNA SDA etka Wy bs f°\nMage NS WA: alee Ori f “We.\nwr sys fa Lo * > y= f MA \\, °\nf 4 aL ALS ; : } = a .\nane ? ( ; - ps F\nv | Yr ° oe\n' v, “At ' 2 =~ ,\nae PRONG BN Fi s 4 \\ s\nyon Way o | a i -\n( Lt Ss ery ¢ ;\n( 4 x ~S) A Al fx.\nf Lt) > Veg RN as ral j N ’\n= ay ’ \\ “Ao. y > i= 4\niS Ss 1S \\ ay \\ \\\n‘ Ai 4 > st ' : \\ . \\ ¥\n> ya } ‘ 4 : ¥\n4 Fae \\ r tp lf j \\\nfj ' - Gy N Seo) QA Se ¥ | (\\\n¢ 7 “ \\ — (ee ‘SS » ae ar , Ci\n/ ; iw + \\ NSS OF\n- 2 \\ SP Masd . /\ne e e e\nPriority Ingredients and Raw Materials\nEach ingredient presents unique sourcing challenges and risks since sustainability and labor\npraclices vary across cormmodilies and by region. By underslanding lhe risks Lhal are specific lo\neach raw material and region, we can better use our scale and resources to safeguard human\nrights and protect the people and ecosystems behind the ingredients that make up our iconic,\ndelicious snacks.\nHershey targets our efforts on those areas where we can make the biggest impact while reducing\nrisks in our supply chain. Our plan and approach for each ingredient considers a number of issues\nthat are material to our business, including human rights, farmer livelihoods, GHG emissions,\ndeforestation, biodiversity, water and soil health, as these are often interrelated issues.\nOur priority ingredient management strategies are underpinned by the following principles:\n* Supply Chain Traceability: Know the origin of raw materials to improve visibility into our\nsupply chains and understand opportunities for impact. 1\n+ Supply Chain Monitoring And Verification: Communicate our expectations to suppliers\nand strengthen their sustainability management by using third-party certification and\nverification schemes to monitor performance and drive continuous improvement.\n« Origin Transformation: Create measurable, responsible and sustainable transformation by\ninvesting in origin-level programs focused on environmental, social and economic issues.\n+ Operational Excellence: Utilize internal processes, policies, training, data, technology and\npurchasing practices supported by governance.\n+ External Engagement: Collaborate with external stakeholders to drive systemic change, as\ncompanies cannot solve these complex sustainability challenge alone.\n* We also have achieved 100 percent certified coconut as of December 2022.\n1 Traceability is not a chain of custody concept and does not alone allow Hershey to identify the\nspecific source from where the ingredient comes in a given Hershey product.\nRead more about each of our priority ingredients:\n+ Cocoa\n+ Dairy\n+ Sugar\n+ Palm Oil\n+ Pulp and Paper\nResponsible Sourcing Resources\nFor more information, you can contact us at: responsiblesourcing@hersheys.com\n+ Supplier Code of Conduct + Responsible Recruitment & Employment Program\n+ Translations available in: Behasa Melayu, Chinese, French, + Responsible Sourcing Supplier Program\nHindi, Japanese, Korean, Portuguese, Spanish, Tamil, Telugu . Farm Animal Welfare Position\nap environmental Policy + Responsible Palm Oil Sourcing Policy\ni Litem tignits ORCY! + Responsible Pulp & Paper Sourcing Policy\n+ Deforestation & Conversion Free Policy . Ingredient Sourcing Policies\n1 ch er rf | 2 r\n=a a am r-\nSuey ee | Py. < ‘\nSUSTAINABILITY @ HERSHEY > hese SE / o 2 l ae Be\nRelated Priority Areas tse oes OS i ae\nLid gee Sth : at y= , “a :\nae “i —— a FUE ee ere vem swe. ee speek, 3 « id\nss aay t SEL . - ag Ri mrererces aero : Gee. Fax\nCocoa Human Rights Environment Our Peop\n>\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nHERSHEY'S CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD viorethracnthbethe\nFAQ mae ST PRODUCT LOCATOR\n‘Ss\nf xX ina) RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCID HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMIT AN IDEA\nSUPPLIERS\nDO NOTSELLOR SHARE MYPERSONALINFORMATION = PRIVACYPOLICY = TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.\nWEB ACCESSIBILITY COOKIE PREFERENCES",
+      "ocr_text_length": 7318,
+      "word_count": 1358,
+      "avg_confidence": 68.94,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_6152C93503AC.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_6152C93503AC.visual_ocr.json",
+  "created_at": "2026-05-09T19:39:20"
+}

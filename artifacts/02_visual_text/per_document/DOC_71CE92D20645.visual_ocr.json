@@ -1,0 +1,136 @@
+{
+  "doc_id": "DOC_71CE92D20645",
+  "file_name": "hershey_distribution_center_logistics_reference.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_71CE92D20645.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 7,
+  "pages_ocr_attempted": 7,
+  "pages_ocr_success": 7,
+  "total_visual_ocr_text_length": 10070,
+  "total_visual_ocr_chunks": 7,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [
+      "chocolate",
+      "packaging"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourcing",
+      "sustainability",
+      "ingredient",
+      "products",
+      "distribution",
+      "warehouse",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_001.png",
+      "sha256": "1e9b5e418b4cc9aa4e1b5f39ff9b2bcbdba4288965839ac816f5cd7f02e1e04a",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "° a NE j j 7 Pr) PRESET. I RAE wn he Le eB Ay, Wd WZ | ieee Nae ON\nG1 Na tg Lok lee tm A. pT EET Ss po Oe Sear YO Saar ey\nQ ‘ 4 if . . iy \\“~¢ id as be a4 ay q Pega) ACD as ) * ey ey? r y t i alt\nwives N ¥ oe WG Y 4 a tay’ 2 P a> ais «A | 4 iff OAR 4 io ies Red ¢ y 1?\nAA\\EL-4F . , 460: A @° @ ee “J ) 4 ‘ AY ris 4 Lv oh , Ve y | Se | . N\n\\ yy fag i os ; Jj Cattle oe ih cA Te Y a * ay 4 aN She tae a .\na4 | Zz ‘ . — J . t ; > 4 fe ‘ ry . :\nil + F, J ‘ae o.| Fa 4 ) lia, | *” : u\n> 7 Wh «i : é je AY - j . - -\n*. Supply Partner fy Aas : ) Ap i “ie\noR * SS we.\n‘ esources ‘ : “a - NS\n\\y We are committed to doing well by doing ss -_ . \" :\n== good, and rely on the mutual support and - N ;\n\\\ncommitment of our supply partners to be\n,\nsuccessful in a way that makes a difference.\nWe're determined to work with the very\nbest suppliers, responsibly and with the , 7 =\n. F . - Y Cars a\nhighest integrity. va . . ; ‘\n, >, . , Mag 4 « vo»\nNs ~ \\ Ar Sie. a St “og.\n~ d - - . > «\né 7. 7 {) ae & é * P\\ ‘Cake » ae ~— . ne 4 :\n. j ‘ : 7 : Y ae - .\n/ ie . ¥ ~~ . S L - 2 J . Ng aga * i cag aa\n——s st » << gp =. ? 0 age . > gated »\nIn return, we expect the highest standards from our partners and their extended supply chains. The dynamics of\nour mutual supply chains continue to evolve as the world around us transforms. We are also ever adapting and\nchanging to deliver our consumer and customer promise while making a positive impact on people and the\nplanet. We aim to inspire all of our partners to prioritize health and safety, quality, sustainability and service\nwhile ensuring good value. Our values drive our behaviors and decisions, and we ask you to challenge our\nthinking for best overall solution. Suppliers who deliver solutions, question the status quo, and are bold and\ninnovative become our long-term, strategic partners. If you are new to Hershey, we look forward to delivering\ngreat things. To all of our existing partners, thank you and we hope to collectively grow for years to come.\nPackaging\n- aa Supplier\nHelpful Links for Responsible a Quality Supplier\nPolicies ca Quality Expect ti Dre\nnn ourcing es xpectations orta\nae Expectations | ———____ | —_\nHershey's Supply Expectations |\nP t Manual nn\n< |\nee\nHelpful Policies & Resources\nPulp and Paper FE. Supplier Program BE. No Deforestation BE.\nSourcing Policy Guidebook Policy\n< >\n. ee\n7 — = : The Secret Sauce? It's\n~ ° .\n~ ~ ~ ' the Relationship.\ng y If we have learned anything in\nq : foodservice through this pandemic, it is\n©) ” i that the depth of relationships between\n} CRUISIN Corrt : manufacturers, restaurant operators and\nH D % \"4 E, uu distributors is key to not just surviving,\nt Ths but thriving.\n_ & | Read the Blog\nj\n& ’ - é\nIndustry Leading\nInnovation\nWant to learn more about Hershey’s\nindustry leading innovation and hear\nfrom our experts? Sign up for our\nnewsletter the Hershey Insighter.\nSubscribe\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nH FRS H Ne CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD PLANT LOCATIONS\nFAQ PSG PRODUCT LOCATOR\nis\nf X ina | RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCED HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMIT AN IDEA\nSUPPLIERS\nDO NOTSELLOR SHARE MYPERSONALINFORMATION = PRIVACYPOLICY = TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.\nWEBACCESSIBILITY | COOKIE PREFERENCES",
+      "ocr_text_length": 3372,
+      "word_count": 736,
+      "avg_confidence": 62.12,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 2,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_002.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_002.png",
+      "sha256": "14187137e7217758dc22d76a0245e73e8fde54b1640a8cef190c0e5390c90b78",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 7:12 PM The Hershey Company Terms\nThe Hershey Company Terms Vv\n\nGeneral Terms and Conditions of Sale\nThese terms and conditions provide The Hershey Company customers with guidelines and\nlegal stipulations in conducting business with The Hershey Company and its affiliates. By\npurchasing products from The Hershey Company and its affiliates, including The Hershey\nSales Company and The Hershey Salty Snacks Sales Company, customers agree to be bound\nby these terms and conditions.\nEnglish\nSpanish\nFrench\nPurchase Order Terms and Conditions\nThese terms and conditions provide The Hershey Company suppliers with the guidelines and\nlegal stipulations of purchase orders with The Hershey Company. The terms and conditions\nvary by country, select the country below to view the appropriate purchase order terms and\nconditions\nUnited States of America\nPO Terms & Conditions Effective March 13, 2023 - U.S.\nClick here to download...\nPO Terms & Conditions Effective July 08, 2020 - U.S.\nClick here to download...\nPO Terms & Conditions Effective March 19, 2018 - U.S.\nClick here to download...\n\nhttps://www.thehersheycompany.com/terms.html 1/6",
+      "ocr_text_length": 1140,
+      "word_count": 172,
+      "avg_confidence": 94.52,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 3,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_003.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_003.png",
+      "sha256": "99ff6e06fff41a26f4ceac2fe6af61535c5dd47cca63ebbf26f836e35b9282fe",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 7:12 PM The Hershey Company Terms\nPO Terms & Conditions Effective February 10, 2017 - U.S.\nClick here to download...\nPOTerms & Conditions Effective November 1, 2016 - U.S.\nClick here to download...\nPO Terms & Conditions Prior to November 1, 2016 - U.S.\nSlick here to download...\nBrazil\nCanada\nChina\nIndia\nMalaysia\nMexico\nPhilippines\nSingapore\nSwitzerland\nUnited Arab Emirates\nUnited Kingdom\nhttps://www.thehersheycompany.com/terms.html 2/6",
+      "ocr_text_length": 447,
+      "word_count": 65,
+      "avg_confidence": 93.09,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 4,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_004.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_004.png",
+      "sha256": "0309317472fc0f240d3a557ec482155fc348b9b096b724bf46e9f9a5c70eb7c9",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 7:12 PM The Hershey Company Terms\nSupplier Import Requirements\nThe Hershey Company purchase orders are governed by the shipping/import requirements\ncontained at http://import.hersheys.com. This site also includes the shipping/import\ninstructions by Ship-to Country.\nSupplier Code of Conduct\nThe Hershey Company has a long history of operating with high ethical standards and\nintegrity. We have done this by balancing our strong desire for profitable growth with our\ncommitments to our various stakeholders, including our employees, shareholders, consumers\nand the communities in which we operate. Hershey’s Supplier Code of Conduct outlines our\nstandards and expectations with respect to key areas of corporate social responsibility. Our\ngoal is to work with suppliers and vendors to assure compliance with these requirements. The\nSupplier Code of Conduct requirements are contained at\nhttps://www.thehersheycompany.com/content/dam/hershey-\ncorporate/documents/partners-and-suppliers/supplier-code-of-conduct.pdf.\nBahasa Melayu\nChinese\nFrench\nHindi\nJapanese\nKorean\nPortuguese\nSpanish\nTamil\nTelugu\n\nhttps://www.thehersheycompany.com/terms.html 3/6",
+      "ocr_text_length": 1154,
+      "word_count": 142,
+      "avg_confidence": 94.72,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 5,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_005.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_005.png",
+      "sha256": "6a5ee249497330323f408f8aea9b4e7eb48e7864899572713ce4e1f2bb70c633",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 7:12 PM The Hershey Company Terms\nPartners in Quality\nContinuing the legacy of our founder, Milton S. Hershey, our commitment to delivering quality\nproducts to our customers and upholding ethical business practices is core to who we are. The\nHershey Company (Hershey) views its business partners as an integral part of its success. Our\nbusiness partners are ingredient, packaging and raw materials Suppliers, Co-manufacturers,\nCo-packers, and Food Licensees - collectively referred to as Suppliers. The expectations set\nforth in the manual are a comprehensive set of food safety and quality programs that serve as\na solid foundation for our Supplier Quality Management system. We rely on our Suppliers to\nembrace these programs and implement a culture that continually pursues improvements in\nfood safety. Select the manual below to view the quality expectations.\nThe Hershey Company Partners in Quality: Packaging Supplier Quality Expectations\nManual\nThe Hershey Company Partners in Quality: Supplier Quality Expectations Manual:\nTranslations available in Spanish, Portuguese and Chinese.\nIngredient SuppliersContract ManufacturersContract PackagingLicense\n\ne\n\nInsurance Requirements\nHershey requires all vendors and suppliers operating under a Purchase Order or contract\nmaintain insurance coverage according to the terms of the Purchase Order or contract with\nHershey. The resources below contain further details on Hershey’s insurance requirements.\nTransportation\nDistribution Center (Large)\nDistribution Center (Small)\nMedical Services\nSmall Co-manufacturer / Co-packer\n\nhttps://www.thehersheycompany.com/terms.html 4/6",
+      "ocr_text_length": 1632,
+      "word_count": 221,
+      "avg_confidence": 94.87,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 6,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_006.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_006.png",
+      "sha256": "4f6913e57760306586f884367619f6f0ada4966df466ebc1b456666304b17f73",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 7:12 PM The Hershey Company Terms\nLarge Co-manufacturer / Co-packer\nProfessional Services\nIngredient Suppliers\nVendors\nWarehouse & Storage Facilities\nCompany Classification Description:\nMedical Services Contract Nurses & Medical Service Providers\nSmall Co-Manufacturer / Co-Packer - Co-Man less than 10M\nOur supplier community is a critical component to our success, and we thank you for your\ncontinued support and partnership. To remain a top performer, we continually benchmark best\npractices to provide overall value to our customers and consumers. Effective Jan 1,2023, The\nHershey Company will establish standard payment terms of 120 days in line with general\nmarket practice among peer companies. We are appreciative of our suppliers honoring the\nnew 120 days terms that are essential to our growth and competitiveness in today’s\nenvironment. We welcome any questions you might have in this respect. Please send any\nquestions to: PaymentTerms@hersheys.com\nThe Hershey Company may require vendors and suppliers to join RapidRatings FHR\nExchange depending upon business impact, criticality, strategic partnership, or a myriad of\nfactors. RapidRatings’ FHR Exchange is an innovative and secure membership platform for\nprivate company suppliers to demonstrate their financial health, be in compliance with The\nHershey Company's Third-Party Risk Management (TPRM) program and have more\nmeaningful business relationships through the lens of financial transparency. By securely and\ndiscreetly submitting controlled financial information (profit and loss, balance sheet, cashflow\nstatement) via The FHR Exchange, private company suppliers will gain a clear understanding\nof their own financial positioning, in parallel with The Hershey Company. Please direct any\nquestions to TPRM@hersheys.com.\n\nhttps://www.thehersheycompany.com/terms.html 5/6",
+      "ocr_text_length": 1850,
+      "word_count": 255,
+      "avg_confidence": 94.71,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 7,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_007.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71CE92D20645/page_007.png",
+      "sha256": "16d18af89c7b3a6f41d8d085cc6eb67c0095d8100477fbc38157fd2ddfcffeaa",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 7:12 PM The Hershey Company Terms\n\nCompany Contractor Handbook:\n\nThe Hershey Company Contractor Handbook Rules and Regulations\nhttps://www.thehersheycompany.com/terms.html 6/6",
+      "ocr_text_length": 183,
+      "word_count": 20,
+      "avg_confidence": 91.15,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_71CE92D20645.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_71CE92D20645.visual_ocr.json",
+  "created_at": "2026-05-09T19:39:48"
+}

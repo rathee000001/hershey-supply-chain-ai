@@ -1,0 +1,59 @@
+{
+  "doc_id": "DOC_74966F03A6A3",
+  "file_name": "hershey_sugar_sourcing_page.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_74966F03A6A3.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 6184,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "asr",
+      "american sugar refining",
+      "target"
+    ],
+    "ingredients": [
+      "sugar",
+      "chocolate"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "sourcing",
+      "sourced",
+      "sustainability",
+      "sustainable",
+      "ingredient",
+      "cost",
+      "market",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_74966F03A6A3/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_74966F03A6A3/page_001.png",
+      "sha256": "8028c679f7844cb4c4d6de0a2bec6515a294759dee00ae588152ed566bb3fd16",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "CAREERS MEDIA INVESTORS\nHERSHEY.\nf& > Home > Sustainability > Sustainability Issues\nSugar is an essential ingredient in many of our delicious snacks. Sugar production provides a\nlivelihood to growers and local communities. At Hershey, we are committed to a supply chain of\nresponsibly sourced sugar.\nes\nOur Approach to Responsibly Sourced\nTo achieve a responsible sugar supply chain, we focus on three strategic pillars:\n+ Traceability: Building traceability to the mill and farm level to understand our footprint\nand opportunities for impact\n+ Supplier Engagement, Monitoring and Verification: Communicating our expectations to\nsuppliers and strengthening their sustainability management while using credible\ncertification and verification schemes to monitor performance and drive continuous\nimprovement across sustainability impacts in our sugar supply chain\n+ Origin Transformation: Investing in on-the-ground programs to support protection of\nhuman rights, GHG emissions reduction in line with our science-based targets, water\nstewardship and the resilience and livelihoods of sugar-growing communities\ney:\nTraceability\nOur sugar cane supply is mainly sourced from the U.S., Mexico and Brazil, although we source\nfrom other countries as well such as Belize and India. Our sugar beet supply comes entirely from\nthe United States.\nWe continue to work with our suppliers to trace our sugar to the mill level to understand if it is\nlinked to areas or mills with concerns such as deforestation, water pollution or the exploitation of\nworkers. About 70 percent of the sugar we purchase is traceable to the mill.\ne se\nEngagement, Monitoring and\nes e\nVerification\nWe expect all our sugar suppliers and business partners to comply with our Supplier Code of\nConduct (SCOC) and all other relevant policies on environment and human rights. We also\nexpect our sugar suppliers to communicate the SCOC and relevant policies throughout their\nsupply chains. To verify that our sugar suppliers uphold our standards within their own operations\nwe have enrolled all sugar suppliers in our Responsible Sourcing Supplier Program. As part of this\nprogram, all processing sites that provide sugar to Hershey are required to have an up-to-date\nSedex Self-Assessment Questionnaire and a Sedex Members Ethical Trade Audit (SMETA) 4-\npillar audit (or equivalent).\nAt the mill and farm level, we use credible third-party standards and verification mechanisms,\nincluding the Bonsucro and Fair Trade certifications for our sugar cane and the Sustainability\nAgriculture Initiative Platform (SAI Platform) Farm Sustainability Assessment for both beet and\ncane sugar. We source 100 percent Bonsucro-certified Mass Balance sugar for our plants in\nCanada and Brazil to meet the market demand for sustainable ingredients and to support\ncertified suppliers that demonstrate commitment to ethical production.\nWhen feasible, we also periodically source Bonsucro-certified Mass Balance sugar for our plants\nin the U.S. and Mexico. When certified Mass Balance sugar is not available at any of the\ninternational sources we buy from, we purchase Bonsucro credits to match the volumes of the\nconventional sugar we buy from these sources.\nIn 2022, we sourced 72 percent of our sugar volume from farms certified or verified to a\nrecognized sustainability standard or covered by Bonsucro credits - putting us on track to\nprocure 100 percent of our sugar from certified or verified sources by 2025.\nWe also completed a baseline assessment of our suppliers’ sustainability and responsible\nsourcing practices and management systems. This assessment allowed Hershey to hear directly\nfrom suppliers on their own programming efforts and responsible sourcing journeys. The results\nare helping us identify potential risks and opportunities to create action plans to drive\nimprovement.\nTransformation\nHershey is a member of the Sustainability Agriculture Initiative (SAI) Platform. Through the SAI\nPlatform, Hershey accesses tools and resources, and collaborates with other stakeholders across\nthe agricultural value chain to advance sustainable agriculture practices globally. We use the SAI\nPlatform’s Farm Sustainability Assessment (FSA) as another tool to assess, communicate and\nimprove on-farm sustainability in our sugar supply chain.\nHershey partners with our supplier American Sugar Refining (ASR), to implement “Learn to\nGrow” field school programs in Belize and Mexico that deploy a farmer field school model to help\nfarmers in our supply chain implement more sustainable growing practices to holistically address\nenvironmental and social issues.\nOur program in Mexico reaches approximately 1,150 farmers and 1,500 cane cutters. With our\nsupport, participants have improved cane quality by 49 percent and earned higher incomes.\nIn Belize, our program helps farmers adapt to climate change by using weather forecasting and\npest prediction technology. Farmers also learn best management practices such as\nenvironmentally-friendly biological pest control techniques. More than 1,900 farmers in Belize\nhave been trained in and adopted the new technology platform. These farmers have applied\nbiological pest controls to over 1,000 acres, avoiding nearly 3,000 kg of traditional pest control\nchemicals. Early intervention has helped prevent further infestation and application of additional\nchemicals. Farmers have realized significant savings by avoiding pesticide costs and production\nlosses.\n— \\-\n= : =\n4 * i ; - ~~\n}\nSUSTAINABILITY @ HERSHEY i 4 | eo @ I\n& | x\n-\nRelated Topics yy\n» | a — b\nras | _ : iy) a } WM Rieeweences su eae |\nOur People Responsible Sourcing Human Rights Youth\n< >\nTHE COMPANY EXPERIENCE HERSHEY BUSINESS CUSTOMERS\nHERSHEY'S CAREERS HERSHEYLAND HERSHEY PAC ANNUAL REPORT\nCONTACT US HERSHEY'S CHOCOLATE WORLD PLANT LOCATIONS\nFAQ HERSHEYPARK PRODUCT LOCATOR\n‘Ss\nf X i oe RETIREES\nHERSHEY'S STORE\nSLAVERY AND HUMAN TRAFFICKING STATEMENT\nCAD HIGH CONTRAST OFF VISIT HERSHEY, PA\nSUBMIT AN IDEA\nSUPPLIERS\nDO NOT SELL OR SHARE MY PERSONAL INFORMATION PRIVACY POLICY TERMS AND CONDITIONS © 2026 THE HERSHEY COMPANY. ALL RIGHTS RESERVED.\nWEB ACCESSIBILITY COOKIE PREFERENCES",
+      "ocr_text_length": 6144,
+      "word_count": 932,
+      "avg_confidence": 92.1,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_74966F03A6A3.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_74966F03A6A3.visual_ocr.json",
+  "created_at": "2026-05-09T19:39:54"
+}

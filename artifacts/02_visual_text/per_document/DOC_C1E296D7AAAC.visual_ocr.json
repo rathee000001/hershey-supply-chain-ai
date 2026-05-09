@@ -1,0 +1,42 @@
+{
+  "doc_id": "DOC_C1E296D7AAAC",
+  "file_name": "trucking_rate_market_reference.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_C1E296D7AAAC.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 1611,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "price",
+      "cost",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C1E296D7AAAC/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C1E296D7AAAC/page_001.png",
+      "sha256": "6c6f3919f9e97f5f91e5c02a4f638ef1827c946e8088e296a41ea168caf65eb8",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Search only for DAT / trucking rate market reference if free\na a Al Overview\nYes, DAT offers free trucking rate market references, primarily through their DAT\nTrendlines report. This provides a high-level, weekly overview of national and regional ,\nspot market rates and trends based on their extensive database. © DAT +1\n|\nFree DAT Market Resources }\ne DAT Trendlines: A free weekly report that provides:\n© National Average Rates: Rolling month-to-date rates for van, reefer, and\nflatbed (for lanes of 250+ miles). )\n© Load-to-Truck Ratios: A snapshot of supply and demand for freight.\no Fuel Price Trends: Updates on fuel costs, often included in the rate. |\ne DAT Freight Talk Blog: Regular updates on market conditions, regulatory changes,\nand industry trends. |\ne YouTube/Linkedin Live: Weekly market updates via video. © Dat +3\n(\nKey 2026 Market Data (As of Early April)\nBased on recent 2026 data, rates have shown a slight rebound from the previous\nyear: @\ne Van Spot Rate: Approximately 2.68 per mile.\ne Reefer Spot Rate: Approximately 3.12 per mile.\ne Flatbed Spot Rate: Approximately 3.46 per mile. * Dynamic Logistix\nLimitations of Free Data\nWhile the free reports offer good high-level visibility for general market direction,\nspecific, actionable lane-level data (e.g., “what is the current rate from Atlanta to\nChicago?\") requires a paid subscription to DAT iQ RateView. The free tools are best\nused for understanding national trends rather than specific negotiations on individual\nloads. © DAT +3\nAl can make mistakes, so double-check responses O oe > cp :",
+      "ocr_text_length": 1571,
+      "word_count": 260,
+      "avg_confidence": 90.85,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C1E296D7AAAC.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C1E296D7AAAC.visual_ocr.json",
+  "created_at": "2026-05-09T19:43:20"
+}

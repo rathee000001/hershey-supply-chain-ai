@@ -1,0 +1,161 @@
+{
+  "doc_id": "DOC_C5E013D8DC8A",
+  "file_name": "fda_21_cfr_101_22_natural_flavor_definition.pdf",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_C5E013D8DC8A.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 9,
+  "pages_ocr_attempted": 9,
+  "pages_ocr_success": 9,
+  "total_visual_ocr_text_length": 21880,
+  "total_visual_ocr_chunks": 13,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "sugar",
+      "natural flavor",
+      "wrapper"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "ingredient",
+      "products",
+      "retail"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_001.png",
+      "sha256": "93e75b90527d10e5897cb6a383edfb65eaf4a528c79ea3a94afdd60c07218b21",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\nLII > Electronic Code of Federal Regulations (e-CFR) > Title 21—Food and Drugs\n> CHAPTER I—FOOD AND DRUG ADMINISTRATION, DEPARTMENT OF HEALTH\nAND HUMAN SERVICES\n> SUBCHAPTER B—FOOD FOR HUMAN CONSUMPTION\n> PART 101—FOOD LABELING\n> Subpart B—Specific Food Labeling Requirements\n> § 101.22 Foods; labeling of spices, flavorings, colorings and chemical\npreservatives.\n21 CFR § 101.22 - Foods; labeling of\nspices, flavorings, colorings and\nchemical preservatives.\nCFR\n§ 101.22 Foods; labeling of spices, flavorings, colorings\nand chemical preservatives.\n(a)\n(1) The term artificial flavor or artificial flavoring means any substance, the\nfunction of which is to impart flavor, which is not derived from a spice, fruit or fruit\njuice, vegetable or vegetable juice, edible yeast, herb, bark, bud, root, leaf or similar\nplant material, meat, fish, poultry, eggs, dairy products, or fermentation products\nthereof. Artificial flavor includes the substances listed in 88 172.515(b) and 182.60 of\nthis chapter except where these are derived from natural sources.\nhttps://www.law.cornell.edu/cfritext/21/101.22 1/9",
+      "ocr_text_length": 1253,
+      "word_count": 182,
+      "avg_confidence": 93.96,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 2,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_002.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_002.png",
+      "sha256": "acb79ea990878cc5354af7c644a9a81c37251ea714b919271c9c0034abf87e99",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\n(2) The term spice means any aromatic vegetable substance in the whole, broken,\nor ground form, except for those substances which have been traditionally regarded\nas foods, such as onions, garlic and celery; whose significant function in food is\nseasoning rather than nutritional; that is true to name; and from which no portion\nof any volatile oil or other flavoring principle has been removed. Spices include the\nspices listed in 8 182.10 and part 184 of this chapter, such as the following:\n\nAllspice, Anise, Basil, Bay leaves, Caraway seed, Cardamon, Celery seed, Chervil,\nCinnamon, Cloves, Coriander, Cumin seed, Dill seed, Fennel seed, Fenugreek, Ginger,\nHorseradish, Mace, Marjoram, Mustard flour, Nutmeg, Oregano, Paprika, Parsley,\nPepper, black; Pepper, white; Pepper, red; Rosemary, Saffron, Sage, Savory, Star\naniseed, Tarragon, Thyme, Turmeric.\n\nPaprika, turmeric, and saffron or other spices which are also colors, shall be declared\n\nas “spice and coloring” unless declared by their common or usual name.\n(3) The term natural flavor or natural flavoring means the essential oil,\noleoresin, essence or extractive, protein hydrolysate, distillate, or any product of\nroasting, heating or enzymolysis, which contains the flavoring constituents derived\nfrom a spice, fruit or fruit juice, vegetable or vegetable juice, edible yeast, herb,\nbark, bud, root, leaf or similar plant material, meat, seafood, poultry, eggs, dairy\nproducts, or fermentation products thereof, whose significant function in food is\nflavoring rather than nutritional. Natural flavors include the natural essence or\nextractives obtained from plants listed in 88 182.10, 182.20, 182.40, and 182.50 and\npart 184 of this chapter, and the substances listed in § 172.510 of this chapter.\n(4) The term artificial color or artificial coloring means any “color additive” as\ndefined in 8 70.3(f) of this chapter.\n(5) The term chemical preservative means any chemical that, when added to\nfood, tends to prevent or retard deterioration thereof, but does not include\ncommon salt, sugars, vinegars, spices, or oils extracted from spices, substances\nadded to food by direct exposure thereof to wood smoke, or chemicals applied for\ntheir insecticidal or herbicidal properties.\n\n(b) A food which is subject to the requirements of section 403(k) of the act shall bear\n\nlabeling, even though such food is not in package form.\n\n(c) A statement of artificial flavoring, artificial coloring, or chemical preservative shall\n\nbe placed on the food or on its container or wrapper, or on any two or all three of\n\nthese, as may be necessary to render such statement likely to be read by the ordinary\n\nperson under customary conditions of purchase and use of such food. The specific\n\nhttps://www.law.cornell.edu/cfritext/21/101.22 2/9",
+      "ocr_text_length": 2939,
+      "word_count": 450,
+      "avg_confidence": 95.22,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 3,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_003.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_003.png",
+      "sha256": "b0f8945a51970f8f344bbe65a6607d793bb9c45fa2c0f0d114445a2fde0b660c",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\nartificial color used in a food shall be identified on the labeling when so required by\nregulation in part 74 of this chapter to assure safe conditions of use for the color\nadditive.\n\n(d) A food shall be exempt from compliance with the requirements of section 403(k)\nof the act if it is not in package form and the units thereof are so small that a\nstatement of artificial flavoring, artificial coloring, or chemical preservative, as the case\nmay be, cannot be placed on such units with such conspicuousness as to render it\nlikely to be read by the ordinary individual under customary conditions of purchase\nand use.\n(e) A food shall be exempt while held for sale from the requirements of section 403(k)\nof the act (requiring label statement of any artificial flavoring, artificial coloring, or\nchemical preservatives) if said food, having been received in bulk containers at a retail\nestablishment, is displayed to the purchaser with either (1) the labeling of the bulk\ncontainer plainly in view or (2) a counter card, sign, or other appropriate device\nbearing prominently and conspicuously the information required to be stated on the\nlabel pursuant to section 403(k).\n(f) A fruit or vegetable shall be exempt from compliance with the requirements of\nsection 403(k) of the act with respect to a chemical preservative applied to the fruit or\nvegetable as a pesticide chemical prior to harvest.\n(g) A flavor shall be labeled in the following way when shipped to a food\nmanufacturer or processor (but not a consumer) for use in the manufacture of a\nfabricated food, unless it is a flavor for which a standard of identity has been\npromulgated, in which case it shall be labeled as provided in the standard:\n(1) If the flavor consists of one ingredient, it shall be declared by its common or\nusual name.\n(2) If the flavor consists of two or more ingredients, the label either may declare\neach ingredient by its common or usual name or may state “All flavor ingredients\ncontained in this product are approved for use in a regulation of the Food and Drug\nAdministration.” Any flavor ingredient not contained in one of these regulations, and\nany nonflavor ingredient, shall be separately listed on the label.\n(3) In cases where the flavor contains a solely natural flavor(s), the flavor shall be\nso labeled, e.g., “strawberry flavor”, “banana flavor”, or “natural strawberry flavor”. In\ncases where the flavor contains both a natural flavor and an artificial flavor, the\nflavor shall be so labeled, e.g., “natural and artificial strawberry flavor”. In cases\nwhere the flavor contains a solely artificial flavor(s), the flavor shall be so labeled,\ne.g., “artificial strawberry flavor”.\nhttps://www.law.cornell.edu/cfritext/21/101.22 3/9",
+      "ocr_text_length": 2881,
+      "word_count": 473,
+      "avg_confidence": 95.36,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 4,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_004.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_004.png",
+      "sha256": "532ad8225bf56eda4d1b963d1e48ac2b1a778d13d7e6d73ddcb49ceba07a93ac",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\n(h) The label of a food to which flavor is added shall declare the flavor in the\nstatement of ingredients in the following way:\n\n(1) Spice, natural flavor, and artificial flavor may be declared as “spice”, “natural\nflavor\", or “artificial flavor’, or any combination thereof, as the case may be.\n(2) An incidental additive in a food, originating in a spice or flavor used in the\nmanufacture of the food, need not be declared in the statement of ingredients if it\nmeets the requirements of § 101.100(a)(3).\n(3) Substances obtained by cutting, grinding, drying, pulping, or similar processing\nof tissues derived from fruit, vegetable, meat, fish, or poultry, e.g., powdered or\ngranulated onions, garlic powder, and celery powder, are commonly understood by\nconsumers to be food rather than flavor and shall be declared by their common or\nusual name.\n(4) Any salt (sodium chloride) used as an ingredient in food shall be declared by its\ncommon or usual name “salt.”\n(5) Any monosodium glutamate used as an ingredient in food shall be declared by\nits common or usual name “monosodium glutamate.”\n(6) Any pyroligneous acid or other artificial smoke flavors used as an ingredient in\na food may be declared as artificial flavor or artificial smoke flavor. No\nrepresentation may be made, either directly or implied, that a food flavored with\npyroligneous acid or other artificial smoke flavor has been smoked or has a true\nsmoked flavor, or that a seasoning sauce or similar product containing pyroligneous\nacid or other artificial smoke flavor and used to season or flavor other foods will\nresult in a smoked product or one having a true smoked flavor.\n(7) Because protein hydrolysates function in foods as both flavorings and flavor\nenhancers, no protein hydrolysate used in food for its effects on flavor may be\ndeclared simply as “flavor,” “natural flavor,” or “flavoring.” The ingredient shall be\ndeclared by its specific common or usual name as provided in 8 102.22 of this\nchapter.\n(i) If the label, labeling, or advertising of a food makes any direct or indirect\nrepresentations with respect to the primary recognizable flavor(s), by word, vignette,\ne.g., depiction of a fruit, or other means, or if for any other reason the manufacturer\nor distributor of a food wishes to designate the type of flavor in the food other than\nthrough the statement of ingredients, such flavor shall be considered the\ncharacterizing flavor and shall be declared in the following way:\n(1) If the food contains no artificial flavor which simulates, resembles or reinforces\nthe characterizing flavor, the name of the food on the principal display panel or\npanels of the label shall be accompanied by the common or usual name of the\nhttps://www.law.cornell.edu/cfritext/21/101.22 4/9",
+      "ocr_text_length": 2912,
+      "word_count": 475,
+      "avg_confidence": 95.38,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 5,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_005.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_005.png",
+      "sha256": "da9b074f2bca4c1c9c43d4c4a8f1a9054a77237954e5d0b699894b1f12b09b0f",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\ncharacterizing flavor, e.g., “vanilla”, in letters not less than one-half the height of the\nletters used in the name of the food, except that:\n\n(i) If the food is one that is commonly expected to contain a characterizing food\ningredient, e.g., strawberries in “strawberry shortcake”, and the food contains\nnatural flavor derived from such ingredient and an amount of characterizing\ningredient insufficient to independently characterize the food, or the food\ncontains no such ingredient, the name of the characterizing flavor may be\nimmediately preceded by the word “natural” and shall be immediately followed by\nthe word “flavored” in letters not less than one-half the height of the letters in the\nname of the characterizing flavor, e.g., “natural strawberry flavored shortcake,” or\n“strawberry flavored shortcake”.\n(ii) If none of the natural flavor used in the food is derived from the product\nwhose flavor is simulated, the food in which the flavor is used shall be labeled\neither with the flavor of the product from which the flavor is derived or as\n“artificially flavored.”\n(iii) If the food contains both a characterizing flavor from the product whose\nflavor is simulated and other natural flavor which simulates, resembles or\nreinforces the characterizing flavor, the food shall be labeled in accordance with\nthe introductory text and paragraph (i)(1)(i) of this section and the name of the\nfood shall be immediately followed by the words “with other natural flavor” in\nletters not less than one-half the height of the letters used in the name of the\ncharacterizing flavor.\n(2) If the food contains any artificial flavor which simulates, resembles or reinforces\nthe characterizing flavor, the name of the food on the principal display panel or\npanels of the label shall be accompanied by the common or usual name(s) of the\ncharacterizing flavor, in letters not less than one-half the height of the letters used\nin the name of the food and the name of the characterizing flavor shall be\naccompanied by the word(s) “artificial” or “artificially flavored”, in letters not less\nthan one-half the height of the letters in the name of the characterizing flavor, e.g.,\n“artificial vanilla”, “artificially flavored strawberry”, or “grape artificially flavored”.\n(3) Wherever the name of the characterizing flavor appears on the label (other\nthan in the statement of ingredients) so conspicuously as to be easily seen under\ncustomary conditions of purchase, the words prescribed by this paragraph shall\nimmediately and conspicuously precede or follow such name, without any\nintervening written, printed, or graphic matter, except:\n(i) Where the characterizing flavor and a trademark or brand are presented\ntogether, other written, printed, or graphic matter that is a part of or is associated\nwith the trademark or brand may intervene if the required words are in such\nhttps://www.law.cornell.edu/cfr/text/21/101.22 5/9",
+      "ocr_text_length": 3070,
+      "word_count": 481,
+      "avg_confidence": 95.29,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 6,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_006.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_006.png",
+      "sha256": "da1a0d0ecf7e9c9a9bf619de461aec5e590cd9592abb131e137874b9a057ee01",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\nrelationship with the trademark or brand as to be clearly related to the\ncharacterizing flavor; and\n(ii) If the finished product contains more than one flavor subject to the\nrequirements of this paragraph, the statements required by this paragraph need\nappear only once in each statement of characterizing flavors present in such food,\ne.g., “artificially flavored vanilla and strawberry”.\n\n(iii) If the finished product contains three or more distinguishable characterizing\nflavors, or a blend of flavors with no primary recognizable flavor, the flavor may\nbe declared by an appropriately descriptive generic term in lieu of naming each\nflavor, e.g., “artificially flavored fruit punch”.\n(4) A flavor supplier shall certify, in writing, that any flavor he supplies which is\ndesignated as containing no artificial flavor does not, to the best of his knowledge\nand belief, contain any artificial flavor, and that he has added no artificial flavor to it.\nThe requirement for such certification may be satisfied by a guarantee under\nsection 303(c)(2) of the act which contains such a specific statement. A flavor user\nshall be required to make such a written certification only where he adds to or\ncombines another flavor with a flavor which has been certified by a flavor supplier\nas containing no artificial flavor, but otherwise such user may rely upon the\nsupplier's certification and need make no separate certification. All such\ncertifications shall be retained by the certifying party throughout the period in which\nthe flavor is supplied and for a minimum of three years thereafter, and shall be\nsubject to the following conditions:\n(i) The certifying party shall make such certifications available upon request at all\nreasonable hours to any duly authorized office or employee of the Food and Drug\nAdministration or any other employee acting on behalf of the Secretary of Health\nand Human Services. Such certifications are regarded by the Food and Drug\nAdministration as reports to the government and as guarantees or other\nundertakings within the meaning of section 301(h) of the act and subject the\ncertifying party to the penalties for making any false report to the government\nunder 18 U.S.C. 1001 and any false guarantee or undertaking under section 303(a)\nof the act. The defenses provided under section 303(c)(2) of the act shall be\napplicable to the certifications provided for in this section.\n(ii) Wherever possible, the Food and Drug Administration shall verify the\naccuracy of a reasonable number of certifications made pursuant to this section,\nconstituting a representative sample of such certifications, and shall not request\nall such certifications.\nhttps://www.law.cornell.edu/cfr/text/21/101.22 6/9",
+      "ocr_text_length": 2874,
+      "word_count": 446,
+      "avg_confidence": 95.43,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 7,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_007.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_007.png",
+      "sha256": "2d1562e93ea379d8a384794962b6791b5b3464502666bad7f95666f71398f5fd",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\n(iii) Where no person authorized to provide such information is reasonably\navailable at the time of inspection, the certifying party shall arrange to have such\nperson and the relevant materials and records ready for verification as soon as\npracticable: Provided, That, whenever the Food and Drug Administration has\nreason to believe that the supplier or user may utilize this period to alter\ninventories or records, such additional time shall not be permitted. Where such\nadditional time is provided, the Food and Drug Administration may require the\ncertifying party to certify that relevant inventories have not been materially\ndisturbed and relevant records have not been altered or concealed during such\nperiod.\n\n(iv) The certifying party shall provide, to an officer or representative duly\ndesignated by the Secretary, such qualitative statement of the composition of the\nflavor or product covered by the certification as may be reasonably expected to\nenable the Secretary's representatives to determine which relevant raw and\nfinished materials and flavor ingredient records are reasonably necessary to verify\nthe certifications. The examination conducted by the Secretary's representative\nshall be limited to inspection and review of inventories and ingredient records for\nthose certifications which are to be verified.\n(v) Review of flavor ingredient records shall be limited to the qualitative formula\nand shall not include the quantitative formula. The person verifying the\ncertifications may make only such notes as are necessary to enable him to verify\nsuch certification. Only such notes or such flavor ingredient records as are\nnecessary to verify such certification or to show a potential or actual violation may\nbe removed or transmitted from the certifying party's place of business:\nProvided, That, where such removal or transmittal is necessary for such purposes\nthe relevant records and notes shall be retained as separate documents in Food\nand Drug Administration files, shall not be copied in other reports, and shall not\nbe disclosed publicly other than in a judicial proceeding brought pursuant to the\nact or 18 U.S.C. 1001.\n(j) A food to which a chemical preservative(s) is added shall, except when exempt\npursuant to § 101.100 bear a label declaration stating both the common or usual\nname of the ingredient(s) and a separate description of its function, e.g.,\n“preservative”, “to retard spoilage”, “a mold inhibitor’, “to help protect flavor” or “to\npromote color retention”.\n(k) The label of a food to which any coloring has been added shall declare the\ncoloring in the statement of ingredients in the manner specified in paragraphs (k)(1)\nand (k)(2) of this section, except that colorings added to butter, cheese, and ice cream,\nhttps://www.law.cornell.edu/cfr/text/21/101.22 79",
+      "ocr_text_length": 2958,
+      "word_count": 454,
+      "avg_confidence": 95.21,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 8,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_008.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_008.png",
+      "sha256": "7268021fb749378aa9234cd92f8003b5257937b1dc346a900a7904006209065c",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\nif declared, may be declared in the manner specified in paragraph (k)(3) of this section,\nand colorings added to foods subject to 88 105.62 and 105.65 of this chapter shall be\ndeclared in accordance with the requirements of those sections.\n(1) Acolor additive or the lake of a color additive subject to certification under\n721(C) of the act shall be declared by the name of the color additive listed in the\napplicable regulation in part 74 or part 82 of this chapter, except that it is not\nnecessary to include the “FD&C” prefix or the term “No.” in the declaration, but the\nterm “Lake” shall be included in the declaration of the lake of the certified color\nadditive (e.g., Blue 1 Lake). Manufacturers may parenthetically declare an\nappropriate alternative name of the certified color additive following its common or\nusual name as specified in part 74 or part 82 of this chapter.\n(2) Color additives not subject to certification and not otherwise required by\napplicable regulations in part 73 of this chapter to be declared by their respective\ncommon or usual names may be declared as “Artificial Color,” “Artificial Color\nAdded,” or “Color Added” (or by an equally informative term that makes clear that a\ncolor additive has been used in the food). Alternatively, such color additives may be\ndeclared as “Colored with \"or\" color,” the blank to be\nfilled in with the name of the color additive listed in the applicable regulation in part\n73 of this chapter.\n(3) When a coloring has been added to butter, cheese, or ice cream, it need not be\ndeclared in the ingredient list unless such declaration is required by a regulation in\npart 73 or part 74 of this chapter to ensure safe conditions of use for the color\nadditive. Voluntary declaration of all colorings added to butter, cheese, and ice\ncream, however, is recommended.\n\n[42 FR 14308, Mar. 15, 1977, as amended at 44 FR 3963, Jan. 19, 1979; 44 FR 37220,\n\nJune 26, 1979; 54 FR 24891, June 12, 1989; 58 FR 2875, Jan. 6, 1993; 63 FR 14818, Mar.\n\n27, 1998; 74 FR 216, Jan. 5, 2009]\n\n#® CFR Toolbox\n\nLaw about... Articles from Wex\nTable of Popular Names\nhttps://www.law.cornell.edu/cfritext/21/101.22 8/9",
+      "ocr_text_length": 2307,
+      "word_count": 395,
+      "avg_confidence": 94.89,
+      "error": ""
+    },
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 9,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_009.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C5E013D8DC8A/page_009.png",
+      "sha256": "83f7b37719712b8b743d9778236db0343a040b69769e1266f81d6e76202b92ad",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "5/6/26, 6:50 PM 21 CFR § 101.22 - Foods; labeling of spices, flavorings, colorings and chemical preservatives. | Electronic Code of Federal Regulati...\nParallel Table of Authorities\na\nAccessibility\nAbout LIl\nContact us\nAdvertise here\nHelp\nTerms of use\nPrivacy\nhttps://www.law.cornell.edu/cfritext/21/101.22 9/9",
+      "ocr_text_length": 310,
+      "word_count": 42,
+      "avg_confidence": 91.02,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C5E013D8DC8A.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C5E013D8DC8A.visual_ocr.json",
+  "created_at": "2026-05-09T19:43:50"
+}

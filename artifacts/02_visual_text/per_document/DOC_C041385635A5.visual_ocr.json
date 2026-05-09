@@ -1,0 +1,52 @@
+{
+  "doc_id": "DOC_C041385635A5",
+  "file_name": "milk_fat_butterfat_explanation.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_C041385635A5.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 6929,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "eia"
+    ],
+    "ingredients": [
+      "milk",
+      "skim milk",
+      "milk fat"
+    ],
+    "supply_chain_terms": [
+      "ingredient",
+      "products",
+      "retail",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C041385635A5/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_C041385635A5/page_001.png",
+      "sha256": "4d709b2477e6b470fae92c0990b367b69158034493c58a5cb5ae29ea0f0d3c25",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "ORNS About Organic Valley ~ Products Recipes Our Farmers ~ Learn ~ Q\nAll > Food\nWhat Is Butterfat?\nby Jackie Thesing | March 10, 2023 Read Time: 5 min\nth nn. ~ = = ee A ~~ oO —— ele\na . ° a — Y | 4 = eae |\nae) +) : 7 LC) \\ meds |\nv4 — WEE ey i\nie 2 PD ‘SS 1. x is\n= i Cary i eal / |\n37 =e - — OTN Ne\nCa — am \\\na a ‘ °\nHave you ever heard the term “butterfat” when shopping for milk, cream or butter and wondered\nwhat it means? Let's dig into what butterfat is and why it matters when choosing your butter and\nmilk products.\nWhat Is the Meaning of Butterfat?\nButterfat is the natural fat that is found in milk. It's what gives dairy products like milk, cream and\nbutter their rich taste and texture. In fresh cow's milk, butterfat will rise to the top if allowed to\nsettle and will form a “cream layer” or thick layer of fat on the surface of the milk.\nThis is the fat that is separated off during milk processing to create the milk fat percentages that\nyou'll find in grocery stores. It is also the fat that is used to make butter.\nMilk, cream and butter are typically labeled and sold based on the amount of butterfat they contain.\nButterfat is not the same as butter. In the United States, all butter must be at least 80% butterfat\n(with the remaining ingredients typically water and milk solids).\nSince the butterfat is what primarily contributes to the taste and quality of the butter, the more\nbutterfat, the better the butter. Organic Valley butter exceeds the butterfat minimum and contains\n84% butterfat in salted and unsalted butter.\nMany also ask, is butterfat a dairy? Since butterfat comes from milk, the answer is yes. Butterfat does\nfall into the dairy category.\nButterfat does not contain lactose. Given the almost negligible amount of lactose in butterfat and\nbutter, people with lactose intolerances can typically consume it without a problem. Organic Valley\nalso offers Lactose-Free Milk (read more about it_here).\nIs Butterfat the Same as Milk Fat?\nThe terms butterfat and milk fat can be used interchangeably. Both refer to the natural fat found in\nmilk. Scientifically, milk fat or butterfat is mainly composed of triglycerides, which are a combination\nof glycerol and fatty acids.\nHow Much Butterfat Is in Milk?\nYou've seen the different types of milk in the grocery store, so let's dive into what those labels really\nmean. Milk is labeled with the amount of milk fat (or butterfat) it contains.\nYou will typically see skim or nonfat milk, 1% milk, 2% milk and whole milk on store shelves. For\nexample, Organic Valley Skim Milk contains 0% milk fat, while Organic Valley Reduced Fat 2% Milk\ncontains 2% milk fat. Organic Valley Whole Milk contains about 3.25% milk fat, except in California\nwhere it is 3.5%.\nButterfat in Ghee\nOrganic Valley Ghee starts off as organic, pasture-raised butter with 80 to 84% butterfat, then it is\nslowly simmered to coax out all of the excess water. What's left behind is almost all butterfat. Ghee is\nalso 100% lactose-free since even the small amounts of lactose in butter are simmered off during the\ncooking process. Learn more about ghee here.\nThe amount of butterfat in a product will contribute greatly to the overall taste and texture. Whole\nmilk is thicker and has a richer taste than skim milk. Cream products with higher fat content like heavy\ncream, if tasted on their own, might seem greasy and overly heavy due to their very high butterfat\ncontent. Organic Valley Heavy Cream has a minimum 40% butterfat which easily whips into soft\nwhipped peaks. Its rich flavor also works well as a creamer or as an ingredient in baked goods.\nWhat Determines the Amount of Butterfat\nin Milk?\nNow that we know that butterfat is the natural fat found in cows’ milk, does the milk from different\ncows have the same butterfat content? The simple answer is no.\nThe most common factors influencing the fat content in a cow's milk are the specific breed of dairy\ncow and its lineage, feeding patterns, age and the overall animal management and milking process. So,\naside from the cow's age and heritage, their milk fat content is very much influenced by how well the\ncow is taken care of.\nOrganic Valley cows are pasture-raised and brought up humanely without antibiotics. These preferred\nconditions lead the dairy cows to naturally produce milk with a higher fat content. This milk that is\nricher in butterfat can then be used to make more high-quality and flavorful dairy products like\nOrganic Valley Butter, Organic Valley Ghee and Organic Valley Whole Milk. Learn more about the happy\ncow difference here!\nUTTERE\nBM rcanic var AP\nE se.\n80% Rex\n—\n18%\n4A tH\nom\n2% e\nee\n=)\n=o\nfix ey\nFJ fix\nPa 5\nOx ey\nIs Butterfat Healthy?\nButterfat is made up of saturated fat, monounsaturated fat and polyunsaturated fat. The American\nHeart Association recommends that 5% to 6% of one’s overall calorie intake should come from\nsaturated fat. So, for a 2,000-calorie diet, one could consume 13 grams of saturated fat per day.\nWhile excessive amounts of saturated fats are not recommended as part of an everyday diet,\nfoods with a high butterfat content like butter and ghee can be enjoyed in moderation with a well-\nbalanced diet.\nFat content aside, products with high butterfat content like ghee and butter contain many vitamins\nand antioxidants that are important for one's daily diet as well. While these fats should be consumed\nin moderation, according to Web MD, they also help with the body's absorption of essential vitamins\nand minerals.\nWhy Choose Organic Dairy?\nButterfat is an important naturally occurring fat that makes its way into all dairy products. This\nimportant component comes straight from the source — raw cow's milk. With Organic Valley's happy\ncows and high standards, you can be confident that you're consuming high-quality products when\nchoosing Organic Valley.\nVisit our store locator to find Organic Valley products near you.\nBACK TO BLOG >\nRelated Articies\n/) i-¢ % a - eiaaranasitsy ¢ ae : 2\n4 % ¥ i - ALLEY\ni = — ae ™ = | - ,\na, 5 a i} \" -\npe al 2D\nHow Much Water Is Added to Milk? The Best Way to Store Cheese to How to Store Butter to Preserve [\nPreserve Flavor and... Taste, Color and Nutrients\nREAD ARTICLE >\nREAD ARTICLE > READ ARTICLE >\n1/4 y\nVIEW ALL ARTICLES »)\n~~\\\nTF bl\n“4 Wir 9 sts\n7% S80~\nee 2 Qe we =“ - f N / y, XN, | 6 Far SO oA ee\nTY die OO IY aa\nie GaN\nORNS rm 6\nemmlfo r i\nes Tena usoA\na non\nqa\nSy GON | (AC)\n© organic Valley 2026.\nAll rights reserved.\nSIGN UP FOR OUR NEWSLETTER\nEmail Address * ZIP Code\nOur Products Donations & Partner Requests Organic Logistics, LLC\nFind Products Our Certifications Farm With Us\nCareers Privacy Policy\nEducational Activities Terms & Conditions\nFAQ Accessibility Statement\nNews/Press social Community Guidelines\nRetail/ Trade Trademarks\nInvestor Relations Contact Us\nf in 9 ¢ OG\nWe use cookies to ensure you get the best experience on our website. Read our Privacy Policy x",
+      "ocr_text_length": 6889,
+      "word_count": 1253,
+      "avg_confidence": 86.15,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C041385635A5.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_C041385635A5.visual_ocr.json",
+  "created_at": "2026-05-09T19:43:18"
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "DOC_0D21678E3116",
+  "file_name": "cvs_hershey_1_55oz_price_page.pdf",
+  "packet": "retail_price_evidence",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_0D21678E3116.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 965,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "cvs"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "price"
+    ],
+    "sku_terms": [
+      "1.55 oz",
+      "milk chocolate"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0D21678E3116/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0D21678E3116/page_001.png",
+      "sha256": "958d5f6e2fa1b25d8035936f0d2039ef55928bdff354fa91528fbb64d8c4d367",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "¥CVS {a 191 CAMBRIDG... Search CVS or ask a question Q\nOpen, Closes 10:00 PM\n= Menu (ff Mother's Day — Manage prescriptions S Schedule a Vaccine Photo Coupons & Rewards WeeklyAd Extra Big Deals Shop MinuteClinic Services Wellness Zone —Oak Street Health\nHome > Shop > Grocery > Candy, Gum & Mints >» Chocolates >\nCustomers also like\nHershey's Drops Milk Chocolate Candy, Hershey's Milk Chocolate Snack Size Feastables, Milk Chocolate, 1.24 oz\n€, os ll 7.6 0z Candy, 10.35 oz $2.49\n( ) $7.79 Eg $7.59 2 for $4.00 or $2.49 ea. >\necoce\nHershey's Milk Chocolate Candy, 1.55 OZ $019 | Buy 1, get 150% off\n° or\nIe Kk Ke KK 4.8 (1249 reviews) «8 Share $1.41/oz. |\nPrices may vary from online to in store\nHow to get it\n| FH _ *\n=<\no\ncc) Pickup Same-Day Shipping\nWithin 1 hour Delivery Order within 17 hours,\na=. Enter Address get it by May 11\n° “ Available at 191 CAMBRIDGE Check more stores\nf | STREET\nFA 15 in stock | Aisle 20\na,\nv",
+      "ocr_text_length": 925,
+      "word_count": 181,
+      "avg_confidence": 78.96,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0D21678E3116.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0D21678E3116.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:28"
+}

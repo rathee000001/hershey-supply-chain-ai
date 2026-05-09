@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_A6A693D3495F",
+  "file_name": "pgpr_and_lecithin_chocolate_emulsifier_use.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_A6A693D3495F.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 1567,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "cocoa",
+      "chocolate",
+      "cocoa butter",
+      "lecithin",
+      "pgpr"
+    ],
+    "supply_chain_terms": [
+      "cost"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A6A693D3495F/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_A6A693D3495F/page_001.png",
+      "sha256": "04c19dd8641df6578470d36df2c8d7a0b95ef908e5b22f45f790102088a2f7f5",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "+> Al Overview\n\nPolyglycerol polyricinoleate (PGPR) and lecithin are commonly paired in chocolate\nproduction, where lecithin reduces yield stress (viscosity) and PGPR acts as a powerful\nflow enhancer, reducing the needed cocoa butter, cost, and bubbles. They act\nsynergistically to optimize flow, particularly in coating and molding\n\nPFOCeSsSes. | ScienceDirect.com +3\n\nKey Details on PGPR + Lecithin Use:\n\ne Synergy: While lecithin is excellent at reducing viscosity at lower shear rates, PGPR\nis more effective at reducing yield stress (the pressure needed to make chocolate\nflow), making them ideal to use together for optimized rheological properties.\n\n¢ Production Benefits: Combining these emulsifiers, typically Lecithin (E322) and\nPGPR (E476), enables chocolate to flow better into molds and reduces air bubbles.\n\ne Cost Reduction: The combination allows manufacturers to reduce the amount of\nexpensive cocoa butter needed while maintaining fluidity.\n\n¢ Typical Usage: Often found together in commercial chocolate, particularly in molded\nbars and coatings, to ensure a smooth finish and efficient processing. (~) Patecista +3\n\nSources\n\ne What Is PGPR (£476) In Chocolate? Uses, Safety Side Effects\n\ne What Exactly is PGPR? - Paleoista\n\ne Investigating the effects of Lecithin-PGPR mixture on physical ...\n\ne The Effects of Lecithin and Polyglycerol Polyricinoleate (PGPR) on ...\n\ne Why Emulsifiers in Chocolate Matter? A Brief Explanation #\n\nAl can make mistakes, so double-check responses O < mo QD :\n\nAsk anything\n\nAJ",
+      "ocr_text_length": 1527,
+      "word_count": 229,
+      "avg_confidence": 89.27,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_A6A693D3495F.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_A6A693D3495F.visual_ocr.json",
+  "created_at": "2026-05-09T19:42:20"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "DOC_9F0DF6069C86",
+  "file_name": "fda_pgpr_gras_notice_inventory_page.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_9F0DF6069C86.stage05_extraction.json",
+  "ocr_needed": false,
+  "image_count": 4,
+  "pages_ocr_attempted": 0,
+  "pages_ocr_success": 0,
+  "total_visual_ocr_text_length": 0,
+  "total_visual_ocr_chunks": 0,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_9F0DF6069C86.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_9F0DF6069C86.visual_ocr.json",
+  "created_at": "2026-05-09T19:42:03"
+}

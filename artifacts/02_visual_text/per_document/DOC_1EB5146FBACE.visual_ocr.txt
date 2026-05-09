@@ -1,0 +1,31 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
+FEDERAL RESERVE BANK of ST. LOUIS.
+FRED serch REDD. Que
+RELEASE CALENDAR TOOLSVv NEWS BLOG ABOUT v
+Home > Categories > Prices > Producer Price Indexes (PPI) > Industry Based > Transportation and Warehousing
+yy Producer Price Index by Industry: Truck Transportation (Pcu484484)
+Observations v Units: Frequency: sy | 10v | mM
+Mar 2026: 196.293 Index Dec 2003=100, Monthly 1v | | 1 | ax
+Updated: Apr 14, 2026 9:38 AM CDT Not Seasonally Adjusted 2003-12-01 |to| 2026-03-01 Download &
+Next Release Date: May 13, 2026
+FRED ~ — Producer Price index by Industry: Truck Transportation
+220
+200 | | | |
+180 | | | |
+o
+o
+3 |
+9 160
+So
+N
+Py)
+& 140 | |
+ov
+mol
+= 120
+100 | |
+80 | | | |
+2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026
+Source: U.S. Bureau of Labor Statistics via FRED®
+Shaded areas indicate U.S. recessions. rrediestiouteted or
+Notes

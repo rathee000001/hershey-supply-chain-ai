@@ -1,0 +1,42 @@
+{
+  "doc_id": "DOC_7FED8B7042EA",
+  "file_name": "usda_ams_dairy_market_news_weekly_report_latest.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_7FED8B7042EA.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 519,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "usda"
+    ],
+    "ingredients": [
+      "milk"
+    ],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7FED8B7042EA/page_020.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_7FED8B7042EA/page_020.png",
+      "sha256": "ba58f298000642af160d3434e233c1ba476cc8d8e2f0a95e498b9779e67dfa63",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "USDA Weekly Grocery Store Dairy Feature Activity Vol 93 - No. 18\n| Friday, May 1, 2026 - Page 2\nPercentage of Total Conventional Ads by Commodity\nSour Cream, 13%\nMilk, 6% ~—— Yogurt, 19%\nIce Cream, 15%\n_—— Butter, 8%\nFlavored Milk, 1%\nCream Cheese, 5%\nCottage Cheese, 2%\n——_____Cheese, 31%\nPercentage of Total Organic Ads by Commodity\n_____——-- Sour Cream, 9%\nMilk, 47% ———— ——— Yogurt, 11%\nButter, 8%\n~~. Cheese, 7%\n} \\ Cottage Cheese, 3%\nIce Cream, 10% ———— ~~ Cream Cheese, 5%",
+      "ocr_text_length": 479,
+      "word_count": 87,
+      "avg_confidence": 83.83,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_7FED8B7042EA.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_7FED8B7042EA.visual_ocr.json",
+  "created_at": "2026-05-09T19:40:11"
+}

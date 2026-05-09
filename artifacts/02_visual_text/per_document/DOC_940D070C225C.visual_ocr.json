@@ -1,0 +1,40 @@
+{
+  "doc_id": "DOC_940D070C225C",
+  "file_name": "bls_warehousing_storage_ppi_benchmark.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_940D070C225C.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 1154,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "price"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_940D070C225C/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_940D070C225C/page_001.png",
+      "sha256": "437dfbbb4da05a072fd9f4761d76a3a27fe7f865511cceb096ae0cf4b7be6f17",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "FEDERAL RESERVE BANK of ST. LOUIS.\nFRED serch REDD. Que\nRELEASE CALENDAR TOOLS NEWS ’' BLOG ABOUTVv\nHome > Categories > Prices > Producer Price Indexes (PPI) > Industry Based > Transportation and Warehousing\nyy Producer Price Index by Industry: Warehousing and Storage (Pcu49314931)\nObservations v Units: Frequency: \" 5\nregency wy | sy | 10v | Max Edit Graph @\nMar 2026: 173.792 Index Dec 2006=100, Monthly\nUpdated: Apr 14, 2026 9:38 AM CDT Not Seasonally Adjusted 2006-12-01 |to| 2026-03-01 Download &\nNext Release Date: May 13, 2026\nFRED yj —— Producer Price Index by Industry: Warehousing and Storage\n180\n170 | | | |\n160 | | | |\nS 150 | | | |\n5 ||\nSs 140\no\nN\n& 130 | | | |\n: | |\n3 120\n=\n110 | | | |\n100\nol_| |\n2008 2010 2012 2014 2016 2018 2020 2022 2024 2026\nSource: U.S. Bureau of Labor Statistics via FRED®\nShaded areas indicate U.S. recessions. fred.stlouisfed.ora | Fullscreen 3\nA we \" n yoy v *\n: || |\n3 120\n£\n110 | | | |\n100\n»|_| |\n2008 2010 2012 2014 2016 2018 2020 2022 2024 2026\nSource: U.S. Bureau of Labor Statistics via FRED®\nShaded areas indicate U.S. recessions. fred.stlouisfed.orq | Fullscreen?",
+      "ocr_text_length": 1114,
+      "word_count": 217,
+      "avg_confidence": 82.02,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_940D070C225C.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_940D070C225C.visual_ocr.json",
+  "created_at": "2026-05-09T19:42:03"
+}

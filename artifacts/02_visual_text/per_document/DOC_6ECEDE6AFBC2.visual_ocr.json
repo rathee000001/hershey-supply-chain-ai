@@ -1,0 +1,55 @@
+{
+  "doc_id": "DOC_6ECEDE6AFBC2",
+  "file_name": "epa_hershey_land_o_lakes_pa_dairy_farms_2m_commitment.pdf",
+  "packet": "dairy_milk_skim_milk_milk_fat",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_6ECEDE6AFBC2.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 5969,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "land o'lakes",
+      "target",
+      "usda"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "sustainability",
+      "sustainable",
+      "price",
+      "cost",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": [
+      "milk chocolate"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_6ECEDE6AFBC2/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_6ECEDE6AFBC2/page_001.png",
+      "sha256": "09b006005fb4ee27c29f9ca0dda4c846be6d9d9e855c0e23e1c7093589d27305",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "(2) AGRICULTUREDIVE _Deep Dive Q\nCrops Meat Dairy Technology Sustainability Regulations Farming&Climate Supply Chain Operations\nAgriculture Dive will stop publishing on Feb. 1, 2025. We appreciate your readership and hope to provide you with valuable coverage from one of our other x\npublications. Read more from our team.\nDIVE BRIEF\ne e\nEPA and Hershey invest $2M for dairy —\nsustainability at Land O'Lakes farms Get the free newsletter\nSubscribe to Agriculture Dive for top\nThe commitment expands on the group’s goals to support a more eco-friendly supply news, trends & analysis\nchain for Hershey's milk chocolate.\nWork email address\nPublished Aug. 25, 2023\niB Nathan Owens @ Share §&§ Add us on Google\nReporter\nLIBRARY RESOURCES\nPLAYBOOK\nait ie iB How To Adopt a Proactive\n5 Approach to Risk During\n| \\ Expansion\nJ : 1 Custom content for Allianz Trade\ny WEBINAR - ON DEMAND\n| a Ny ©) Boost Crop Yields and Cut Crop\nE 5 i b 5 } | | tor { Losses with Visual AI for\nsrBergier—\\wepe gee j) bo ire pw | Lana = —s Precision Agriculture\n: 4 ¥ Custom content for Dell Technologies\nel The Agriculture Dive Outlook on\nCows eating at a Land O'Lakes dairy farm in Pennsylvania Courtesy of EPA\nView all\nP Listen to the article 3 min\nDive Brief:\nWHAT WE’RE READING\ne The U.S. Environmental Protection Agency and the Hershey Company\nannounced on Tuesday they are committing $2 million to help Land @ sLoomserc\nO'Lakes dairy farms in Pennsylvania transition to more sustainable Trump’s California Water Order Does\npractices. More for Farms Than Fires 3\ne Each party has agreed to allocate $1 million to support the Alliance for @ CINCINNATI ENQUIRER\nthe Chesapeake Bay’s work in promoting the adoption and Black farmers’ heirs challenge USDA\nimplementation of agricultural conservation practices on Land payments at federal appeals court in\nO'Lakes’ eastern region milk shed. Cincinnati\ne The funds will provide farmers with the technical expertise to improve AP THE ASSOCIATED PRESS\nwater and soil quality, as well as reduce the environmental impacts of A food bank netted a huge haul of\ntheir dairy operations, according to the release. It is part of a larger 13,000 fresh salmon. The catch? The\n: . : : fish were still alive 4\neffort to support a more sustainable, climate-friendly dairy supply\nchain for Hershey’s milk chocolate. View all\nDive Insight:\nEVENTS\nThe collaboration seeks to address some of the high costs that come\nalong with transitioning to more sustainable farming practices, which View all\nremains one of the biggest hurdles for farmers looking to go green.\n“This effort is helping to create a paradigm shift in which an entire\nsupply chain works together to support work on the ground rather than\nfarmers being expected to carry the load alone,” Jenna Mitchell Beckett,\nagriculture program director at the Alliance for the Chesapeake Bay, said\nin a statement.\nThe Alliance for the Chesapeake Bay, Hershey and Land O'Lakes have\nworked together since 2021 on their initiative called “Sustainable Dairy\nPA,” to support the reduction of greenhouse gas emissions and help\nimprove water quality in the Chesapeake Bay watershed.\nThe collective initially worked with 119 farms in central Pennsylvania\nthat ship more than 50% or more of their milk supply to Hershey. The\ninitiative has the potential to reach more than 400 farms as funding and\nsupport grows.\n“We are proud to support the work of Sustainable Dairy PA and the\nfarmers participating as they drive meaningful impact on clean water and\nconservation efforts to protect the Chesapeake Bay,” Leigh Horner, chief\nsustainability officer at Hershey, said in a statement.\nThrough its collaboration with Land O'Lakes, Hershey began piloting last\nyear a methane-reducing feed additive to reduce greenhouse emissions,\naccording to a 2022 ESG report. The chocolate maker also planted more\nthan 3,000 trees as a riparian buffer to prevent thousands of pounds of\nsediment, nitrogen and phosphorus from entering the streams of\nChesapeake Bay.\nEfforts to restore the waterways have been “more challenging than\nexpected,” however, due in part to massive nutrient imbalances\nstemming from intensive agriculture operations that raise poultry, pork\nand dairy cows, according to a May report from a Chesapeake Bay\nadvisory group.\nfA AddusonGoogle # Share\nFiled Under: Dairy,_ Sustainability\ne e e il\nAgriculture Dive news delivered . pany OVE\nto your inbox foc enn\ncomoression, survey Anas\nGet the free daily newsletter read by industry experts =a\nWork email address fevaderepladnts\nEDITORS’ PICKS LATEST IN DAIRY\n. = Here are the farm expenses that Zeldin is confirmed as the\n. . new EPA administrator.\nincreased the most in 2024 What's next?\nWhile prices of feed, fertilizer and pesticides are By Megan Quinn and Jacob Wallace\nexpected to decline, farmers are forecast to spend\nmore on labor and taxes. Trump freeze on federal\nBy Nathan Owens « Dec. 11, 2024 grants and loans sparks\nconfusion in agriculture\nBy Justin Bachman and Sarah Zimmerman\nFarmers are getting less for\ntheir crops. Here’s the full . Trump's agriculture secretary\n4 nominee lays out ‘day one\nbreakdown. | priorities for USDA\nWhile prices in July were sharply lower compared to By Sarah Zimmerman\na year ago for most commodities, meat and dairy\nproducers benefited from lower supply. — Agriculture Dive to stop\nBy Sarah Zimmerman « Sept. 5. 2024 ve publishing\nBy Davide Savenije\n62) AGRICULTURE DIVE EXPLORE REACH OUR AUDIENCE RELATED PUBLICATIONS\nAbout Food Dive\nin a x » Editorial Team Grocery Dive\nContact Us Supply Chain Dive\nNewsletter\nWhat We're Reading\nx. This website is owned and operated by Informa Techlarget, a global network that informs, influences and connects the\n© informa techtarget world’s technology buyers and sellers.\n© 2025 TechTarget, Inc. or its subsidiaries. All rights reserved. An Informa PLC company.\nPrivacy policy | Terms of use | Take down policy | Cookie Preferences / Do Not Sell",
+      "ocr_text_length": 5929,
+      "word_count": 982,
+      "avg_confidence": 89.85,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_6ECEDE6AFBC2.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_6ECEDE6AFBC2.visual_ocr.json",
+  "created_at": "2026-05-09T19:39:26"
+}

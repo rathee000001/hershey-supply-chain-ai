@@ -1,0 +1,56 @@
+{
+  "doc_id": "DOC_1E80FF9B816E",
+  "file_name": "icco_processing_cocoa_page.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_1E80FF9B816E.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 7681,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "target",
+      "icco"
+    ],
+    "ingredients": [
+      "sugar",
+      "cocoa",
+      "chocolate",
+      "cocoa butter",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "ingredient",
+      "products",
+      "cost",
+      "market",
+      "farm"
+    ],
+    "sku_terms": [
+      "milk chocolate",
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1E80FF9B816E/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1E80FF9B816E/page_001.png",
+      "sha256": "a4ded6205c4b11f180ec406750eddd38d4d68cf1d44f6a22e52ff1b323af6fbb",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Consultative Board area © Member area Myaccount Contact in X @& © =&\nTy\n\n(acco) Home Whoweare Statistics | Economy Projects AboutCocoa Events&Documentation Shop News Q\nProcessing Cocoa You are here: Home / Processing Cocoa\nSummary of the process of transforming cocoa beans into chocolate ———___L\n1. Harvesting/Cleaning 6. Nibs grinding\nAs with many other tropical crops, the cocoa harvest is spread over several months, usually Nibs grinding has seen many advances in the last half of the 20th century. Before liquor mills,\nwith a major peak and a minor peak of pod ripeness/harvesting. one method of grinding nibs was mixing nibs with granulated sugar and placing the mixture in\n\na mélangeur. This process yielded a material with consistency ranging from a paste to a fluid.\n\nCareful removal of the pods from the trees with a knife is required to avoid damage to the\nflower cushions. 7. Alkalization\nAfter inspecting and conducting the necessary tests to ensure compliance with international The alkalizing process is optionally applied to modify the flavour and colour of chocolate\nstandards and regulatory requirements, the cocoa beans cleaning process takes place. liquors and cocoa powders. It is also known as Dutch processing. The process consists in\nmixing the selected cocoa material (cocoa cake, nibs or cocoa liquor) with an aqueous\nThe inside of an undamaged cocoa bean is clean in all respects (removal of foreign material .\nsolution of a specific alkaline compound and mixing at elevated temperatures and possibly\nranging from machete blades to shotgun shells), and will remain so as long as it is stored\n- increased pressures.\nproperly and is not mixed with contaminated materials not completely removed during\ncleaning or subsequent steps downstream. Common alkaline compounds are potassium carbonate, calcium carbonate and sodium\n. hydroxide. The resulting product colour ranges from light red to charcoal black.\n2. Fermentation\n8. Liquor pressing\nChocolate flavour is developed in two parts: the first is on the farm through correct\nfermentation of the wet beans by the grower, and the second by the processor in the factory Typically, the separation or pressing process begins by pumping hot cocoa liquor (200\nat the roasting step. Good chocolate flavour cannot be produced by adhering to only one of degrees Celsius) into a horizontal hydraulic press with operating pressures of up to 550 bars.\nthese stages. . . .\nThe cocoa cake formed from this pressing operation is then broken and milled to specified\nIn the initial stages of fermentation, much of the pulp drains away and sometime between 36 particle sizes as determined by end use.\nand 72 hours the beans are fermented. The processes of flavour development are complex, —\n. 9. Cocoa grinding\nand still quite poorly understood, though good progress has been made recently through the\nuse of expert analytical and sensory evaluation (flavour profiling) techniques. Before grinding of the pressed cocoa cake can begin, it must go through a series of cooling\n3. yi steps. The hammer mill and disc mill are the common mill being used by the industry and a\n. Dyin,\nying classifier is usually included as part of the system to improve grinding efficiency.\nAfter fermentation, the moisture content of the beans needs to be reduced from 55% to 7.5%\n. In reality, the term grinding is misleading. The particle size of the finished powder is\n- an appropriate moisture content for secure storage of cocoa for a couple of months in the -\n. dependent upon the particle size of the cocoa liquor pressed. Commonly used mills do not\ntropics. Smallholders lay the wet beans on raised bamboo mats or, less satisfactorily (for\nreduce the particle size of the cake; instead they tend to break up agglomerates.\nhygiene considerations), on concrete platforms on the ground in the villages.\nIt must also be mentioned that cocoa powder must be tempered. This is a sort of controlled\nThe duration of the drying step depends on the weather, but it is unusual for sun-drying in 7 . P P\ncooling operation during which the powder is held at specified temperatures for\nWest Africa, for example to be completed in less than a week. .\npredetermined times to allow for the cocoa butter to form into a stable crystal configuration.\n4. Roasting The powder should then be stored properly if it is to maintain its colour and remain soft and\nin a flowable state.\nRoasting cocoa beans can be described as an individual process. While all manufacturers have\na similar goal of making products efficiently, the flavour objectives for cocoa liquors usually 10. Cocoa butter\ndiffer from company to company and from country to country. . .\nThe other product obtained from pressing cocoa liquor is cocoa butter. This is the most\nTherefore, the flavour target is a key factor in determining the type and blend of cocoa beans expensive of the major ingredients in a chocolate recipe.\nto be processed, whether to roast whole beans or nibs, the type of roasting equipment and .\n. Cocoa butter colour can be an excellent indicator of potential problems. For example,\nthe roasting parameters employed. -\nshipments that are dark brown rather than golden in colour warrant further testing. It can\nIn a nutshell, there is not a right or wrong roast level nor is there a correct or incorrect way to indicate improper handling during processing and storage.\nobtain the target roast level. The correct way to roast and the proper roast level is the process .\n. . . ; ; 11. Chocolate manufacturing\nwhich provides nibs in an efficient and cost-effective manner with the chosen flavour system\nand yields products meeting consumer needs in a specified market. Cocoa liquor, cocoa butter and sugar are the three major ingredients required to produce the\n. . various types of chocolate found throughout the world.\n5. Winnowing\n. . Overall, the manufacturing of chocolate is divided into four areas:\nWinnowing, cracking, fanning and hulling are some of the terms and phrases which describe\nthe separation of the shell (hull) and meat of the bean (nib). It is a process where obtaining a © Batching, which is the combining of cocoa liquor, sugar or sweeteners, milk powder (if a\nclean separation of the two components is driven by economics, product integrity and, in milk chocolate), cocoa butter and non-volatile flavouring materials as specified by a recipe\nmany countries, government regulation. or formula.\n\n© The particle reduction of chocolate ingredients is required to produce the smooth\nproduct most consumers expect.\n\n*® Conching is a complex process that has been, and continues to be studied in great detail\nin an effort to fully understand changes (particularly in the flavour of chocolate) that occur\nin chocolate during this process\n\n© Standardization which is the step where the viscosity of the chocolate is adjusted with the\naddition of fats, usually cocoa butter, and emulsifiers. Volatile flavouring materials may\nalso added at this point.\n\n.— 00:00) 01:02 mi)\nINFORMATIONS CONTACT Latest news Follow Sy) Subscribe\non X BOD 22 RSS Feed\nHe International Cocoa Organization ICCO Secretariat February 2026 Quarterly Bulletin of Cocoa\nS an inter-gove! enta International Cocoa Organization Statistics\nganization established in 19 er CCO Building - I Plateaux - Vallon Search on the website\nNA - Avenue Boga Dot\noperating within the framework of - United Nations Cocoa Conference 2026 - Fa |\nsuccessive Internationa 5 PERO ADIOS Geneva, Switzerland\nCote d'ivoire\ncay. a5 se op ook 970 World cocoa bean stocks for the 2024/25,\na season\nE-mail: info@icco.org\nAdd International Cocoa Organization to your Homescreen! °",
+      "ocr_text_length": 7641,
+      "word_count": 1259,
+      "avg_confidence": 90.96,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1E80FF9B816E.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1E80FF9B816E.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:13"
+}

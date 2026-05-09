@@ -1,0 +1,49 @@
+{
+  "doc_id": "DOC_0DD09547ACD4",
+  "file_name": "natural_flavor_extraction_distillation_fermentation_explanation.pdf",
+  "packet": "natural_flavor",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_0DD09547ACD4.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2742,
+  "total_visual_ocr_chunks": 2,
+  "visual_signal_hits": {
+    "companies": [
+      "usda",
+      "fda"
+    ],
+    "ingredients": [
+      "cocoa",
+      "natural flavor"
+    ],
+    "supply_chain_terms": [
+      "ingredient",
+      "products"
+    ],
+    "sku_terms": [
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0DD09547ACD4/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0DD09547ACD4/page_001.png",
+      "sha256": "e1e79a5328ef3f4cd3ef4e2bbec633519b9c6c8c9e6405dc22d2335aaa52005e",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "ca Al Overview\n\nNatural flavors are derived from natural sources— plants, animals, spices, fruits,\n\nvegetables, roots, or fermentation products —and are isolated through physical,\n\nenzymatic, or microbiological processes, according to FDA regulations. These\n\nprocesses include extraction, distillation, and fermentation, which concentrate flavor\n\ncompounds. ® Rip Van +2\n\nHere are the key sources and methods based on industry documentation:\n\n1. Extraction Methods\n\nExtraction uses solvents to dissolve and pull out flavor compounds from natural\n\nsources. ® Rip Van\n\ne Solvent Extraction: Involves soaking natural materials in water, alcohol, or other\nsolvents to create concentrated extracts, such as vanilla extract from vanilla beans.\n\ne Cold Pressing: Primarily used for citrus fruits, this mechanical process crushes\npeels to release essential oils.\n\ne Enzymatic Extraction: Enzymes (e.g., #-glucosidase) are used to develop intense\naromas from sources like cherry or almond kernels.\n\ne Supercritical Fluid Extraction: A modern, eco-friendly method, often using CO},\nto extract flavors without leaving residual solvents.\n\ne Sonication: Uses sound pressure to disrupt cell walls and increase the release of\nflavor components. © Rip Van +5\n\n2. Distillation Methods\n\nDistillation separates compounds based on boiling points to isolate volatile aromatic\n\ncompounds. ® Rip Van\n\ne Steam/Hydro Distillation: Plant material is heated with steam, causing essential\noils to release and then condense into a concentrated form (e.g., peppermint oil).\n\ne Fractional Distillation: Used to further isolate specific components from a raw\nextract, such as isolating vanillin from vanilla extract. © Rip Van +2\n\n3. Fermentation & Biological Processes\n\nMicroorganisms are used to transform raw ingredients into complex flavor\n\ncompounds. ® Rip Van\n\ne Microbial Fermentation: Bacteria, yeast, or fungi are used to convert\ncarbohydrates, lipids, and proteins into, for example, dairy-like, fruity, or nutty\nflavors.\n\ne Roasting/Heating: Natural materials are heated to create complex, savory, or\nsweet flavor profiles (e.g., cocoa or coffee extracts). ® PubMed Central (PMC) (.gov) +4\n\nNatural Source Material Categories\n\nNatural flavors are derived from the following sources, as outlined in USDA and FDA\n\nregulations: @\n\ne Botanicals: Fruits, vegetables, herbs, roots, bark, and buds.\n\ne Animal Products: Meat, seafood, poultry, eggs, and dairy products.\n\ne Microorganisms: Edible yeast and other fermenting agents. » Beck Flavors +4\n\nFor more specific information on the legal definitions, you can consult the USDA Policy\n\nMemo 11-1 on Natural Flavors. @\n\nAl can make mistakes, so double-check responses O <a > cp :",
+      "ocr_text_length": 2702,
+      "word_count": 391,
+      "avg_confidence": 92.7,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0DD09547ACD4.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0DD09547ACD4.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:32"
+}

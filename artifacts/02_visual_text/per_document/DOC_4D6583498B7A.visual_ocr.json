@@ -1,0 +1,55 @@
+{
+  "doc_id": "DOC_4D6583498B7A",
+  "file_name": "target_hershey_1_55oz_price_page.pdf",
+  "packet": "retail_price_evidence",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_4D6583498B7A.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 1493,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "target"
+    ],
+    "ingredients": [
+      "sugar",
+      "cocoa",
+      "chocolate",
+      "cocoa butter",
+      "milk",
+      "milk fat",
+      "lecithin",
+      "pgpr"
+    ],
+    "supply_chain_terms": [
+      "ingredient"
+    ],
+    "sku_terms": [
+      "milk chocolate",
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_4D6583498B7A/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_4D6583498B7A/page_001.png",
+      "sha256": "c1e1472882f4c02c067e5909e17e440c292fe845336282ab89bf9650285f8b3d",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "© Categories Deals Pickup & delivery hershey chocolate ba... > u Q (Q) Account =!\nTarget > Grocery > Candy > Chocolate > Chocolate Bars\n_ Shop all HERSHEY'S\n(47) .\neo) Hershey's Milk Chocolate Candy Bar - 1.550z\nte te tk ok Ye 3450 Vv\n$1 .99 ($1.28/ounce) @\nAa 4 Lo}\n_ = Pickup Delivery Shipping\nReady within 2 hours Check availability Arrives by Sat, May 9\nPick up at Nashua Check other stores\nReady within 2 hours for pickup inside the store\nmilk chocolate (ov tv) oman\n1 B AR ( Sign in to buy now )\n: tim Free & easy returns\n2 $0 Return this Item by mail or in store within 90 days for a full refund.\n= Eligible for registries and wish lists ( Sign in)\n~ F Addtolist\n— | Save 5% every day O\nWith Target Circle Card\nShop all HERSHEY'S - .\nes Hershey's Milk Chocolate Candy Bar - 1.5502 $1.99 ($1.28/0unce) ( Qty 1 v )\nte te oe & He 3450 v —\n4 ~ witn Allin On Oraers Over SDU ~\nCS Lf\nNI | | | Ata glance\na MILK CHOCOLATE\n= (cr) Gluten Free\na mal BP\na milk chocolate ay” .\nws i\nARES. |\na\n( Show more images }\nAbout this item\nDetails Vv\nLabel info “A\nServing Size: 43.0 g Ingredients:\nServing Per Container: 1 Milk Chocolate (Sugar, Milk, Chocolate, Cocoa Butter, Milk Fat, Lecithin (Soy), Pgpr, Natural\nAmount: Flavor)\nCalorles: 210\n% Dally Value* Allergens & Warnings:\nCONTAINS: MILK, SOY.\nTotal Fat 13g 17%\nSaturated Fat 8g 40%\nTrans Fat 0g\nCholesterol 10mg 3%\nSodium 35mg 2%\n(Show all nutritional info )\nSpecifications Vv\nShipping & Returns Vv\nQ&A Vv",
+      "ocr_text_length": 1453,
+      "word_count": 290,
+      "avg_confidence": 80.11,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_4D6583498B7A.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_4D6583498B7A.visual_ocr.json",
+  "created_at": "2026-05-09T19:38:32"
+}

@@ -1,0 +1,50 @@
+{
+  "doc_id": "DOC_71BF5D9AF123",
+  "file_name": "barry_callebaut_hershey_supply_agreement_page.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_71BF5D9AF123.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 4221,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "barry callebaut"
+    ],
+    "ingredients": [
+      "cocoa",
+      "chocolate"
+    ],
+    "supply_chain_terms": [
+      "sourcing",
+      "sustainability",
+      "sustainable",
+      "products",
+      "farm"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71BF5D9AF123/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_71BF5D9AF123/page_001.png",
+      "sha256": "bb20048a968d6d0433b252e6dbde5d6a8ebae7ff8b48e40d0c8d20330173ef57",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "® My Barry Callebaut Careers Contact B= United States - English Q\n| BARRY (()) CALLEBAUT | Products Segments Services Brands Trends & Insights Sustainability v About Us v\nf > About Us > Media > News & Stories\n; oy\n.\nox A OS a ihe 1 Pa\neae ee 08 » ‘ .\ny fat ne “ _—_—— Le \"\nHershey and Barry Callebaut extend te ail\nstrategic supply agreement Mae\nSeptember 2, 2021 BR 3 é 2 “a a\nPress Release sy 4 ; 4 ; ll ee\n- ~~ — >, - Gee\nCompany Information Financial Information Expansion ¢ ’ . Fr. . — °\nBarry Callebaut to continue to supply Liquid chocolate and finished\nproducts to Hershey in North America under renewed long-term\nagreement\nToday, The Hershey Company (NYSE: HSY), an industry-leading snacks company\nknown for bringing goodness to the world through its iconic brands, and Barry\nCallebaut, the world's leading manufacturer of high-quality chocolate and cocoa\nproducts, announced the extension of their strategic supply partnership originally ;\nsigned in 2007. Under the extension agreement, Barry Callebaut will continue to gad\nsupply Hershey's North American business with liquid chocolate and finished\nproducts. The renewed agreement will enable both companies to continue to drive\nstrategic, long-term growth in North America.\n“We are pleased to extend our strategic relationship with Barry\nCallebaut, who has been a key partner to our business for many years,\nand we look forward to their support of our continued sustainable growth\nin high-quality chocolate products. ”\nTricia Brannigan, VP of Procurement for The Hershey Company\n“The extension of the long-term supply partnership with Hershey\nunderscores how Barry Callebaut’s reliability and premium chocolate\nexpertise make it the partner of choice for leading industry players. ”\nSteve Woolley, President & CEO Americas of Barry Callebaut\nBarry Callebaut supplies products to Hershey across the United States, Canada and Mexico.\nPress Release - English RZ\n8 Press Release - German v\n©) Press Release - French RZ\ne\nMedia Assets\nA RS A\nAbout Barry Callebaut Group:\nWith annual sales of about CHF 6.9 billion (EUR 6.4 billion / USD 7.11 billion) in fiscal year 2019/20, the Zurich- based\nBarry Callebaut Group is the world's leading manufacturer of high-quality chocolate and cocoa products - from\nsourcing and processing cocoa beans to producing the finest chocolates, including chocolate fillings, decorations\nand compounds. The Group runs more than 60 production facilities worldwide and employs a diverse and dedicated\nglobal workforce of more than 12,000 people.\nThe Barry Callebaut Group serves the entire food industry, from industrial food manufacturers to artisanal and\nprofessional users of chocolate, such as chocolatiers, pastry chefs, bakers, hotels, restaurants or caterers. The\nglobal brands catering to the specific needs of these Gourmet customers are Callebaut* and Cacao Barry”, Carma®*\nand the decorations specialist Mona Lisa’.\nThe Barry Callebaut Group is committed to make sustainable chocolate the norm by 2025 to help ensure future\nsupplies of cocoa and improve farmer livelihoods. It supports the Cocoa Horizons Foundation in its goal to shape a\nsustainable cocoa and chocolate future.\nGet in Touch\nYour Barry Callebaut Group contacts Barry Callebaut Head Office\nBarry Callebaut AG (Head Office)\n2 = < 2 = < Hardturmstrasse 181\n8005 Zurich\n. . . Switzerland\nInvestor Relations Media Relations\nTelephone: +4143 204 04 04\nContact our Investor Relations team Contact our Media Relations team\nContact\n—\nImportant links Products Segments Account & settings\nBrands Chocolate Confectionery 2) My Barry Callebaut\nTrends & Insights Chips & Chunks Bakery & Pastry Subscribe to newsletter\nSustainability Cocoa Dairy & Drinks 22 United States - English\nCareers Cacaofruit Ice Cream & Desserts\nContact Fillings\nServices\nReport a concern Coatings\nTrends, Co-creation and\nNuts Ra\nInspiration\nD ti & inclusi\necorations & inclusions Technical and R&D\nFood colorants .\nSourcing\nP lisati heet:\nersonalisation sheets Chocolate Academy\nView All\nad Sustainable Choices Support\nhie w\n© 2026 Barry Callebaut all rights reserved Responsible Disclosure Policy Legal information Privacy & cookie policy | Cookie settings",
+      "ocr_text_length": 4181,
+      "word_count": 668,
+      "avg_confidence": 86.18,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_71BF5D9AF123.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_71BF5D9AF123.visual_ocr.json",
+  "created_at": "2026-05-09T19:39:32"
+}

@@ -1,0 +1,38 @@
+{
+  "doc_id": "DOC_D7D512504DFA",
+  "file_name": "hershey unwrapped.png",
+  "packet": "product_sku_1_55oz",
+  "document_type": "image_or_logo",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_D7D512504DFA.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 0,
+  "total_visual_ocr_chunks": 0,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "image_or_logo_asset",
+      "page_number": null,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_D7D512504DFA/hershey unwrapped.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_D7D512504DFA/hershey unwrapped.png",
+      "sha256": "ce20a334255b65bcb26c792b6b86a3802b216edbd54b0f097bd77742bf83abef",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "",
+      "ocr_text_length": 0,
+      "word_count": 0,
+      "avg_confidence": null,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_D7D512504DFA.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_D7D512504DFA.visual_ocr.json",
+  "created_at": "2026-05-09T19:46:10"
+}

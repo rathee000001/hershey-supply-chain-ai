@@ -1,0 +1,40 @@
+{
+  "doc_id": "DOC_AB943BE3F9BC",
+  "file_name": "hershey_company_logo.png",
+  "packet": "brand_logo_assets",
+  "document_type": "image_or_logo",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_AB943BE3F9BC.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 66,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "image_or_logo_asset",
+      "page_number": null,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_AB943BE3F9BC/hershey_company_logo.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_AB943BE3F9BC/hershey_company_logo.png",
+      "sha256": "2c7a7b99cb8123f49ec9ddeb4929b834df3a610e8a09d165fbac38ac7177d2c4",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "—",
+      "ocr_text_length": 1,
+      "word_count": 1,
+      "avg_confidence": 14.0,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_AB943BE3F9BC.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_AB943BE3F9BC.visual_ocr.json",
+  "created_at": "2026-05-09T19:42:21"
+}

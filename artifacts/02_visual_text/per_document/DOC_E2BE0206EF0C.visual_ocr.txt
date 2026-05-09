@@ -1,0 +1,58 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
+—
+el al
+
+USDA Agricultural Marketing Service
+MSU .S. DEPARTMENT OF AGRICULTURE a .
+Calculating a ,
+Class IV Price a4
+
+Commodity Make Allowance Yield
+
+1.211
+Butter $0.2272 — .
+. — (Ib butter/ Butterfat Price ($/lb)
+
+4 | Price ($/lb) ($/lb) | X Ib butterfat) —
+
+Commodity Make Allowance Yield
+
+Nonfat 0.99
+
+? Dry Milk = ane X (lb NFDM/ =m Nonfat Solids Price ($/lb)
+Price ($/lb) lb nonfat solids)
+Calculated in Step 2 Yield
+
+Nonfat Solids 9.0 (lb nonfat solids/ o_—
+
+3 Price ($/lb) X cwt skim) aa Class IV Skim Milk Price ($/cwt)
+Calculated in Step 3 Yield Calculated in Step 1 Yield
+Class IV 0.965 3.5 Class IV
+4. Skim Mitk JK (cwtskim/ | mf Price (ib) X = (iobutterfay | “= Price
+Price ($/cwt) cwt milk) cwt milk) ($/cwt)
+Page 1 of 2
+
+--- VISUAL OCR PAGE 2: page_002.png ---
+Calculating Cl
+alculating Class “"%
+IV Price: Details Ss
+, y
+>
+Monthly commodity prices are announced on or before the 5th day of the following month.
+Class prices are announced as dollars per hundredweight. CWT = hundredweight, 100 pounds.
+Formula Details
+$0.2272 = Manufacturing cost to produce 1 pound of butter, excluding cost of raw milk ($/Ib).
+1.211 = Factor representing pounds of butter that can be made from 1 pound of butterfat (lb butter/Ib butterfat).
+$0.2393 = Manufacturing cost to produce 1 pound of NFDM, excluding cost of raw milk ($/lb).
+0.99 = Factor representing pounds of NFDM that can be made from 1 pound of nonfat solids
+(lb NFDM/lb nonfat solids).
+9.0 = Factor representing pounds of nonfat solids found in a standard 100 pounds of skim milk
+(Ib nonfat solids/cwt skim).
+0.965 = 96.5 pounds of skim in 100 pounds of milk (cwt skim/cwt milk).
+3.5 = 3.5 pounds of butterfat in 100 pounds of milk (Ib butterfat/cwt milk).
+For more information on the Price Formulas, visit
+www.ams.usda.gov/resources/price-formulas
+For more information on Advanced Prices & Pricing Factors and Class & Component Prices,
+visit WwWw.ams.usda.gov/rules-regulations/mmr/dmr
+Agricultural Marketing Service, June 2025.
+USDA is an equal opportunity employer, provider and lender.

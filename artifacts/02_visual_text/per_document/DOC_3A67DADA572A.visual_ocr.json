@@ -1,0 +1,38 @@
+{
+  "doc_id": "DOC_3A67DADA572A",
+  "file_name": "barry_callebaut_annual_report_or_full_year_results_2024_25.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_3A67DADA572A.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 131,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3A67DADA572A/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_3A67DADA572A/page_001.png",
+      "sha256": "a404b4bb420eeca48988e86f66c8a7a4c91555d48cadfa9aca9d300b426736e0",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": ": V\non f 1 t ‘\nNS j ‘ 4 me BN rane 5 ) a 4 % ie fs Lg WN a ey j\nvohite yo SS EN BP Ne > ENN",
+      "ocr_text_length": 91,
+      "word_count": 34,
+      "avg_confidence": 36.06,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3A67DADA572A.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_3A67DADA572A.visual_ocr.json",
+  "created_at": "2026-05-09T19:37:36"
+}

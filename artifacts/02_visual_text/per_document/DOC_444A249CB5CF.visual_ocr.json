@@ -1,0 +1,38 @@
+{
+  "doc_id": "DOC_444A249CB5CF",
+  "file_name": "barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_444A249CB5CF.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 145,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_444A249CB5CF/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_444A249CB5CF/page_001.png",
+      "sha256": "74fd2fe620ee8c8cb9992776189aa4f30c2bae1ed29a04a2bc1c8a5400a2053f",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "BARRY ((}) CALLEBAUT\n| \\ iM. ae Cais\nER / » A CS + TO. FPA 2024/25\nRae get - = a\n—.: ‘y ss \"a ° +\nop as '",
+      "ocr_text_length": 105,
+      "word_count": 31,
+      "avg_confidence": 39.42,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_444A249CB5CF.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_444A249CB5CF.visual_ocr.json",
+  "created_at": "2026-05-09T19:38:15"
+}

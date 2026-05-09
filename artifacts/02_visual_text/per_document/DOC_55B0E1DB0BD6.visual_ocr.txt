@@ -1,0 +1,54 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
++> Al Overview
+
+Acommon carrier is a transportation company, such as a trucking line or railroad, that
+offers shipping services to the general public for a fee. They typically specialize in Less-
+Than-Truckload (LTL) freight, consolidating smaller shipments from multiple customers to
+offer lower, scheduled rates. Common carriers operate on set routes, adhere to strict
+regulations, and are legally required to serve any shipper who pays their
+
+fates. @& Freightquote +3
+
+Key Features of Common Carriers
+
+e Public Service: They are available to any person or business, unlike private or
+contract carriers that serve specific clients.
+
+e Regulations: Must have an MC (Motor Carrier) number and DOT (Department of
+Transportation) number to operate legally, often requiring at least $750k in liability
+insurance.
+
+e Operation Method: They frequently use a "hub-and-spoke" model, where freight is
+moved between regional hubs, increasing handling but allowing for cost-effective
+transport of smaller loads.
+
+e Rates and Scheduling: Rates and routes are typically published and
+standardized. « Wikipedia +3
+
+Common Carrier vs. Other Carrier Types
+
+e Contract Carrier: Transports goods only for specific clients under contract, whereas
+common carriers serve the public.
+
+e Private Carrier: A company that owns its own trucks to transport its own goods.
+
+e Freight Forwarder: Arranges transportation but usually does not move the goods
+themselves; they contract with common carriers to do the transport. »© Wikipedia +4
+
+Benefits and Limitations
+
+¢ Benefits: Cost-effective for small shipments (LTL),J~iZ (broad) accessibility, and high
+dependability.
+
+e Limitations: Increased touchpoints in a hub-and-spoke system can raise the risk of
+damage or lost freight. s% Freightquote +2
+
+Typical Use Case
+
+A manufacturer using a common carrier to move a few pallets of goods to various
+retailers. The carrier picks up the goods, takes them to a local terminal, loads them onto
+a larger trailer with other shippers' goods, and delivers them via a set
+
+route. & Freightquote +4
+
+Al can make mistakes, so double-check responses O aa > Cp :

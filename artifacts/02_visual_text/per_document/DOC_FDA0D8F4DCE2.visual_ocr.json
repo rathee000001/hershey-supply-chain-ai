@@ -1,0 +1,48 @@
+{
+  "doc_id": "DOC_FDA0D8F4DCE2",
+  "file_name": "mclane_company_facts_reference.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_FDA0D8F4DCE2.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 6933,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "supplier",
+      "products",
+      "distribution",
+      "warehouse",
+      "retail",
+      "cost",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FDA0D8F4DCE2/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FDA0D8F4DCE2/page_001.png",
+      "sha256": "72189250cf01e803cd255a7171aa6e8a98675b467fb2f81ec52bfb126d5e056d",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Careers Newsroom Locations Become a Customer Login\nAA About Distribution Expertise C-Store Solutions Innovation Suppliers Contact\nMcLANE\nU ki g McL 's St\nAbout\nMcLane combines unmatched distribution expertise and scale, a proven history of strategic partnerships, and\nleading innovation to help retail and restaurant businesses of all sizes compete and grow. We're trusted to\ndistribute and serve America’s most beloved brands, earning their partnership-every day.\nOur Mission\n[ranean na\nLeading the Charge\nTo be an agile, innovative, and unified supply chain\npartner that delivers a superior customer experience,\nand improves the lives of our teammates and\ncommunity, while producing best-in-class returns.\n.\nThe McLane Difference\nPartnership for Growth National Scale Leading Innovation\nIn our 130-year history, McLane has built deep McLane has a national network that we've proudly McLane invests in innovation to provide our customers\nrelationships with the leading retail and restaurant grown as our customers have grown, protecting the with greater efficiency, transparency, and predictability.\nbusinesses in America. We deliver best-in-class integrity of their products and brands. Our vast Our technology-from automation in warehouses to\nreliability across our lines of business and serve as a infrastructure is coupled with our capacity to tackle the telematics in our fleet-produces operational\ncritical part of our customers’ day-to-day operations. biggest and most complex supply chain challenges advantages that drive greater value. We provide our\nWe apply operational rigor backed by a continuous facing our customers. Our size, longevity, and strong customers with technology that helps them order ina\nimprovement process to find efficiencies, reduce financial position enable us to partner with big brands smart, seamless, and personalized way. Our dedication\nwaste, and drive accuracy. And because of our strong to solve big problems-and deliver the benefits of that to innovation extends beyond tactical solutions; it’s\nfinancial position, we invest alongside our customers scale to businesses of any size in nearly every zip code deeply rooted in our DNA and applied to every aspect\nas we find ways to advance our shared success. in the United States. of our business, giving our customers critical insights\nand a competitive edge.\nOur Culture\na\nCelebrating McLane’s People-Centric Culture through LEAD.\nMcLane has a supportive and collaborative company culture centered around its core values: Lead\nforward, Excellence in all we do, Authentic connections, and Do the right thing.\nMcLane is committed to empowering teammates through LEAD to make bold moves and celebrate taking\ncalculated risks, being people-centric in operations and strategy, coaching and fostering professional growth\nand collaboration, and making data-driven decisions. Each day, McLane teammates ask one another, how will\nyou LEAD today?\nLead forward. Excellence in Authentic Do the right\nall we do. connections. thing.\nWe innovate and\ncourageously embrace We set high standards, We invest in relationships We're honest and\nchallenge and change to consistently deliver, —they are the cornerstone transparent. We're fair and\nPosition McLane as the meaningful results and of our business. Whether respectful with\npremier partner of choice continuously improve in a teammate, customer, or teammates, customers,\nand market leader. everything we do. partner, we find ways to and partners. We behave\ngenuinely advance our ethically—even when no\nshared success. one is looking.\nob\" —\na ; . —_s e\ni Y . , ‘4 ; - , A\n| :\n& * «4 . _\n‘ = —_—_ » .\n. |\npi —_ - =\n4 se yp ~ -\na “ , « »\n| 7 _-_ co o* re\n. 5 -\n: ™ ’ ‘ oo”\n- mi Y YS ay : , ¢ yy \\\n. % >, —= =\n— \\\noy a . a\n>\n—\n3 3\nExpert Ecosystem\nUnlocking Supply Chain Success\nMcLane has several business units, each focused on serving specific industries within the retail and restaurant\nsectors. Our subsidiaries are in the following categories: logistics, distribution, and consumer packaged goods.\nCVA KINEXO\neee\nCVP® (Consumer Value Products) is a family of KINEXO strategically propels companies forward by\nproducts designed to provide a value alternative for providing highly customized supply chain solutions\nthe retailer. These categories include home, health, that are proven to reduce costs, increase\nbaby, snacks and candy, pet, automotive, and general transactional visibility and maximize operating\nmerchandise items. Brands include CVP, Beau efficiency. Using the industry's most advanced\nDacious, Excursion Jerky, Yumbees, Hometown technology, as well as an experienced team of\nMarket, Road-Tech, Divinely Sweet, and Work Fare. For network engineers, strategists, analysts, and\nmore information, visit CVPproducts.com. operations managers, KINEXO provides forward-\nthinking solutions that bring logistics and supply\nchain functions together for customer ease and\nincreascd profitability. For more information, visit\ngokinexo.com.\nHi EMPIRE Yy\nDistRIBUTORS, INC.\nVANTIX\nee\nEmpire Distributors, Inc. is a leader in the distribution Vantix is a leading provider of third-party logistics,\nof spirits, wine, beer and nonalcoholic beverages. offering a supply chain solution for logistics and\nEmpire distributes spirits, wine, beer, and non- freight management needs. Vantix utilizes industry-\nalcoholic beverages across multiple channels leading software to create the most efficient and\nincluding bars, restaurants, grocery stores, and cost-effective supply chain solutions for customers\nconvenience stores. It currently serves the states of with specialized logistics needs. Using state-of-the-art\nColorado, Georgia, North Carolina, and Tennessee. technology, they can provide centralized information\nTogether with its associated companies, Empire management and customized solutions. For more\nemploys over 1,700 teammates across 14 distribution information, visit vantixlogistics.com\nlocations. It offers over 15,000 unique products and\nsells over 10 million cases of beverages annually.\nEmpire Distributors’ mission is to be the very best in\nmarket at Building Brands and Developing People. For\nmore information, visit EmpireDist.com\nLeadership History Community\nMcLANE.\nFounded in 1894, McLane Company Inc. is one of the largest distributors in America, serving\nconvenience stores, mass merchants, and chain restaurants. As an industry-leading partner to the\nbiggest retail and restaurant businesses, McLane buys, sells, delivers, and serves the world’s most\nbeloved brands. With headquarters in Temple, Texas, McLane has more than 80 distribution centers\nacross the country, employs more than 25,000 teammates, and delivers to nearly every zip code in the\nUS. McLane is a wholly owned subsidiary of Berkshire Hathaway, Inc. in f X ©\n© 2026 McLANE COMPANY, INC.. ALL RIGHTS RESERVED. LEGAL\nWEBSITE PRIVACY POLICY | PERSONAL INFORMATION REQUEST | aS\nre",
+      "ocr_text_length": 6893,
+      "word_count": 1044,
+      "avg_confidence": 88.99,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FDA0D8F4DCE2.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FDA0D8F4DCE2.visual_ocr.json",
+  "created_at": "2026-05-09T19:48:06"
+}

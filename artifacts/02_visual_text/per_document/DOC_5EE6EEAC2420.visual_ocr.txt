@@ -1,0 +1,276 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
+ae ienceDi . Journals & Books @ Help Q Search & My account AR Sign in
+pels ScienceDirect
+Polyglycerol Polyricinoleate
+In subject area: Agricultural and Biological Sciences
+Also in subject area:
+I Biochemistry, Genetics and Molecular Biology
+© About this page ++ Add to Mendeley XX Set alert 68 Discover more topics
+On this page Chapters and Articles
+Chapters and Articles You might find these chapters and articles relevant to this topic.
+Related Terms Chapter
+Recommended Effect of Emulsifiers on Cocoa Butter and Chocolate Rheology,
+Publications Pol hi dBl
+Featured Authors olymorphism, an oom
+Effect of Polyglycerol Polyricinoleate (PGPR)
+PGPR is prepared by partial esterification of condensed castor oil fatty acids with polyglycerol
+(Rousset et al., 2002; Wilson et al., 1998). PGPR is a complex mixture with polyglycerol
+component dominated by di-, tri-, and tetraglycerols (Fig. 12.10) (Vernier, 1998).
+OH-CHo-CH-CHz-O(-CHp-CH-CHp-O)2-CHp-CH-CHp-OH
+OH OH OH
+f ——cretragtyceron
+—_
+g g
+-OH -OH
+2 Ig
+lc lLollc
+| | & Book
+re} i
+ar ’
+Loic Lolc ikon
+lon bi aml
+(2 moles of condensed ricinoleic acid) x i
+Sign in to download full-size image ; hi
+2012, Cocoa
+Fig. 12.10. PGPR is made from tetraglycerol esterified with 2 moles of condensed ricinoleic acid. Butter and
+Related
+PGPR does not have large effects on plastic viscosity but can reduce yield value by 50% at 0.2% Compounds
+or negate the plastic viscosity at about 0.8% (Rector, 2000; Schantz & Rohm, 2005), turning
+chocolate into a Newtonian liquid so that it flows more readily and settles rapidly. A similar Nissim Garti,
+Abraham Aserin
+Chapter
+Reducing saturated fat using emulsion technology
+. a Book
+Alternatives to polyglycerol polyricinoleate (PGPR) ee
+The work to identify alternatives to PGPR has generally centred around lecithin and lecithin ——
+derivatives, as these are generally considered to be ‘label friendly’ W/O emulsifiers. One .,
+example is a de-oiled fractionated powder soybean lecithin which was used as the W/O Ini
+emulsifier in a dairy-type W/O/W emulsion in which the hydrophilic emulsifier was sodium i
+caseinate (Akhtar and Dickinson, 2001). The emulsions were characterised by measuring the
+droplet size of the primary W/O emulsions and both the droplet size and retained yield of the i
+W/O/W emulsions. The results were very positive in that the retained yield of the lecithin- .., sewers ;
+containing emulsion was around 78% compared to the PGPR emulsion at 48%, indicating a note eerasin
+greater stability. It is also reported that the lecithin-containing emulsion had a creamier
+mouthfeel when compared to the one containing PGPR. W. G Morley
+Chapter
+E476: Polyglycerol esters of polycondensed fatty acids of castor
+oil Book
+21.1 Introduction
+The major food groups contributing to dietary intake of polyglycerol esters of polycondensed
+fatty acids of castor oil are yellow spreads, low fat emulsions, imitation chocolate, cocoa and its
+products with the maximum permitted level of 5 000mg/kg being allowed in cocoa-based
+confectionery, including chocolate. The ADI for polyglycerol esters of polycondensed fatty acids
+of castor oil is 7.5mg/kg body weight/day. 2004, Analytical
+eos . * + » Methods for Food
+Polyglycerol polyricinoleate (PGPR) is prepared by the esterification of condensed castor oil Additi
+fatty acids with polyglycerol. This substance is a strong water-in-oil emulsion that is used as a mes
+greasing agent for baking tins and as an emulsifier with lecithin in chocolate couverture and Roger Wood, ...
+block chocolate.! Pauline Key
+Chapter
+E476: Polyglycerol esters of polycondensed fatty acids of castor
+oil
+21.2 Methods of analysis
+References could only be found for polyglycerol polyricinoleate for the manufacture, chemistry,
+uses of this compound and its analysis in emulsifiers?“4 (tabulated in Table21.1) and not for its
+analysis in foodstuffs.
+Table21.1. Summary of methods for polyglycerol polyricinoleate in foods
+Sample
+Method Matrix preparationjextraction Column Mobile phase Detection Reference
+HPLC Emulsifiers ic. | Samples dissolved in LiChrosorb Gradient UVat 220nm 2
+polyglycerol isopropanol (up to 15% Diol elution with
+esters of fatty w/w) n-hexane and
+acids isopropanol at
+1mL/min,
+10uL injection
+Book
+HPLC Mixtures of Samples dissolved in Carbohydrate Acetonitrile- Refractometric 3 ee
+polyglycerols acetonitrile—water (30:70) analysis water (83:17)
+at 1.5mL/min
+HPLC Synthetic Diacylglycerols and Ultrasphere Linear UV at 205 mn 4
+mixtures of unsaturated triacylglyceral C18 gradient
+triacylglycerols standards dissolved in elution from
+and isopropanol and saturated 100% 2004, Analytical
+diacylglycerols _ triacylglycerol standards methanol to Methods for Food
+and dissolved in 100% Additives
+discylgycerols dichloromethane isopropanol Roger Wood, .
+Pauline Key
+Chapter Book
+Formulation of chocolate for industrial applications
+rr
+PGPR E476 Seen ten
+PGPR (polyglycerol polyricinoleate) can also be used in chocolate. It is not normally used as the aes”
+sole emulsifier, but in combination with lecithin or ammonium phosphatide. The impact of
+PGPR on viscosity is quite small but it has a significant effect on yield value. :
+2009, Science and
+Technology of
+Enrobed and
+Filled Chocolate,
+Confectionery
+and Bakery
+Products
+Philip Yates
+Review article
+Co-encapsulation of bioactive components using protein-based
+various assemblies: Necessary, assembling structure, location
+and partition
+3 Co-encapsulation in double emulsion
+Water-oil-water (W,/O/W2) emulsions consist of the internal aqueous droplets inside the oil
+droplets, which are dispersed within the continuous aqueous phase. Emulsifiers are needed for
+stabilizing two interfaces. Polyglycerol polyricinoleate is often used as a hydrophobic emulsifier
+to stabilize W,/O emulsions, while proteins and protein/polysaccharide complexes can stabilize
+the O/W interface (Evageliou, Panagopoulou, & Mandala, 2019; Li et al., 2012). The double
+emulsions are attractive since they have potential uses for the encapsulation and fat reduction.
+Polyphenols and anthocyanins from blueberry pomace were co-encapsulated in the W, phase
+of double emulsions stabilized by WPI at the O/W2 interface (Bamba, et al., 2018). However,
+commercial applications of W;/O/W2 emulsions are limited due to the migration between the
+internal and external aqueous phases (Kumar, et al., 2022). Their physical stability has been
+improved by controlling the osmotic stress balance between the internal and external aqueous
+phases using hydrophilic solutes, increasing the viscosity or gelation of aqueous phases using
+proteins and polysaccharides (Ji, et al., 2021; Oppermann, Renssen, Schuch, Stieger, & Scholten, Journal
+2015; Yu et al., 2022). The internal aqueous phase and the oil phase of W,/O/W2 emulsions
+provide advantageous microenvironment for encapsulating hydrophilic and hydrophobic BCs
+(Fig. 2A), respectively.
++ Hydrophilic BC
+4 Hydrophobic BC
+Protein 2024, Food
+“Ne Polysaccharide Hydrocolloids
+“~ ® © @
+Kaiwen Chen, ... Li
+Si lownload b Liang
+Show more V
+Review article
+Sensory Science and Consumer Perception * Food Physics &
+materials Science
+Polysaccharide-based oleogels
+The use of polysaccharides as a structuring agents, stabilizers, or thickening agents in water-
+based systems is well established in the food industry. Moreover their GRAS status and
+perception by consumers as food additive make them good candidates to structure edible oils
+as well. Two main strategies for oil structuring using polysaccharides can be found in the
+literature; direct or indirect [21~]. Considering the hydrophilic nature of most polysaccharides
+derived from the hydroxyl content, the direct gelation of oil using these polymers is not
+straightforward. Up-to-date only one polysaccharide, ethyl-cellulose, was discovered with the
+ability to directly gel liquid oil. Therefore, the gelation of oil using polysaccharides is mainly
+achieved using indirect methods such as emulsion template, high internal phase emulsion,
+solvent exchange, drying, and freeze-drying.
+Oil structuring using indirect method
+Formulation of oleogel system based on biopolymers commonly relies on the use of indirect Journal
+methods. Romoscanu and Mezzenga [24] published the first attempt to formulate such system
+based on protein, B-Lactoglobulin, using oil in water emulsion. Such system relies on the ability
+of the protein to adsorb on the oil interface and further cross-linked using heat treatment or
+glutaraldehyde cross-linker. This procedure was recently adopted and modified by Patel et al.
+[25”,26] using polysaccharides such as hydroxypropyl cellulose (HPMC), methylcellulose (MC)
+and xanthan gum (XG). In this approach combination of surface active, HPMC and MC, and non-
+surface active, XG, allows the stabilization of the oil interface after drying without the use of 2019. Current
+cross-linking procedure. The preparation procedure involved the dispersion of oil in the Opini on in Food
+surface-active polymer solution using a high energy dispersing unit followed by the addition of Science
+the non-active surface polymer solution under continuous shearing. The resulted emulsion was a
+dried in an oven at 50-80°C until a constant weight was reached. The dried sample was then mre Davidovich-
+inhas
+Show more Vv
+Review article
+Recent advances in design and stability of double emulsions:
+Trends in Pickering stabilization
+3.2 Polyglycerol polyricinoleate replacement
+Unfortunately, there are not many food grade surfactants to stabilize the primary emulsion
+(W/O), thus, PGPR has become the most widely use surfactant (Table 2). PGPR provides
+sufficient stability to the primary emulsion (W/O) and has been accepted as food-grade
+surfactant (Dickinson, 2011). Nevertheless, consumers are looking for natural and clean-label
+options. Therefore, few attempts have been done to eliminate partially or completely PGPR
+from formulations and replace it with other surfactants that can stabilize the water-oil
+interface, such as different types of lecithin and phosphatidylcholine depleted lecithin (PC-
+depleted lecithin) (Balcaen et al., 2021). These surfactants could stabilize DEs although the
+stability of these emulsions depended strongly on the type of oil used, with MCT showing the \
+best results. However, no DEs was formed when 2.5wt% of PGPR was combined with 2.5 wt% of Journa
+sunflower lecithin, even in the presence of carrageenan (Klojdova et al., 2018) (Table 2).
+Nonetheless, many parameters interfere with the final structure and stability of DEs, as
+demonstrated in another experiment done by Leong et al. (2018), W/O/W emulsions were
+formed when 1.0wt % of PGPR was used with 2.0wt% of soy lecithin as low HLB surfactant. The
+major challenge found was the significant release of NaCl, which was added to the W, as a
+marker of the diffusion of water, during storage: thus, the authors established that in order to
+have greater diffusion stability, 5wt% of PGPR was required. There has been some recent efforts 2022, Food :
+to replace PGPR using natural organic crystals (e.g. curcumin, quercetin), combination of such Hydrocolloids
+crystals and biopolymers and/or microgels for W/O emulsions (Zembyla, Lazidis, et al., 2019, Elizabeth Tenorio-
+2020a; Zembyla, Murray, et al., 2019; Zembyla et al., 2018, 2020b) but such strategies have not Garcia, ...
+been extended to DEs to date. Anwesha Sarkar
+Chapter
+Bioactive compounds delivery using nanotechnology: design
+and applications in dairy food
+5.6 Phenolic Compounds
+Polyphenols constitute one of the most numerous and ubiquitous group of chemical
+compounds (more than 8000 are currently known), representing the main antioxidants in the
+human diet. Fruits, vegetables, cereals, pulses, wine, tea, coffee, and cocoa products are the
+primary sources of phenolic compounds. They are mostly derivatives and/or isomers of
+flavones, isoflavones, flavonols, catechins, anthocyanidins, and phenolic acids and possess a
+high spectrum of biological properties including antiapoptosis, antiaging, anticarcinogen,
+antiinflammation, antiatherosclerosis, cardiovascular protection, improvement of the
+endothelial function as well as inhibition of angiogenesis and cell proliferation activity
+(Bravo, 1998). These molecules are extremely unstable outside their natural environment.
+Another unfortunate trait of phenolic compounds is their unpleasant taste (astringency). The
+use of encapsulated polyphenols instead of free compounds can overcome these drawbacks as
+well as improve the bioavailability. Fang and Bhandari (2010) have published an interesting
+review about current research, developments, and trends of encapsulation of polyphenols.
+Examples of encapsulated polyphenols and their incorporation to dairy foods are discussed.
+Catechin is natural hydrophilic antioxidant molecule. Low bioavailability is a result of its limited
+membrane permeability and degradation in digestion conditions. A study carried out by Aditya Book
+etal. (2015) revealed an increase in the stability and bioaccessibility of catechin encapsulated ee
+within a double emulsion (formulated with PGPR, ascorbic acid, gelatin, Tween).
+Vlasova etal. (2014) prepared a fermented milk dessert with the incorporation of encapsulated Nutrient Oslivery
+polyphenols derived from plants. Calcium alginate-inulin beads were used as the matrix for )
+encapsulation of juice extracts of red beetroot and chokeberry (containing high levels of of J
+polyphenols such as betalain, lutein, anthocyanins, procyanidins, and phenolic acids, which are
+antioxidant, anticarcinogenic, and immune modulating effects). Products were characterized
+with very good organoleptic properties (flavor, aroma, consistency, appearance, and color). 2017, Nutrient
+Likewise, Petrotos etal. (2012) studied the enrichment of yogurts with encapsulated olive fruit Delivery
+polyphenols. A powder containing polyphenols derived from olive mill wastewater was Maria Ayelén
+encapsulated in modified starch matrix by freeze drying, and then they were added to yogurt Vélez, ... Erica
+making. The obtained yogurts were acceptable by the consumers. Hynes
+Chapter
+Fatty Acids—Based Surfactants and Their Uses
+11.7.4 Polyol Esters
+Sugar alcohol esters are commonly used as nonionic surfactants. Commonly employed nonionic
+surfactant are sorbitan esters and ethoxylated sorbitan esters (polysorbates), known as Span
+and Tween, respectively (Akzo-Nobel, Amsterdam, Netherlands; Fig. 11.3). Sorbitol is produced Book
+from glucose using Ni-based catalysts at elevated temperatures (120-150°C) (Silveira and Jonas,
+2002). Sorbitan esters are produced in either a one or two-step process: dehydration of sorbitol FATTY ACIDS
+Chemisty, Synthesis,
+followed by ester bond formation with a fatty acyl group (Foley et al., 2012). Fatty acid esters of srs Aosta
+ethylene and propylene glycol, and polyglycerol, are commonly used in foods and cosmetics, i *,
+primarily as emulsifiers (Hayes, 2009). They are prepared via a similar procedure as described 4 Pes ie
+earlier for MAG and sorbitan esters. Polyglycerol esters have a very similar surfactant-related {# y
+properties as polysorbates, and are useful as antifogging agents (Hayes, 2009). Polyglycerol 2017, Fatty ° ds
+polyricinoleate is commonly used in foods such as salad dressings and chocolate as emulsifiers ,
+and texturizers, and in chocolate to prevent the occurrence of fat bloom (Bodalo et al., 2009). Douglas G. Hayes
+Related terms:
+Lecithin, Polysaccharide, Whey Protein Isolate, Surfactant, Citral, Tween 80, Emulsification, Cocoa Butter,
+Droplet Size, Chocolate.
+View all Topics >
+Recommended publications (0)
+Foe Food Chemistry
+Journal
+FOOD Food Structure
+Journal
+= =i
+Food Research International
+Journal
+Food
+Hydrocolloids Food Hydrocolloids
+na
+cae | Journal
+Browse books and journals
+Featured Authors @
+Golmakani, Mohammad Taghi
+Shiraz University, Shiraz, Iran
+Citations: 4,499 h-index: 36 Publications: 88
+Gray, David A.
+University of Nottingham, Nottingham, United Kingdom
+Citations: 2,619 h-index:31 Publications: 36
+Wolf, Bettina
+University of Birmingham, Birmingham, United Kingdom
+Citations: 2,451 h-index:27 Publications: 39
+Nateghi, Leila
+Islamic Azad University, Varamin-Pishva Branch, Tehran, Iran
+Citations: 1,047 h-index: 20 Publications: 21
+RES About ScienceDirect 7 Remote access Contact and support a Terms and conditions 7 Privacy policy 2 Cookie settings RR ELX™
+ape
+reuu All content on this site: Copyright © 2026 Elsevier B.V., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the relevant licensing terms apply.
+ELSEVIER

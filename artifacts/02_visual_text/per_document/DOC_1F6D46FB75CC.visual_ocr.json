@@ -1,0 +1,50 @@
+{
+  "doc_id": "DOC_1F6D46FB75CC",
+  "file_name": "walmart_hershey_1_55oz_price_page.pdf",
+  "packet": "retail_price_evidence",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_1F6D46FB75CC.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 4494,
+  "total_visual_ocr_chunks": 3,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey",
+      "walmart"
+    ],
+    "ingredients": [
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [
+      "ingredient"
+    ],
+    "sku_terms": [
+      "1.55 oz",
+      "milk chocolate",
+      "ingredients"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1F6D46FB75CC/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1F6D46FB75CC/page_001.png",
+      "sha256": "efb86b63879ca4b06199a022b5cc5f78c14cd2f6d5b121d671c60d080a4c8c4b",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Pickup or delivery? ; - - . fq) © Feorder Q, Signin =\n7) Malden, 02148 + Saugus Supercenter Search everything at Walmart online andin store ~ My Items > Account $0.00\nDepartments v Services v Rollbacks & More Mother's Day Getit Fast Pharmacy New Arrivals Walmart Business Swim Shop Meals Made Easy My Items Only at Walmart Credit Card Walmart+\n- wz. i\n-. = a\nh\nnN 2K+ bought since yesterday, try a subscription ( mo )\noO Hershey's Milk Chocolate Candy, Bar 1.55 oz Jam tomorrow\nfveasiors Ww ww 47) | 4.915 ratings\nIngredients Vv\nKey item features aN ©\n>) * Contains one (1) 1.55-ounce HERSHEY'S Milk Chocolate Full Size Candy Wf Thisitemis gift eligible !\nBar\n°\nm I | k Cc h [e) Cc fe) | a t e ¢ Bring your candy dish, gift-giving and s'mores making games to the\n. next level with HERSHEY'S classic milk chocolate candy\n1 B AR ¢ Kosher and gluten free milk chocolate candy wrapped for lasting a\nfreshness and on-the-go snacking during any adventure -\n“ e Kick birthday parties, graduation celebrations, anniversary dates, movie BR\nnights and campfires up a notch with classic milk chocolate full size Walmart}: Try 30 days of Walmart+ for just $1! ,\ncandy bars for everyone involved ~~ |\ne Enjoy a delicious snack that you can take anywhere, from everyday\noccasions to seasonal gatherings throughout the year\n* 3 e Include sections of HERSHEY'S chocolate candy bars in dessert recipes,\nView all ice cream sundae stations, s'mores nights and bake-off events\nView all item details\nSpecs Vv\nShipping Pickup Delivery\nOut of stock As soonas 7am Assoonas 1 hour\ntomorrow\nSaugus Supercenter Change\nPickup as soon as 7am tomorrow.\n© aistez10\n3 Sold and shipped by Walmart.com\n(5) Free 90-day returns Details\nLi] This item is gift eligible Learn more\nE SNAP EBT eligible Learn more\n© Addtolist @® Addtoregistry\nWalmart}: Try 30 days of Walmart+ for just $1!\nH\nater Claim offer now\nContinue your search on Walmart\nSimilar items you might like\nBased on what customers bought\n= const\noO oO oO XL oO\nImage not 4\nAvailable milk chocolate tear 7\n1 BAR\n1 BaR\n+ Add + Add + Add + Add\n$5.97 5824 Now $2.50 $278 96.2¢/oz Now $1.62 $82 $1.12/oz $2.97 $10.80/lb\nHERSHEY'S Milk Chocolate Standard Bar 6- Hershey's Milk Chocolate King Size Candy, Hershey's Milk Chocolate with Whole Hershey's Milk Chocolate XL Candy, Bar 4.4\nPack, 9.3 02. Bar 2.6 oz Almonds Candy, Bar 1.45 0z 02, 16 Pieces\nWk wwe 13256 Wk ewe 2469 ReRKE 4077 WkeeT 355\n& SNAP EBT eligible B SNAP EBT eligible & SNAP EBT eligible B SNAP EBT eligible\nSave with W+< Save with W+< Save with W+< Save with W+<\nPickup tomorrow Pickup tomorrow Pickup tomorrow Pickup tomorrow\nDelivery today Delivery today Delivery today Delivery today\nShipping, arrives tomorrow Shipping, arrives tomorrow\nBest seller Best seller\ne\nXL oO oO 9 XL oO\nESHEY 2 \\% te eae)\n“By, jaimendeh rtloe\n6 Bars\nKisses =\n. 7\n1 Bar AOAC? MBAR\n+ Add + Add + Add + Add\n$2.97 $11.13/tb $3.54 $5.97 $2.97 $1113/lb\nHershey's Special Dark Mildly Sweet Hershey's Kisses Milk Chocolate Candy, Bag Hershey's Milk Hershey's Symphony Milk Chocolate,\nChocolate XL Candy, Bar 4.25 02, 16 Pieces 4.84 0z Chocolate with Caramel Candy Bars, 1.4 Almonds and Toffee XL Candy, Bar 4.25 oz,\nPee RRL 1375 PAARL 1595 oz (6 Count) 16 Pieces\n& SNAP EBT eligible & SNAP EBT eligible we ket 579 wk kw 1496\nSavewith We. Savewith W< & SNAP EBT eligible & SNAP EBT eligible\nHe .\nPickup tomorrow Pickup tomorrow Save with W4< Save with W4<\nDelivery today Delivery today Pickup tomorrow Pickup tomorrow\nShipping, arrives tomorrow Shipping, arrives tomorrow Delivery today Delivery today\nShipping, arrives tomorrow Shipping, arrives tomorrow\nBest seller Best seller Best seller | Rouback |\n; Kifer HERSHEY\n‘ He cookies ‘n’ creme\n: 4 packs SE) WR 1 Bar\n1 BAR “ie 1 par\n+2 options\n$2.97 Si118/ib $4.52 $1.48 $2.50 $278\nHershey's Milk Chocolate with Almonds XL Hershey's Milk Chocolate with Almonds KIT KAT Milk Chocolate Wafer Snack Size, Hershey's Cookies 'n' Creme King Size\nCandy, Bar 4.25 oz, 16 Pieces Giant Candy, Bar 7.37 02, 25 Pieces Candy Bars, .49 oz (4 Count) Candy, Bar 2.6 0z\nwe wwE 2045 wk kw aRT 4929 RRRKT 534 wk wT 3029\n& SNAP EBT eligible & SNAP EBT eligible © SNAP EBT eligible & SNAP E6T eligible\nSave with W4+< Save with W4< Save with W+< Save with W4<\nPickup tomorrow Pickup tomorrow Pickup tomorrow Pickup tomorrow\nDelivery today Delivery today Delivery today Delivery today\nShipping, arrives tomorrow Shipping, arrives tomorrow\nViewmore V\nProduct details Vv",
+      "ocr_text_length": 4454,
+      "word_count": 794,
+      "avg_confidence": 76.46,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1F6D46FB75CC.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1F6D46FB75CC.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:30"
+}

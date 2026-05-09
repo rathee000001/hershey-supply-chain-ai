@@ -1,0 +1,93 @@
+--- VISUAL OCR PAGE 1: page_001.png ---
+ICE NYSE LOGIN WEBICE
+Solutions Resources Insights About Us Q
+Ice
+Return to Product List | Product Spec Data Expiry Details MarginRates Additional Information Reports Trading
+Agriculture | Cocoa
+ICE Futures U.S.
+Description
+ICE’s ice
+The Cocoa contract is the world benchmark for the global cocoa market. The approach to supporti ng ,
+contract prices the physical delivery of exchange-grade product from a variety of EUDR compliance Ly aay 4
+African, Asian and Central and South American origins to any of five US delivery ICE Commodity Traceability 4 a
+ports. a
+Market Specifications
+Related Products
+Trading Screen Product Name
+Coffee C ® Futures
+Cocoa Futures
+London Cocoa Futures
+Trading Screen Hub Name Sugar No. 11 Futures
+Cocoa Options
+NYCC
+Contract Symbol .
+Trading Hours
+CC
+Contract Size City Trading Pre-Open
+10 metric tons
+NEW YORK 4:45 AM - 1:30 PM 8:00 PM
+Price Quotation
+a 04:45 - 13:30 20:00
+Dollars per metric tons
+LONDON 9:45 AM - 6:30 PM 1:00 AM
+Contract Series
+09:45 - 18:30 01:00
+March, May, July, September, December
+4:45 PM - 1:30 AM* 8:00 AM
+Minimum Price Fluctuation SINGAPORE 16:45 - 01:30 08:00
+$1.00/metric ton, equivalent to $10.00 per contract. . . .
+Settlement **In addition to the Pre-Open start time shown above, there will be a Post-Close Pre-Open order entry
+Physical Delivery session from 2:00 pm to 6:00 pm NY time on the prior Exchange business day.
+Daily Price Limit ee
+None Codes
+Deliverable Origins Clearing Admin Name GMI (FC)
+The Growth of any country is deliverable, and Growths are divided into three delivery Cocoa cy
+Groups:
+Physical ION A.C.N.
+Group A (deliverable at a premium of $160/ton) includes the Growths of Ghana, Ivory cc 2050
+Coast, Nigeria, Sierra Leone and Togo.
+Logical Symbol Code
+Group B (deliverable at a premium of $80/ton) includes the Growths of Arriba cc cc
+(Ecuador), Cameroon, Colombia, New Guinea, Venezuela and several other Growths.
+Group C (deliverable at par) includes the Growths of Bolivia, Haiti, Indonesia- Oth A
+er Agriculture Products
+Sulawesi, Malaysia and all other Growths not specified in the contract Rules as g
+being in Groups A, B or C. Canola
+Cocoa
+Delivery Locations Coffee
+At licensed warehouses in the Port of New York District, Delaware River Port District, Cotton
+Port of Hampton Roads, Port of Albany or Port of Baltimore. Frozen Orange Juice
+Grains
+First Notice Day Sugar
+Ten business days prior to the sixth business day of delivery month.
+Last Trading Day
+One business day prior to last notice day.
+Last Notice Day
+Ten business days prior to last business day of delivery month
+Position Limit
+"Position Limit and Position Accountability information for all IFUS products can be
+found here.
+Markers
+TAS (Trade at Settlement)
+MIC Code
+IFUS
+Clearing Venues
+ICUS
+Solutions Tools and Sources Support
+Exchanges & Clearing Markets Trade & clearing helpdesk
+| ce Fixed Income & Data Services Clearing ICE data services support
+Mortgage Technology Product guide ICE Education
+Benchmark Administration Market reports ICE developer portal
+Expiry calendars Subscriptions
+Margins
+Fees
+About Insights
+Media center Climate risk
+Investor Relations Energy markets
+Contact Fixed Income & Data
+Careers Mortgage
+ICE events
+Sustainability
+aoa |x] [a [i |
+Privacy & SecurityCenter | Your Privacy Choices | Terms of Use | Do Not Sell or Share My Personal Information
+© 2026 Intercontinental Exchange, Inc.

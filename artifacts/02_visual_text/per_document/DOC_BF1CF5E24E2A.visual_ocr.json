@@ -1,0 +1,48 @@
+{
+  "doc_id": "DOC_BF1CF5E24E2A",
+  "file_name": "034000002405_3.png",
+  "packet": "product_sku_1_55oz",
+  "document_type": "image_or_logo",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_BF1CF5E24E2A.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 761,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "hershey"
+    ],
+    "ingredients": [
+      "sugar",
+      "chocolate",
+      "milk"
+    ],
+    "supply_chain_terms": [],
+    "sku_terms": [
+      "milk chocolate",
+      "nutrition facts",
+      "calories"
+    ]
+  },
+  "page_results": [
+    {
+      "image_role": "image_or_logo_asset",
+      "page_number": null,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_BF1CF5E24E2A/034000002405_3.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_image_assets/DOC_BF1CF5E24E2A/034000002405_3.png",
+      "sha256": "16846e9e1b1c1aef8059a107f0f1b1b2e6bdde7d426df87df6e1cad1027dc083",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "SSS IS ES SEE ES\nns |\n——<—— |\n—— |\n—} :\n—— |\n| |\n—_—_—— /\n| ——} |\n—\nw A |\nTHIS END FORWARD |\nIMPORTANT |\nKEEP IN A COOL. DRY PLACE |\nsat INGRECHENTS: MILK CHOCOLATE (SUGAR, MILK |\nNutrition Facts | 2.1, com esr wir, tomes\n36 servings per container CONTAINS: MILK, SOY. |\nServing size _1 bar (439)| Ca\n‘RR The Hershey Company /\nCalories 210) 22:2 crmee\n———— | HATE COM Cr BOOKES-1714 |\nTotal Fat 139 17% |\nSaturated Fat 8g 40% |\nTrans Fat 0g |\nCholesterol 10mg 3% /\nSodium 35g 2% Groner j\nTotal Carbohydrate 269 9% mn vo on |\nDietary Fiber 19 4% Bis al |\n= |\nTotal Sugars 259 he |\n[== aex |\nVitamin D O.1meg 0x OS I\nCalcium 80mg 6% |\niron 1.69 8% |\nOr 0 ~|0 £9 |\nfy a oA ~ I\nlet | tL |S\nror-24000-102 SO",
+      "ocr_text_length": 702,
+      "word_count": 162,
+      "avg_confidence": 56.66,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_BF1CF5E24E2A.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_BF1CF5E24E2A.visual_ocr.json",
+  "created_at": "2026-05-09T19:43:03"
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "DOC_EBE512C33BCD",
+  "file_name": "domino_sugar_asr_brand_page.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_EBE512C33BCD.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 1895,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "asr",
+      "asr group",
+      "domino"
+    ],
+    "ingredients": [
+      "sugar",
+      "packaging"
+    ],
+    "supply_chain_terms": [
+      "sustainability",
+      "products",
+      "refinery"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_EBE512C33BCD/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_EBE512C33BCD/page_001.png",
+      "sha256": "f3b872d44e00bb1a38f056527e6a52a7a7e41c8cb4a05a3f0de774a9a45c8cdc",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "YAS R ABOUT US OUR BRANDS OUR COMPANIES SUSTAINABILITY NEWSROOM CAREERS Q\nGROUP\nDomino® Sugar has been expertly crafted in the United States for more than 120\nyears. The Domino® brand name was officially adopted in 1901 by a New York-\nbased sugar company. Later, the distinctive yellow bags of Domino® Sugar would\nno. become the highly recognizable packaging of granulated sugar that consumers\n0 trust for their sweetening needs.\nDomino® is primarily made in our refineries located in Baltimore, Maryland and\nChalmette, Louisiana.\n! > | Se Ta.\n4 ——— ee tee +s RR\n’ sat? cece “= Were\n; Dele “ue PS z - “\na- - ty . © ! oa 2: = 7 -— \\ c | ory he\n= =a Underneath our Baltimore Refinery’s iconic sign is a state-of-the-art facility\n~ The =\n— Domino = capable of producing more than 6 million pounds of sugar per day. The Maryland\n¥ = oa = ; refinery, which celebrated its centennial in 2022, employs more than 585\n= = s : employees and supports an additional 125 jobs through trucking, terminal\n: Ory ™ =\nq == Ss operations, cargo handling and ship piloting.\n” —- 7 =\n-“ - =F , Our Chalmette Refinery, which has been operating on the banks of the Mississippi\n— | |F _— \" River since 1909, can produce more than 6 million pounds of sugar per day,\nCee = ——\nwhich it packages into 70 types, grades and package sizes of premium sugar\nproducts. The Louisiana refinery is one of the region’s largest employers,\nproviding more than 400 direct jobs and supporting an additional 100.\ne\nOur.Other Companies\nD BELIZE» im te!\n1\nSUGa frre\n® NGEN 0 plant prod\nSan NicotaS\nBelize Sugar Industries Ingenio San Nicolas Tellus Produc\nLEARN MORE LEARN MORE LEARN MORE\ne\n(ice About Us Sustainability\ntots Our Brands Newsroom\nOur Companies Careers\nContact Us Document Downloads Legal Sitemap Privacy Policy | ASR Group Codes & Policies in| oom!\n© 2026 ASR GROUP ALL RIGHTS RESERVED",
+      "ocr_text_length": 1855,
+      "word_count": 342,
+      "avg_confidence": 79.96,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_EBE512C33BCD.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_EBE512C33BCD.visual_ocr.json",
+  "created_at": "2026-05-09T19:47:36"
+}

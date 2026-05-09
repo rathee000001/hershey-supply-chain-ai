@@ -1,0 +1,40 @@
+{
+  "doc_id": "DOC_1EB5146FBACE",
+  "file_name": "bls_truck_transportation_ppi_benchmark.pdf",
+  "packet": "logistics_distribution",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_1EB5146FBACE.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 883,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [
+      "price"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1EB5146FBACE/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_1EB5146FBACE/page_001.png",
+      "sha256": "054d4a9f2ef76ce0e13094de1ec1f8dc43bb36aceb39c7be61eb29fac610922c",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "FEDERAL RESERVE BANK of ST. LOUIS.\nFRED serch REDD. Que\nRELEASE CALENDAR TOOLSVv NEWS BLOG ABOUT v\nHome > Categories > Prices > Producer Price Indexes (PPI) > Industry Based > Transportation and Warehousing\nyy Producer Price Index by Industry: Truck Transportation (Pcu484484)\nObservations v Units: Frequency: sy | 10v | mM\nMar 2026: 196.293 Index Dec 2003=100, Monthly 1v | | 1 | ax\nUpdated: Apr 14, 2026 9:38 AM CDT Not Seasonally Adjusted 2003-12-01 |to| 2026-03-01 Download &\nNext Release Date: May 13, 2026\nFRED ~ — Producer Price index by Industry: Truck Transportation\n220\n200 | | | |\n180 | | | |\no\no\n3 |\n9 160\nSo\nN\nPy)\n& 140 | |\nov\nmol\n= 120\n100 | |\n80 | | | |\n2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026\nSource: U.S. Bureau of Labor Statistics via FRED®\nShaded areas indicate U.S. recessions. rrediestiouteted or\nNotes",
+      "ocr_text_length": 843,
+      "word_count": 160,
+      "avg_confidence": 84.29,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1EB5146FBACE.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_1EB5146FBACE.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:14"
+}

@@ -1,0 +1,49 @@
+{
+  "doc_id": "DOC_0E5990AC3AEF",
+  "file_name": "asr_belize_sugar_industries_page.pdf",
+  "packet": "sugar",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_0E5990AC3AEF.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 2146,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [
+      "asr",
+      "asr group",
+      "domino"
+    ],
+    "ingredients": [
+      "sugar"
+    ],
+    "supply_chain_terms": [
+      "sustainability",
+      "products",
+      "farm",
+      "farmers"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0E5990AC3AEF/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_0E5990AC3AEF/page_001.png",
+      "sha256": "e37bb9857df59619f57ea51915f91246ffd97048656b1d756e976fdce4e839bc",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "f—\n\\ ‘AS R ABOUT US OUR BRANDS OUR COMPANIES SUSTAINABILITY NEWSROOM CAREERS Q\nGROUP\nBelize Sugar Industries Limited (BSI) was founded in 1963 and has been\nproducing quality cane sugar products since 1967. It owns the only sugarcane\nmill in northern Belize and produces plantation white sugar, bulk (raw) brown\nErg sugar, standard demerara and molasses from sugarcane. BSI has an annual\nBELLIES Gal milling capacity of 1.3 million tons of sugarcane. It farms sugarcane and receives\ncane from more than 5,000 independent Belizean farmers. BSI also generates\nrenewable energy from sugarcane fiber, or bagasse, in its co-generation plant,\nwhich powers the sugar-making operations and exports homegrown electricity to\nBelize’s public power grid, providing approximately 15% of the nation’s demand.\nPs, ¥ — 2 : SNS ft . NAB R SMa atv ANS ee\nes ee A ae ‘; a Sd af li) ae LDS RSE SRS ity ea NS VAN ae 2\nSt AVR | MRS he Oe eg | siete ? SY Aye pa eH MN fy fi EY 4h\nEe SE PRIN Rae eS ae TE NR ra le =e Se SD aan LAM As Path rey He hav aah PAS ft\neS SS eS ee en en ee ee fra. eee alg NE AP MWA Ny Ne\nOS ae ae ee eee ha ae\nSta SS Sy es ee SSS Se Ie ae, te AN ae)\ni F = . . se ae .\n= hi The business and wider industry supports the livelihoods of approximately 15%\n“— _ = . of the population, with direct employment of more than 9,000 people and with\na ane — 40,000 people indirectly supported by the industry. It is one of the largest\na -F employers in the country and the only major economic provider in the north of\n—— i Bi) “9 “4\naeaesoe Pana . Se the country.\nay oe ee a? Bn BSI prides itself on being an innovative company committed to growth,\nA > Lp. < : ys continuous improvement, its people, communities and the environment in which\nOnan : it operates.\nOur.Other Companies\n[I\n| teilus n\n; . S R B 0\nplant product planet®\nS S.p.A.\n3 Tellus Products SRB Domino Suga\nLEARN MORE LEARN MORE LEARN MORE\ne\ner About Us Sustainability\nGROUP Our Brands Newsroom\nOur Companies Careers\nContact Us Document Downloads Legal Sitemap Privacy Policy | ASR Group Codes & Policies in| rd\n© 2026 ASR GROUP ALL RIGHTS RESERVED\n(ep)",
+      "ocr_text_length": 2106,
+      "word_count": 413,
+      "avg_confidence": 67.94,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0E5990AC3AEF.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_0E5990AC3AEF.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:36"
+}

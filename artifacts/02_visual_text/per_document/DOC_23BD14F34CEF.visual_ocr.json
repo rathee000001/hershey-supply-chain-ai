@@ -1,0 +1,45 @@
+{
+  "doc_id": "DOC_23BD14F34CEF",
+  "file_name": "pgpr_market_price_reference.pdf",
+  "packet": "pgpr",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_23BD14F34CEF.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 1354,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "chocolate",
+      "pgpr"
+    ],
+    "supply_chain_terms": [
+      "supplier",
+      "price",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_23BD14F34CEF/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_23BD14F34CEF/page_001.png",
+      "sha256": "93b5c80c4576757e33fe6d37b1247b084cc83118fffa1c11e6a3beb713c061d0",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "AlMode All Images Shopping Forums’ Shortvideos Videos More ~ Tools ~\na a Al Overview\nBased on market data as of May 2026, the, Polyglycerol Polyricinoleate (PGPR - E476),\nused as a food emulsifier, commonly ranges between $2 to $20 per kilogram depending\non purity and volume. @ Alibaba.com +1\nPGPR (Food Emulsifier) Price Reference (As of May 2026)\ne Small Quantity/Sample: $10-—$30 per kg.\ne Bulk Food Grade: $2-$5 per kg (often requires high minimum order quantities, e.g., 1\nton+).\ne Wholesale (Tonnage): ~$1,300-$2,300 per metric ton.\n« Common Applications: Primarily used in chocolate manufacturing to improve texture\nand reduce fat content. @ Alibaba.com +4\nMarket Context\ne Market Growth: The global PGPR market is growing, with significant demand in Asia\nPacific and the EU.\ne Quality: High-quality food-grade (99% purity) tends to be higher in price\n($10-$12/kg). 9 Market.us +2\nNote: The results also mention \"Plant Growth-Promoting Rhizobacteria\" (also\nabbreviated as PGPR) in agriculture, which is a different product. The prices above refer\nto the food emulsifier (E476). ® PubMed Central (PMC) (.gov) +2\nFor the latest industrial, food-grade, or agricultural PGPR, check suppliers on\nAlibaba.com and Henan Chemsino Industry.\nAl can make mistakes, so double-check responses O oa > Cp :\nAsk anything\n¥",
+      "ocr_text_length": 1314,
+      "word_count": 207,
+      "avg_confidence": 88.7,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_23BD14F34CEF.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_23BD14F34CEF.visual_ocr.json",
+  "created_at": "2026-05-09T19:36:31"
+}

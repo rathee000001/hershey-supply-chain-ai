@@ -1,0 +1,46 @@
+{
+  "doc_id": "DOC_FD5AB5AB5E8F",
+  "file_name": "icco_cocoa_statistics_page.pdf",
+  "packet": "cocoa_chocolate_cocoa_butter",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_FD5AB5AB5E8F.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 7299,
+  "total_visual_ocr_chunks": 4,
+  "visual_signal_hits": {
+    "companies": [
+      "icco"
+    ],
+    "ingredients": [
+      "cocoa"
+    ],
+    "supply_chain_terms": [
+      "warehouse",
+      "price",
+      "market"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FD5AB5AB5E8F/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FD5AB5AB5E8F/page_001.png",
+      "sha256": "7d50b30a3655775baa75ea09b43b7bf0a2063fb29f88caeece6e23bb6e1ba5c4",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "Consultative Board area © Member area Myaccount Contact in X @& © =&\n€iccos) Home Whoweare _ Statistics | Economy Projects AboutCocoa Events&Documentation Shop News Q\nZe\nStatistics_2025 You are here: Home / Statistics / Statistics_2025\nCocoa Prices Monthly Review Production & Grindings Other Statistical Data\nStatistics\nCocoa Daily Pri¢es| A\n* The ICCO daily price for cocoa beans is the average of Berint BBexcel Micsv Wl copy\nthe quotations of the nearest three active futures\ntrading months on ICE Futures Europe (London) and\nICE Futures US (New York) at the time of London close. Show 5 ¥ entries\n© London prices are converted into United States dollars\nper tonne by using the current six-month forward rate DATE ¥ LONDON NEW YORK ICCO DAILY PRICE ICCO DAILY PRICE\nof exchange in London at closing. FUTURES (£ FUTURES (US$/TONNE) (EURO/TONNE)\nSTERLING/TONN... (USS/TONNE)\n© The time for shift to the next three-month period is the\nfifteenth of the month preceding the nearest active 18/03/2026 2,440.67 3,323.33 3,287.94 2,856.40\nmaturing month. 02/01/2026 4,244.33 5,917.33 5,817.22 4,956.28\n© More detailed information is available in the Quarterly 31/12/2025 4,372.67 6,076.67 5,976.33 5,092.43\nBulletin of Cocoa Statistics published by ICCO. BONIS 4359.33 6119.67 5,904.21 5,099.87\n29/12/2025 4,483.00 6,287.00 6,166.61 5,245.63\nShowing 1 to 5 of 8,059 entries 1 2 3 4 5 1,612 > »\nNote: 27/11/2025 - New York market closed for Thanksgiving Day\nMonthly Average —————__— erint Micsv Weve\nShow 5 © entries Search:\n-— Euro/tonne —— USS/tonne\n6,000 MONTH ¥ EURO/TONNE USS/TONNE\n01/04/2026 2,902.05 3,397.07\n5,000 01/03/2026 2,805.08 3,241.49\n01/02/2026 3,033.41 3,587.19\n4,000\n01/01/2026 4,240.27 4,972.50\n3,000 01/12/2025 4,970.68 5,821.37\n2,000\n4,000\nShowing 1 to 5 of 258 entries 1 2 3 4 5 52 > »\npecember January February March April 2026\n2025 2026 2026 2026\nMonthly Review of the Market. _—-A2-—-——___\nThe Monthly Review of the cocoa market reports on the latest developments on the international cocoa futures markets (i.e. on the ICE Futures Europe and ICE Futures U.S). This document is\ngraphically illustrated and provides a description of the evolution of the front-month cocoa futures contract prices denominated in U.S. dollars on both sides of the Atlantic, stocks and gradings at the\nexchange licensed warehouses, butter and powder prices, production and grindings as well as other factors influencing the cocoa trade.\nMonthly Reviews\nMonthly Review 2025 Monthly Review 2024 Monthly Review 2023 Monthly Review 2022 Monthly Review 2021\nMonthly Review 2020\nICCO Monthly Cocoa Market Report - November 2025\nICCO Monthly Cocoa Market Report - October 2025\nICCO Monthly Cocoa Market Report - September 2025\nICCO Monthly Cocoa Market Report - August 2025\nICCO Monthly Cocoa Market Report - July 2025\nICCO Monthly Cocoa Market Report - June 2025\nICCO Monthly Cocoa Market Report - May 2025\nICCO Monthly Cocoa Market Report - April 2025\nICCO Monthly Cocoa Market Report - March 2025\nICCO Monthly Cocoa Market Report - February 2025\nICCO Monthly Cocoa Market Report - January 2025\nIf you want more information, please visit the Monthly Review of the Market in the Events & Documentation\nsection.\nData on Production and Grindings of Cocoa Beans 2\nCoverage\nData posted on this web page cover production and grindings of cocoa beans by the main producing/exporting and importing countries for the last three cocoa years. The cocoa year runs from 1\nOctober to 30 September.\nForecasts for the current cocoa year and more detailed information are available in the Quarterly Bulletin of Cocoa Statistics, published by ICCO.\nSource/data collection methods\nAs published in the latest issue of the ICCO Quarterly Bulletin of Cocoa Statistics (QBCS), these data are collected in numerous ways, primarily by sending questionnaires to countries (ministries of\nagriculture, ministries of trade, cocoa organisations, etc).\nOther sources are libraries, Internet, trade organisations, specialist institutions and international news agencies.\nRevision\nThe Statistics Section revises on a quarterly basis the cocoa beans production and grindings data. The posted table is updated in March, June, September and December.\nStatistics - Production Statistics - Grindings\nProduction_QBCS LI No. 2\nProduction_QBCS LI No. 1\nProduction_QBCS-L-No. 4\nProduction_QBCS-L-No. 3\nProduction_QBCS-L-No. 2\nProduction_QBCS-L-No. 1\nProduction_QBCS XLIX No. 4\nProduction_QBCS XLIX No. 3\nProduction_QBCS XLIX No. 2\nProduction_QBCS XLIX No. 1\nProduction QBCS XLVIII No. 4\nProduction QBCS XLVIII No. 3\nProduction QBCS XLVIII No. 2\nProduction QBCS XLVIII No. 1\nProduction QBCS XLVII No. 4\nProduction QBCS XLVII No. 3\nProduction QBCS XLVII No. 2\nProduction QBCS XLVII No. 1\nProduction QBCS XLVI No. 4\nProduction QBCS XLVI No. 3\nProduction QBCS XLVI No. 2\nProduction QBCS XLVI No. 1\nProduction QBCS XLV No. 4\nProduction QBCS XLV No. 3\nProduction QBCS XLV No. 2\nProduction QBCS XLV No. 1\nOther Statistical Data@2-—— #-—-———\nThe Statistics Section carries out various studies on the cocoa market, some of which can be found on the statistics web page:\n* Assessment of the movements of global supply and demand, reviewing in detail the developments in the world cocoa market during the past ten years.\n* Report on the annual ICCO survey of cocoa bean stocks, aims to determine stocks of cocoa beans in European warehouses as at the end of each cocoa year.\ne Assessment of world stocks of cocoa beans as at 30 September, contains information on recently published estimates of world cocoa bean stocks, assesses their accuracy and attempts to identify\ntheir location as at 30 September of each cocoa year.\nStatistics - Supply & Demand\nSupply & Demand_QBCS LI No. 2\nSupply & Demand_QBCS LI No. 1\nSupply & Demand_QBCS L No. 4\nSupply & Demand_QBCS L No. 3\nSupply & Demand_QBCS L No. 2\nSupply & Demand_QBCS L No. 1\nSupply & Demand_QBCS XLIX No. 4\nSupply & Demand_QBCS XLIX No. 3\nSupply & Demand_QBCS XLIX No. 2\nSupply & Demand_QBCS XLIX No. 1\nSupply & Demand QBCS XLVIII No. 4\nSupply & Demand QBC> XLVIII No. 3\nSupply & Demand QBCS XLVIII No. 2\nSupply & Demand QBCS XLVIII No. 1\nSupply & Demand QBCS XLVI! No. 4\nSupply & Demand QBCS XLVII No. 3\nSupply & Demand QBCS XLVI! No. 2\nSupply & Demand QBCS XLVI! No. 1\nSupply & Demand QBCS XLVI No. 4\nSupply & Demand QBCS XLVI No. 3\nSupply & Demand QBCS XLVI No. 2\nSupply & Demand QBCS XLVI No. 1\nSupply & Demand_QBCS XLV No. 4\nSupply and Demand_QBCS XLV No. 3\nSupply and Demand_QBCS XLV No. 2\nSupplyandDemand_QBCS XLV No. 1\nSupply & Demand_QBCS XLIV No. 4\nWorld map of production and net exports of cocoa beans in 2005/2006\nINFORMATIONS CONTACT Latest news Ba > Subscribe\nThe International Cocoa Organization ICCO Secretariat February 2026 Quarterly Bulletin of Cocoa\nCCO) is an inter-governmenta International Cocoa Organization Statistics\n° ganization estat Ss fein _ vader CCO Building - II Plateaux - Vallon Search on the website\n0 berating. within the framework of NAT . a eee °° weer United Nations Cocoa Conference 2026 - Fa |\nsuccessive International Cocoa __ Oo Geneva, Switzerland\nAcreements Céte d'ivoire\ni ee ” ° 7 ° * °\" World cocoa bean stocks for the 2024/25\nE-mail: info@icco.org season\nAdd International Cocoa Organization to your Homescreen! °",
+      "ocr_text_length": 7259,
+      "word_count": 1184,
+      "avg_confidence": 88.95,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FD5AB5AB5E8F.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FD5AB5AB5E8F.visual_ocr.json",
+  "created_at": "2026-05-09T19:47:58"
+}

@@ -1,0 +1,23 @@
+{
+  "doc_id": "DOC_11A00D6495C0",
+  "file_name": "PCU49314931.xlsx",
+  "packet": "logistics_distribution",
+  "document_type": "excel_workbook",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_11A00D6495C0.stage05_extraction.json",
+  "ocr_needed": false,
+  "image_count": 0,
+  "pages_ocr_attempted": 0,
+  "pages_ocr_success": 0,
+  "total_visual_ocr_text_length": 0,
+  "total_visual_ocr_chunks": 0,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [],
+    "supply_chain_terms": [],
+    "sku_terms": []
+  },
+  "page_results": [],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_11A00D6495C0.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_11A00D6495C0.visual_ocr.json",
+  "created_at": "2026-05-09T19:35:42"
+}

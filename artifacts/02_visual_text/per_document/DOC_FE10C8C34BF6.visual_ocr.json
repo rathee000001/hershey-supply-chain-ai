@@ -1,0 +1,43 @@
+{
+  "doc_id": "DOC_FE10C8C34BF6",
+  "file_name": "bls_ppi_packaging_materials_benchmark.pdf",
+  "packet": "packaging_wrapper",
+  "document_type": "pdf_document",
+  "stage05_artifact": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/DOC_FE10C8C34BF6.stage05_extraction.json",
+  "ocr_needed": true,
+  "image_count": 1,
+  "pages_ocr_attempted": 1,
+  "pages_ocr_success": 1,
+  "total_visual_ocr_text_length": 939,
+  "total_visual_ocr_chunks": 1,
+  "visual_signal_hits": {
+    "companies": [],
+    "ingredients": [
+      "packaging"
+    ],
+    "supply_chain_terms": [
+      "products",
+      "price"
+    ],
+    "sku_terms": []
+  },
+  "page_results": [
+    {
+      "image_role": "rendered_pdf_page",
+      "page_number": 1,
+      "source_path": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FE10C8C34BF6/page_001.png",
+      "original_path_text": "D:/HersheySupplyChainAI/artifacts/01_page_images/DOC_FE10C8C34BF6/page_001.png",
+      "sha256": "49deda3163981f3083d0b9aad7c038fa6ec8490a4b8c4ea7948359358f7a8f96",
+      "ocr_engine": "tesseract_local",
+      "ocr_status": "success",
+      "ocr_text": "yy Producer Price Index by Commodity: Pulp, Paper, and Allied Products: Folding Paperboard Boxes, Packaging, and\nPackaging Components (wPu09150336)\nObservations v Units: Frequency:\nphe\nMar 2026: 156.665 Index Dec 2004-100, Monthly Y sy | 10Y | Max\nUpdated: Apr 14, 2026 9:33 AM CDT Not Seasonally Adjusted 2004-12-01 10| 2026-03-01 |\nNext Release Date: May 13, 2026 LS\nFRED ~ — Producer Price index by Commodity: Pulp, Paper, and Allied Products: Folding Paperboard Boxes, Packaging, and Packaging Components\n170\n: _ I\n= 140\nTt\nSo\noO\nE || l\ny\nvo\na\n% 120 | | | |\nme}\n£\n110 | |\n- I\n: | I\n2006 2008 2010 2012 2014 2016 2018 2020 2022 2024 2026\nSource: U.S. Bureau of Labor Statistics via FRED®\nShaded areas indicate U.S. recessions. fred.stlouisfed.org\nNotes\nSource: U.S. Bureau of Labor Statistics 4 Release: Producer Price Index 4\nUnits: Index Dec 2004=100, Not Seasonally Adjusted\nFrequency: Monthly",
+      "ocr_text_length": 899,
+      "word_count": 156,
+      "avg_confidence": 84.73,
+      "error": ""
+    }
+  ],
+  "combined_visual_ocr_text_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FE10C8C34BF6.visual_ocr.txt",
+  "visual_ocr_json_path": "D:/HersheySupplyChainAI/artifacts/02_visual_text/per_document/DOC_FE10C8C34BF6.visual_ocr.json",
+  "created_at": "2026-05-09T19:48:07"
+}
