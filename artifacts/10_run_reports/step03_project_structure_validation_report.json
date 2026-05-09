@@ -1,0 +1,190 @@
+{
+  "run_name": "step03_project_structure_validation",
+  "run_time": "2026-05-06T19:52:01",
+  "root": "D:/HersheySupplyChainAI",
+  "validation_status": "pass_with_warnings",
+  "required_dirs_existing_count": 19,
+  "required_dirs_missing_count": 0,
+  "missing_dirs": [],
+  "schemas_existing_count": 10,
+  "schemas_missing_count": 0,
+  "missing_schemas": [],
+  "prompts_existing_count": 7,
+  "prompts_missing_count": 0,
+  "missing_prompts": [],
+  "total_raw_files": 120,
+  "total_supported_raw_files": 120,
+  "unsupported_files": [],
+  "empty_packet_dirs": [
+    "data/raw_sources/02_supplier_packets"
+  ],
+  "packet_summary": [
+    {
+      "packet": "hershey_company",
+      "relative_path": "data/raw_sources/00_hershey_company",
+      "exists": true,
+      "total_files": 6,
+      "supported_files": 6,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 6
+      }
+    },
+    {
+      "packet": "product_sku_1_55oz",
+      "relative_path": "data/raw_sources/01_product_sku_1_55oz",
+      "exists": true,
+      "total_files": 5,
+      "supported_files": 5,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".png": 2,
+        ".pdf": 1,
+        ".webp": 2
+      }
+    },
+    {
+      "packet": "supplier_packets",
+      "relative_path": "data/raw_sources/02_supplier_packets",
+      "exists": true,
+      "total_files": 0,
+      "supported_files": 0,
+      "unsupported_files": 0,
+      "by_extension": {}
+    },
+    {
+      "packet": "sugar",
+      "relative_path": "data/raw_sources/03_ingredient_research/sugar",
+      "exists": true,
+      "total_files": 17,
+      "supported_files": 17,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 14,
+        ".svg": 1,
+        ".csv": 1,
+        ".xlsx": 1
+      }
+    },
+    {
+      "packet": "cocoa_chocolate_cocoa_butter",
+      "relative_path": "data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter",
+      "exists": true,
+      "total_files": 16,
+      "supported_files": 16,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 15,
+        ".svg": 1
+      }
+    },
+    {
+      "packet": "dairy_milk_skim_milk_milk_fat",
+      "relative_path": "data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat",
+      "exists": true,
+      "total_files": 20,
+      "supported_files": 20,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 19,
+        ".png": 1
+      }
+    },
+    {
+      "packet": "soy_lecithin",
+      "relative_path": "data/raw_sources/03_ingredient_research/soy_lecithin",
+      "exists": true,
+      "total_files": 7,
+      "supported_files": 7,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 7
+      }
+    },
+    {
+      "packet": "pgpr",
+      "relative_path": "data/raw_sources/03_ingredient_research/pgpr",
+      "exists": true,
+      "total_files": 10,
+      "supported_files": 10,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 10
+      }
+    },
+    {
+      "packet": "natural_flavor",
+      "relative_path": "data/raw_sources/03_ingredient_research/natural_flavor",
+      "exists": true,
+      "total_files": 9,
+      "supported_files": 9,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 9
+      }
+    },
+    {
+      "packet": "packaging_wrapper",
+      "relative_path": "data/raw_sources/03_ingredient_research/packaging_wrapper",
+      "exists": true,
+      "total_files": 8,
+      "supported_files": 8,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 8
+      }
+    },
+    {
+      "packet": "logistics_distribution",
+      "relative_path": "data/raw_sources/04_logistics_distribution",
+      "exists": true,
+      "total_files": 16,
+      "supported_files": 16,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 11,
+        ".png": 1,
+        ".xlsx": 2,
+        ".xls": 1,
+        ".csv": 1
+      }
+    },
+    {
+      "packet": "retail_price_evidence",
+      "relative_path": "data/raw_sources/05_retail_price_evidence",
+      "exists": true,
+      "total_files": 4,
+      "supported_files": 4,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 4
+      }
+    },
+    {
+      "packet": "brand_logo_assets",
+      "relative_path": "data/raw_sources/06_brand_logo_assets",
+      "exists": true,
+      "total_files": 1,
+      "supported_files": 1,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".png": 1
+      }
+    },
+    {
+      "packet": "reference_only",
+      "relative_path": "data/raw_sources/07_reference_only",
+      "exists": true,
+      "total_files": 1,
+      "supported_files": 1,
+      "unsupported_files": 0,
+      "by_extension": {
+        ".pdf": 1
+      }
+    }
+  ],
+  "warnings": [
+    "Some packet folders are empty. This may be okay if those folders are optional or future-use."
+  ],
+  "next_step": "If validation passes or only has acceptable warnings, create Step 04 source inventory parser."
+}

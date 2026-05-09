@@ -1,0 +1,37 @@
+{
+  "display_ready_version": "v1",
+  "created_at": "2026-05-06T22:24:06",
+  "project_wording": {
+    "project_title": "Hershey 1.55 oz Milk Chocolate Supply Chain Intelligence",
+    "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",
+    "model_scope": "Public-evidence benchmark model for ingredient, supplier, logistics, retail, and cost visualization.",
+    "primary_disclaimer": "This project estimates a public-evidence benchmark supply-chain and cost model. It is not Hershey's internal SKU-level cost accounting, bill of materials, supplier invoice, or margin model.",
+    "supplier_disclaimer": "Supplier relationships are displayed at company level unless explicitly marked SKU-level. Exact ingredient allocation for the 1.55 oz bar is not publicly confirmed.",
+    "residual_disclaimer": "Residual channel/commercial pool is the gap between observed retail price and modeled physical cost. It is not profit and may include retailer margin, distributor margin, trade promotions, taxes/fees, SG&A allocation, brand economics, and estimation error."
+  },
+  "input_artifacts": {
+    "graph": "D:/HersheySupplyChainAI/artifacts/08_node_edge_architecture/supply_chain_graph.json",
+    "cost_stack": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_stack_with_retail_summary.json",
+    "cost_records": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_model_records_with_retail.json",
+    "supplier_packets": "D:/HersheySupplyChainAI/artifacts/05_supplier_blobs/supplier_packets.json",
+    "ingredient_packets": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/ingredient_packets_costed.json",
+    "audited_evidence": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs_strict/audited_evidence_blobs_strict.json"
+  },
+  "display_artifacts": {
+    "home_summary_cards": "D:/HersheySupplyChainAI/artifacts/09_display_ready/home_summary_cards.json",
+    "interactive_graph_payload": "D:/HersheySupplyChainAI/artifacts/09_display_ready/interactive_graph_payload.json",
+    "node_detail_panels": "D:/HersheySupplyChainAI/artifacts/09_display_ready/node_detail_panels.json",
+    "cost_breakdown_display": "D:/HersheySupplyChainAI/artifacts/09_display_ready/cost_breakdown_display.json",
+    "supplier_display_cards": "D:/HersheySupplyChainAI/artifacts/09_display_ready/supplier_display_cards.json",
+    "ingredient_display_cards": "D:/HersheySupplyChainAI/artifacts/09_display_ready/ingredient_display_cards.json",
+    "evidence_panel_lookup": "D:/HersheySupplyChainAI/artifacts/09_display_ready/evidence_panel_lookup.json"
+  },
+  "frontend_rule": "Frontend should read these artifacts only. Hardcode layout labels only; do not hardcode supplier/cost claims.",
+  "safe_display_rules": [
+    "Supplier relationships are company-level unless explicitly marked SKU-level.",
+    "Minor ingredient suppliers are unknown unless direct evidence proves otherwise.",
+    "Manufacturing process nodes are general modeled process nodes, not proprietary Hershey line claims.",
+    "Cost values are public-evidence benchmark estimates, not Hershey internal SKU costs.",
+    "Residual channel/commercial pool is not profit."
+  ]
+}

@@ -1,0 +1,8 @@
+artifact_name,record_count,artifact_type
+home_summary_cards,5,list
+interactive_graph_payload,71,dict
+node_detail_panels,35,dict
+cost_breakdown_display,7,dict
+supplier_display_cards,4,list
+ingredient_display_cards,10,list
+evidence_panel_lookup,559,dict

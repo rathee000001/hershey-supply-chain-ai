@@ -1,0 +1,43 @@
+check_name,status,severity,message,path
+required_file_frontend_public_manifest,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\frontend_public_manifest.json
+no_local_paths_frontend_public_manifest,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\frontend_public_manifest.json
+required_file_display_ready_manifest,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\display_ready_manifest.json
+no_local_paths_display_ready_manifest,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\display_ready_manifest.json
+required_file_home_summary_cards,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\home_summary_cards.json
+no_local_paths_home_summary_cards,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\home_summary_cards.json
+required_file_interactive_graph_payload,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\interactive_graph_payload.json
+no_local_paths_interactive_graph_payload,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\interactive_graph_payload.json
+required_file_node_detail_panels,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\node_detail_panels.json
+no_local_paths_node_detail_panels,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\node_detail_panels.json
+required_file_cost_breakdown_display,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\cost_breakdown_display.json
+no_local_paths_cost_breakdown_display,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\cost_breakdown_display.json
+required_file_supplier_display_cards,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\supplier_display_cards.json
+no_local_paths_supplier_display_cards,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\supplier_display_cards.json
+required_file_ingredient_display_cards,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\ingredient_display_cards.json
+no_local_paths_ingredient_display_cards,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\ingredient_display_cards.json
+required_file_evidence_panel_lookup,pass,info,Required public file exists and JSON is valid.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\evidence_panel_lookup.json
+no_local_paths_evidence_panel_lookup,pass,info,No local Windows paths found.,D:\HersheySupplyChainAI\public\data\hershey\display_ready\evidence_panel_lookup.json
+manifest_primary_home_cards,pass,info,Primary artifact exists: /data/hershey/display_ready/home_summary_cards.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\home_summary_cards.json
+manifest_primary_graph,pass,info,Primary artifact exists: /data/hershey/display_ready/interactive_graph_payload.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\interactive_graph_payload.json
+manifest_primary_node_panels,pass,info,Primary artifact exists: /data/hershey/display_ready/node_detail_panels.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\node_detail_panels.json
+manifest_primary_cost_breakdown,pass,info,Primary artifact exists: /data/hershey/display_ready/cost_breakdown_display.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\cost_breakdown_display.json
+manifest_primary_suppliers,pass,info,Primary artifact exists: /data/hershey/display_ready/supplier_display_cards.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\supplier_display_cards.json
+manifest_primary_ingredients,pass,info,Primary artifact exists: /data/hershey/display_ready/ingredient_display_cards.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\ingredient_display_cards.json
+manifest_primary_evidence,pass,info,Primary artifact exists: /data/hershey/display_ready/evidence_panel_lookup.json,D:\HersheySupplyChainAI\public\data\hershey\display_ready\evidence_panel_lookup.json
+manifest_artifact_count,pass,info,Manifest lists 8 artifacts.,
+asset_map_file_exists,pass,info,Asset mapped and exists: /data/hershey/assets/ASR_Group_logo.svg,D:\HersheySupplyChainAI\public\data\hershey\assets\ASR_Group_logo.svg
+asset_map_file_exists,pass,info,Asset mapped and exists: /data/hershey/assets/barry_logo.svg,D:\HersheySupplyChainAI\public\data\hershey\assets\barry_logo.svg
+asset_map_file_exists,pass,info,Asset mapped and exists: /data/hershey/assets/land_o_lakes_logo_asset.png,D:\HersheySupplyChainAI\public\data\hershey\assets\land_o_lakes_logo_asset.png
+asset_map_file_exists,pass,info,Asset mapped and exists: /data/hershey/assets/mclane_logo_asset.png,D:\HersheySupplyChainAI\public\data\hershey\assets\mclane_logo_asset.png
+graph_node_count,pass,info,Graph has 35 nodes.,
+graph_edge_count,pass,info,Graph has 36 edges.,
+graph_edge_endpoints,pass,info,All edge endpoints resolve to valid node ids.,
+node_panels_complete,pass,info,Every graph node has a detail panel.,
+supplier_card_count,pass,info,Supplier cards count is 4.,
+ingredient_card_count,pass,info,Ingredient cards count is 10.,
+home_card_count,pass,info,Home summary cards count is 5.,
+supplier_relationship_levels,pass,info,Supplier levels present: ['company_level_confirmed'],
+cost_physical_base,pass,info,physical_base is positive: 31.8067,
+cost_retail_base,pass,info,retail_base is positive: 199.75,
+cost_residual_base,pass,info,residual_base is positive: 167.9433,
+cost_record_count,pass,info,Cost display has 15 records.,

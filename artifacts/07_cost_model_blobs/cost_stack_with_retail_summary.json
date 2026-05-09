@@ -1,0 +1,80 @@
+{
+  "cost_stack_version": "v1_public_benchmark_assumption_model",
+  "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",
+  "grams_per_bar": 43.0,
+  "model_scope": "physical ingredient + packaging + conversion + logistics allocation estimate",
+  "not_in_scope": [
+    "Hershey proprietary SKU-level bill of materials",
+    "actual supplier invoice prices",
+    "actual plant route costs",
+    "actual retailer margin",
+    "actual Hershey gross margin"
+  ],
+  "totals": {
+    "low_cents_per_bar": 14.7071,
+    "base_cents_per_bar": 31.8067,
+    "high_cents_per_bar": 60.037
+  },
+  "totals_by_type": {
+    "ingredient": {
+      "low_cents_per_bar": 9.4071,
+      "base_cents_per_bar": 21.0067,
+      "high_cents_per_bar": 41.037
+    },
+    "packaging": {
+      "low_cents_per_bar": 1.5,
+      "base_cents_per_bar": 2.8,
+      "high_cents_per_bar": 5.0
+    },
+    "manufacturing_conversion": {
+      "low_cents_per_bar": 3.0,
+      "base_cents_per_bar": 6.0,
+      "high_cents_per_bar": 10.0
+    },
+    "storage": {
+      "low_cents_per_bar": 0.3,
+      "base_cents_per_bar": 0.8,
+      "high_cents_per_bar": 1.5
+    },
+    "freight": {
+      "low_cents_per_bar": 0.5,
+      "base_cents_per_bar": 1.2,
+      "high_cents_per_bar": 2.5
+    }
+  },
+  "retail_price_status": "verified",
+  "retail_residual_status": "calculated",
+  "safe_display_wording": "This is a public-evidence benchmark cost model. It estimates physical supply-chain cost ranges per 1.55 oz bar and should not be read as Hershey's actual internal SKU cost.",
+  "created_at": "2026-05-06T20:23:02",
+  "retail_price_summary": {
+    "retail_price_status": "verified",
+    "retailers_verified": 4,
+    "low_retail_price_cents": 162.0,
+    "base_retail_price_cents": 199.75,
+    "high_retail_price_cents": 219.0,
+    "average_retail_price_cents": 199.75,
+    "median_retail_price_cents": 209.0,
+    "low_retail_price_usd": 1.62,
+    "base_retail_price_usd": 1.9975,
+    "high_retail_price_usd": 2.19
+  },
+  "residual_channel_commercial_pool": {
+    "residual_status": "calculated",
+    "definition": "Residual channel/commercial pool = observed retail shelf price minus estimated physical supply-chain cost. It is not profit. It can include retailer margin, distributor margin, trade promotions, taxes/fees where applicable, corporate SG&A allocation, brand economics, and estimation error.",
+    "low_cents_per_bar": 101.963,
+    "base_cents_per_bar": 167.9433,
+    "high_cents_per_bar": 204.2929,
+    "physical_cost_low_cents": 14.7071,
+    "physical_cost_base_cents": 31.8067,
+    "physical_cost_high_cents": 60.037,
+    "retail_price_low_cents": 162.0,
+    "retail_price_base_cents": 199.75,
+    "retail_price_high_cents": 219.0,
+    "physical_cost_share_of_retail_low_case": 6.7156,
+    "physical_cost_share_of_retail_base_case": 15.9233,
+    "physical_cost_share_of_retail_high_case": 37.0599,
+    "safe_display_wording": "The residual is the gap between observed shelf price and estimated physical cost. It should not be interpreted as Hershey profit or retailer profit."
+  },
+  "safe_retail_display_wording": "Retail price is visually verified from collected retailer pages. Residual pool is a modeled gap, not profit.",
+  "updated_at": "2026-05-06T22:16:39"
+}

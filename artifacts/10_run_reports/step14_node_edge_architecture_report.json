@@ -1,0 +1,46 @@
+{
+  "run_name": "step14_node_edge_architecture",
+  "run_time": "2026-05-06T22:19:43",
+  "root": "D:/HersheySupplyChainAI",
+  "nodes_created": 35,
+  "edges_created": 36,
+  "node_type_counts": {
+    "consumer": 1,
+    "cost_bucket": 7,
+    "distributor": 2,
+    "hershey_facility": 1,
+    "ingredient_origin": 3,
+    "manufacturing_process": 8,
+    "processor": 4,
+    "retailer": 4,
+    "supplier": 3,
+    "visual_reference": 1,
+    "warehouse": 1
+  },
+  "edge_flow_type_counts": {
+    "cost": 7,
+    "finished_goods": 6,
+    "ingredient": 16,
+    "logistics": 6,
+    "packaging": 1
+  },
+  "node_relationship_counts": {
+    "benchmark_only": 10,
+    "company_level_confirmed": 6,
+    "illustrative_only": 9,
+    "sku_level_confirmed": 7,
+    "unknown": 3
+  },
+  "edge_relationship_counts": {
+    "benchmark_only": 9,
+    "company_level_confirmed": 7,
+    "illustrative_only": 12,
+    "sku_level_confirmed": 5,
+    "unknown": 3
+  },
+  "nodes_json": "D:/HersheySupplyChainAI/artifacts/08_node_edge_architecture/nodes.json",
+  "edges_json": "D:/HersheySupplyChainAI/artifacts/08_node_edge_architecture/edges.json",
+  "supply_chain_graph_json": "D:/HersheySupplyChainAI/artifacts/08_node_edge_architecture/supply_chain_graph.json",
+  "node_edge_summary_csv": "D:/HersheySupplyChainAI/artifacts/08_node_edge_architecture/node_edge_summary.csv",
+  "next_step": "Step 15: build display-ready artifacts for frontend and evidence panels."
+}

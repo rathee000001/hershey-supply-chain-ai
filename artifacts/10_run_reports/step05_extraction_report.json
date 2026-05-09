@@ -1,0 +1,22 @@
+{
+  "run_name": "step05_extract_text_tables_images",
+  "run_time": "2026-05-06T19:57:19",
+  "root": "D:/HersheySupplyChainAI",
+  "files_processed": 120,
+  "pdf_files": 105,
+  "spreadsheet_or_csv_files": 6,
+  "image_or_logo_files": 9,
+  "docx_or_text_files": 0,
+  "errors": 1,
+  "visual_review_files": 95,
+  "tables_extracted": 30,
+  "page_images_rendered": 222,
+  "source_inventory_input": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/source_inventory.json",
+  "source_inventory_stage05_enriched": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/source_inventory_stage05_enriched.json",
+  "extracted_text_folder": "D:/HersheySupplyChainAI/artifacts/01_extracted_text",
+  "extracted_tables_folder": "D:/HersheySupplyChainAI/artifacts/01_extracted_tables",
+  "page_images_folder": "D:/HersheySupplyChainAI/artifacts/01_page_images",
+  "image_assets_folder": "D:/HersheySupplyChainAI/artifacts/01_image_assets",
+  "document_artifacts_folder": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts",
+  "next_step": "Step 06: build text chunks from extracted text and table previews."
+}

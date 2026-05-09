@@ -1,0 +1,72 @@
+record_type,id,label,type_or_flow,relationship_status,confidence_level,display_allowed,from_node,to_node,evidence_count,summary
+node,NODE_PRODUCT_HERSHEY_155OZ,HERSHEY'S 1.55 oz Bar,visual_reference,sku_level_confirmed,medium,True,,,0,Target SKU for the supply-chain and cost model.
+node,NODE_HERSHEY_MANUFACTURING,Hershey Manufacturing,hershey_facility,company_level_confirmed,medium,True,,,0,"Central manufacturing node. Internal process is modeled generally, not proprietary line data."
+node,NODE_ORIGIN_SUGAR,Sugar Cane / Beet Stream,ingredient_origin,benchmark_only,medium,True,,,39,Sugar origin is modeled from public sourcing and benchmark context.
+node,NODE_ORIGIN_COCOA,Cocoa Origin Stream,ingredient_origin,benchmark_only,medium,True,,,95,Cocoa origin and chocolate input stream.
+node,NODE_ORIGIN_DAIRY,Dairy Farm Stream,ingredient_origin,company_level_confirmed,medium,True,,,109,Dairy farm/cooperative stream feeding dairy ingredients.
+node,NODE_SUPPLIER_ASR,ASR / American Sugar Refining,supplier,company_level_confirmed,medium,True,,,4,"ASR / American Sugar Refining: company-level supplier context, not SKU-level allocation."
+node,NODE_SUPPLIER_BARRY,Barry Callebaut,supplier,company_level_confirmed,medium,True,,,5,"Barry Callebaut: company-level supplier context, not SKU-level allocation."
+node,NODE_SUPPLIER_LAND_O_LAKES,Land O'Lakes,supplier,company_level_confirmed,medium,True,,,10,"Land O'Lakes: company-level supplier context, not SKU-level allocation."
+node,NODE_ING_SOY_LECITHIN,Soy Lecithin,processor,unknown,low,True,,,14,Emulsifier input; supplier unknown.
+node,NODE_ING_PGPR,PGPR,processor,unknown,low,True,,,54,Specialty emulsifier/flow modifier input; supplier unknown.
+node,NODE_ING_NATURAL_FLAVOR,Natural Flavor,processor,unknown,low,True,,,19,Flavor input; exact composition and supplier unknown.
+node,NODE_PACKAGING_STREAM,Packaging / Wrapper Stream,processor,benchmark_only,medium,True,,,45,Packaging input stream with benchmark-backed cost allocation.
+node,NODE_PROCESS_RECEIVING,Raw Material Receiving,manufacturing_process,illustrative_only,medium,True,,,0,Raw materials and packaging arrive at Hershey manufacturing.
+node,NODE_PROCESS_STORAGE,Ingredient Storage,manufacturing_process,illustrative_only,medium,True,,,0,Inputs are stored before production; modeled general process node.
+node,NODE_PROCESS_MIXING_REFINING,Mixing / Refining,manufacturing_process,illustrative_only,medium,True,,,0,Chocolate ingredients are mixed/refined in modeled manufacturing flow.
+node,NODE_PROCESS_CONCHING,Conching / Chocolate Processing,manufacturing_process,illustrative_only,medium,True,,,0,Modeled chocolate processing step; not proprietary Hershey line data.
+node,NODE_PROCESS_TEMPERING_MOLDING,Tempering / Molding,manufacturing_process,illustrative_only,medium,True,,,0,Chocolate is tempered and molded into bar form.
+node,NODE_PROCESS_COOLING,Cooling,manufacturing_process,illustrative_only,medium,True,,,0,Molded chocolate cools and stabilizes.
+node,NODE_PROCESS_WRAPPING,Wrapping / Packaging,manufacturing_process,illustrative_only,medium,True,,,0,Finished bar is wrapped and prepared for distribution.
+node,NODE_PROCESS_FINISHED_GOODS,Finished Goods,manufacturing_process,illustrative_only,medium,True,,,0,Packaged bars enter finished-goods inventory before distribution.
+node,NODE_WAREHOUSE_DISTRIBUTION_CENTER,Warehouse / Distribution Center,warehouse,benchmark_only,medium,True,,,0,Storage and distribution allocation node.
+node,NODE_COMMON_CARRIER_TRUCKING,Common Carrier / Trucking,distributor,benchmark_only,medium,True,,,0,Outbound freight and diesel/trucking benchmark node.
+node,NODE_DISTRIBUTOR_MCLANE,McLane,distributor,company_level_confirmed,medium,True,,,8,McLane downstream context; not an exact route claim.
+node,NODE_RETAILER_WALMART,Walmart,retailer,sku_level_confirmed,medium,True,,,0,Walmart: verified retail price evidence.
+node,NODE_RETAILER_TARGET,Target,retailer,sku_level_confirmed,medium,True,,,0,Target: verified retail price evidence.
+node,NODE_RETAILER_CVS,CVS,retailer,sku_level_confirmed,medium,True,,,0,CVS: verified retail price evidence.
+node,NODE_RETAILER_WALGREENS,Walgreens,retailer,sku_level_confirmed,medium,True,,,0,Walgreens: verified retail price evidence.
+node,NODE_CONSUMER,Consumer,consumer,illustrative_only,medium,True,,,0,End consumer node.
+node,NODE_COST_INGREDIENTS,Ingredient Cost,cost_bucket,benchmark_only,medium,True,,,0,Ingredient Cost: base 21.01¢ per bar.
+node,NODE_COST_PACKAGING,Packaging Cost,cost_bucket,benchmark_only,medium,True,,,0,Packaging Cost: base 2.8¢ per bar.
+node,NODE_COST_MANUFACTURING,Manufacturing Conversion,cost_bucket,benchmark_only,medium,True,,,0,Manufacturing Conversion: base 6.0¢ per bar.
+node,NODE_COST_STORAGE,Storage / Warehousing Cost,cost_bucket,benchmark_only,medium,True,,,0,Storage / Warehousing Cost: base 0.8¢ per bar.
+node,NODE_COST_FREIGHT,Freight Cost,cost_bucket,benchmark_only,medium,True,,,0,Freight Cost: base 1.2¢ per bar.
+node,NODE_COST_RETAIL,Observed Retail Price,cost_bucket,sku_level_confirmed,medium,True,,,0,Observed Retail Price: base 199.75¢ per bar.
+node,NODE_COST_RESIDUAL,Residual Channel / Commercial Pool,cost_bucket,sku_level_confirmed,low,True,,,0,Residual Channel / Commercial Pool: base 167.94¢ per bar.
+edge,EDGE_SUGAR_ORIGIN_TO_ASR,Sugar cane/beet stream to sugar refiner/supplier context,ingredient,company_level_confirmed,medium,True,NODE_ORIGIN_SUGAR,NODE_SUPPLIER_ASR,4,Company-level sugar sourcing context; not SKU-level proof.
+edge,EDGE_ASR_TO_HERSHEY_RECEIVING,Refined sugar input stream,ingredient,company_level_confirmed,medium,True,NODE_SUPPLIER_ASR,NODE_PROCESS_RECEIVING,4,ASR → Hershey is company-level supplier context only.
+edge,EDGE_COCOA_ORIGIN_TO_BARRY,Cocoa/chocolate input stream,ingredient,company_level_confirmed,medium,True,NODE_ORIGIN_COCOA,NODE_SUPPLIER_BARRY,5,Barry Callebaut company-level cocoa/chocolate context.
+edge,EDGE_BARRY_TO_HERSHEY_RECEIVING,Cocoa/chocolate/cocoa butter input stream,ingredient,company_level_confirmed,medium,True,NODE_SUPPLIER_BARRY,NODE_PROCESS_RECEIVING,5,Not exact SKU-level cocoa allocation.
+edge,EDGE_DAIRY_ORIGIN_TO_LAND_O_LAKES,Dairy farm/cooperative stream,ingredient,company_level_confirmed,medium,True,NODE_ORIGIN_DAIRY,NODE_SUPPLIER_LAND_O_LAKES,10,Land O'Lakes company-level dairy context.
+edge,EDGE_LAND_O_LAKES_TO_HERSHEY_RECEIVING,Milk / skim milk / milk fat input stream,ingredient,company_level_confirmed,medium,True,NODE_SUPPLIER_LAND_O_LAKES,NODE_PROCESS_RECEIVING,10,Not exact SKU-level dairy allocation.
+edge,EDGE_SOY_LECITHIN_TO_HERSHEY,Soy lecithin emulsifier input,ingredient,unknown,low,True,NODE_ING_SOY_LECITHIN,NODE_PROCESS_RECEIVING,14,Supplier unknown or benchmark-only; no exact supplier claim.
+edge,EDGE_PGPR_TO_HERSHEY,PGPR emulsifier/flow modifier input,ingredient,unknown,low,True,NODE_ING_PGPR,NODE_PROCESS_RECEIVING,54,Supplier unknown or benchmark-only; no exact supplier claim.
+edge,EDGE_NATURAL_FLAVOR_TO_HERSHEY,Natural flavor input,ingredient,unknown,low,True,NODE_ING_NATURAL_FLAVOR,NODE_PROCESS_RECEIVING,19,Supplier unknown or benchmark-only; no exact supplier claim.
+edge,EDGE_PACKAGING_TO_HERSHEY,Wrapper and packaging input,packaging,benchmark_only,medium,True,NODE_PACKAGING_STREAM,NODE_PROCESS_RECEIVING,45,Supplier unknown or benchmark-only; no exact supplier claim.
+edge,EDGE_PROCESS_01,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_RECEIVING,NODE_PROCESS_STORAGE,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_02,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_STORAGE,NODE_PROCESS_MIXING_REFINING,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_03,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_MIXING_REFINING,NODE_PROCESS_CONCHING,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_04,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_CONCHING,NODE_PROCESS_TEMPERING_MOLDING,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_05,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_TEMPERING_MOLDING,NODE_PROCESS_COOLING,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_06,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_COOLING,NODE_PROCESS_WRAPPING,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_07,Modeled manufacturing process flow,ingredient,illustrative_only,medium,True,NODE_PROCESS_WRAPPING,NODE_PROCESS_FINISHED_GOODS,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_PROCESS_08,Modeled manufacturing process flow,finished_goods,illustrative_only,medium,True,NODE_PROCESS_FINISHED_GOODS,NODE_PRODUCT_HERSHEY_155OZ,0,"General chocolate manufacturing process model, not proprietary Hershey line data."
+edge,EDGE_DOWNSTREAM_01,Finished bars to warehouse/DC,finished_goods,benchmark_only,medium,True,NODE_PRODUCT_HERSHEY_155OZ,NODE_WAREHOUSE_DISTRIBUTION_CENTER,0,Downstream logistics are modeled; exact SKU route is not confirmed.
+edge,EDGE_DOWNSTREAM_02,Outbound movement,logistics,benchmark_only,medium,True,NODE_WAREHOUSE_DISTRIBUTION_CENTER,NODE_COMMON_CARRIER_TRUCKING,0,Downstream logistics are modeled; exact SKU route is not confirmed.
+edge,EDGE_DOWNSTREAM_03,Distribution / downstream channel movement,logistics,company_level_confirmed,medium,True,NODE_COMMON_CARRIER_TRUCKING,NODE_DISTRIBUTOR_MCLANE,8,Downstream logistics are modeled; exact SKU route is not confirmed.
+edge,EDGE_MCLANE_TO_WALMART,Modeled downstream path to Walmart,logistics,illustrative_only,medium,True,NODE_DISTRIBUTOR_MCLANE,NODE_RETAILER_WALMART,0,Walmart has verified retail price evidence; exact distribution path is modeled.
+edge,EDGE_WALMART_TO_CONSUMER,Retail sale to consumer,finished_goods,sku_level_confirmed,medium,True,NODE_RETAILER_WALMART,NODE_CONSUMER,0,Walmart price evidence supports retail sale context.
+edge,EDGE_MCLANE_TO_TARGET,Modeled downstream path to Target,logistics,illustrative_only,medium,True,NODE_DISTRIBUTOR_MCLANE,NODE_RETAILER_TARGET,0,Target has verified retail price evidence; exact distribution path is modeled.
+edge,EDGE_TARGET_TO_CONSUMER,Retail sale to consumer,finished_goods,sku_level_confirmed,medium,True,NODE_RETAILER_TARGET,NODE_CONSUMER,0,Target price evidence supports retail sale context.
+edge,EDGE_MCLANE_TO_CVS,Modeled downstream path to CVS,logistics,illustrative_only,medium,True,NODE_DISTRIBUTOR_MCLANE,NODE_RETAILER_CVS,0,CVS has verified retail price evidence; exact distribution path is modeled.
+edge,EDGE_CVS_TO_CONSUMER,Retail sale to consumer,finished_goods,sku_level_confirmed,medium,True,NODE_RETAILER_CVS,NODE_CONSUMER,0,CVS price evidence supports retail sale context.
+edge,EDGE_MCLANE_TO_WALGREENS,Modeled downstream path to Walgreens,logistics,illustrative_only,medium,True,NODE_DISTRIBUTOR_MCLANE,NODE_RETAILER_WALGREENS,0,Walgreens has verified retail price evidence; exact distribution path is modeled.
+edge,EDGE_WALGREENS_TO_CONSUMER,Retail sale to consumer,finished_goods,sku_level_confirmed,medium,True,NODE_RETAILER_WALGREENS,NODE_CONSUMER,0,Walgreens price evidence supports retail sale context.
+edge,EDGE_COST_01,ingredient cost contribution,cost,benchmark_only,medium,True,NODE_COST_INGREDIENTS,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+edge,EDGE_COST_02,packaging cost contribution,cost,benchmark_only,medium,True,NODE_COST_PACKAGING,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+edge,EDGE_COST_03,manufacturing conversion allocation,cost,benchmark_only,medium,True,NODE_COST_MANUFACTURING,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+edge,EDGE_COST_04,storage cost allocation,cost,benchmark_only,medium,True,NODE_COST_STORAGE,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+edge,EDGE_COST_05,freight cost allocation,cost,benchmark_only,medium,True,NODE_COST_FREIGHT,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+edge,EDGE_COST_06,verified retail shelf price,cost,sku_level_confirmed,medium,True,NODE_COST_RETAIL,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+edge,EDGE_COST_07,retail minus physical cost residual,cost,benchmark_only,low,True,NODE_COST_RESIDUAL,NODE_PRODUCT_HERSHEY_155OZ,0,"Cost model value is benchmark/verified-retail based, not Hershey internal cost."

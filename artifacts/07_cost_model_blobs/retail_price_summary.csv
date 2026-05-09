@@ -1,0 +1,5 @@
+retailer,verified_price_usd,verified_price_cents,verified_product_name,verified_size_oz,verified_size_g,verified_pack_size,verified_price_type,verified_store_or_zip_visible,verification_status,manual_notes
+cvs,2.19,219.0,HERSHEY'S Milk Chocolate Candy Bar,1.55,43.0,1,single_bar_price,,verified,Manually verified from CVS contact sheet.
+target,1.99,199.0,HERSHEY'S Milk Chocolate Candy Bar,1.55,43.0,1,single_bar_price,,verified,Manually verified from Target contact sheet.
+walgreens,2.19,219.0,HERSHEY'S Milk Chocolate Candy Bar,1.55,43.0,1,single_bar_price,,verified,Manually verified from Walgreens contact sheet.
+walmart,1.62,162.0,HERSHEY'S Milk Chocolate Candy Bar,1.55,43.0,1,single_bar_price,,verified,Manually verified from Walmart contact sheet.

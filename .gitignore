@@ -1,0 +1,46 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Node / Next
+node_modules/
+.next/
+out/
+.vercel/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/settings.json
+
+# Large local raw evidence files
+data/raw_sources/
+raw_sources/
+
+# Heavy generated extraction layers
+artifacts/01_extracted_text/
+artifacts/01_extracted_tables/
+artifacts/01_page_images/
+artifacts/01_image_assets/
+artifacts/02_text_chunks/text_chunks.jsonl
+
+# Visual review contact sheets / copied local review assets
+artifacts/08_visual_verification/contact_sheets/
+artifacts/08_visual_verification/copied_review_assets/
+
+# Backups
+*.bak
+*.pre_*_backup
+*.pre_patch_*
+*.pre_retail_price_patch_*
+
+# Logs
+*.log

@@ -1,0 +1,17 @@
+{
+  "residual_status": "calculated",
+  "definition": "Residual channel/commercial pool = observed retail shelf price minus estimated physical supply-chain cost. It is not profit. It can include retailer margin, distributor margin, trade promotions, taxes/fees where applicable, corporate SG&A allocation, brand economics, and estimation error.",
+  "low_cents_per_bar": 101.963,
+  "base_cents_per_bar": 167.9433,
+  "high_cents_per_bar": 204.2929,
+  "physical_cost_low_cents": 14.7071,
+  "physical_cost_base_cents": 31.8067,
+  "physical_cost_high_cents": 60.037,
+  "retail_price_low_cents": 162.0,
+  "retail_price_base_cents": 199.75,
+  "retail_price_high_cents": 219.0,
+  "physical_cost_share_of_retail_low_case": 6.7156,
+  "physical_cost_share_of_retail_base_case": 15.9233,
+  "physical_cost_share_of_retail_high_case": 37.0599,
+  "safe_display_wording": "The residual is the gap between observed shelf price and estimated physical cost. It should not be interpreted as Hershey profit or retailer profit."
+}

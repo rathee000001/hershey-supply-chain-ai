@@ -1,0 +1,15 @@
+{
+  "run_name": "step13_visual_verification_packet",
+  "run_time": "2026-05-06T20:25:09",
+  "root": "D:/HersheySupplyChainAI",
+  "review_items_created": 9,
+  "product_sku_review_items": 5,
+  "retail_price_review_items": 4,
+  "contact_sheets_created": 9,
+  "visual_verification_queue_json": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/visual_verification_queue.json",
+  "visual_verification_queue_csv": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/visual_verification_queue.csv",
+  "retail_price_manual_entry_template_csv": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/retail_price_manual_entry_template.csv",
+  "product_sku_manual_check_template_csv": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/product_sku_manual_check_template.csv",
+  "contact_sheets_folder": "D:/HersheySupplyChainAI/artifacts/08_visual_verification/contact_sheets",
+  "next_step": "Step 13B: manually fill product and retail verification CSVs, then ingest verified retail prices into the cost model."
+}

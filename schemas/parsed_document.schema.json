@@ -1,0 +1,118 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ParsedDocumentArtifact",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "file_name",
+    "packet",
+    "document_type",
+    "summary",
+    "useful_for_project",
+    "extracted_entities",
+    "extracted_metrics",
+    "explicit_relationships",
+    "confidence_notes"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string"
+    },
+    "file_name": {
+      "type": "string"
+    },
+    "source_owner": {
+      "type": "string"
+    },
+    "document_title": {
+      "type": "string"
+    },
+    "packet": {
+      "type": "string"
+    },
+    "document_type": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "useful_for_project": {
+      "type": "boolean"
+    },
+    "usefulness_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 10
+    },
+    "relevant_sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "section_title": { "type": "string" },
+          "page_or_location": { "type": "string" },
+          "why_relevant": { "type": "string" }
+        }
+      }
+    },
+    "extracted_entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "entity_name": { "type": "string" },
+          "entity_type": { "type": "string" },
+          "context": { "type": "string" }
+        }
+      }
+    },
+    "extracted_metrics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "metric_name": { "type": "string" },
+          "metric_value": { "type": "string" },
+          "unit": { "type": "string" },
+          "page_or_location": { "type": "string" },
+          "context": { "type": "string" }
+        }
+      }
+    },
+    "extracted_prices": {
+      "type": "array"
+    },
+    "extracted_dates": {
+      "type": "array"
+    },
+    "extracted_locations": {
+      "type": "array"
+    },
+    "explicit_relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "from_entity": { "type": "string" },
+          "to_entity": { "type": "string" },
+          "relationship": { "type": "string" },
+          "evidence_text": { "type": "string" },
+          "page_or_location": { "type": "string" }
+        }
+      }
+    },
+    "cost_bucket_mentions": {
+      "type": "array"
+    },
+    "confidence_notes": {
+      "type": "array"
+    },
+    "excluded_content": {
+      "type": "array"
+    },
+    "level1_status": {
+      "type": "string",
+      "enum": ["pending", "complete", "needs_review", "rejected"]
+    }
+  }
+}

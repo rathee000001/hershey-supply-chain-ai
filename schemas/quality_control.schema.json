@@ -1,0 +1,35 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "QualityControlReport",
+  "type": "object",
+  "required": [
+    "qc_status",
+    "total_display_claims",
+    "claims_without_evidence",
+    "confirmed_edges_without_direct_evidence",
+    "reference_only_files_used_as_evidence"
+  ],
+  "properties": {
+    "qc_status": {
+      "type": "string",
+      "enum": [
+        "pass",
+        "pass_with_warnings",
+        "fail"
+      ]
+    },
+    "total_display_claims": { "type": "integer" },
+    "claims_without_evidence": { "type": "integer" },
+    "confirmed_edges_without_direct_evidence": { "type": "integer" },
+    "assumptions_displayed": { "type": "integer" },
+    "reference_only_files_used_as_evidence": { "type": "integer" },
+    "warnings": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "errors": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

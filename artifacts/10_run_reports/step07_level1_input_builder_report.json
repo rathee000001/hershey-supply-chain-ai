@@ -1,0 +1,36 @@
+{
+  "run_name": "step07_build_level1_ai_inputs",
+  "run_time": "2026-05-06T20:04:03",
+  "root": "D:/HersheySupplyChainAI",
+  "documents_packaged": 120,
+  "total_chunks_available": 1901,
+  "max_chunks_per_doc": 8,
+  "max_total_chars_per_doc": 14000,
+  "ai_input_mode_counts": {
+    "text_plus_page_images": 14,
+    "visual_priority": 72,
+    "visual_asset_only": 9,
+    "text_only": 19,
+    "table_summary_plus_text": 6
+  },
+  "packet_counts": {
+    "hershey_company": 6,
+    "product_sku_1_55oz": 5,
+    "cocoa_chocolate_cocoa_butter": 16,
+    "dairy_milk_skim_milk_milk_fat": 20,
+    "natural_flavor": 9,
+    "packaging_wrapper": 8,
+    "pgpr": 10,
+    "soy_lecithin": 7,
+    "sugar": 17,
+    "logistics_distribution": 16,
+    "retail_price_evidence": 4,
+    "brand_logo_assets": 1,
+    "reference_only": 1
+  },
+  "level1_inputs_folder": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_inputs",
+  "manifest_json": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_inputs/_all_level1_inputs_manifest.json",
+  "priority_queue_csv": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_inputs/_level1_priority_queue.csv",
+  "priority_queue_json": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_inputs/_level1_priority_queue.json",
+  "next_step": "Step 08: run Level 1 parser on selected high-priority document input packets."
+}

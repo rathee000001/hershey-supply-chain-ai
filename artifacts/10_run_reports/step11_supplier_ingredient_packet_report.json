@@ -1,0 +1,24 @@
+{
+  "run_name": "step11_supplier_ingredient_packet_builder",
+  "run_time": "2026-05-06T20:18:54",
+  "root": "D:/HersheySupplyChainAI",
+  "strict_evidence_input": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs_strict/audited_evidence_blobs_strict.json",
+  "supplier_packets_created": 4,
+  "ingredient_packets_created": 10,
+  "supplier_relationship_level_counts": {
+    "company_level_confirmed": 2,
+    "unknown": 2
+  },
+  "ingredient_supplier_status_counts": {
+    "company_level_confirmed": 3,
+    "unknown": 7
+  },
+  "ingredient_cost_status_counts": {
+    "not_started": 10
+  },
+  "supplier_packets_json": "D:/HersheySupplyChainAI/artifacts/05_supplier_blobs/supplier_packets.json",
+  "supplier_packets_summary_csv": "D:/HersheySupplyChainAI/artifacts/05_supplier_blobs/supplier_packets_summary.csv",
+  "ingredient_packets_json": "D:/HersheySupplyChainAI/artifacts/06_ingredient_blobs/ingredient_packets.json",
+  "ingredient_packets_summary_csv": "D:/HersheySupplyChainAI/artifacts/06_ingredient_blobs/ingredient_packets_summary.csv",
+  "next_step": "Step 12: build cost model inputs and benchmark-backed low/base/high cost stack."
+}

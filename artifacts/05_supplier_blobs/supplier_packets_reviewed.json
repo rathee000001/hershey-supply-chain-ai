@@ -1,0 +1,143 @@
+[
+  {
+    "supplier_packet_id": "SUP_ASR_SUGAR",
+    "company_name": "American Sugar Refining / ASR",
+    "related_ingredient_or_stage": "Sugar",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "evidence_ids": [
+      "EV_SUGAR_0056_101",
+      "EV_SUGAR_0056_102",
+      "EV_SUGAR_0056_103",
+      "EV_SUGAR_0056_104"
+    ],
+    "safe_display_name": "ASR / American Sugar Refining",
+    "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+    "logo_allowed": true,
+    "logo_path": "03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+    "confidence_level": "high",
+    "limits": [
+      "Company-level relationship only.",
+      "Exact supplier allocation for the HERSHEY'S 1.55 oz bar is not publicly confirmed.",
+      "Do not state that ASR supplies the exact sugar in every bar."
+    ],
+    "packet_builder_meta": {
+      "created_by": "step11_supplier_ingredient_packet_builder",
+      "created_at": "2026-05-06T20:18:54",
+      "source": "strict audited evidence only"
+    }
+  },
+  {
+    "supplier_packet_id": "SUP_BARRY_CALLEBAUT_COCOA_CHOCOLATE",
+    "company_name": "Barry Callebaut",
+    "related_ingredient_or_stage": "Cocoa / Chocolate / Cocoa Butter",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "evidence_ids": [
+      "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_101",
+      "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_102",
+      "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_103",
+      "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_104",
+      "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0042_101"
+    ],
+    "safe_display_name": "Barry Callebaut",
+    "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+    "logo_allowed": true,
+    "logo_path": "03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+    "confidence_level": "high",
+    "limits": [
+      "Company-level relationship only.",
+      "Exact cocoa, chocolate, or cocoa butter allocation for the 1.55 oz SKU is not publicly confirmed.",
+      "Do not state that Barry Callebaut supplies the exact cocoa or cocoa butter in every bar."
+    ],
+    "packet_builder_meta": {
+      "created_by": "step11_supplier_ingredient_packet_builder",
+      "created_at": "2026-05-06T20:18:54",
+      "source": "strict audited evidence only"
+    }
+  },
+  {
+    "supplier_packet_id": "SUP_LAND_O_LAKES_DAIRY",
+    "company_name": "Land O'Lakes",
+    "related_ingredient_or_stage": "Milk / Skim Milk / Milk Fat",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "evidence_ids": [
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0029_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0036_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0039_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0057_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0063_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0085_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0102_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0105_001",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0105_900",
+      "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0120_001"
+    ],
+    "safe_display_name": "Land O'Lakes",
+    "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+    "logo_allowed": true,
+    "logo_path": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png",
+    "confidence_level": "medium",
+    "limits": [
+      "Company-level relationship only.",
+      "Exact milk, skim milk, or milk fat allocation for the 1.55 oz SKU is not publicly confirmed.",
+      "Do not state that Land O'Lakes supplies the exact dairy ingredients in every bar."
+    ],
+    "packet_builder_meta": {
+      "created_by": "step11_supplier_ingredient_packet_builder",
+      "created_at": "2026-05-06T20:18:54",
+      "source": "strict audited evidence only"
+    },
+    "reviewed_relationship_patch": {
+      "patched_at": "2026-05-06T20:21:16",
+      "patch_script": "08b_reviewed_relationship_patch.py",
+      "old_relationship_level": "unknown",
+      "new_relationship_level": "company_level_confirmed",
+      "review_note": "Promoted after reviewed relationship pass. Evidence remains company-level dairy context only; exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+      "evidence_count_after_patch": 10,
+      "safe_rule": "Company-level only. No SKU-level supplier claim."
+    }
+  },
+  {
+    "supplier_packet_id": "SUP_MCLANE_DISTRIBUTION",
+    "company_name": "McLane",
+    "related_ingredient_or_stage": "Distribution / Downstream Channel",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "evidence_ids": [
+      "EV_LOGISTICS_DISTRIBUTION_0004_001",
+      "EV_LOGISTICS_DISTRIBUTION_0004_900",
+      "EV_LOGISTICS_DISTRIBUTION_0006_001",
+      "EV_LOGISTICS_DISTRIBUTION_0006_900",
+      "EV_LOGISTICS_DISTRIBUTION_0037_900",
+      "EV_LOGISTICS_DISTRIBUTION_0060_001",
+      "EV_LOGISTICS_DISTRIBUTION_0118_001",
+      "EV_LOGISTICS_DISTRIBUTION_0118_900"
+    ],
+    "safe_display_name": "McLane",
+    "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+    "logo_allowed": true,
+    "logo_path": "04_logistics_distribution/05_logo_assets/mclane_logo_asset.png",
+    "confidence_level": "medium",
+    "limits": [
+      "Company-level downstream/distribution context only.",
+      "Exact route for this 1.55 oz SKU is not publicly confirmed.",
+      "Do not state that McLane distributes every 1.55 oz Hershey bar to every retailer."
+    ],
+    "packet_builder_meta": {
+      "created_by": "step11_supplier_ingredient_packet_builder",
+      "created_at": "2026-05-06T20:18:54",
+      "source": "strict audited evidence only"
+    },
+    "reviewed_relationship_patch": {
+      "patched_at": "2026-05-06T20:21:16",
+      "patch_script": "08b_reviewed_relationship_patch.py",
+      "old_relationship_level": "unknown",
+      "new_relationship_level": "company_level_confirmed",
+      "review_note": "Promoted after reviewed relationship pass. Evidence remains company-level downstream/distribution context only; exact route for the 1.55 oz SKU is not publicly confirmed.",
+      "evidence_count_after_patch": 8,
+      "safe_rule": "Company-level only. No SKU-level supplier claim."
+    }
+  }
+]

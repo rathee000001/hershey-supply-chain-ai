@@ -1,0 +1,25 @@
+{
+  "run_name": "step16a_export_display_ready_to_public",
+  "run_time": "2026-05-06T22:26:49",
+  "root": "D:/HersheySupplyChainAI",
+  "source_display_ready_folder": "D:/HersheySupplyChainAI/artifacts/09_display_ready",
+  "public_display_ready_folder": "D:/HersheySupplyChainAI/public/data/hershey/display_ready",
+  "public_asset_folder": "D:/HersheySupplyChainAI/public/data/hershey/assets",
+  "display_files_expected": 8,
+  "display_files_exported": 8,
+  "missing_files": [],
+  "assets_mapped": 4,
+  "assets_unresolved": 0,
+  "frontend_public_manifest": "D:/HersheySupplyChainAI/public/data/hershey/frontend_public_manifest.json",
+  "public_export_summary_csv": "D:/HersheySupplyChainAI/public/data/hershey/public_export_summary.csv",
+  "frontend_public_urls": {
+    "home_cards": "/data/hershey/display_ready/home_summary_cards.json",
+    "graph": "/data/hershey/display_ready/interactive_graph_payload.json",
+    "node_panels": "/data/hershey/display_ready/node_detail_panels.json",
+    "cost_breakdown": "/data/hershey/display_ready/cost_breakdown_display.json",
+    "suppliers": "/data/hershey/display_ready/supplier_display_cards.json",
+    "ingredients": "/data/hershey/display_ready/ingredient_display_cards.json",
+    "evidence": "/data/hershey/display_ready/evidence_panel_lookup.json"
+  },
+  "next_step": "Step 16B: validate public JSON payloads, then Step 17 can begin frontend page build."
+}

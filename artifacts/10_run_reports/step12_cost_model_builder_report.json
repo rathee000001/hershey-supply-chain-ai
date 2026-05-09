@@ -1,0 +1,29 @@
+{
+  "run_name": "step12_cost_model_builder",
+  "run_time": "2026-05-06T20:23:02",
+  "root": "D:/HersheySupplyChainAI",
+  "ingredient_packets_seen": 10,
+  "ingredient_cost_records_created": 9,
+  "non_ingredient_cost_records_created": 5,
+  "total_cost_records_created": 14,
+  "cost_type_counts": {
+    "freight": 1,
+    "ingredient": 9,
+    "manufacturing_conversion": 1,
+    "packaging": 1,
+    "retail_price": 1,
+    "storage": 1
+  },
+  "cost_stack_totals": {
+    "low_cents_per_bar": 14.7071,
+    "base_cents_per_bar": 31.8067,
+    "high_cents_per_bar": 60.037
+  },
+  "retail_price_status": "pending_visual_verification",
+  "cost_records_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_model_records.json",
+  "cost_stack_summary_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_stack_summary.json",
+  "cost_model_summary_csv": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_model_summary.csv",
+  "ingredient_packets_costed_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/ingredient_packets_costed.json",
+  "assumptions_register_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/assumptions_register.json",
+  "next_step": "Step 13: visual verification packet for product SKU and retail price pages, then retail residual calculation."
+}

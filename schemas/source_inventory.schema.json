@@ -1,0 +1,99 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SourceInventoryRecord",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "file_name",
+    "relative_path",
+    "packet",
+    "document_type",
+    "evidence_role",
+    "file_extension",
+    "parser_status"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string",
+      "description": "Stable unique ID for the source file."
+    },
+    "file_name": {
+      "type": "string"
+    },
+    "relative_path": {
+      "type": "string"
+    },
+    "absolute_path": {
+      "type": "string"
+    },
+    "packet": {
+      "type": "string",
+      "enum": [
+        "hershey_company",
+        "product_sku_1_55oz",
+        "supplier_packet",
+        "sugar",
+        "cocoa_chocolate_cocoa_butter",
+        "dairy_milk_skim_milk_milk_fat",
+        "soy_lecithin",
+        "pgpr",
+        "natural_flavor",
+        "packaging_wrapper",
+        "logistics_distribution",
+        "retail_price_evidence",
+        "brand_logo_assets",
+        "reference_only",
+        "unknown"
+      ]
+    },
+    "document_type": {
+      "type": "string",
+      "enum": [
+        "pdf_document",
+        "excel_workbook",
+        "csv_table",
+        "image_or_logo",
+        "word_document",
+        "text_document",
+        "unknown"
+      ]
+    },
+    "evidence_role": {
+      "type": "string",
+      "enum": [
+        "direct_company_evidence",
+        "supplier_relationship_context",
+        "benchmark_proxy",
+        "process_or_function_context",
+        "regulatory_definition",
+        "retail_price_evidence",
+        "visual_asset",
+        "reference_only",
+        "unknown"
+      ]
+    },
+    "file_extension": {
+      "type": "string"
+    },
+    "file_size_bytes": {
+      "type": "integer"
+    },
+    "sha256": {
+      "type": "string"
+    },
+    "parser_status": {
+      "type": "string",
+      "enum": [
+        "pending",
+        "extracted",
+        "parsed",
+        "audited",
+        "rejected",
+        "needs_review"
+      ]
+    },
+    "notes": {
+      "type": "string"
+    }
+  }
+}

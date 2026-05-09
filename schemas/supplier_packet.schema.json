@@ -1,0 +1,47 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SupplierPacket",
+  "type": "object",
+  "required": [
+    "supplier_packet_id",
+    "company_name",
+    "related_ingredient_or_stage",
+    "relationship_level",
+    "sku_level_confirmed",
+    "evidence_ids",
+    "confidence_level"
+  ],
+  "properties": {
+    "supplier_packet_id": { "type": "string" },
+    "company_name": { "type": "string" },
+    "related_ingredient_or_stage": { "type": "string" },
+    "relationship_level": {
+      "type": "string",
+      "enum": [
+        "sku_level_confirmed",
+        "company_level_confirmed",
+        "probable",
+        "benchmark_only",
+        "illustrative_only",
+        "unknown"
+      ]
+    },
+    "sku_level_confirmed": { "type": "boolean" },
+    "evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "safe_display_name": { "type": "string" },
+    "safe_website_wording": { "type": "string" },
+    "logo_allowed": { "type": "boolean" },
+    "logo_path": { "type": "string" },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "limits": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

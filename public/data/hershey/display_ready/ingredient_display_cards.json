@@ -1,0 +1,714 @@
+[
+  {
+    "ingredient_id": "ING_SUGAR",
+    "ingredient_name": "Sugar",
+    "label_order_position": 1,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "company_level_confirmed",
+    "confirmed_supplier_names": [
+      "American Sugar Refining / ASR"
+    ],
+    "confidence_level": "medium",
+    "origin_logic": "Sugar is modeled as an upstream sweetener input. Hershey sugar sourcing evidence and ASR evidence support company-level sugar sourcing context, while exact SKU-level allocation remains unconfirmed.",
+    "processing_logic": "Farm cane/beet sugar stream → milling/refining → refined sugar input → Hershey manufacturing.",
+    "supplier_limitations": [
+      "Supplier relationship is company-level only unless stated otherwise.",
+      "Exact 1.55 oz SKU-level allocation is not publicly confirmed.",
+      "Use safe wording only; do not claim exact supplier-to-bar allocation."
+    ],
+    "estimated_grams_base": 24.0,
+    "estimated_cost_base_cents": 2.9101,
+    "estimated_cost_low_cents": 1.6204,
+    "estimated_cost_high_cents": 4.5856,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 39,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_SUGAR_0002_001",
+        "source_file": "asr_refined_sugar_process_or_products.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0007_001",
+        "source_file": "ASR_Group_logo.svg",
+        "packet": "sugar",
+        "relationship_strength": "illustrative_only",
+        "claim_scope": "illustrative_only",
+        "safe_website_wording": "This file can be used only as a visual/reference asset. It does not support supplier, route, or cost claims.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0010_001",
+        "source_file": "asr_belize_sugar_industries_page.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0018_001",
+        "source_file": "asr_hershey_learn_to_grow_belize.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0025_001",
+        "source_file": "Group3-Tables-US-Sugar-Crop-Production-and-Sugar-Production-Deliveries-and-Stocks.csv",
+        "packet": "sugar",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "Group3-Tables-US-Sugar-Crop-Production-and-Sugar-Production-Deliveries-and-Stocks.csv can support benchmark, process, regulatory, or market context for Sugar. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_COCOA_CHOCOLATE",
+    "ingredient_name": "Chocolate / Cocoa",
+    "label_order_position": 2,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "company_level_confirmed",
+    "confirmed_supplier_names": [
+      "Barry Callebaut"
+    ],
+    "confidence_level": "medium",
+    "origin_logic": "Cocoa/chocolate is modeled as a major upstream cocoa stream. Barry Callebaut evidence supports company-level cocoa/chocolate relationship context, while exact SKU-level allocation remains unconfirmed.",
+    "processing_logic": "Cocoa origin/processing → cocoa liquor/chocolate inputs → Hershey manufacturing.",
+    "supplier_limitations": [
+      "Supplier relationship is company-level only unless stated otherwise.",
+      "Exact 1.55 oz SKU-level allocation is not publicly confirmed.",
+      "Use safe wording only; do not claim exact supplier-to-bar allocation."
+    ],
+    "estimated_grams_base": 5.5,
+    "estimated_cost_base_cents": 6.0627,
+    "estimated_cost_low_cents": 2.6455,
+    "estimated_cost_high_cents": 12.3459,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 95,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_001",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_302",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_303",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_304",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_307",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_COCOA_BUTTER",
+    "ingredient_name": "Cocoa Butter",
+    "label_order_position": 3,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "company_level_confirmed",
+    "confirmed_supplier_names": [
+      "Barry Callebaut"
+    ],
+    "confidence_level": "medium",
+    "origin_logic": "Cocoa butter is modeled as part of the cocoa ingredient stream. Public evidence supports company-level cocoa/chocolate context, not exact SKU-level cocoa butter supplier allocation.",
+    "processing_logic": "Cocoa bean processing → cocoa liquor pressing/separation → cocoa butter input → chocolate manufacturing.",
+    "supplier_limitations": [
+      "Supplier relationship is company-level only unless stated otherwise.",
+      "Exact 1.55 oz SKU-level allocation is not publicly confirmed.",
+      "Use safe wording only; do not claim exact supplier-to-bar allocation."
+    ],
+    "estimated_grams_base": 4.5,
+    "estimated_cost_base_cents": 8.4327,
+    "estimated_cost_low_cents": 3.6376,
+    "estimated_cost_high_cents": 16.5347,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 95,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_001",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_302",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_303",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_304",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0003_307",
+        "source_file": "usda_fas_ghana_cocoa_sector_overview_2025.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "usda_fas_ghana_cocoa_sector_overview_2025.pdf can support benchmark, process, regulatory, or market context for Cocoa / Chocolate / Cocoa Butter. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_MILK",
+    "ingredient_name": "Milk",
+    "label_order_position": 4,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "company_level_confirmed",
+    "confirmed_supplier_names": [
+      "Land O'Lakes"
+    ],
+    "confidence_level": "medium",
+    "origin_logic": "Milk is modeled as a dairy input. Hershey/Land O'Lakes evidence supports company-level dairy relationship context, while exact SKU-level dairy allocation remains unconfirmed.",
+    "processing_logic": "Dairy farms → cooperative/processor → milk stream → Hershey manufacturing.",
+    "supplier_limitations": [
+      "Supplier relationship is company-level only.",
+      "Exact 1.55 oz SKU-level dairy allocation is not publicly confirmed.",
+      "Use safe wording only; do not claim exact supplier-to-bar allocation."
+    ],
+    "estimated_grams_base": 3.0,
+    "estimated_cost_base_cents": 1.0582,
+    "estimated_cost_low_cents": 0.485,
+    "estimated_cost_high_cents": 1.9401,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 109,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0029_001",
+        "source_file": "land_o_lakes_who_we_are_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0036_001",
+        "source_file": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0038_001",
+        "source_file": "hershey_latest_esg_dairy_section.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "hershey_latest_esg_dairy_section.pdf can support benchmark, process, regulatory, or market context for Milk / Skim Milk / Milk Fat. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0038_304",
+        "source_file": "hershey_latest_esg_dairy_section.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "hershey_latest_esg_dairy_section.pdf can support benchmark, process, regulatory, or market context for Milk / Skim Milk / Milk Fat. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0039_001",
+        "source_file": "hershey_dairy_sourcing_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_SKIM_MILK",
+    "ingredient_name": "Skim Milk",
+    "label_order_position": 5,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "company_level_confirmed",
+    "confirmed_supplier_names": [
+      "Land O'Lakes"
+    ],
+    "confidence_level": "medium",
+    "origin_logic": "Skim milk is modeled as part of the dairy solids stream. Supplier is treated as company-level dairy context, not SKU-level confirmation.",
+    "processing_logic": "Milk separation → skim/nonfat solids stream → chocolate ingredient input.",
+    "supplier_limitations": [
+      "Supplier relationship is company-level only.",
+      "Exact 1.55 oz SKU-level dairy allocation is not publicly confirmed.",
+      "Use safe wording only; do not claim exact supplier-to-bar allocation."
+    ],
+    "estimated_grams_base": 2.0,
+    "estimated_cost_base_cents": 0.5952,
+    "estimated_cost_low_cents": 0.2205,
+    "estimated_cost_high_cents": 1.1905,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 109,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0029_001",
+        "source_file": "land_o_lakes_who_we_are_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0036_001",
+        "source_file": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0038_001",
+        "source_file": "hershey_latest_esg_dairy_section.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "hershey_latest_esg_dairy_section.pdf can support benchmark, process, regulatory, or market context for Milk / Skim Milk / Milk Fat. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0038_304",
+        "source_file": "hershey_latest_esg_dairy_section.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "hershey_latest_esg_dairy_section.pdf can support benchmark, process, regulatory, or market context for Milk / Skim Milk / Milk Fat. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0039_001",
+        "source_file": "hershey_dairy_sourcing_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_MILK_FAT",
+    "ingredient_name": "Milk Fat",
+    "label_order_position": 6,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "company_level_confirmed",
+    "confirmed_supplier_names": [
+      "Land O'Lakes"
+    ],
+    "confidence_level": "medium",
+    "origin_logic": "Milk fat is modeled as part of the dairy fat stream. Supplier evidence supports company-level dairy context, not exact SKU-level allocation.",
+    "processing_logic": "Milk separation → cream/butterfat stream → milk fat input → chocolate manufacturing.",
+    "supplier_limitations": [
+      "Supplier relationship is company-level only.",
+      "Exact 1.55 oz SKU-level dairy allocation is not publicly confirmed.",
+      "Use safe wording only; do not claim exact supplier-to-bar allocation."
+    ],
+    "estimated_grams_base": 2.5,
+    "estimated_cost_base_cents": 1.6535,
+    "estimated_cost_low_cents": 0.7275,
+    "estimated_cost_high_cents": 3.2408,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 109,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0029_001",
+        "source_file": "land_o_lakes_who_we_are_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0036_001",
+        "source_file": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0038_001",
+        "source_file": "hershey_latest_esg_dairy_section.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "hershey_latest_esg_dairy_section.pdf can support benchmark, process, regulatory, or market context for Milk / Skim Milk / Milk Fat. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0038_304",
+        "source_file": "hershey_latest_esg_dairy_section.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "hershey_latest_esg_dairy_section.pdf can support benchmark, process, regulatory, or market context for Milk / Skim Milk / Milk Fat. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0039_001",
+        "source_file": "hershey_dairy_sourcing_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_SOY_LECITHIN",
+    "ingredient_name": "Soy Lecithin",
+    "label_order_position": 7,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "unknown",
+    "confirmed_supplier_names": [],
+    "confidence_level": "low",
+    "origin_logic": "Soy lecithin is modeled as an emulsifier input. Supplier is not publicly confirmed for the 1.55 oz bar.",
+    "processing_logic": "Soybean oil processing byproduct/refining → lecithin emulsifier input.",
+    "supplier_limitations": [
+      "Supplier is not publicly confirmed for the 1.55 oz bar.",
+      "Use as ingredient/function/process input only.",
+      "Do not attach a specific supplier unless later direct evidence supports it."
+    ],
+    "estimated_grams_base": 0.15,
+    "estimated_cost_base_cents": 0.0827,
+    "estimated_cost_low_cents": 0.0265,
+    "estimated_cost_high_cents": 0.2646,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 14,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_SOY_LECITHIN_0030_001",
+        "source_file": "soy_lecithin_function_in_chocolate_explanation.pdf",
+        "packet": "soy_lecithin",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Soy Lecithin is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SOY_LECITHIN_0030_900",
+        "source_file": "soy_lecithin_function_in_chocolate_explanation.pdf",
+        "packet": "soy_lecithin",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Soy Lecithin is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SOY_LECITHIN_0048_001",
+        "source_file": "lecithin_emulsifier_chocolate_use.pdf",
+        "packet": "soy_lecithin",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Soy Lecithin is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SOY_LECITHIN_0048_900",
+        "source_file": "lecithin_emulsifier_chocolate_use.pdf",
+        "packet": "soy_lecithin",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Soy Lecithin is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SOY_LECITHIN_0064_001",
+        "source_file": "soy_lecithin_market_price_reference.pdf",
+        "packet": "soy_lecithin",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Soy Lecithin is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_PGPR",
+    "ingredient_name": "PGPR",
+    "label_order_position": 8,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "unknown",
+    "confirmed_supplier_names": [],
+    "confidence_level": "low",
+    "origin_logic": "PGPR is modeled as an emulsifier/flow-modifier input. Supplier is not publicly confirmed for the 1.55 oz bar.",
+    "processing_logic": "Castor oil / ricinoleic acid related stream → PGPR specialty ingredient → chocolate processing aid.",
+    "supplier_limitations": [
+      "Supplier is not publicly confirmed for the 1.55 oz bar.",
+      "Use as ingredient/function/process input only.",
+      "Do not attach a specific supplier unless later direct evidence supports it."
+    ],
+    "estimated_grams_base": 0.06,
+    "estimated_cost_base_cents": 0.0926,
+    "estimated_cost_low_cents": 0.0265,
+    "estimated_cost_high_cents": 0.3175,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 54,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_PGPR_0011_001",
+        "source_file": "fda_pgpr_gras_response_letter.pdf",
+        "packet": "pgpr",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "PGPR is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PGPR_0011_301",
+        "source_file": "fda_pgpr_gras_response_letter.pdf",
+        "packet": "pgpr",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "fda_pgpr_gras_response_letter.pdf can support benchmark, process, regulatory, or market context for PGPR. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PGPR_0011_302",
+        "source_file": "fda_pgpr_gras_response_letter.pdf",
+        "packet": "pgpr",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "fda_pgpr_gras_response_letter.pdf can support benchmark, process, regulatory, or market context for PGPR. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PGPR_0011_900",
+        "source_file": "fda_pgpr_gras_response_letter.pdf",
+        "packet": "pgpr",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "PGPR is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PGPR_0016_001",
+        "source_file": "castor_oil_ricinoleic_acid_pgpr_origin_reference.pdf",
+        "packet": "pgpr",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "PGPR is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_NATURAL_FLAVOR",
+    "ingredient_name": "Natural Flavor",
+    "label_order_position": 9,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "unknown",
+    "confirmed_supplier_names": [],
+    "confidence_level": "low",
+    "origin_logic": "Natural flavor is modeled as a flavor input. Exact composition and supplier are not publicly confirmed.",
+    "processing_logic": "Flavor source/extraction/fermentation/distillation context → natural flavor input.",
+    "supplier_limitations": [
+      "Supplier is not publicly confirmed for the 1.55 oz bar.",
+      "Use as ingredient/function/process input only.",
+      "Do not attach a specific supplier unless later direct evidence supports it."
+    ],
+    "estimated_grams_base": 0.03,
+    "estimated_cost_base_cents": 0.119,
+    "estimated_cost_low_cents": 0.0176,
+    "estimated_cost_high_cents": 0.6173,
+    "estimated_cost_status": "calculated",
+    "evidence_count": 19,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_NATURAL_FLAVOR_0009_001",
+        "source_file": "natural_flavor_extraction_distillation_fermentation_explanation.pdf",
+        "packet": "natural_flavor",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Natural Flavor is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_NATURAL_FLAVOR_0009_900",
+        "source_file": "natural_flavor_extraction_distillation_fermentation_explanation.pdf",
+        "packet": "natural_flavor",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Natural Flavor is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_NATURAL_FLAVOR_0013_001",
+        "source_file": "natural_flavor_function_in_food_explanation.pdf",
+        "packet": "natural_flavor",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Natural Flavor is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_NATURAL_FLAVOR_0013_900",
+        "source_file": "natural_flavor_function_in_food_explanation.pdf",
+        "packet": "natural_flavor",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Natural Flavor is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_NATURAL_FLAVOR_0015_001",
+        "source_file": "interim_gras_33_apr_2026.pdf",
+        "packet": "natural_flavor",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Natural Flavor is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "ingredient_id": "ING_PACKAGING_WRAPPER",
+    "ingredient_name": "Packaging / Wrapper",
+    "label_order_position": 10,
+    "label_status": "confirmed_by_label",
+    "supplier_status": "unknown",
+    "confirmed_supplier_names": [],
+    "confidence_level": "medium",
+    "origin_logic": "Packaging is modeled as a material input stream. Hershey packaging/pulp-paper evidence supports sourcing policy context, but exact wrapper supplier for the 1.55 oz bar is not publicly confirmed.",
+    "processing_logic": "Pulp/paper/flexible packaging stream → wrapper/carton/case packaging → Hershey wrapping/distribution.",
+    "supplier_limitations": [
+      "Supplier is not publicly confirmed for the 1.55 oz bar.",
+      "Use as ingredient/function/process input only.",
+      "Do not attach a specific supplier unless later direct evidence supports it."
+    ],
+    "estimated_grams_base": null,
+    "estimated_cost_base_cents": null,
+    "estimated_cost_low_cents": null,
+    "estimated_cost_high_cents": null,
+    "estimated_cost_status": "not_started",
+    "evidence_count": 45,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_PACKAGING_WRAPPER_0022_001",
+        "source_file": "pulp-and-paper-sourcing-policy.pdf",
+        "packet": "packaging_wrapper",
+        "relationship_strength": "unknown",
+        "claim_scope": "assumption_or_needs_review",
+        "safe_website_wording": "Packaging / Wrapper is retained as a modeled input, but supplier and SKU-level allocation remain unconfirmed unless direct evidence supports them.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PACKAGING_WRAPPER_0022_101",
+        "source_file": "pulp-and-paper-sourcing-policy.pdf",
+        "packet": "packaging_wrapper",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "pulp-and-paper-sourcing-policy.pdf can support benchmark, process, regulatory, or market context for Packaging / Wrapper. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PACKAGING_WRAPPER_0022_102",
+        "source_file": "pulp-and-paper-sourcing-policy.pdf",
+        "packet": "packaging_wrapper",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "pulp-and-paper-sourcing-policy.pdf can support benchmark, process, regulatory, or market context for Packaging / Wrapper. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PACKAGING_WRAPPER_0022_103",
+        "source_file": "pulp-and-paper-sourcing-policy.pdf",
+        "packet": "packaging_wrapper",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "pulp-and-paper-sourcing-policy.pdf can support benchmark, process, regulatory, or market context for Packaging / Wrapper. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_PACKAGING_WRAPPER_0022_104",
+        "source_file": "pulp-and-paper-sourcing-policy.pdf",
+        "packet": "packaging_wrapper",
+        "relationship_strength": "benchmark_only",
+        "claim_scope": "market_level",
+        "safe_website_wording": "pulp-and-paper-sourcing-policy.pdf can support benchmark, process, regulatory, or market context for Packaging / Wrapper. It does not represent Hershey's exact SKU-level invoice cost.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  }
+]

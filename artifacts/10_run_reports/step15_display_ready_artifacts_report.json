@@ -1,0 +1,17 @@
+{
+  "run_name": "step15_display_ready_artifacts",
+  "run_time": "2026-05-06T22:24:06",
+  "root": "D:/HersheySupplyChainAI",
+  "display_artifacts_created": 8,
+  "graph_nodes_for_frontend": 35,
+  "graph_edges_for_frontend": 36,
+  "node_detail_panels": 35,
+  "supplier_cards": 4,
+  "ingredient_cards": 10,
+  "home_summary_cards": 5,
+  "evidence_panel_items": 559,
+  "display_ready_folder": "D:/HersheySupplyChainAI/artifacts/09_display_ready",
+  "display_ready_manifest_json": "D:/HersheySupplyChainAI/artifacts/09_display_ready/display_ready_manifest.json",
+  "frontend_payload_summary_csv": "D:/HersheySupplyChainAI/artifacts/09_display_ready/frontend_payload_summary.csv",
+  "next_step": "Step 16: copy display-ready artifacts to public/data or build frontend pages that read from artifacts."
+}

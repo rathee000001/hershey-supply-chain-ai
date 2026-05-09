@@ -1,0 +1,29 @@
+{
+  "run_name": "step04_source_inventory_parser",
+  "run_time": "2026-05-06T19:54:04",
+  "root": "D:/HersheySupplyChainAI",
+  "raw_root": "D:/HersheySupplyChainAI/data/raw_sources",
+  "total_files_indexed": 120,
+  "supported_files": 120,
+  "unsupported_files": 0,
+  "packets_seen": [
+    "brand_logo_assets",
+    "cocoa_chocolate_cocoa_butter",
+    "dairy_milk_skim_milk_milk_fat",
+    "hershey_company",
+    "logistics_distribution",
+    "natural_flavor",
+    "packaging_wrapper",
+    "pgpr",
+    "product_sku_1_55oz",
+    "reference_only",
+    "retail_price_evidence",
+    "soy_lecithin",
+    "sugar"
+  ],
+  "source_inventory_json": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/source_inventory.json",
+  "source_inventory_csv": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/source_inventory.csv",
+  "packet_summary_json": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/packet_summary.json",
+  "packet_summary_csv": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/packet_summary.csv",
+  "next_step": "Step 05: extract text, tables, and page images from indexed raw sources."
+}

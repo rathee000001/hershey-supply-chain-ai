@@ -1,0 +1,45 @@
+{
+  "run_name": "step10b_level2_strict_evidence_cleanup",
+  "run_time": "2026-05-06T20:16:49",
+  "root": "D:/HersheySupplyChainAI",
+  "input_evidence_rows": 559,
+  "cleaned_evidence_rows": 559,
+  "approved_count": 238,
+  "needs_review_count": 184,
+  "rejected_count": 137,
+  "display_allowed_count": 228,
+  "audit_status_counts": {
+    "approved": 238,
+    "needs_review": 184,
+    "rejected": 137
+  },
+  "corrected_evidence_type_counts": {
+    "benchmark_proxy": 459,
+    "direct": 90,
+    "reference_only": 10
+  },
+  "corrected_relationship_strength_counts": {
+    "benchmark_only": 419,
+    "company_level_confirmed": 49,
+    "illustrative_only": 10,
+    "sku_level_confirmed": 5,
+    "unknown": 76
+  },
+  "display_allowed_by_packet": {
+    "cocoa_chocolate_cocoa_butter": 75,
+    "dairy_milk_skim_milk_milk_fat": 88,
+    "hershey_company": 2,
+    "logistics_distribution": 7,
+    "packaging_wrapper": 4,
+    "pgpr": 32,
+    "sugar": 20
+  },
+  "supports_supplier_packet_count": 9,
+  "supports_edge_count": 9,
+  "supports_cost_bucket_count": 219,
+  "strict_output_folder": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs_strict",
+  "strict_audited_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs_strict/audited_evidence_blobs_strict.json",
+  "strict_summary_csv": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs_strict/audited_evidence_summary_strict.csv",
+  "strict_display_candidates_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs_strict/approved_display_candidates_strict.json",
+  "next_step": "Step 11 should use the strict audited evidence folder, not the loose Step 10 folder."
+}

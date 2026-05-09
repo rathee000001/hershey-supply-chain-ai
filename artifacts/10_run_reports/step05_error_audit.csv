@@ -1,0 +1,2 @@
+"DocID","FileName","Packet","DocumentType","ArtifactPath","PdfErrors","TableErrors","ImageErrors","TextErrors"
+"DOC_3C7D40BBDFD0","mclane_logo_asset.png","logistics_distribution","image_or_logo","D:\HersheySupplyChainAI\artifacts\02_document_artifacts\DOC_3C7D40BBDFD0.stage05_extraction.json","","","image_metadata_error: cannot identify image file 'D:\\HersheySupplyChainAI\\data\\raw_sources\\04_logistics_distribution\\05_logo_assets\\mclane_logo_asset.png'",""

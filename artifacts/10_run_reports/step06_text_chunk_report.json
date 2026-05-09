@@ -1,0 +1,18 @@
+{
+  "run_name": "step06_build_text_chunks",
+  "run_time": "2026-05-06T19:59:46",
+  "root": "D:/HersheySupplyChainAI",
+  "source_inventory_input": "D:/HersheySupplyChainAI/artifacts/00_source_inventory/source_inventory_stage05_enriched.json",
+  "documents_seen": 120,
+  "files_with_text": 111,
+  "files_without_text": 9,
+  "total_chunks": 1901,
+  "max_chars": 2200,
+  "overlap": 300,
+  "text_chunks_jsonl": "D:/HersheySupplyChainAI/artifacts/02_text_chunks/text_chunks.jsonl",
+  "text_chunks_preview_json": "D:/HersheySupplyChainAI/artifacts/02_text_chunks/text_chunks_preview.json",
+  "document_chunk_summary_json": "D:/HersheySupplyChainAI/artifacts/02_text_chunks/document_chunk_summary.json",
+  "document_chunk_summary_csv": "D:/HersheySupplyChainAI/artifacts/02_text_chunks/document_chunk_summary.csv",
+  "packet_chunk_summary_json": "D:/HersheySupplyChainAI/artifacts/02_text_chunks/packet_chunk_summary.json",
+  "next_step": "Step 07: create Level 1 AI document parser inputs from chunks and extraction artifacts."
+}

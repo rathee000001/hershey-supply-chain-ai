@@ -1,0 +1,78 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EvidenceBlob",
+  "type": "object",
+  "required": [
+    "evidence_id",
+    "doc_id",
+    "claim",
+    "evidence_text",
+    "packet",
+    "category",
+    "evidence_type",
+    "relationship_strength",
+    "confidence_level",
+    "display_allowed"
+  ],
+  "properties": {
+    "evidence_id": { "type": "string" },
+    "doc_id": { "type": "string" },
+    "source_file": { "type": "string" },
+    "claim": { "type": "string" },
+    "evidence_text": { "type": "string" },
+    "page_or_section": { "type": "string" },
+    "packet": { "type": "string" },
+    "category": {
+      "type": "string",
+      "enum": [
+        "product_sku",
+        "ingredient",
+        "supplier",
+        "raw_material",
+        "manufacturing",
+        "packaging",
+        "warehousing",
+        "logistics",
+        "retail",
+        "cost",
+        "regulatory",
+        "process",
+        "visual_asset",
+        "reference_only"
+      ]
+    },
+    "evidence_type": {
+      "type": "string",
+      "enum": [
+        "direct",
+        "benchmark_proxy",
+        "assumption",
+        "reference_only"
+      ]
+    },
+    "relationship_strength": {
+      "type": "string",
+      "enum": [
+        "sku_level_confirmed",
+        "company_level_confirmed",
+        "probable",
+        "benchmark_only",
+        "illustrative_only",
+        "unknown"
+      ]
+    },
+    "related_company": { "type": "string" },
+    "related_ingredient": { "type": "string" },
+    "related_supply_chain_stage": { "type": "string" },
+    "related_cost_bucket": { "type": "string" },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "display_allowed": { "type": "boolean" },
+    "reason_display_allowed": { "type": "string" },
+    "requires_human_review": { "type": "boolean" },
+    "safe_website_wording": { "type": "string" },
+    "unsafe_wording_to_avoid": { "type": "string" }
+  }
+}

@@ -1,0 +1,61 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SupplyChainNode",
+  "type": "object",
+  "required": [
+    "node_id",
+    "node_type",
+    "label",
+    "confidence_level",
+    "relationship_status",
+    "display_allowed"
+  ],
+  "properties": {
+    "node_id": { "type": "string" },
+    "node_type": {
+      "type": "string",
+      "enum": [
+        "ingredient_origin",
+        "processor",
+        "supplier",
+        "hershey_facility",
+        "manufacturing_process",
+        "warehouse",
+        "distributor",
+        "retailer",
+        "consumer",
+        "cost_bucket",
+        "visual_reference"
+      ]
+    },
+    "label": { "type": "string" },
+    "description": { "type": "string" },
+    "company_name": { "type": "string" },
+    "product_or_material": { "type": "string" },
+    "location": { "type": "string" },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "relationship_status": {
+      "type": "string",
+      "enum": [
+        "sku_level_confirmed",
+        "company_level_confirmed",
+        "probable",
+        "benchmark_only",
+        "illustrative_only",
+        "unknown"
+      ]
+    },
+    "evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "display_allowed": { "type": "boolean" },
+    "logo_path": { "type": "string" },
+    "image_path": { "type": "string" },
+    "hover_summary": { "type": "string" },
+    "detail_panel_blob_id": { "type": "string" }
+  }
+}

@@ -1,0 +1,257 @@
+[
+  {
+    "supplier_packet_id": "SUP_ASR_SUGAR",
+    "company_name": "American Sugar Refining / ASR",
+    "safe_display_name": "ASR / American Sugar Refining",
+    "related_ingredient_or_stage": "Sugar",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "confidence_level": "high",
+    "logo_path": "/data/hershey/assets/ASR_Group_logo.svg",
+    "logo_allowed": true,
+    "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+    "limits": [
+      "Company-level relationship only.",
+      "Exact supplier allocation for the HERSHEY'S 1.55 oz bar is not publicly confirmed.",
+      "Do not state that ASR supplies the exact sugar in every bar."
+    ],
+    "evidence_count": 4,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_SUGAR_0056_101",
+        "source_file": "hershey_sustainable_sugar_sourcing_policy.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0056_102",
+        "source_file": "hershey_sustainable_sugar_sourcing_policy.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0056_103",
+        "source_file": "hershey_sustainable_sugar_sourcing_policy.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_SUGAR_0056_104",
+        "source_file": "hershey_sustainable_sugar_sourcing_policy.pdf",
+        "packet": "sugar",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "ASR is supported as a Hershey company-level sugar sourcing partner. Exact 1.55 oz SKU sugar allocation is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "supplier_packet_id": "SUP_BARRY_CALLEBAUT_COCOA_CHOCOLATE",
+    "company_name": "Barry Callebaut",
+    "safe_display_name": "Barry Callebaut",
+    "related_ingredient_or_stage": "Cocoa / Chocolate / Cocoa Butter",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "confidence_level": "high",
+    "logo_path": "/data/hershey/assets/barry_logo.svg",
+    "logo_allowed": true,
+    "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+    "limits": [
+      "Company-level relationship only.",
+      "Exact cocoa, chocolate, or cocoa butter allocation for the 1.55 oz SKU is not publicly confirmed.",
+      "Do not state that Barry Callebaut supplies the exact cocoa or cocoa butter in every bar."
+    ],
+    "evidence_count": 5,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_101",
+        "source_file": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_102",
+        "source_file": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_103",
+        "source_file": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0012_104",
+        "source_file": "barry_callebaut_hershey_supply_agreement_news_release.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_COCOA_CHOCOLATE_COCOA_BUTTER_0042_101",
+        "source_file": "barry_callebaut_social_environmental_impact_report_2024_25.pdf",
+        "packet": "cocoa_chocolate_cocoa_butter",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Barry Callebaut is supported as a Hershey company-level cocoa/chocolate supply partner. Exact 1.55 oz SKU cocoa or cocoa butter allocation is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "supplier_packet_id": "SUP_LAND_O_LAKES_DAIRY",
+    "company_name": "Land O'Lakes",
+    "safe_display_name": "Land O'Lakes",
+    "related_ingredient_or_stage": "Milk / Skim Milk / Milk Fat",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "confidence_level": "medium",
+    "logo_path": "/data/hershey/assets/land_o_lakes_logo_asset.png",
+    "logo_allowed": true,
+    "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+    "limits": [
+      "Company-level relationship only.",
+      "Exact milk, skim milk, or milk fat allocation for the 1.55 oz SKU is not publicly confirmed.",
+      "Do not state that Land O'Lakes supplies the exact dairy ingredients in every bar."
+    ],
+    "evidence_count": 10,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0029_001",
+        "source_file": "land_o_lakes_who_we_are_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0036_001",
+        "source_file": "land_o_lakes_hershey_chesapeake_bay_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0039_001",
+        "source_file": "hershey_dairy_sourcing_page.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0057_001",
+        "source_file": "epa_hershey_land_o_lakes_pa_dairy_farms_2m_commitment.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_DAIRY_MILK_SKIM_MILK_MILK_FAT_0063_001",
+        "source_file": "hershey_sustainable_dairy_pa_2021_press_release.pdf",
+        "packet": "dairy_milk_skim_milk_milk_fat",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "Land O'Lakes is supported as a Hershey company-level dairy partner/supplier. Exact 1.55 oz SKU dairy allocation is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  },
+  {
+    "supplier_packet_id": "SUP_MCLANE_DISTRIBUTION",
+    "company_name": "McLane",
+    "safe_display_name": "McLane",
+    "related_ingredient_or_stage": "Distribution / Downstream Channel",
+    "relationship_level": "company_level_confirmed",
+    "sku_level_confirmed": false,
+    "confidence_level": "medium",
+    "logo_path": "/data/hershey/assets/mclane_logo_asset.png",
+    "logo_allowed": true,
+    "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+    "limits": [
+      "Company-level downstream/distribution context only.",
+      "Exact route for this 1.55 oz SKU is not publicly confirmed.",
+      "Do not state that McLane distributes every 1.55 oz Hershey bar to every retailer."
+    ],
+    "evidence_count": 8,
+    "evidence_preview": [
+      {
+        "evidence_id": "EV_LOGISTICS_DISTRIBUTION_0004_001",
+        "source_file": "mclane_company_profile.pdf",
+        "packet": "logistics_distribution",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_LOGISTICS_DISTRIBUTION_0004_900",
+        "source_file": "mclane_company_profile.pdf",
+        "packet": "logistics_distribution",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_LOGISTICS_DISTRIBUTION_0006_001",
+        "source_file": "mclane_grocery_retail_distribution_page.pdf",
+        "packet": "logistics_distribution",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_LOGISTICS_DISTRIBUTION_0006_900",
+        "source_file": "mclane_grocery_retail_distribution_page.pdf",
+        "packet": "logistics_distribution",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+        "available": true
+      },
+      {
+        "evidence_id": "EV_LOGISTICS_DISTRIBUTION_0037_900",
+        "source_file": "mclane_logo_asset.png",
+        "packet": "logistics_distribution",
+        "relationship_strength": "company_level_confirmed",
+        "claim_scope": "company_level",
+        "safe_website_wording": "McLane/Hershey evidence supports company-level downstream or distribution context. Exact route for the 1.55 oz bar is not publicly confirmed.",
+        "available": true
+      }
+    ],
+    "display_allowed": true
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "run_name": "step09_build_evidence_blobs",
+  "run_time": "2026-05-06T20:08:00",
+  "root": "D:/HersheySupplyChainAI",
+  "level1_parsed_documents_seen": 120,
+  "evidence_blobs_created": 559,
+  "packet_counts": {
+    "logistics_distribution": 27,
+    "sugar": 42,
+    "cocoa_chocolate_cocoa_butter": 130,
+    "retail_price_evidence": 4,
+    "natural_flavor": 19,
+    "pgpr": 61,
+    "packaging_wrapper": 49,
+    "dairy_milk_skim_milk_milk_fat": 194,
+    "soy_lecithin": 14,
+    "product_sku_1_55oz": 5,
+    "hershey_company": 12,
+    "reference_only": 1,
+    "brand_logo_assets": 1
+  },
+  "evidence_type_counts": {
+    "benchmark_proxy": 500,
+    "direct": 49,
+    "reference_only": 10
+  },
+  "relationship_strength_counts": {
+    "benchmark_only": 471,
+    "company_level_confirmed": 17,
+    "illustrative_only": 10,
+    "sku_level_confirmed": 4,
+    "unknown": 53,
+    "probable": 4
+  },
+  "display_allowed_count": 0,
+  "requires_human_review_count": 264,
+  "evidence_blobs_json": "D:/HersheySupplyChainAI/artifacts/03_evidence_blobs/evidence_blobs.json",
+  "evidence_blobs_summary_csv": "D:/HersheySupplyChainAI/artifacts/03_evidence_blobs/evidence_blobs_summary.csv",
+  "next_step": "Step 10: Level 2 evidence audit and display-safety classification."
+}

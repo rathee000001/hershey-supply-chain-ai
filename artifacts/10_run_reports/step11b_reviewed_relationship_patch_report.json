@@ -1,0 +1,55 @@
+{
+  "run_name": "step11b_reviewed_relationship_patch",
+  "run_time": "2026-05-06T20:21:16",
+  "root": "D:/HersheySupplyChainAI",
+  "backup_supplier_file": "D:/HersheySupplyChainAI/artifacts/05_supplier_blobs/supplier_packets.json.pre_step11b_backup",
+  "backup_ingredient_file": "D:/HersheySupplyChainAI/artifacts/06_ingredient_blobs/ingredient_packets.json.pre_step11b_backup",
+  "supplier_changes": [
+    {
+      "target": "SUP_LAND_O_LAKES_DAIRY",
+      "type": "supplier_packet",
+      "old_relationship_level": "unknown",
+      "new_relationship_level": "company_level_confirmed",
+      "evidence_count": 10
+    },
+    {
+      "target": "SUP_MCLANE_DISTRIBUTION",
+      "type": "supplier_packet",
+      "old_relationship_level": "unknown",
+      "new_relationship_level": "company_level_confirmed",
+      "evidence_count": 8
+    }
+  ],
+  "ingredient_changes": [
+    {
+      "target": "ING_MILK",
+      "type": "ingredient_packet",
+      "old_supplier_status": "unknown",
+      "new_supplier_status": "company_level_confirmed"
+    },
+    {
+      "target": "ING_SKIM_MILK",
+      "type": "ingredient_packet",
+      "old_supplier_status": "unknown",
+      "new_supplier_status": "company_level_confirmed"
+    },
+    {
+      "target": "ING_MILK_FAT",
+      "type": "ingredient_packet",
+      "old_supplier_status": "unknown",
+      "new_supplier_status": "company_level_confirmed"
+    }
+  ],
+  "supplier_relationship_level_counts_after_patch": {
+    "company_level_confirmed": 4
+  },
+  "ingredient_supplier_status_counts_after_patch": {
+    "company_level_confirmed": 6,
+    "unknown": 4
+  },
+  "supplier_packets_json": "D:/HersheySupplyChainAI/artifacts/05_supplier_blobs/supplier_packets.json",
+  "ingredient_packets_json": "D:/HersheySupplyChainAI/artifacts/06_ingredient_blobs/ingredient_packets.json",
+  "reviewed_supplier_packets_json": "D:/HersheySupplyChainAI/artifacts/05_supplier_blobs/supplier_packets_reviewed.json",
+  "reviewed_ingredient_packets_json": "D:/HersheySupplyChainAI/artifacts/06_ingredient_blobs/ingredient_packets_reviewed.json",
+  "next_step": "Step 12: build benchmark-backed cost model inputs and low/base/high cost stack."
+}

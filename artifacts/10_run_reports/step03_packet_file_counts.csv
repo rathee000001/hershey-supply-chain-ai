@@ -1,0 +1,15 @@
+packet,relative_path,exists,total_files,supported_files,unsupported_files,by_extension
+hershey_company,data/raw_sources/00_hershey_company,True,6,6,0,"{"".pdf"": 6}"
+product_sku_1_55oz,data/raw_sources/01_product_sku_1_55oz,True,5,5,0,"{"".png"": 2, "".pdf"": 1, "".webp"": 2}"
+supplier_packets,data/raw_sources/02_supplier_packets,True,0,0,0,{}
+sugar,data/raw_sources/03_ingredient_research/sugar,True,17,17,0,"{"".pdf"": 14, "".svg"": 1, "".csv"": 1, "".xlsx"": 1}"
+cocoa_chocolate_cocoa_butter,data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter,True,16,16,0,"{"".pdf"": 15, "".svg"": 1}"
+dairy_milk_skim_milk_milk_fat,data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat,True,20,20,0,"{"".pdf"": 19, "".png"": 1}"
+soy_lecithin,data/raw_sources/03_ingredient_research/soy_lecithin,True,7,7,0,"{"".pdf"": 7}"
+pgpr,data/raw_sources/03_ingredient_research/pgpr,True,10,10,0,"{"".pdf"": 10}"
+natural_flavor,data/raw_sources/03_ingredient_research/natural_flavor,True,9,9,0,"{"".pdf"": 9}"
+packaging_wrapper,data/raw_sources/03_ingredient_research/packaging_wrapper,True,8,8,0,"{"".pdf"": 8}"
+logistics_distribution,data/raw_sources/04_logistics_distribution,True,16,16,0,"{"".pdf"": 11, "".png"": 1, "".xlsx"": 2, "".xls"": 1, "".csv"": 1}"
+retail_price_evidence,data/raw_sources/05_retail_price_evidence,True,4,4,0,"{"".pdf"": 4}"
+brand_logo_assets,data/raw_sources/06_brand_logo_assets,True,1,1,0,"{"".png"": 1}"
+reference_only,data/raw_sources/07_reference_only,True,1,1,0,"{"".pdf"": 1}"

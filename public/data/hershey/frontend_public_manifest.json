@@ -1,0 +1,41 @@
+{
+  "public_export_version": "v1",
+  "created_at": "2026-05-06T22:26:49",
+  "project": "Hershey 1.55 oz Milk Chocolate Supply Chain Intelligence",
+  "base_public_path": "/data/hershey",
+  "display_ready_base": "/data/hershey/display_ready",
+  "asset_base": "/data/hershey/assets",
+  "frontend_rule": "Frontend should read these artifacts only. Hardcode layout labels only; do not hardcode supplier/cost claims.",
+  "artifacts": {
+    "display_ready_manifest": "/data/hershey/display_ready/display_ready_manifest.json",
+    "home_summary_cards": "/data/hershey/display_ready/home_summary_cards.json",
+    "interactive_graph_payload": "/data/hershey/display_ready/interactive_graph_payload.json",
+    "node_detail_panels": "/data/hershey/display_ready/node_detail_panels.json",
+    "cost_breakdown_display": "/data/hershey/display_ready/cost_breakdown_display.json",
+    "supplier_display_cards": "/data/hershey/display_ready/supplier_display_cards.json",
+    "ingredient_display_cards": "/data/hershey/display_ready/ingredient_display_cards.json",
+    "evidence_panel_lookup": "/data/hershey/display_ready/evidence_panel_lookup.json"
+  },
+  "primary_artifacts": {
+    "home_cards": "/data/hershey/display_ready/home_summary_cards.json",
+    "graph": "/data/hershey/display_ready/interactive_graph_payload.json",
+    "node_panels": "/data/hershey/display_ready/node_detail_panels.json",
+    "cost_breakdown": "/data/hershey/display_ready/cost_breakdown_display.json",
+    "suppliers": "/data/hershey/display_ready/supplier_display_cards.json",
+    "ingredients": "/data/hershey/display_ready/ingredient_display_cards.json",
+    "evidence": "/data/hershey/display_ready/evidence_panel_lookup.json"
+  },
+  "asset_map": {
+    "03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg": "/data/hershey/assets/ASR_Group_logo.svg",
+    "03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg": "/data/hershey/assets/barry_logo.svg",
+    "03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png": "/data/hershey/assets/land_o_lakes_logo_asset.png",
+    "04_logistics_distribution/05_logo_assets/mclane_logo_asset.png": "/data/hershey/assets/mclane_logo_asset.png"
+  },
+  "safe_display_rules": [
+    "Supplier relationships are company-level unless explicitly marked SKU-level.",
+    "Minor ingredient suppliers are unknown unless direct evidence proves otherwise.",
+    "Manufacturing process nodes are general modeled process nodes, not proprietary Hershey line claims.",
+    "Cost values are public-evidence benchmark estimates, not Hershey internal SKU costs.",
+    "Residual channel/commercial pool is not profit."
+  ]
+}

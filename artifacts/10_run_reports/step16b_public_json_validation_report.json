@@ -1,0 +1,29 @@
+{
+  "run_name": "step16b_public_json_validation",
+  "run_time": "2026-05-06T22:29:52",
+  "root": "D:/HersheySupplyChainAI",
+  "validation_status": "pass",
+  "total_checks": 42,
+  "failed_checks": 0,
+  "critical_failures": 0,
+  "high_failures": 0,
+  "loaded_public_files": [
+    "frontend_public_manifest",
+    "display_ready_manifest",
+    "home_summary_cards",
+    "interactive_graph_payload",
+    "node_detail_panels",
+    "cost_breakdown_display",
+    "supplier_display_cards",
+    "ingredient_display_cards",
+    "evidence_panel_lookup"
+  ],
+  "frontend_graph_nodes": 35,
+  "frontend_graph_edges": 36,
+  "node_detail_panels": 35,
+  "supplier_cards": 4,
+  "ingredient_cards": 10,
+  "home_cards": 5,
+  "checks_csv": "D:/HersheySupplyChainAI/artifacts/10_run_reports/step16b_public_json_validation_checks.csv",
+  "next_step": "Step 17: begin frontend page build from public JSON artifacts."
+}

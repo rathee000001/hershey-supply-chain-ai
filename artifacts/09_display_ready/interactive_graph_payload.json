@@ -1,0 +1,1252 @@
+{
+  "payload_version": "v1_interactive_graph_payload",
+  "project": "Hershey Supply Chain AI",
+  "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",
+  "safe_display_rules": [
+    "Supplier relationships are company-level unless explicitly marked SKU-level.",
+    "Minor ingredient suppliers are unknown unless direct evidence proves otherwise.",
+    "Manufacturing process nodes are general modeled process nodes, not proprietary Hershey line claims.",
+    "Cost values are public-evidence benchmark estimates, not Hershey internal SKU costs.",
+    "Residual channel/commercial pool is not profit."
+  ],
+  "nodes": [
+    {
+      "id": "NODE_PRODUCT_HERSHEY_155OZ",
+      "type": "visual_reference",
+      "label": "HERSHEY'S 1.55 oz Bar",
+      "description": "Target SKU: HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g, U.S. market.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "HERSHEY'S Milk Chocolate Candy Bar 1.55 oz / 43 g",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Target SKU for the supply-chain and cost model.",
+      "detailPanelId": "PANEL_NODE_PRODUCT_HERSHEY_155OZ",
+      "cost": {
+        "low": 14.7071,
+        "base": 31.8067,
+        "high": 60.037
+      },
+      "retail": {
+        "low": 162.0,
+        "base": 199.75,
+        "high": 219.0
+      }
+    },
+    {
+      "id": "NODE_HERSHEY_MANUFACTURING",
+      "type": "hershey_facility",
+      "label": "Hershey Manufacturing",
+      "description": "Modeled Hershey manufacturing center where raw materials, minor ingredients, and packaging converge.",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Central manufacturing node. Internal process is modeled generally, not proprietary line data.",
+      "detailPanelId": "PANEL_NODE_HERSHEY_MANUFACTURING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_ORIGIN_SUGAR",
+      "type": "ingredient_origin",
+      "label": "Sugar Cane / Beet Stream",
+      "description": "Modeled sugar origin stream before refining and Hershey sourcing.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "Sugar",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Sugar origin is modeled from public sourcing and benchmark context.",
+      "detailPanelId": "PANEL_NODE_ORIGIN_SUGAR",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_ORIGIN_COCOA",
+      "type": "ingredient_origin",
+      "label": "Cocoa Origin Stream",
+      "description": "Modeled cocoa origin stream before cocoa/chocolate processing.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "Cocoa / Chocolate",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Cocoa origin and chocolate input stream.",
+      "detailPanelId": "PANEL_NODE_ORIGIN_COCOA",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_ORIGIN_DAIRY",
+      "type": "ingredient_origin",
+      "label": "Dairy Farm Stream",
+      "description": "Modeled dairy origin stream before cooperative/processor stage.",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "Milk / Dairy",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Dairy farm/cooperative stream feeding dairy ingredients.",
+      "detailPanelId": "PANEL_NODE_ORIGIN_DAIRY",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_SUPPLIER_ASR",
+      "type": "supplier",
+      "label": "ASR / American Sugar Refining",
+      "description": "Sugar supplier stream. Company-level relationship only; exact SKU allocation is not publicly confirmed.",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "ASR / American Sugar Refining",
+      "material": "Sugar",
+      "logoPath": "03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+      "imagePath": "",
+      "hoverSummary": "ASR / American Sugar Refining: company-level supplier context, not SKU-level allocation.",
+      "detailPanelId": "PANEL_NODE_SUPPLIER_ASR",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_SUPPLIER_BARRY",
+      "type": "supplier",
+      "label": "Barry Callebaut",
+      "description": "Cocoa/chocolate supplier stream. Company-level relationship only; exact SKU allocation is not publicly confirmed.",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "Barry Callebaut",
+      "material": "Cocoa / Chocolate / Cocoa Butter",
+      "logoPath": "03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+      "imagePath": "",
+      "hoverSummary": "Barry Callebaut: company-level supplier context, not SKU-level allocation.",
+      "detailPanelId": "PANEL_NODE_SUPPLIER_BARRY",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_SUPPLIER_LAND_O_LAKES",
+      "type": "supplier",
+      "label": "Land O'Lakes",
+      "description": "Dairy supplier stream. Company-level relationship only; exact SKU allocation is not publicly confirmed.",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "Land O'Lakes",
+      "material": "Milk / Skim Milk / Milk Fat",
+      "logoPath": "03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png",
+      "imagePath": "",
+      "hoverSummary": "Land O'Lakes: company-level supplier context, not SKU-level allocation.",
+      "detailPanelId": "PANEL_NODE_SUPPLIER_LAND_O_LAKES",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_ING_SOY_LECITHIN",
+      "type": "processor",
+      "label": "Soy Lecithin",
+      "description": "Emulsifier input; supplier unknown.",
+      "relationshipStatus": "unknown",
+      "confidenceLevel": "low",
+      "companyName": "",
+      "material": "Soy Lecithin",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Emulsifier input; supplier unknown.",
+      "detailPanelId": "PANEL_NODE_ING_SOY_LECITHIN",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_ING_PGPR",
+      "type": "processor",
+      "label": "PGPR",
+      "description": "Specialty emulsifier/flow modifier input; supplier unknown.",
+      "relationshipStatus": "unknown",
+      "confidenceLevel": "low",
+      "companyName": "",
+      "material": "PGPR",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Specialty emulsifier/flow modifier input; supplier unknown.",
+      "detailPanelId": "PANEL_NODE_ING_PGPR",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_ING_NATURAL_FLAVOR",
+      "type": "processor",
+      "label": "Natural Flavor",
+      "description": "Flavor input; exact composition and supplier unknown.",
+      "relationshipStatus": "unknown",
+      "confidenceLevel": "low",
+      "companyName": "",
+      "material": "Natural Flavor",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Flavor input; exact composition and supplier unknown.",
+      "detailPanelId": "PANEL_NODE_ING_NATURAL_FLAVOR",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PACKAGING_STREAM",
+      "type": "processor",
+      "label": "Packaging / Wrapper Stream",
+      "description": "Modeled packaging stream for wrapper, paperboard, and secondary packaging. Exact wrapper supplier is not confirmed.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "Packaging / Wrapper",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Packaging input stream with benchmark-backed cost allocation.",
+      "detailPanelId": "PANEL_NODE_PACKAGING_STREAM",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_RECEIVING",
+      "type": "manufacturing_process",
+      "label": "Raw Material Receiving",
+      "description": "Raw materials and packaging arrive at Hershey manufacturing.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Raw materials and packaging arrive at Hershey manufacturing.",
+      "detailPanelId": "PANEL_NODE_PROCESS_RECEIVING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_STORAGE",
+      "type": "manufacturing_process",
+      "label": "Ingredient Storage",
+      "description": "Inputs are stored before production; modeled general process node.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Inputs are stored before production; modeled general process node.",
+      "detailPanelId": "PANEL_NODE_PROCESS_STORAGE",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_MIXING_REFINING",
+      "type": "manufacturing_process",
+      "label": "Mixing / Refining",
+      "description": "Chocolate ingredients are mixed/refined in modeled manufacturing flow.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Chocolate ingredients are mixed/refined in modeled manufacturing flow.",
+      "detailPanelId": "PANEL_NODE_PROCESS_MIXING_REFINING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_CONCHING",
+      "type": "manufacturing_process",
+      "label": "Conching / Chocolate Processing",
+      "description": "Modeled chocolate processing step; not proprietary Hershey line data.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Modeled chocolate processing step; not proprietary Hershey line data.",
+      "detailPanelId": "PANEL_NODE_PROCESS_CONCHING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_TEMPERING_MOLDING",
+      "type": "manufacturing_process",
+      "label": "Tempering / Molding",
+      "description": "Chocolate is tempered and molded into bar form.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Chocolate is tempered and molded into bar form.",
+      "detailPanelId": "PANEL_NODE_PROCESS_TEMPERING_MOLDING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_COOLING",
+      "type": "manufacturing_process",
+      "label": "Cooling",
+      "description": "Molded chocolate cools and stabilizes.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Molded chocolate cools and stabilizes.",
+      "detailPanelId": "PANEL_NODE_PROCESS_COOLING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_WRAPPING",
+      "type": "manufacturing_process",
+      "label": "Wrapping / Packaging",
+      "description": "Finished bar is wrapped and prepared for distribution.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Finished bar is wrapped and prepared for distribution.",
+      "detailPanelId": "PANEL_NODE_PROCESS_WRAPPING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_PROCESS_FINISHED_GOODS",
+      "type": "manufacturing_process",
+      "label": "Finished Goods",
+      "description": "Packaged bars enter finished-goods inventory before distribution.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "The Hershey Company",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Packaged bars enter finished-goods inventory before distribution.",
+      "detailPanelId": "PANEL_NODE_PROCESS_FINISHED_GOODS",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_WAREHOUSE_DISTRIBUTION_CENTER",
+      "type": "warehouse",
+      "label": "Warehouse / Distribution Center",
+      "description": "Modeled storage/distribution node between Hershey finished goods and downstream movement.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Storage and distribution allocation node.",
+      "detailPanelId": "PANEL_NODE_WAREHOUSE_DISTRIBUTION_CENTER",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COMMON_CARRIER_TRUCKING",
+      "type": "distributor",
+      "label": "Common Carrier / Trucking",
+      "description": "Modeled outbound freight/trucking movement using public logistics benchmark context.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Outbound freight and diesel/trucking benchmark node.",
+      "detailPanelId": "PANEL_NODE_COMMON_CARRIER_TRUCKING",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_DISTRIBUTOR_MCLANE",
+      "type": "distributor",
+      "label": "McLane",
+      "description": "Company-level downstream/distribution context. Exact route for this SKU is not confirmed.",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "McLane",
+      "material": "Distribution",
+      "logoPath": "04_logistics_distribution/05_logo_assets/mclane_logo_asset.png",
+      "imagePath": "",
+      "hoverSummary": "McLane downstream context; not an exact route claim.",
+      "detailPanelId": "PANEL_NODE_DISTRIBUTOR_MCLANE",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_RETAILER_WALMART",
+      "type": "retailer",
+      "label": "Walmart",
+      "description": "Walmart retail price evidence for the 1.55 oz bar was manually verified.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "Walmart",
+      "material": "Retail shelf price",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Walmart: verified retail price evidence.",
+      "detailPanelId": "PANEL_NODE_RETAILER_WALMART",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_RETAILER_TARGET",
+      "type": "retailer",
+      "label": "Target",
+      "description": "Target retail price evidence for the 1.55 oz bar was manually verified.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "Target",
+      "material": "Retail shelf price",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Target: verified retail price evidence.",
+      "detailPanelId": "PANEL_NODE_RETAILER_TARGET",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_RETAILER_CVS",
+      "type": "retailer",
+      "label": "CVS",
+      "description": "CVS retail price evidence for the 1.55 oz bar was manually verified.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "CVS",
+      "material": "Retail shelf price",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "CVS: verified retail price evidence.",
+      "detailPanelId": "PANEL_NODE_RETAILER_CVS",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_RETAILER_WALGREENS",
+      "type": "retailer",
+      "label": "Walgreens",
+      "description": "Walgreens retail price evidence for the 1.55 oz bar was manually verified.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "Walgreens",
+      "material": "Retail shelf price",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Walgreens: verified retail price evidence.",
+      "detailPanelId": "PANEL_NODE_RETAILER_WALGREENS",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_CONSUMER",
+      "type": "consumer",
+      "label": "Consumer",
+      "description": "Final consumer purchase point in the modeled supply chain.",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "End consumer node.",
+      "detailPanelId": "PANEL_NODE_CONSUMER",
+      "cost": {
+        "low": null,
+        "base": null,
+        "high": null
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_INGREDIENTS",
+      "type": "cost_bucket",
+      "label": "Ingredient Cost",
+      "description": "Ingredient Cost low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "ingredient",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Ingredient Cost: base 21.01¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_INGREDIENTS",
+      "cost": {
+        "low": 9.4071,
+        "base": 21.0067,
+        "high": 41.037
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_PACKAGING",
+      "type": "cost_bucket",
+      "label": "Packaging Cost",
+      "description": "Packaging Cost low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "packaging",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Packaging Cost: base 2.8¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_PACKAGING",
+      "cost": {
+        "low": 1.5,
+        "base": 2.8,
+        "high": 5.0
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_MANUFACTURING",
+      "type": "cost_bucket",
+      "label": "Manufacturing Conversion",
+      "description": "Manufacturing Conversion low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "manufacturing_conversion",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Manufacturing Conversion: base 6.0¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_MANUFACTURING",
+      "cost": {
+        "low": 3.0,
+        "base": 6.0,
+        "high": 10.0
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_STORAGE",
+      "type": "cost_bucket",
+      "label": "Storage / Warehousing Cost",
+      "description": "Storage / Warehousing Cost low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "storage",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Storage / Warehousing Cost: base 0.8¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_STORAGE",
+      "cost": {
+        "low": 0.3,
+        "base": 0.8,
+        "high": 1.5
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_FREIGHT",
+      "type": "cost_bucket",
+      "label": "Freight Cost",
+      "description": "Freight Cost low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "freight",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Freight Cost: base 1.2¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_FREIGHT",
+      "cost": {
+        "low": 0.5,
+        "base": 1.2,
+        "high": 2.5
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_RETAIL",
+      "type": "cost_bucket",
+      "label": "Observed Retail Price",
+      "description": "Observed Retail Price low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "companyName": "",
+      "material": "retail_price",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Observed Retail Price: base 199.75¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_RETAIL",
+      "cost": {
+        "low": 162.0,
+        "base": 199.75,
+        "high": 219.0
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    },
+    {
+      "id": "NODE_COST_RESIDUAL",
+      "type": "cost_bucket",
+      "label": "Residual Channel / Commercial Pool",
+      "description": "Residual Channel / Commercial Pool low/base/high cents per bar from the benchmark model.",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "low",
+      "companyName": "",
+      "material": "residual_channel_pool",
+      "logoPath": "",
+      "imagePath": "",
+      "hoverSummary": "Residual Channel / Commercial Pool: base 167.94¢ per bar.",
+      "detailPanelId": "PANEL_NODE_COST_RESIDUAL",
+      "cost": {
+        "low": 101.963,
+        "base": 167.9433,
+        "high": 204.2929
+      },
+      "retail": {
+        "low": null,
+        "base": null,
+        "high": null
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "EDGE_SUGAR_ORIGIN_TO_ASR",
+      "source": "NODE_ORIGIN_SUGAR",
+      "target": "NODE_SUPPLIER_ASR",
+      "flowType": "ingredient",
+      "materialFlow": "Sugar cane/beet stream to sugar refiner/supplier context",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Company-level sugar sourcing context; not SKU-level proof."
+    },
+    {
+      "id": "EDGE_ASR_TO_HERSHEY_RECEIVING",
+      "source": "NODE_SUPPLIER_ASR",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "ingredient",
+      "materialFlow": "Refined sugar input stream",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "ASR → Hershey is company-level supplier context only."
+    },
+    {
+      "id": "EDGE_COCOA_ORIGIN_TO_BARRY",
+      "source": "NODE_ORIGIN_COCOA",
+      "target": "NODE_SUPPLIER_BARRY",
+      "flowType": "ingredient",
+      "materialFlow": "Cocoa/chocolate input stream",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Barry Callebaut company-level cocoa/chocolate context."
+    },
+    {
+      "id": "EDGE_BARRY_TO_HERSHEY_RECEIVING",
+      "source": "NODE_SUPPLIER_BARRY",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "ingredient",
+      "materialFlow": "Cocoa/chocolate/cocoa butter input stream",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Not exact SKU-level cocoa allocation."
+    },
+    {
+      "id": "EDGE_DAIRY_ORIGIN_TO_LAND_O_LAKES",
+      "source": "NODE_ORIGIN_DAIRY",
+      "target": "NODE_SUPPLIER_LAND_O_LAKES",
+      "flowType": "ingredient",
+      "materialFlow": "Dairy farm/cooperative stream",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Land O'Lakes company-level dairy context."
+    },
+    {
+      "id": "EDGE_LAND_O_LAKES_TO_HERSHEY_RECEIVING",
+      "source": "NODE_SUPPLIER_LAND_O_LAKES",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "ingredient",
+      "materialFlow": "Milk / skim milk / milk fat input stream",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Not exact SKU-level dairy allocation."
+    },
+    {
+      "id": "EDGE_SOY_LECITHIN_TO_HERSHEY",
+      "source": "NODE_ING_SOY_LECITHIN",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "ingredient",
+      "materialFlow": "Soy lecithin emulsifier input",
+      "relationshipStatus": "unknown",
+      "confidenceLevel": "low",
+      "animationType": "moving_particles",
+      "tooltipText": "Supplier unknown or benchmark-only; no exact supplier claim."
+    },
+    {
+      "id": "EDGE_PGPR_TO_HERSHEY",
+      "source": "NODE_ING_PGPR",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "ingredient",
+      "materialFlow": "PGPR emulsifier/flow modifier input",
+      "relationshipStatus": "unknown",
+      "confidenceLevel": "low",
+      "animationType": "moving_particles",
+      "tooltipText": "Supplier unknown or benchmark-only; no exact supplier claim."
+    },
+    {
+      "id": "EDGE_NATURAL_FLAVOR_TO_HERSHEY",
+      "source": "NODE_ING_NATURAL_FLAVOR",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "ingredient",
+      "materialFlow": "Natural flavor input",
+      "relationshipStatus": "unknown",
+      "confidenceLevel": "low",
+      "animationType": "moving_particles",
+      "tooltipText": "Supplier unknown or benchmark-only; no exact supplier claim."
+    },
+    {
+      "id": "EDGE_PACKAGING_TO_HERSHEY",
+      "source": "NODE_PACKAGING_STREAM",
+      "target": "NODE_PROCESS_RECEIVING",
+      "flowType": "packaging",
+      "materialFlow": "Wrapper and packaging input",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Supplier unknown or benchmark-only; no exact supplier claim."
+    },
+    {
+      "id": "EDGE_PROCESS_01",
+      "source": "NODE_PROCESS_RECEIVING",
+      "target": "NODE_PROCESS_STORAGE",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_02",
+      "source": "NODE_PROCESS_STORAGE",
+      "target": "NODE_PROCESS_MIXING_REFINING",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_03",
+      "source": "NODE_PROCESS_MIXING_REFINING",
+      "target": "NODE_PROCESS_CONCHING",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_04",
+      "source": "NODE_PROCESS_CONCHING",
+      "target": "NODE_PROCESS_TEMPERING_MOLDING",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_05",
+      "source": "NODE_PROCESS_TEMPERING_MOLDING",
+      "target": "NODE_PROCESS_COOLING",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_06",
+      "source": "NODE_PROCESS_COOLING",
+      "target": "NODE_PROCESS_WRAPPING",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_07",
+      "source": "NODE_PROCESS_WRAPPING",
+      "target": "NODE_PROCESS_FINISHED_GOODS",
+      "flowType": "ingredient",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_PROCESS_08",
+      "source": "NODE_PROCESS_FINISHED_GOODS",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "finished_goods",
+      "materialFlow": "Modeled manufacturing process flow",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "General chocolate manufacturing process model, not proprietary Hershey line data."
+    },
+    {
+      "id": "EDGE_DOWNSTREAM_01",
+      "source": "NODE_PRODUCT_HERSHEY_155OZ",
+      "target": "NODE_WAREHOUSE_DISTRIBUTION_CENTER",
+      "flowType": "finished_goods",
+      "materialFlow": "Finished bars to warehouse/DC",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Downstream logistics are modeled; exact SKU route is not confirmed."
+    },
+    {
+      "id": "EDGE_DOWNSTREAM_02",
+      "source": "NODE_WAREHOUSE_DISTRIBUTION_CENTER",
+      "target": "NODE_COMMON_CARRIER_TRUCKING",
+      "flowType": "logistics",
+      "materialFlow": "Outbound movement",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "truck",
+      "tooltipText": "Downstream logistics are modeled; exact SKU route is not confirmed."
+    },
+    {
+      "id": "EDGE_DOWNSTREAM_03",
+      "source": "NODE_COMMON_CARRIER_TRUCKING",
+      "target": "NODE_DISTRIBUTOR_MCLANE",
+      "flowType": "logistics",
+      "materialFlow": "Distribution / downstream channel movement",
+      "relationshipStatus": "company_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "truck",
+      "tooltipText": "Downstream logistics are modeled; exact SKU route is not confirmed."
+    },
+    {
+      "id": "EDGE_MCLANE_TO_WALMART",
+      "source": "NODE_DISTRIBUTOR_MCLANE",
+      "target": "NODE_RETAILER_WALMART",
+      "flowType": "logistics",
+      "materialFlow": "Modeled downstream path to Walmart",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "truck",
+      "tooltipText": "Walmart has verified retail price evidence; exact distribution path is modeled."
+    },
+    {
+      "id": "EDGE_WALMART_TO_CONSUMER",
+      "source": "NODE_RETAILER_WALMART",
+      "target": "NODE_CONSUMER",
+      "flowType": "finished_goods",
+      "materialFlow": "Retail sale to consumer",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Walmart price evidence supports retail sale context."
+    },
+    {
+      "id": "EDGE_MCLANE_TO_TARGET",
+      "source": "NODE_DISTRIBUTOR_MCLANE",
+      "target": "NODE_RETAILER_TARGET",
+      "flowType": "logistics",
+      "materialFlow": "Modeled downstream path to Target",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "truck",
+      "tooltipText": "Target has verified retail price evidence; exact distribution path is modeled."
+    },
+    {
+      "id": "EDGE_TARGET_TO_CONSUMER",
+      "source": "NODE_RETAILER_TARGET",
+      "target": "NODE_CONSUMER",
+      "flowType": "finished_goods",
+      "materialFlow": "Retail sale to consumer",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Target price evidence supports retail sale context."
+    },
+    {
+      "id": "EDGE_MCLANE_TO_CVS",
+      "source": "NODE_DISTRIBUTOR_MCLANE",
+      "target": "NODE_RETAILER_CVS",
+      "flowType": "logistics",
+      "materialFlow": "Modeled downstream path to CVS",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "truck",
+      "tooltipText": "CVS has verified retail price evidence; exact distribution path is modeled."
+    },
+    {
+      "id": "EDGE_CVS_TO_CONSUMER",
+      "source": "NODE_RETAILER_CVS",
+      "target": "NODE_CONSUMER",
+      "flowType": "finished_goods",
+      "materialFlow": "Retail sale to consumer",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "CVS price evidence supports retail sale context."
+    },
+    {
+      "id": "EDGE_MCLANE_TO_WALGREENS",
+      "source": "NODE_DISTRIBUTOR_MCLANE",
+      "target": "NODE_RETAILER_WALGREENS",
+      "flowType": "logistics",
+      "materialFlow": "Modeled downstream path to Walgreens",
+      "relationshipStatus": "illustrative_only",
+      "confidenceLevel": "medium",
+      "animationType": "truck",
+      "tooltipText": "Walgreens has verified retail price evidence; exact distribution path is modeled."
+    },
+    {
+      "id": "EDGE_WALGREENS_TO_CONSUMER",
+      "source": "NODE_RETAILER_WALGREENS",
+      "target": "NODE_CONSUMER",
+      "flowType": "finished_goods",
+      "materialFlow": "Retail sale to consumer",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "moving_particles",
+      "tooltipText": "Walgreens price evidence supports retail sale context."
+    },
+    {
+      "id": "EDGE_COST_01",
+      "source": "NODE_COST_INGREDIENTS",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "ingredient cost contribution",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    },
+    {
+      "id": "EDGE_COST_02",
+      "source": "NODE_COST_PACKAGING",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "packaging cost contribution",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    },
+    {
+      "id": "EDGE_COST_03",
+      "source": "NODE_COST_MANUFACTURING",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "manufacturing conversion allocation",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    },
+    {
+      "id": "EDGE_COST_04",
+      "source": "NODE_COST_STORAGE",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "storage cost allocation",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    },
+    {
+      "id": "EDGE_COST_05",
+      "source": "NODE_COST_FREIGHT",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "freight cost allocation",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "medium",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    },
+    {
+      "id": "EDGE_COST_06",
+      "source": "NODE_COST_RETAIL",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "verified retail shelf price",
+      "relationshipStatus": "sku_level_confirmed",
+      "confidenceLevel": "medium",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    },
+    {
+      "id": "EDGE_COST_07",
+      "source": "NODE_COST_RESIDUAL",
+      "target": "NODE_PRODUCT_HERSHEY_155OZ",
+      "flowType": "cost",
+      "materialFlow": "retail minus physical cost residual",
+      "relationshipStatus": "benchmark_only",
+      "confidenceLevel": "low",
+      "animationType": "cost_pulse",
+      "tooltipText": "Cost model value is benchmark/verified-retail based, not Hershey internal cost."
+    }
+  ]
+}

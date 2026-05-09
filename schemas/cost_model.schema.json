@@ -1,0 +1,53 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CostModelRecord",
+  "type": "object",
+  "required": [
+    "cost_bucket_id",
+    "cost_bucket",
+    "cost_type",
+    "evidence_type",
+    "low_cents_per_bar",
+    "base_cents_per_bar",
+    "high_cents_per_bar",
+    "confidence_level"
+  ],
+  "properties": {
+    "cost_bucket_id": { "type": "string" },
+    "cost_bucket": { "type": "string" },
+    "cost_type": {
+      "type": "string",
+      "enum": [
+        "ingredient",
+        "packaging",
+        "manufacturing_conversion",
+        "storage",
+        "freight",
+        "retail_price",
+        "residual_channel_pool"
+      ]
+    },
+    "cost_logic": { "type": "string" },
+    "evidence_type": {
+      "type": "string",
+      "enum": [
+        "direct",
+        "benchmark_proxy",
+        "assumption_supported_by_evidence",
+        "assumption_only"
+      ]
+    },
+    "source_evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "low_cents_per_bar": { "type": ["number", "null"] },
+    "base_cents_per_bar": { "type": ["number", "null"] },
+    "high_cents_per_bar": { "type": ["number", "null"] },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "notes": { "type": "string" }
+  }
+}

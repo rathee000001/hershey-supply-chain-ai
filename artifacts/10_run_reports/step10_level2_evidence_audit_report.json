@@ -1,0 +1,49 @@
+{
+  "run_name": "step10_level2_evidence_audit",
+  "run_time": "2026-05-06T20:13:56",
+  "root": "D:/HersheySupplyChainAI",
+  "evidence_blobs_seen": 559,
+  "approved_count": 330,
+  "needs_review_count": 154,
+  "rejected_count": 75,
+  "display_allowed_count": 320,
+  "audit_status_counts": {
+    "needs_review": 154,
+    "rejected": 75,
+    "approved": 330
+  },
+  "corrected_evidence_type_counts": {
+    "benchmark_proxy": 401,
+    "direct": 148,
+    "reference_only": 10
+  },
+  "corrected_relationship_strength_counts": {
+    "benchmark_only": 411,
+    "company_level_confirmed": 101,
+    "illustrative_only": 10,
+    "sku_level_confirmed": 5,
+    "unknown": 32
+  },
+  "packet_counts": {
+    "logistics_distribution": 27,
+    "sugar": 42,
+    "cocoa_chocolate_cocoa_butter": 130,
+    "retail_price_evidence": 4,
+    "natural_flavor": 19,
+    "pgpr": 61,
+    "packaging_wrapper": 49,
+    "dairy_milk_skim_milk_milk_fat": 194,
+    "soy_lecithin": 14,
+    "product_sku_1_55oz": 5,
+    "hershey_company": 12,
+    "reference_only": 1,
+    "brand_logo_assets": 1
+  },
+  "audited_evidence_blobs_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs/audited_evidence_blobs.json",
+  "approved_evidence_blobs_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs/approved_evidence_blobs.json",
+  "needs_review_evidence_blobs_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs/needs_review_evidence_blobs.json",
+  "rejected_evidence_blobs_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs/rejected_evidence_blobs.json",
+  "approved_display_candidates_json": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs/approved_display_candidates.json",
+  "audited_summary_csv": "D:/HersheySupplyChainAI/artifacts/04_level2_audited_blobs/audited_evidence_summary.csv",
+  "next_step": "Step 11: build supplier and ingredient packets from audited evidence."
+}

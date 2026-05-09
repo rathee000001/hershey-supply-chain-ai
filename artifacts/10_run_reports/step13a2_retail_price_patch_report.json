@@ -1,0 +1,14 @@
+{
+  "run_name": "step13a2_retail_price_patch",
+  "run_time": "2026-05-06T22:12:56",
+  "root": "D:/HersheySupplyChainAI",
+  "retail_csv": "D:\\HersheySupplyChainAI\\artifacts\\08_visual_verification\\retail_price_manual_entry_template.csv",
+  "backup_file": "D:\\HersheySupplyChainAI\\artifacts\\08_visual_verification\\retail_price_manual_entry_template.csv.pre_retail_price_patch_20260506_221256.bak",
+  "rows_seen": 4,
+  "rows_patched": 4,
+  "prices_verified": 4,
+  "prices_pending": 0,
+  "invalid_prices": [],
+  "safe_rule": "Prices are manual visual entries for single 1.55 oz bar only. Do not use multipack prices.",
+  "next_step": "If prices_verified is 4 and prices_pending is 0, run Step 13B retail price ingestion."
+}

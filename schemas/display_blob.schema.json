@@ -1,0 +1,60 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DisplayBlob",
+  "type": "object",
+  "required": [
+    "display_blob_id",
+    "title",
+    "short_display_text",
+    "display_section",
+    "confidence_level",
+    "safe_for_public_display"
+  ],
+  "properties": {
+    "display_blob_id": { "type": "string" },
+    "title": { "type": "string" },
+    "short_display_text": { "type": "string" },
+    "full_explanation": { "type": "string" },
+    "evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "display_section": {
+      "type": "string",
+      "enum": [
+        "product",
+        "upstream_sugar",
+        "upstream_cocoa",
+        "upstream_dairy",
+        "minor_ingredients",
+        "packaging",
+        "manufacturing",
+        "warehousing",
+        "distribution",
+        "retail",
+        "cost_stack",
+        "ai_pipeline"
+      ]
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "visual_type": {
+      "type": "string",
+      "enum": [
+        "node_detail_panel",
+        "cost_card",
+        "evidence_card",
+        "warning_card",
+        "summary_card",
+        "chart_annotation"
+      ]
+    },
+    "safe_for_public_display": { "type": "boolean" },
+    "limitations": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

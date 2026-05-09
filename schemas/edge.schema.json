@@ -1,0 +1,62 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SupplyChainEdge",
+  "type": "object",
+  "required": [
+    "edge_id",
+    "from_node_id",
+    "to_node_id",
+    "flow_type",
+    "relationship_status",
+    "confidence_level",
+    "display_allowed"
+  ],
+  "properties": {
+    "edge_id": { "type": "string" },
+    "from_node_id": { "type": "string" },
+    "to_node_id": { "type": "string" },
+    "flow_type": {
+      "type": "string",
+      "enum": [
+        "ingredient",
+        "packaging",
+        "finished_goods",
+        "cost",
+        "information",
+        "logistics"
+      ]
+    },
+    "material_flow": { "type": "string" },
+    "relationship_status": {
+      "type": "string",
+      "enum": [
+        "sku_level_confirmed",
+        "company_level_confirmed",
+        "probable",
+        "benchmark_only",
+        "illustrative_only",
+        "unknown"
+      ]
+    },
+    "evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "display_allowed": { "type": "boolean" },
+    "animation_type": {
+      "type": "string",
+      "enum": [
+        "moving_particles",
+        "truck",
+        "arrow",
+        "cost_pulse",
+        "none"
+      ]
+    },
+    "tooltip_text": { "type": "string" }
+  }
+}

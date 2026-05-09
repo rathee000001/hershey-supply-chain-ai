@@ -1,0 +1,64 @@
+﻿{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "IngredientPacket",
+  "type": "object",
+  "required": [
+    "ingredient_id",
+    "ingredient_name",
+    "label_status",
+    "supplier_status",
+    "estimated_cost_status",
+    "confidence_level"
+  ],
+  "properties": {
+    "ingredient_id": { "type": "string" },
+    "ingredient_name": { "type": "string" },
+    "label_order_position": { "type": "integer" },
+    "label_status": {
+      "type": "string",
+      "enum": ["confirmed_by_label", "conflict_requires_review", "not_confirmed"]
+    },
+    "source_evidence_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "origin_logic": { "type": "string" },
+    "processing_logic": { "type": "string" },
+    "supplier_status": {
+      "type": "string",
+      "enum": [
+        "sku_level_confirmed",
+        "company_level_confirmed",
+        "probable",
+        "unknown",
+        "not_applicable"
+      ]
+    },
+    "confirmed_supplier_names": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "supplier_limitations": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "estimated_grams_low": { "type": ["number", "null"] },
+    "estimated_grams_base": { "type": ["number", "null"] },
+    "estimated_grams_high": { "type": ["number", "null"] },
+    "price_proxy_low_per_lb": { "type": ["number", "null"] },
+    "price_proxy_base_per_lb": { "type": ["number", "null"] },
+    "price_proxy_high_per_lb": { "type": ["number", "null"] },
+    "estimated_cost_low_cents": { "type": ["number", "null"] },
+    "estimated_cost_base_cents": { "type": ["number", "null"] },
+    "estimated_cost_high_cents": { "type": ["number", "null"] },
+    "estimated_cost_status": {
+      "type": "string",
+      "enum": ["not_started", "calculated", "needs_review"]
+    },
+    "confidence_level": {
+      "type": "string",
+      "enum": ["high", "medium", "low", "unknown"]
+    },
+    "notes": { "type": "string" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "run_name": "step08_level1_local_parser",
+  "run_time": "2026-05-06T20:06:20",
+  "root": "D:/HersheySupplyChainAI",
+  "level1_inputs_seen": 120,
+  "parsed_documents_created": 120,
+  "useful_documents": 118,
+  "future_ai_or_visual_review_documents": 95,
+  "level1_parsed_folder": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_parsed",
+  "all_level1_parsed_json": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_parsed/_all_level1_parsed_documents.json",
+  "summary_csv": "D:/HersheySupplyChainAI/artifacts/02_document_artifacts/level1_parsed/_level1_parsed_summary.csv",
+  "next_step": "Step 09: build claim-level evidence blobs from Level 1 parsed documents."
+}

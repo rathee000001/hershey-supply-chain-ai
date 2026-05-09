@@ -1,0 +1,49 @@
+{
+  "cost_stack_version": "v1_public_benchmark_assumption_model",
+  "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",
+  "grams_per_bar": 43.0,
+  "model_scope": "physical ingredient + packaging + conversion + logistics allocation estimate",
+  "not_in_scope": [
+    "Hershey proprietary SKU-level bill of materials",
+    "actual supplier invoice prices",
+    "actual plant route costs",
+    "actual retailer margin",
+    "actual Hershey gross margin"
+  ],
+  "totals": {
+    "low_cents_per_bar": 14.7071,
+    "base_cents_per_bar": 31.8067,
+    "high_cents_per_bar": 60.037
+  },
+  "totals_by_type": {
+    "ingredient": {
+      "low_cents_per_bar": 9.4071,
+      "base_cents_per_bar": 21.0067,
+      "high_cents_per_bar": 41.037
+    },
+    "packaging": {
+      "low_cents_per_bar": 1.5,
+      "base_cents_per_bar": 2.8,
+      "high_cents_per_bar": 5.0
+    },
+    "manufacturing_conversion": {
+      "low_cents_per_bar": 3.0,
+      "base_cents_per_bar": 6.0,
+      "high_cents_per_bar": 10.0
+    },
+    "storage": {
+      "low_cents_per_bar": 0.3,
+      "base_cents_per_bar": 0.8,
+      "high_cents_per_bar": 1.5
+    },
+    "freight": {
+      "low_cents_per_bar": 0.5,
+      "base_cents_per_bar": 1.2,
+      "high_cents_per_bar": 2.5
+    }
+  },
+  "retail_price_status": "pending_visual_verification",
+  "retail_residual_status": "not_calculated_until_retail_price_is_verified",
+  "safe_display_wording": "This is a public-evidence benchmark cost model. It estimates physical supply-chain cost ranges per 1.55 oz bar and should not be read as Hershey's actual internal SKU cost.",
+  "created_at": "2026-05-06T20:23:02"
+}

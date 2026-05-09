@@ -1,0 +1,30 @@
+{
+  "run_name": "step13b_retail_price_ingestion",
+  "run_time": "2026-05-06T22:16:39",
+  "root": "D:/HersheySupplyChainAI",
+  "retail_rows_seen": 4,
+  "verified_retail_rows": 4,
+  "warning_or_rejected_rows": 0,
+  "retail_price_summary": {
+    "retail_price_status": "verified",
+    "retailers_verified": 4,
+    "low_retail_price_cents": 162.0,
+    "base_retail_price_cents": 199.75,
+    "high_retail_price_cents": 219.0,
+    "average_retail_price_cents": 199.75,
+    "median_retail_price_cents": 209.0,
+    "low_retail_price_usd": 1.62,
+    "base_retail_price_usd": 1.9975,
+    "high_retail_price_usd": 2.19
+  },
+  "residual_status": "calculated",
+  "residual_base_cents_per_bar": 167.9433,
+  "physical_cost_base_cents_per_bar": 31.8067,
+  "retail_base_cents_per_bar": 199.75,
+  "retail_price_verified_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/retail_price_verified.json",
+  "retail_price_summary_csv": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/retail_price_summary.csv",
+  "retail_residual_channel_pool_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/retail_residual_channel_pool.json",
+  "cost_model_records_with_retail_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_model_records_with_retail.json",
+  "cost_stack_with_retail_summary_json": "D:/HersheySupplyChainAI/artifacts/07_cost_model_blobs/cost_stack_with_retail_summary.json",
+  "next_step": "Step 14: build node/edge architecture for interactive supply chain."
+}

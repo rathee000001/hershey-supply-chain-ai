@@ -1,0 +1,42 @@
+[
+  {
+    "card_id": "CARD_TARGET_SKU",
+    "title": "Target SKU",
+    "value": "1.55 oz / 43 g",
+    "subtitle": "HERSHEY'S Milk Chocolate Candy Bar",
+    "display_type": "product",
+    "safe_note": "SKU identity is visually verified from product evidence."
+  },
+  {
+    "card_id": "CARD_GRAPH_SIZE",
+    "title": "Interactive Supply Chain",
+    "value": "35 nodes / 36 edges",
+    "subtitle": "Ingredient, manufacturing, logistics, retail, and cost structure",
+    "display_type": "graph",
+    "safe_note": "Modeled graph for public-evidence visualization."
+  },
+  {
+    "card_id": "CARD_PHYSICAL_COST",
+    "title": "Estimated Physical Cost",
+    "value": "31.81¢",
+    "subtitle": "Range: 14.71¢–60.04¢ per bar",
+    "display_type": "cost",
+    "safe_note": "Benchmark estimate, not Hershey internal cost."
+  },
+  {
+    "card_id": "CARD_RETAIL_PRICE",
+    "title": "Verified Retail Price",
+    "value": "$2.0",
+    "subtitle": "Observed range: $1.62–$2.19",
+    "display_type": "retail",
+    "safe_note": "Retail prices are visually verified from collected retailer pages."
+  },
+  {
+    "card_id": "CARD_RESIDUAL_POOL",
+    "title": "Residual Channel / Commercial Pool",
+    "value": "167.94¢",
+    "subtitle": "Retail price minus modeled physical cost",
+    "display_type": "residual",
+    "safe_note": "Residual is not profit."
+  }
+]
