@@ -1,0 +1,9 @@
+{
+  "run_name": "step17e3_validate_home_rebuild",
+  "run_time": "2026-05-09T22:59:18",
+  "validation_status": "pass",
+  "missing_files": [],
+  "empty_route_files": [],
+  "missing_home_terms": [],
+  "next_step": "Step 17E-B3: build CinematicPageShell and Gold-style cinematic navbar."
+}
