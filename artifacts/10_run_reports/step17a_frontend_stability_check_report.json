@@ -1,0 +1,28 @@
+{
+  "run_name": "step17a_frontend_stability_check",
+  "run_time": "2026-05-09T20:22:25",
+  "root": "D:/HersheySupplyChainAI",
+  "validation_status": "pass",
+  "present_files": [
+    "src/lib/hershey/enrichedArtifacts.ts",
+    "src/app/supply-chain/page.tsx",
+    "public/data/hershey/enriched_display/enriched_frontend_manifest_v2.json",
+    "public/data/hershey/enriched_display/enriched_home_summary_cards_v2.json",
+    "public/data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json",
+    "public/data/hershey/enriched_display/enriched_supplier_cards_v2.json",
+    "public/data/hershey/enriched_display/enriched_ingredient_cards_v2.json",
+    "public/data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json",
+    "public/data/hershey/enriched_display/enriched_packet_summary_v2.json",
+    "public/data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json"
+  ],
+  "missing_files": [],
+  "unresolved_manifest_urls": [],
+  "frontend_manifest_url": "/data/hershey/enriched_display/enriched_frontend_manifest_v2.json",
+  "supply_chain_route": "/supply-chain",
+  "graph_nodes": 35,
+  "graph_edges": 36,
+  "ingredient_cards": 12,
+  "supplier_cards": 4,
+  "evidence_items": 877,
+  "next_step": "Run npm run dev and npm run build. If both pass, Step 17B can begin cinematic supply-chain layout."
+}
