@@ -1,0 +1,190 @@
+[
+  {
+    "test_id": "RAG_ASR_SUGAR",
+    "question": "What evidence supports ASR or American Sugar Refining as Hershey sugar supplier or sugar sourcing partner?",
+    "expected_packets": [
+      "sugar",
+      "hershey_company"
+    ],
+    "expected_terms": [
+      "asr",
+      "american_sugar_refining",
+      "hershey",
+      "sugar",
+      "sourcing"
+    ],
+    "purpose": "Validate sugar supplier retrieval."
+  },
+  {
+    "test_id": "RAG_BARRY_COCOA",
+    "question": "What evidence supports Barry Callebaut and Hershey chocolate or cocoa supply relationship?",
+    "expected_packets": [
+      "cocoa_chocolate_cocoa_butter"
+    ],
+    "expected_terms": [
+      "barry_callebaut",
+      "hershey",
+      "chocolate",
+      "cocoa"
+    ],
+    "purpose": "Validate cocoa/chocolate supplier retrieval."
+  },
+  {
+    "test_id": "RAG_LAND_O_LAKES_DAIRY",
+    "question": "What evidence supports Land O'Lakes as Hershey dairy supplier or strategic dairy partner?",
+    "expected_packets": [
+      "dairy_milk_skim_milk_milk_fat",
+      "hershey_company"
+    ],
+    "expected_terms": [
+      "land_olakes",
+      "hershey",
+      "milk",
+      "dairy"
+    ],
+    "purpose": "Validate dairy supplier retrieval."
+  },
+  {
+    "test_id": "RAG_WRAPPER_INGREDIENTS",
+    "question": "What does the Hershey 1.55 oz wrapper or product page say about ingredients and nutrition?",
+    "expected_packets": [
+      "product_sku_1_55oz",
+      "retail_price_evidence"
+    ],
+    "expected_terms": [
+      "hershey",
+      "1_55_oz",
+      "ingredients",
+      "nutrition_facts",
+      "milk_chocolate"
+    ],
+    "purpose": "Validate SKU wrapper/product evidence retrieval."
+  },
+  {
+    "test_id": "RAG_RETAIL_PRICE",
+    "question": "Which retailer evidence supports verified price for the Hershey 1.55 oz milk chocolate bar?",
+    "expected_packets": [
+      "retail_price_evidence"
+    ],
+    "expected_terms": [
+      "walmart",
+      "target",
+      "cvs",
+      "walgreens",
+      "retail_price",
+      "1_55_oz"
+    ],
+    "purpose": "Validate retail price evidence retrieval."
+  },
+  {
+    "test_id": "RAG_PGPR",
+    "question": "What evidence explains PGPR function and use in chocolate?",
+    "expected_packets": [
+      "pgpr"
+    ],
+    "expected_terms": [
+      "pgpr",
+      "chocolate",
+      "ingredients"
+    ],
+    "purpose": "Validate PGPR ingredient retrieval."
+  },
+  {
+    "test_id": "RAG_SOY_LECITHIN",
+    "question": "What evidence explains soy lecithin function and use in chocolate?",
+    "expected_packets": [
+      "soy_lecithin"
+    ],
+    "expected_terms": [
+      "soy_lecithin",
+      "lecithin",
+      "chocolate",
+      "ingredients"
+    ],
+    "purpose": "Validate soy lecithin retrieval."
+  },
+  {
+    "test_id": "RAG_NATURAL_FLAVOR",
+    "question": "What evidence explains natural flavor definition and use in food or chocolate?",
+    "expected_packets": [
+      "natural_flavor"
+    ],
+    "expected_terms": [
+      "natural_flavor",
+      "fda",
+      "ingredients"
+    ],
+    "purpose": "Validate natural flavor retrieval."
+  },
+  {
+    "test_id": "RAG_PACKAGING",
+    "question": "What evidence supports Hershey packaging, wrapper, pulp, paper, or packaging cost benchmark?",
+    "expected_packets": [
+      "packaging_wrapper",
+      "hershey_company"
+    ],
+    "expected_terms": [
+      "hershey",
+      "packaging",
+      "wrapper",
+      "pulp",
+      "paper"
+    ],
+    "purpose": "Validate packaging evidence retrieval."
+  },
+  {
+    "test_id": "RAG_MCLANE_LOGISTICS",
+    "question": "What evidence supports McLane, distribution, warehouse, or downstream logistics for the Hershey supply chain model?",
+    "expected_packets": [
+      "logistics_distribution",
+      "hershey_company"
+    ],
+    "expected_terms": [
+      "mclane",
+      "distribution",
+      "warehouse",
+      "logistics"
+    ],
+    "purpose": "Validate logistics/distribution retrieval."
+  },
+  {
+    "test_id": "RAG_HERSHEY_10K_RAW_MATERIALS",
+    "question": "What Hershey 10-K evidence mentions raw materials, cocoa, sugar, dairy, packaging, or distribution risk?",
+    "expected_packets": [
+      "hershey_company"
+    ],
+    "expected_terms": [
+      "hershey",
+      "cocoa",
+      "sugar",
+      "milk",
+      "packaging",
+      "distribution"
+    ],
+    "purpose": "Validate Hershey company filing retrieval."
+  },
+  {
+    "test_id": "RAG_COST_BENCHMARKS",
+    "question": "Which sources support benchmark cost logic for sugar, cocoa, dairy, packaging, diesel, trucking, warehousing, or retail?",
+    "expected_packets": [
+      "sugar",
+      "cocoa_chocolate_cocoa_butter",
+      "dairy_milk_skim_milk_milk_fat",
+      "packaging_wrapper",
+      "logistics_distribution",
+      "retail_price_evidence"
+    ],
+    "expected_terms": [
+      "cost",
+      "price",
+      "market",
+      "sugar",
+      "cocoa",
+      "milk",
+      "packaging",
+      "diesel",
+      "retail"
+    ],
+    "purpose": "Validate cost benchmark retrieval."
+  }
+]

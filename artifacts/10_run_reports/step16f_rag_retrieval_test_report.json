@@ -1,0 +1,20 @@
+{
+  "run_name": "step16f_rag_retrieval_tester",
+  "run_time": "2026-05-09T19:59:12",
+  "root": "D:/HersheySupplyChainAI",
+  "index_type": "local_sparse_tfidf_rag_v1",
+  "vector_chunks_loaded": 2303,
+  "inverted_index_terms_loaded": 27351,
+  "tests_run": 12,
+  "overall_status": "pass",
+  "passed_tests": 12,
+  "warning_tests": 0,
+  "failed_tests": 0,
+  "status_counts": {
+    "pass": 12
+  },
+  "rag_test_questions_json": "D:/HersheySupplyChainAI/artifacts/13_rag_tests/rag_test_questions.json",
+  "rag_test_results_json": "D:/HersheySupplyChainAI/artifacts/13_rag_tests/rag_test_results.json",
+  "rag_test_summary_csv": "D:/HersheySupplyChainAI/artifacts/13_rag_tests/rag_test_summary.csv",
+  "next_step": "Step 16G: enrich Level 1 parser inputs from RAG retrieval results and unified memory."
+}
