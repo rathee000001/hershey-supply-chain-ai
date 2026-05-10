@@ -1,0 +1,31 @@
+{
+  "run_name": "step17e0_cleanup_frontend_shell",
+  "run_time": "2026-05-09T22:15:45",
+  "status": "complete",
+  "page_rewritten": "D:/HersheySupplyChainAI/src/app/supply-chain/page.tsx",
+  "legacy_archive_dir": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d",
+  "legacy_components_archived": [
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/ChocolateDripOverlay.tsx",
+      "archived_to": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/ChocolateDripOverlay.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/HersheyCinematicHero.tsx",
+      "archived_to": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/HersheyCinematicHero.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/CinematicAssetScene.tsx",
+      "archived_to": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/CinematicAssetScene.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/CinematicConnectedMap.tsx",
+      "archived_to": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/CinematicConnectedMap.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/CinematicSupplyChainStoryboard.tsx",
+      "archived_to": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/CinematicSupplyChainStoryboard.tsx"
+    }
+  ],
+  "missing_legacy_components": [],
+  "next_step": "Create cinematic roadmap scaffold folders and empty files."
+}

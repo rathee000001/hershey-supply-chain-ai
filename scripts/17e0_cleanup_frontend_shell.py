@@ -1,4 +1,38 @@
-"use client";
+from pathlib import Path
+import shutil
+import json
+from datetime import datetime
+
+root = Path("D:/HersheySupplyChainAI")
+
+legacy_dir = root / "src" / "components" / "archive" / "hershey_legacy_17d"
+legacy_dir.mkdir(parents=True, exist_ok=True)
+
+legacy_components = [
+    root / "src" / "components" / "hershey" / "ChocolateDripOverlay.tsx",
+    root / "src" / "components" / "hershey" / "HersheyCinematicHero.tsx",
+    root / "src" / "components" / "hershey" / "CinematicAssetScene.tsx",
+    root / "src" / "components" / "hershey" / "CinematicConnectedMap.tsx",
+    root / "src" / "components" / "hershey" / "CinematicSupplyChainStoryboard.tsx",
+]
+
+moved = []
+missing = []
+
+for file_path in legacy_components:
+    if file_path.exists():
+        destination = legacy_dir / file_path.name
+        shutil.copy2(file_path, destination)
+        moved.append({
+            "from": str(file_path).replace("\\", "/"),
+            "archived_to": str(destination).replace("\\", "/")
+        })
+    else:
+        missing.append(str(file_path).replace("\\", "/"))
+
+page = root / "src" / "app" / "supply-chain" / "page.tsx"
+
+clean_page = r'''"use client";
 
 import { useEffect, useMemo, useState } from "react";
 import { ArrowRight, Boxes, Factory, Network, ShieldCheck, Sparkles } from "lucide-react";
@@ -192,3 +226,33 @@ export default function SupplyChainPage() {
     </main>
   );
 }
+'''
+
+page.parent.mkdir(parents=True, exist_ok=True)
+page.write_text(clean_page, encoding="utf-8")
+
+report_dir = root / "artifacts" / "10_run_reports"
+report_dir.mkdir(parents=True, exist_ok=True)
+
+report = {
+    "run_name": "step17e0_cleanup_frontend_shell",
+    "run_time": datetime.now().isoformat(timespec="seconds"),
+    "status": "complete",
+    "page_rewritten": str(page).replace("\\", "/"),
+    "legacy_archive_dir": str(legacy_dir).replace("\\", "/"),
+    "legacy_components_archived": moved,
+    "missing_legacy_components": missing,
+    "next_step": "Create cinematic roadmap scaffold folders and empty files."
+}
+
+report_path = report_dir / "step17e0_cleanup_frontend_shell_report.json"
+report_path.write_text(json.dumps(report, indent=2), encoding="utf-8")
+
+print("")
+print("STEP 17E-0 FRONTEND CLEANUP COMPLETE")
+print("------------------------------------")
+print(f"Legacy components archived: {len(moved)}")
+print(f"Missing legacy components:  {len(missing)}")
+print(f"Clean page written:         {page}")
+print(f"Report JSON:                {report_path}")
+print("")
