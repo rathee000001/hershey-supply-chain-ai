@@ -1,0 +1,31 @@
+{
+  "run_name": "step17e1_validate_cinematic_dependencies",
+  "run_time": "2026-05-09T22:32:22",
+  "validation_status": "pass",
+  "required_dependencies": [
+    "three",
+    "@react-three/fiber",
+    "@react-three/drei",
+    "framer-motion",
+    "gsap",
+    "zustand"
+  ],
+  "required_dev_dependencies": [
+    "@types/three"
+  ],
+  "missing_dependencies": [],
+  "missing_dev_dependencies": [],
+  "missing_scaffold_files": [],
+  "installed_dependency_versions": {
+    "three": "^0.184.0",
+    "@react-three/fiber": "^9.6.1",
+    "@react-three/drei": "^10.7.7",
+    "framer-motion": "^12.38.0",
+    "gsap": "^3.15.0",
+    "zustand": "^5.0.13"
+  },
+  "installed_dev_dependency_versions": {
+    "@types/three": "^0.184.1"
+  },
+  "next_step": "Step 17E-B: build MotionSafeWrapper, PremiumLoadingScene, and CinematicPageShell."
+}
