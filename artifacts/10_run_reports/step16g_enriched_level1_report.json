@@ -1,0 +1,49 @@
+{
+  "run_name": "step16g_enriched_level1_parser",
+  "run_time": "2026-05-09T20:02:13",
+  "root": "D:/HersheySupplyChainAI",
+  "unified_chunks_seen": 2303,
+  "rag_question_bundles_created": 12,
+  "document_profiles_created": 116,
+  "candidate_claims_created": 1020,
+  "rag_candidate_claims": 120,
+  "memory_scan_candidate_claims": 900,
+  "claim_strength_counts": {
+    "background_context": 18,
+    "benchmark_context_evidence": 62,
+    "company_level_relationship_evidence": 403,
+    "direct_product_or_label_evidence": 278,
+    "direct_visual_or_page_evidence": 237,
+    "medium_context_evidence": 19,
+    "visual_high_relevance_context": 3
+  },
+  "safe_scope_counts": {
+    "benchmark_only": 62,
+    "company_level_only": 403,
+    "context_only": 31,
+    "modeled_route_context": 9,
+    "retail_page_level": 237,
+    "sku_or_label_level": 278
+  },
+  "claim_role_counts": {
+    "cost_or_price_benchmark": 473,
+    "general_context": 3,
+    "ingredient_confirmation": 872,
+    "logistics_distribution": 116,
+    "manufacturing_or_process": 493,
+    "retail_price": 327,
+    "supplier_relationship": 820,
+    "sustainability_context": 746
+  },
+  "document_priority_counts": {
+    "high": 76,
+    "low": 1,
+    "medium": 9,
+    "medium_high": 30
+  },
+  "enriched_document_profiles_json": "D:/HersheySupplyChainAI/artifacts/14_enriched_level1/enriched_document_profiles.json",
+  "enriched_rag_question_bundles_json": "D:/HersheySupplyChainAI/artifacts/14_enriched_level1/enriched_rag_question_bundles.json",
+  "enriched_candidate_claims_json": "D:/HersheySupplyChainAI/artifacts/14_enriched_level1/enriched_candidate_claims.json",
+  "enriched_level1_summary_csv": "D:/HersheySupplyChainAI/artifacts/14_enriched_level1/enriched_level1_summary.csv",
+  "next_step": "Step 16H: build enriched evidence blobs from candidate claims, then Step 16I strict audit."
+}
