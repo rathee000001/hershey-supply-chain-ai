@@ -1,0 +1,38 @@
+{
+  "manifest_version": "v2_enriched_frontend_manifest",
+  "created_at": "2026-05-09T20:18:25",
+  "project": "Hershey 1.55 oz Milk Chocolate Supply Chain Intelligence",
+  "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",
+  "base_public_path": "/data/hershey/enriched_display",
+  "frontend_rule": "Frontend must read enriched v2 public JSON artifacts only. Do not hardcode supplier, cost, relationship, or evidence claims.",
+  "primary_artifacts": {
+    "evidence": "/data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json",
+    "packet_summary": "/data/hershey/enriched_display/enriched_packet_summary_v2.json",
+    "suppliers": "/data/hershey/enriched_display/enriched_supplier_cards_v2.json",
+    "ingredients": "/data/hershey/enriched_display/enriched_ingredient_cards_v2.json",
+    "cost_breakdown": "/data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json",
+    "graph": "/data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json",
+    "home_cards": "/data/hershey/enriched_display/enriched_home_summary_cards_v2.json"
+  },
+  "source_manifest_archival": "/data/hershey/enriched_display/enriched_display_manifest_v2.json",
+  "audit_summary": {
+    "approved_display_candidates": 869,
+    "context_only_evidence": 8,
+    "rejected_evidence": 84,
+    "audit_status_counts": {
+      "approved_context_only": 8,
+      "approved_display_safe": 869,
+      "rejected_overclaim_risk": 59,
+      "rejected_research_only": 25
+    }
+  },
+  "safe_display_rules": [
+    "Only Step 16I approved display-safe evidence is used for enriched v2 display artifacts.",
+    "Company-level supplier evidence cannot be displayed as exact SKU supplier proof.",
+    "Benchmark cost evidence cannot be displayed as Hershey internal cost.",
+    "Retail price evidence cannot be displayed as margin or profit.",
+    "Distribution context cannot be displayed as exact route proof.",
+    "OCR evidence requires safe wording and should not be over-read."
+  ],
+  "final_goal": "Hershey 1.55 oz Cinematic Supply Chain Intelligence Platform"
+}

@@ -1,0 +1,32 @@
+{
+  "run_name": "step16k_enriched_public_json_validation",
+  "run_time": "2026-05-09T20:18:26",
+  "root": "D:/HersheySupplyChainAI",
+  "validation_status": "pass",
+  "total_checks": 40,
+  "failed_checks": 0,
+  "critical_failures": 0,
+  "high_failures": 0,
+  "loaded_public_files": [
+    "evidence",
+    "packet_summary",
+    "suppliers",
+    "ingredients",
+    "cost_breakdown",
+    "graph",
+    "home_cards",
+    "source_manifest"
+  ],
+  "frontend_manifest_public_path": "D:/HersheySupplyChainAI/public/data/hershey/enriched_display/enriched_frontend_manifest_v2.json",
+  "frontend_manifest_public_url": "/data/hershey/enriched_display/enriched_frontend_manifest_v2.json",
+  "frontend_manifest_artifact_path": "D:/HersheySupplyChainAI/artifacts/18_enriched_public_validation/enriched_frontend_manifest_v2.json",
+  "evidence_lookup_items": 877,
+  "packet_summary_items": 11,
+  "supplier_cards_v2": 4,
+  "ingredient_cards_v2": 12,
+  "graph_nodes_v2": 35,
+  "graph_edges_v2": 36,
+  "home_cards_v2": 5,
+  "checks_csv": "D:/HersheySupplyChainAI/artifacts/18_enriched_public_validation/enriched_public_validation_checks.csv",
+  "next_step": "Step 17A: frontend stability check and enriched manifest loader."
+}

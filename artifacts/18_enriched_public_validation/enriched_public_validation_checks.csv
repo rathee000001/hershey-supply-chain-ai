@@ -1,0 +1,41 @@
+check_name,status,severity,message,path
+required_file_evidence,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_evidence_panel_lookup_v2.json
+required_file_packet_summary,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_packet_summary_v2.json
+required_file_suppliers,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_supplier_cards_v2.json
+required_file_ingredients,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_ingredient_cards_v2.json
+required_file_cost_breakdown,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_cost_breakdown_display_v2.json
+required_file_graph,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_interactive_graph_payload_v2.json
+required_file_home_cards,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_home_summary_cards_v2.json
+required_file_source_manifest,pass,info,Required enriched public JSON exists and parses.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_display_manifest_v2.json
+frontend_manifest_no_local_paths,pass,info,Frontend manifest contains no local Windows paths.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_frontend_manifest_v2.json
+frontend_manifest_primary_keys,pass,info,All primary frontend artifact keys are present.,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_frontend_manifest_v2.json
+frontend_url_resolves_evidence,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_evidence_panel_lookup_v2.json
+frontend_url_resolves_packet_summary,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_packet_summary_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_packet_summary_v2.json
+frontend_url_resolves_suppliers,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_supplier_cards_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_supplier_cards_v2.json
+frontend_url_resolves_ingredients,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_ingredient_cards_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_ingredient_cards_v2.json
+frontend_url_resolves_cost_breakdown,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_cost_breakdown_display_v2.json
+frontend_url_resolves_graph,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_interactive_graph_payload_v2.json
+frontend_url_resolves_home_cards,pass,info,Frontend URL resolves: /data/hershey/enriched_display/enriched_home_summary_cards_v2.json,D:\HersheySupplyChainAI\public\data\hershey\enriched_display\enriched_home_summary_cards_v2.json
+no_local_paths_payload_evidence,pass,info,Frontend payload evidence contains no local Windows paths.,
+no_local_paths_payload_packet_summary,pass,info,Frontend payload packet_summary contains no local Windows paths.,
+no_local_paths_payload_suppliers,pass,info,Frontend payload suppliers contains no local Windows paths.,
+no_local_paths_payload_ingredients,pass,info,Frontend payload ingredients contains no local Windows paths.,
+no_local_paths_payload_cost_breakdown,pass,info,Frontend payload cost_breakdown contains no local Windows paths.,
+no_local_paths_payload_graph,pass,info,Frontend payload graph contains no local Windows paths.,
+no_local_paths_payload_home_cards,pass,info,Frontend payload home_cards contains no local Windows paths.,
+graph_node_count_v2,pass,info,Graph has expected 35 nodes.,
+graph_edge_count_v2,pass,info,Graph has expected 36 edges.,
+graph_edge_endpoint_integrity,pass,info,All graph edge endpoints resolve to node IDs.,
+graph_enriched_evidence_counts,pass,info,Graph nodes include enriched evidence counts.,
+supplier_cards_v2_count,pass,info,Supplier cards v2 count is 4.,
+ingredient_cards_v2_count,pass,info,Ingredient cards v2 count is 12.,
+home_cards_v2_count,pass,info,Home cards v2 count is 5.,
+supplier_no_sku_level_overclaim,pass,info,Supplier cards do not claim SKU-level supplier confirmation.,
+evidence_lookup_count_v2,pass,info,Evidence lookup has 877 items.,
+evidence_status_approved_only,pass,info,Evidence lookup contains approved display/context statuses only.,
+evidence_no_local_paths,pass,info,Evidence lookup has no local Windows paths.,
+evidence_unsafe_wording_guard,pass,info,Evidence wording guard passed.,
+cost_physical_base_cents,pass,info,physical_base_cents is positive: 31.8067,
+cost_retail_base_cents,pass,info,retail_base_cents is positive: 199.75,
+cost_residual_base_cents,pass,info,residual_base_cents is positive: 167.9433,
+cost_safe_disclaimer_v2,pass,info,Cost display includes internal-cost disclaimer.,
