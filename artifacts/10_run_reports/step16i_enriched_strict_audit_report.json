@@ -1,0 +1,66 @@
+{
+  "run_name": "step16i_enriched_strict_audit",
+  "run_time": "2026-05-09T20:10:36",
+  "root": "D:/HersheySupplyChainAI",
+  "input_evidence_blobs_seen": 961,
+  "audited_evidence_created": 961,
+  "approved_display_candidates": 869,
+  "context_only_evidence": 8,
+  "review_locked_evidence": 0,
+  "rejected_evidence": 84,
+  "audit_status_counts": {
+    "approved_context_only": 8,
+    "approved_display_safe": 869,
+    "rejected_overclaim_risk": 59,
+    "rejected_research_only": 25
+  },
+  "audit_class_counts": {
+    "display_safe_evidence": 869,
+    "modeled_context": 8,
+    "research_only": 25,
+    "unsafe_wording": 59
+  },
+  "packet_counts": {
+    "cocoa_chocolate_cocoa_butter": 170,
+    "dairy_milk_skim_milk_milk_fat": 159,
+    "hershey_company": 232,
+    "logistics_distribution": 16,
+    "natural_flavor": 78,
+    "packaging_wrapper": 207,
+    "pgpr": 24,
+    "product_sku_1_55oz": 7,
+    "retail_price_evidence": 6,
+    "soy_lecithin": 13,
+    "sugar": 49
+  },
+  "safe_scope_counts": {
+    "benchmark_only": 59,
+    "company_level_only": 381,
+    "context_only": 25,
+    "modeled_route_context": 8,
+    "retail_page_level": 226,
+    "sku_or_label_level": 262
+  },
+  "primary_role_counts": {
+    "cost_or_price_benchmark": 5,
+    "general_context": 3,
+    "ingredient_confirmation": 576,
+    "logistics_distribution": 1,
+    "manufacturing_or_process": 1,
+    "retail_price": 310,
+    "supplier_relationship": 65
+  },
+  "source_type_counts": {
+    "text_or_table": 798,
+    "visual_ocr": 163
+  },
+  "enriched_audited_evidence_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audited_evidence.json",
+  "enriched_approved_display_candidates_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_approved_display_candidates.json",
+  "enriched_context_only_evidence_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_context_only_evidence.json",
+  "enriched_review_locked_evidence_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_review_locked_evidence.json",
+  "enriched_rejected_evidence_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_rejected_evidence.json",
+  "enriched_audit_by_packet_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audit_by_packet.json",
+  "enriched_audit_summary_csv": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audit_summary.csv",
+  "manifest_json": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audit_manifest.json",
+  "next_step": "Step 16J: rebuild supplier, ingredient, cost, graph, and display artifacts from enriched audited evidence."
+}

@@ -1,0 +1,25 @@
+{
+  "enriched_strict_audit_version": "v1",
+  "created_at": "2026-05-09T20:10:36",
+  "purpose": "Strict audited evidence layer for display-safe rebuilding of supplier, ingredient, cost, graph, and frontend artifacts.",
+  "input_artifacts": {
+    "enriched_evidence_blobs": "D:/HersheySupplyChainAI/artifacts/15_enriched_evidence/enriched_evidence_blobs.json"
+  },
+  "output_artifacts": {
+    "audited_evidence": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audited_evidence.json",
+    "approved_display_candidates": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_approved_display_candidates.json",
+    "context_only_evidence": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_context_only_evidence.json",
+    "review_locked_evidence": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_review_locked_evidence.json",
+    "rejected_evidence": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_rejected_evidence.json",
+    "audit_by_packet": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audit_by_packet.json",
+    "audit_summary_csv": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_audit_summary.csv"
+  },
+  "display_rule": "Only enriched_approved_display_candidates.json should be used to rebuild public display claims. Context-only evidence may support explanatory panels but not hard claims.",
+  "hard_limits": [
+    "Company-level supplier evidence cannot be displayed as exact SKU supplier proof.",
+    "Benchmark cost evidence cannot be displayed as Hershey internal cost.",
+    "Retail price evidence cannot be displayed as margin or profit.",
+    "Distribution context cannot be displayed as exact route proof.",
+    "OCR evidence requires safe wording and should not be over-read."
+  ]
+}

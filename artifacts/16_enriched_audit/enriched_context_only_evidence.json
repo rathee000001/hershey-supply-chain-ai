@@ -1,0 +1,446 @@
+[
+  {
+    "evidence_id": "EEVID_327bd7cb98f47f15",
+    "source_candidate_claim_id": "CAND_RAG_ASR_SUGAR_UCHUNK_001623",
+    "doc_id": "DOC_4FB6669959F5",
+    "file_name": "asr_fy23_sustainability_report.pdf",
+    "packet": "sugar",
+    "source_type": "text_or_table",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_ASR_SUGAR",
+    "rag_rank": 2,
+    "primary_claim_role": "retail_price",
+    "claim_roles": [
+      "supplier_relationship",
+      "ingredient_confirmation",
+      "retail_price",
+      "logistics_distribution",
+      "sustainability_context",
+      "manufacturing_or_process"
+    ],
+    "evidence_type": "retail_price_evidence",
+    "claim_strength": "background_context",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [
+      "asr"
+    ],
+    "ingredients": [
+      "sugar"
+    ],
+    "claim_label": "supplier_relationship / ingredient_confirmation / retail_price: asr, sugar",
+    "evidence_text": "oduced in a \nfood grade sugar mill) or sent \nto a sugar refinery for further \nprocessing. Both of our sugar \nmills in Mexico and Belize \nproduce food grade sugar for \ndirect consumption.\nOur refineries in the U.S., \nCanada, the UK, Portugal, \nItaly, and Mexico process raw \nsugar from our mills and \nthird-party mills. Through \nthe refining process, large \nquantities of raw sugar are \nprocessed into a range of \nsugar products such as \ngranulated, \nliquid, \nbrown \nand powdered sugars.\nProducts are packaged and \nshipped to both industrial and \nretail customers. The former \nalso receive products in bulk.\nMILLING\nREFINING\nFARMING\nPACKING\nOur sugar is transported by \na range of vehicles, including \ntrucks, railcars, barges and \nships.\nTRANSPORT AND \nLOGISTICS\n10\nASR Group Sustainability Report 2023\n\n\n--- PAGE 11 ---\nExecutive \nSummary\nAbout ASR \nGroup\nVision and \nStrategy\nDecarbonization\nResource Conservation \nand Circularity\nSustainable \nAgriculture\nSustainable and \nEthical Supply Chain\nEmployee and Community \nEngagement\nGovernance, Communication \nand Reporting\nClosing\nAppendix\nVISION AND \nSTRATEGY\nWe aspire to be the most \nsustainable and ethical sugarcane \ncompany in the world.\n11\nASR",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Ingredient candidates can confirm label/product ingredients, but not supplier allocation unless direct evidence says so. | Retail candidates may support observed shelf price only for the captured retailer/date/page context. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated. | Sustainability context supports sourcing program discussion, not exact cost or SKU-level supply. | Manufacturing/process candidates are general modeled process evidence, not proprietary Hershey line data.",
+    "safe_website_wording": "asr / sugar / sugar may support observed retail page or price evidence. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "retail_observation_not_margin",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "Retail observation does not prove margin or profit.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU.",
+      "Use observed retail price language only; do not infer margin or profit."
+    ],
+    "audited_safe_website_wording": "asr / sugar / sugar is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_6c256b6469389eb5",
+    "source_candidate_claim_id": "CAND_RAG_NATURAL_FLAVOR_UCHUNK_001335",
+    "doc_id": "DOC_F0190DCF0884",
+    "file_name": "natural_flavor_declaration_fda_definition_reference.pdf",
+    "packet": "natural_flavor",
+    "source_type": "text_or_table",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_NATURAL_FLAVOR",
+    "rag_rank": 7,
+    "primary_claim_role": "logistics_distribution",
+    "claim_roles": [
+      "logistics_distribution"
+    ],
+    "evidence_type": "logistics_distribution_evidence",
+    "claim_strength": "background_context",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [],
+    "ingredients": [
+      "natural_flavor"
+    ],
+    "claim_label": "logistics_distribution: natural_flavor",
+    "evidence_text": "sources \nonly and must not be produced using synthetic solvents and carrier systems or any artificial preservative.” \nNOP §§205.105 (e) and (f) prohibits excluded methods and ionizing radiation, as defined in §205.2. More \nspecifics on these requirements are described below. \n \nThis form must be completed by the manufacturer of each natural flavor used by certified operations in \nproducts labeled as “organic” or “made with organic (specified food groups).” Additional information may \nbe required if needed to verify compliance with applicable regulations and policies. \n \n             ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐ \n \nSpecific Identification of Product (Name/Code): \n           \n \n \n \n \n \n \n \n \n \n \nType of flavor (select one or more as necessary):   \n☐ Compounded flavor    ☐ Distillate    ☐ Extract ☐   Essential oil    ☐   Essential oil isolate    ☐ Isolate  \n☐ Oleoresin  ☐ Protein Hydrolysate   ☐ Compounded with other natural flavor       \n☐ Other (specify): ______________________________\n\n\n--- PAGE 2 ---\n23FLAVDEC1F. doc \n                              Effective Date:1/1/2023 \n \n \nNatural Flavor Product \nA.  Flavor Constituents   \nNOTE: Flavors are products that are added to foo",
+    "safe_limit": "Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated.",
+    "safe_website_wording": "natural_flavor / natural_flavor may support modeled logistics or distribution context. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Distribution evidence supports modeled logistics context, not an exact route."
+    ],
+    "audited_safe_website_wording": "natural_flavor / natural_flavor is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_edee490ed431e9c3",
+    "source_candidate_claim_id": "CAND_RAG_MCLANE_LOGISTICS_UCHUNK_001906",
+    "doc_id": "DOC_050BBCAC6B3F",
+    "file_name": "mclane_company_profile.pdf",
+    "packet": "logistics_distribution",
+    "source_type": "visual_ocr",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_MCLANE_LOGISTICS",
+    "rag_rank": 1,
+    "primary_claim_role": "retail_price",
+    "claim_roles": [
+      "supplier_relationship",
+      "retail_price",
+      "logistics_distribution"
+    ],
+    "evidence_type": "retail_price_evidence",
+    "claim_strength": "medium_context_evidence",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "medium_low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "claim_label": "supplier_relationship / retail_price / logistics_distribution: mclane",
+    "evidence_text": "Year\nCee\n| !\n*\ntaying ahead to\nto success.\nInnovation is ingrained in everything we do, from our warehouse\ndesign and engineering to our delivery operations, technology, and\nproblem-solving approach.\nCareers P\nes E\ndyt th\nIf you're ready to go the\ni ‘Il tak\ndistance, we'll take you as\nfar as you want to go.\nThere is a sense of pride and a dedicated spirit among McLane teammates.\nFrom our industry-leading 401k and paid time off to our best-in-class affordable\nhealthcare plans, McLane invests heavily in the well-being and future careers of\nour teammates.\nJoin Our Team —\nMcLANE.\nFounded in 1894, McLane Company Inc. is one of the largest distributors in America, serving\nconvenience stores, mass merchants, and chain restaurants. As an industry-leading partner to the\nbiggest retail and restaurant businesses, McLane buys, sells, delivers, and serves the world’s most\nbeloved brands. With headquarters in Temple, Texas, McLane has more than 80 distribution centers\nacross the country, employs more than 25,000 teammates, and delivers to nearly every zip code in the .\nUS. McLane is a wholly owned subsidiary of Berkshire Hathaway, Inc. in f X @O\n© 2026 McLANE COMPANY, INC.. ALL RIGHTS RESERVED.",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Retail candidates may support observed shelf price only for the captured retailer/date/page context. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated.",
+    "safe_website_wording": "mclane / logistics_distribution may support observed retail page or price evidence. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "ocr_text_requires_visual_confidence_review",
+      "retail_observation_not_margin",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Display as visual/OCR-supported evidence; avoid over-reading screenshot text.",
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "OCR-derived text should be treated as visual evidence support and not over-read.",
+      "Retail observation does not prove margin or profit.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU.",
+      "Use observed retail price language only; do not infer margin or profit."
+    ],
+    "audited_safe_website_wording": "mclane / logistics_distribution is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_57d01d01c8747782",
+    "source_candidate_claim_id": "CAND_RAG_MCLANE_LOGISTICS_UCHUNK_001910",
+    "doc_id": "DOC_0C6FF4D0AACE",
+    "file_name": "mclane_grocery_retail_distribution_page.pdf",
+    "packet": "logistics_distribution",
+    "source_type": "visual_ocr",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_MCLANE_LOGISTICS",
+    "rag_rank": 2,
+    "primary_claim_role": "retail_price",
+    "claim_roles": [
+      "supplier_relationship",
+      "retail_price",
+      "logistics_distribution"
+    ],
+    "evidence_type": "retail_price_evidence",
+    "claim_strength": "medium_context_evidence",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "medium_low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "claim_label": "supplier_relationship / retail_price / logistics_distribution: mclane",
+    "evidence_text": "As an industry-leading partner to the\nbiggest retail and restaurant businesses, McLane buys, sells, delivers, and serves the world’s most\nbeloved brands. With headquarters in Temple, Texas, McLane has more than 80 distribution centers\nacross the country, employs more than 25,000 teammates, and delivers to nearly every zip code in the\nUS. McLane is a wholly owned subsidiary of Berkshire Hathaway, Inc. in f xX\n© 2026 McLANE COMPANY, INC.. ALL RIGHTS RESERVED. LEGAL\nWEBSITE PRIVACY POLICY | PERSONAL INFORMATION REQUEST | SEIS\nrp |",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Retail candidates may support observed shelf price only for the captured retailer/date/page context. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated.",
+    "safe_website_wording": "mclane / logistics_distribution may support observed retail page or price evidence. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "ocr_text_requires_visual_confidence_review",
+      "retail_observation_not_margin",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Display as visual/OCR-supported evidence; avoid over-reading screenshot text.",
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "OCR-derived text should be treated as visual evidence support and not over-read.",
+      "Retail observation does not prove margin or profit.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU.",
+      "Use observed retail price language only; do not infer margin or profit."
+    ],
+    "audited_safe_website_wording": "mclane / logistics_distribution is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_5a7aa798d3609663",
+    "source_candidate_claim_id": "CAND_RAG_MCLANE_LOGISTICS_UCHUNK_001905",
+    "doc_id": "DOC_050BBCAC6B3F",
+    "file_name": "mclane_company_profile.pdf",
+    "packet": "logistics_distribution",
+    "source_type": "visual_ocr",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_MCLANE_LOGISTICS",
+    "rag_rank": 4,
+    "primary_claim_role": "supplier_relationship",
+    "claim_roles": [
+      "supplier_relationship",
+      "logistics_distribution"
+    ],
+    "evidence_type": "supplier_relationship_evidence",
+    "claim_strength": "medium_context_evidence",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "medium_low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "claim_label": "supplier_relationship / logistics_distribution: mclane",
+    "evidence_text": "--- VISUAL OCR PAGE 1: page_001.png ---\nCareers Newsroom Locations Become a Customer Login\nAd About v Distribution Expertise » | C-StoreSolutions » Innovation » Suppliers Contact\nMcLANE.\nSeason Success ~— ee\n: ; 4\n. ; wae\nSummer brings more trips, more impulse, and more ¢ \"ey\nopportunity. New line extensions and LTOs from * «A a ¢ S\nMcLane Fresh are designed to help operators move r y | : > 5 PA —\nfast —— adding variety, driving incremental sales, and ty > « ¢ SS =\nexecuting with confidence during the busiest months ‘alten t oS SS\nof the year. Backed by the programs, products, and < q ‘ = “SS\nsupport to help you win all summer long. * TN \\ aS\nre | ~ : _\n>\nfe.) ; 3\n<\nee DT ——E——\nD = = a ate — Ste E =\nistribution rar oe OE\nE = = ay st 1 — ls _ i \\ : oe Se * = =z ==:\nLearn how our wide range of supply chain solutions can help yg = - -_ im. \\ ; I\nimprove efficiency, increase productivity, and drive profitability “\nthroughout your entire organization.\n7 || oe on \\\nLearn More — a { ely - e \\ — 2\nah \\ :] )\n} k NN\n| Sea ao eae x\nht | = = a\n~ & a\n— (=\nF > a\nwe ‘ tog 1\n} \\ ‘ », NY x\na. Oe h\nJ bed ~\n' *\n5 - ‘ /\n: About Us\nEs\nTy A 25,000\n3) .\n- committed to\n) l l\nSs ° excetence.\ne -_. a McLane",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated.",
+    "safe_website_wording": "mclane / logistics_distribution may support a modeled context relationship claim. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "ocr_text_requires_visual_confidence_review",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Display as visual/OCR-supported evidence; avoid over-reading screenshot text.",
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "OCR-derived text should be treated as visual evidence support and not over-read.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU."
+    ],
+    "audited_safe_website_wording": "mclane / logistics_distribution is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_1e1913500b17e8a8",
+    "source_candidate_claim_id": "CAND_RAG_MCLANE_LOGISTICS_UCHUNK_001909",
+    "doc_id": "DOC_0C6FF4D0AACE",
+    "file_name": "mclane_grocery_retail_distribution_page.pdf",
+    "packet": "logistics_distribution",
+    "source_type": "visual_ocr",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_MCLANE_LOGISTICS",
+    "rag_rank": 6,
+    "primary_claim_role": "retail_price",
+    "claim_roles": [
+      "supplier_relationship",
+      "retail_price",
+      "logistics_distribution"
+    ],
+    "evidence_type": "retail_price_evidence",
+    "claim_strength": "medium_context_evidence",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "medium_low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "claim_label": "supplier_relationship / retail_price / logistics_distribution: mclane",
+    "evidence_text": "--- VISUAL OCR PAGE 1: page_001.png ---\nCareers Newsroom Locations (| BecomeaCustomer ) (Login)\nAA About ~ __ DistributionExpertise ~ | C-StoreSolutions ~ Innovation ~ Suppliers Contact\nMcLANE\n—_ .\nF basal il .\neading the Retail Industry, —\nRetail\nHome Distribution Expertise Retall\n. .\nStreamline your supply chain and boost your\n.\nbottom line.\nFor more than 130 years, retailers of every size have turned to McLane as a distribution partner. We've proudly\ngrown alongside them, leading the industry together.\nMcLane combines a vast national network with a track record of reliability and proven expertise in tackling\ncomplex supply chain challenges. Our procurement experience and massive buying power translate into\nadvantaged pricing and product optimization that drive growth. We also provide deep merchandising insights to\nhelp find the product mix that sells best - down to the individual store level.\nTogether with our customers, from independent stores and emerging chains to the largest retailers in America,\nMcLane will continue to make bold moves and shape the future of modern retail.\n=\nSs A am\nPaap — ”\n~ 3 Pa, T aS\n. m Pepa ts Ps =\n\\ ESS ea Fou\nSolutions for independent, regional, and",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Retail candidates may support observed shelf price only for the captured retailer/date/page context. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated.",
+    "safe_website_wording": "mclane / logistics_distribution may support observed retail page or price evidence. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "ocr_text_requires_visual_confidence_review",
+      "retail_observation_not_margin",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Display as visual/OCR-supported evidence; avoid over-reading screenshot text.",
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "OCR-derived text should be treated as visual evidence support and not over-read.",
+      "Retail observation does not prove margin or profit.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU.",
+      "Use observed retail price language only; do not infer margin or profit."
+    ],
+    "audited_safe_website_wording": "mclane / logistics_distribution is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_e703de2645ff6d15",
+    "source_candidate_claim_id": "CAND_RAG_MCLANE_LOGISTICS_UCHUNK_002297",
+    "doc_id": "DOC_FDA0D8F4DCE2",
+    "file_name": "mclane_company_facts_reference.pdf",
+    "packet": "logistics_distribution",
+    "source_type": "visual_ocr",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_MCLANE_LOGISTICS",
+    "rag_rank": 7,
+    "primary_claim_role": "retail_price",
+    "claim_roles": [
+      "supplier_relationship",
+      "retail_price",
+      "logistics_distribution"
+    ],
+    "evidence_type": "retail_price_evidence",
+    "claim_strength": "medium_context_evidence",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "medium_low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [
+      "mclane"
+    ],
+    "ingredients": [],
+    "claim_label": "supplier_relationship / retail_price / logistics_distribution: mclane",
+    "evidence_text": "--- VISUAL OCR PAGE 1: page_001.png ---\nCareers Newsroom Locations Become a Customer Login\nAA About Distribution Expertise C-Store Solutions Innovation Suppliers Contact\nMcLANE\nU ki g McL 's St\nAbout\nMcLane combines unmatched distribution expertise and scale, a proven history of strategic partnerships, and\nleading innovation to help retail and restaurant businesses of all sizes compete and grow. We're trusted to\ndistribute and serve America’s most beloved brands, earning their partnership-every day.\nOur Mission\n[ranean na\nLeading the Charge\nTo be an agile, innovative, and unified supply chain\npartner that delivers a superior customer experience,\nand improves the lives of our teammates and\ncommunity, while producing best-in-class returns.\n.\nThe McLane Difference\nPartnership for Growth National Scale Leading Innovation\nIn our 130-year history, McLane has built deep McLane has a national network that we've proudly McLane invests in innovation to provide our customers\nrelationships with the leading retail and restaurant grown as our customers have grown, protecting the with greater efficiency, transparency, and predictability.\nbusinesses in America. We deliver best-in-class integrity o",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Retail candidates may support observed shelf price only for the captured retailer/date/page context. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated.",
+    "safe_website_wording": "mclane / logistics_distribution may support observed retail page or price evidence. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "ocr_text_requires_visual_confidence_review",
+      "retail_observation_not_margin",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Display as visual/OCR-supported evidence; avoid over-reading screenshot text.",
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "OCR-derived text should be treated as visual evidence support and not over-read.",
+      "Retail observation does not prove margin or profit.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU.",
+      "Use observed retail price language only; do not infer margin or profit."
+    ],
+    "audited_safe_website_wording": "mclane / logistics_distribution is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  },
+  {
+    "evidence_id": "EEVID_0544f66bea5d0955",
+    "source_candidate_claim_id": "CAND_RAG_COST_BENCHMARKS_UCHUNK_000118",
+    "doc_id": "DOC_73F44125570A",
+    "file_name": "hershey_latest_esg_sugar_section.pdf",
+    "packet": "hershey_company",
+    "source_type": "text_or_table",
+    "source_context": "rag_retrieval_result",
+    "rag_test_id": "RAG_COST_BENCHMARKS",
+    "rag_rank": 10,
+    "primary_claim_role": "retail_price",
+    "claim_roles": [
+      "supplier_relationship",
+      "ingredient_confirmation",
+      "retail_price",
+      "logistics_distribution",
+      "sustainability_context",
+      "manufacturing_or_process"
+    ],
+    "evidence_type": "retail_price_evidence",
+    "claim_strength": "background_context",
+    "relationship_strength": "modeled_context",
+    "safe_scope": "modeled_route_context",
+    "confidence_level": "low",
+    "audit_priority": "medium",
+    "display_candidate_status": "candidate_for_context_audit",
+    "entities": [],
+    "ingredients": [
+      "packaging"
+    ],
+    "claim_label": "supplier_relationship / ingredient_confirmation / retail_price: packaging",
+    "evidence_text": "proximately 80% achieved in 2023\nBoosting energy efficiency through incremental \nimprovements and capital investments in technology\nLeaning into green building design as a way \nto moderate our impact as we grow\nPackaging\n• Designing packaging to minimize impact and for circularity, such as moving to more recyclable materials, increasing recycled content for select pack-types in our portfolio \nand continuing to reduce overall use of materials \n• Exploring how we can improve packaging processes to be more efficient, using less energy and reducing waste\nLogistics\nRetail\n• Continuing fuel efficiency improvements in delivering our brands worldwide\n• Optimizing our network to reduce the number of trucks and the distances our products move\n• Exploring new technologies and practices for the supply chain\n᛫ Improving the recyclability of our retail display packaging\n᛫ Enhancing distribution efficiency through retail design solutions\nBrand and Portfolio\n• Exploring how to reduce environmental impacts of products through eco-design and ingredient formulation\n• Understanding consumer demand for plant-based and sustainable treats\n\n\n--- PAGE 67 ---\nWater: An Invaluable Resource\nWater insecurity i",
+    "safe_limit": "Supplier relationship candidates must remain company-level unless the text directly confirms the exact 1.55 oz SKU. | Ingredient candidates can confirm label/product ingredients, but not supplier allocation unless direct evidence says so. | Retail candidates may support observed shelf price only for the captured retailer/date/page context. | Logistics candidates support modeled downstream structure, not exact route confirmation unless directly stated. | Sustainability context supports sourcing program discussion, not exact cost or SKU-level supply. | Manufacturing/process candidates are general modeled process evidence, not proprietary Hershey line data.",
+    "safe_website_wording": "packaging / hershey_company may support observed retail page or price evidence. Use only as modeled logistics/distribution context. Do not claim exact route unless direct evidence says so.",
+    "risk_flags": [
+      "do_not_claim_exact_distribution_route",
+      "retail_observation_not_margin",
+      "supplier_claim_not_sku_confirmed"
+    ],
+    "frontend_display_allowed_now": false,
+    "strict_audit_status": "approved_context_only",
+    "created_at": "2026-05-09T20:04:46",
+    "strict_audit_class": "modeled_context",
+    "public_display_allowed": false,
+    "context_display_allowed": true,
+    "audit_reasons": [
+      "Evidence supports modeled logistics/context only, not exact route."
+    ],
+    "required_rewrites": [
+      "Distribution evidence supports modeled logistics context, not an exact route.",
+      "Retail observation does not prove margin or profit.",
+      "Supplier relationship is not confirmed for the exact 1.55 oz SKU.",
+      "Use observed retail price language only; do not infer margin or profit."
+    ],
+    "audited_safe_website_wording": "packaging / hershey_company is approved for context-only use under scope: Modeled route/context evidence. It should support explanation, not direct factual display claims.",
+    "audit_timestamp": "2026-05-09T20:10:36"
+  }
+]
