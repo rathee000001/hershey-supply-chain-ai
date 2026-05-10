@@ -1,0 +1,37 @@
+{
+  "run_name": "step16j_enriched_display_rebuild",
+  "run_time": "2026-05-09T20:13:24",
+  "root": "D:/HersheySupplyChainAI",
+  "approved_display_candidates_seen": 869,
+  "context_only_evidence_seen": 8,
+  "rejected_evidence_seen": 84,
+  "enriched_evidence_lookup_items": 877,
+  "packet_summary_items": 11,
+  "supplier_cards_v2": 4,
+  "ingredient_cards_v2": 12,
+  "graph_nodes_v2": 35,
+  "graph_edges_v2": 36,
+  "home_cards_v2": 5,
+  "public_enriched_manifest_url": "/data/hershey/enriched_display/enriched_display_manifest_v2.json",
+  "artifact_outputs": {
+    "enriched_evidence_panel_lookup_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_evidence_panel_lookup_v2.json",
+    "enriched_packet_summary_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_packet_summary_v2.json",
+    "enriched_supplier_cards_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_supplier_cards_v2.json",
+    "enriched_ingredient_cards_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_ingredient_cards_v2.json",
+    "enriched_cost_breakdown_display_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_cost_breakdown_display_v2.json",
+    "enriched_interactive_graph_payload_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_interactive_graph_payload_v2.json",
+    "enriched_home_summary_cards_v2.json": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_home_summary_cards_v2.json"
+  },
+  "public_urls": {
+    "enriched_evidence_panel_lookup_v2": "/data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json",
+    "enriched_packet_summary_v2": "/data/hershey/enriched_display/enriched_packet_summary_v2.json",
+    "enriched_supplier_cards_v2": "/data/hershey/enriched_display/enriched_supplier_cards_v2.json",
+    "enriched_ingredient_cards_v2": "/data/hershey/enriched_display/enriched_ingredient_cards_v2.json",
+    "enriched_cost_breakdown_display_v2": "/data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json",
+    "enriched_interactive_graph_payload_v2": "/data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json",
+    "enriched_home_summary_cards_v2": "/data/hershey/enriched_display/enriched_home_summary_cards_v2.json"
+  },
+  "enriched_display_manifest_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_display_manifest_v2.json",
+  "enriched_rebuild_summary_csv": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_rebuild_summary.csv",
+  "next_step": "Step 16K: validate enriched public JSON v2 before frontend build."
+}

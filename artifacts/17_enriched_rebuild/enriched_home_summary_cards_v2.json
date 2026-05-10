@@ -1,0 +1,42 @@
+[
+  {
+    "card_id": "CARD_AUDITED_EVIDENCE",
+    "title": "Audited Evidence Brain",
+    "value": "869 approved",
+    "subtitle": "8 context-only / 84 rejected",
+    "display_type": "audit",
+    "safe_note": "Only approved display-safe evidence is used in enriched v2 artifacts."
+  },
+  {
+    "card_id": "CARD_TARGET_SKU",
+    "title": "Target SKU",
+    "value": "1.55 oz / 43 g",
+    "subtitle": "HERSHEY'S Milk Chocolate Candy Bar",
+    "display_type": "product",
+    "safe_note": "SKU identity is supported by audited product/wrapper evidence."
+  },
+  {
+    "card_id": "CARD_GRAPH_SIZE",
+    "title": "Interactive Supply Chain",
+    "value": "35 nodes / 36 edges",
+    "subtitle": "Ingredient, manufacturing, logistics, retail, and cost structure",
+    "display_type": "graph",
+    "safe_note": "Graph is a modeled public-evidence visualization."
+  },
+  {
+    "card_id": "CARD_PHYSICAL_COST",
+    "title": "Estimated Physical Cost",
+    "value": "31.8067¢",
+    "subtitle": "Range: 14.7071¢–60.037¢ per bar",
+    "display_type": "cost",
+    "safe_note": "Benchmark estimate only, not Hershey internal cost."
+  },
+  {
+    "card_id": "CARD_RETAIL_PRICE",
+    "title": "Verified Retail Price",
+    "value": "$1.9975",
+    "subtitle": "Observed range: $1.62–$2.19",
+    "display_type": "retail",
+    "safe_note": "Retail price is page/store/date dependent and not margin evidence."
+  }
+]

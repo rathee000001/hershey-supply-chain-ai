@@ -1,0 +1,49 @@
+{
+  "display_ready_version": "v2_enriched_step16j",
+  "created_at": "2026-05-09T20:13:24",
+  "project_wording": {
+    "project_title": "Hershey 1.55 oz Milk Chocolate Supply Chain Intelligence",
+    "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",
+    "model_scope": "Public-evidence benchmark supply-chain and cost intelligence model.",
+    "primary_disclaimer": "This is a public-evidence benchmark model. It is not Hershey internal SKU-level cost accounting, supplier invoice data, margin analysis, or proprietary distribution data.",
+    "audit_disclaimer": "Only Step 16I approved display-safe evidence is used in the enriched v2 display artifacts."
+  },
+  "input_artifacts": {
+    "approved_display_candidates": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_approved_display_candidates.json",
+    "context_only_evidence": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_context_only_evidence.json",
+    "rejected_evidence": "D:/HersheySupplyChainAI/artifacts/16_enriched_audit/enriched_rejected_evidence.json",
+    "step16i_report": "D:/HersheySupplyChainAI/artifacts/10_run_reports/step16i_enriched_strict_audit_report.json",
+    "baseline_public_manifest": "D:/HersheySupplyChainAI/public/data/hershey/frontend_public_manifest.json"
+  },
+  "display_artifacts": {
+    "enriched_evidence_panel_lookup_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_evidence_panel_lookup_v2.json",
+    "enriched_packet_summary_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_packet_summary_v2.json",
+    "enriched_supplier_cards_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_supplier_cards_v2.json",
+    "enriched_ingredient_cards_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_ingredient_cards_v2.json",
+    "enriched_cost_breakdown_display_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_cost_breakdown_display_v2.json",
+    "enriched_interactive_graph_payload_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_interactive_graph_payload_v2.json",
+    "enriched_home_summary_cards_v2": "D:/HersheySupplyChainAI/artifacts/17_enriched_rebuild/enriched_home_summary_cards_v2.json"
+  },
+  "public_urls": {
+    "enriched_evidence_panel_lookup_v2": "/data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json",
+    "enriched_packet_summary_v2": "/data/hershey/enriched_display/enriched_packet_summary_v2.json",
+    "enriched_supplier_cards_v2": "/data/hershey/enriched_display/enriched_supplier_cards_v2.json",
+    "enriched_ingredient_cards_v2": "/data/hershey/enriched_display/enriched_ingredient_cards_v2.json",
+    "enriched_cost_breakdown_display_v2": "/data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json",
+    "enriched_interactive_graph_payload_v2": "/data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json",
+    "enriched_home_summary_cards_v2": "/data/hershey/enriched_display/enriched_home_summary_cards_v2.json"
+  },
+  "frontend_rule": "Frontend should prefer enriched_display v2 artifacts after Step 16K validation passes.",
+  "safety_rule": "No frontend claim should bypass Step 16I approved display-safe evidence.",
+  "audit_summary": {
+    "approved_display_candidates": 869,
+    "context_only_evidence": 8,
+    "rejected_evidence": 84,
+    "audit_status_counts": {
+      "approved_context_only": 8,
+      "approved_display_safe": 869,
+      "rejected_overclaim_risk": 59,
+      "rejected_research_only": 25
+    }
+  }
+}
