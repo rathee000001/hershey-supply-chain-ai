@@ -1,6 +1,8 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import CinematicAssetScene from "@/components/hershey/CinematicAssetScene";
+import CinematicConnectedMap from "@/components/hershey/CinematicConnectedMap";
 import CinematicSupplyChainStoryboard from "@/components/hershey/CinematicSupplyChainStoryboard";
 import {
   Boxes,
@@ -175,6 +177,19 @@ export default function SupplyChainPage() {
           ))}
         </div>
       </section>
+      <CinematicConnectedMap
+  ingredients={data.ingredients}
+  suppliers={data.suppliers}
+  graph={data.graph}
+  costBreakdown={data.costBreakdown}
+/>
+
+      
+      <CinematicAssetScene
+        ingredients={data.ingredients}
+        suppliers={data.suppliers}
+        costBreakdown={data.costBreakdown}
+      />
 
       <section className="mx-auto grid max-w-7xl gap-6 px-6 py-8 lg:grid-cols-3">
         <div className="rounded-3xl border border-white/10 bg-white/[0.06] p-6">

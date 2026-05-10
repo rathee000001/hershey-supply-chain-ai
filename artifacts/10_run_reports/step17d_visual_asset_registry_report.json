@@ -1,0 +1,29 @@
+{
+  "run_name": "step17d_visual_asset_registry",
+  "run_time": "2026-05-09T21:04:00",
+  "root": "D:/HersheySupplyChainAI",
+  "images_scanned": 257,
+  "assets_registered": 15,
+  "actual_project_assets": 14,
+  "generated_placeholders": 1,
+  "public_manifest": "D:/HersheySupplyChainAI/public/data/hershey/visual_assets/hershey_visual_assets_manifest.json",
+  "public_manifest_url": "/data/hershey/visual_assets/hershey_visual_assets_manifest.json",
+  "artifact_manifest": "D:/HersheySupplyChainAI/artifacts/19_visual_asset_registry/hershey_visual_assets_manifest.json",
+  "selected_assets": {
+    "hershey_wrapper_front": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_front/Hershey Front.webp",
+    "hershey_wrapper_back": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+    "hershey_unwrapped_bar": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/product_visuals/hershey unwrapped.png",
+    "hershey_logo": "D:/HersheySupplyChainAI/data/raw_sources/06_brand_logo_assets/hershey/hershey_company_logo.png",
+    "asr_logo": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+    "barry_callebaut_logo": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+    "land_olakes_logo": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png",
+    "mclane_logo": "D:/HersheySupplyChainAI/data/raw_sources/04_logistics_distribution/05_logo_assets/mclane_logo_asset.png",
+    "dairy_origin": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+    "sugarcane_origin": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+    "cocoa_origin": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+    "factory_visual": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+    "truck_visual": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+    "retail_shelf_visual": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp"
+  },
+  "next_step": "Patch frontend to use visual asset manifest and display actual images/logos."
+}

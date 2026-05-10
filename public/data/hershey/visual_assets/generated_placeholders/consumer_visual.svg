@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#ead2ff" stop-opacity="0.22"/>
+      <stop offset="45%" stop-color="#30143b" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#080202"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="720" rx="64" fill="url(#g)"/>
+  <circle cx="600" cy="300" r="150" fill="#ead2ff" opacity="0.12"/>
+  <text x="600" y="330" text-anchor="middle" font-size="150">🛍️</text>
+  <text x="600" y="515" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="900" letter-spacing="10" fill="#ead2ff">CONSUMER</text>
+  <text x="600" y="585" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="6" fill="#ead2ff" opacity="0.68">PUBLIC-EVIDENCE VISUAL PLACEHOLDER</text>
+</svg>

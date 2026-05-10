@@ -1,0 +1,177 @@
+{
+  "visual_assets_version": "step17d_v1",
+  "created_at": "2026-05-09T21:04:00",
+  "project": "Hershey 1.55 oz Milk Chocolate Supply Chain Intelligence",
+  "base_public_path": "/data/hershey/visual_assets",
+  "frontend_rule": "Use visual assets for cinematic storytelling only. Evidence claims still come from audited JSON artifacts.",
+  "assets": {
+    "hershey_wrapper_front": {
+      "asset_key": "hershey_wrapper_front",
+      "label": "Hershey wrapper front",
+      "url": "/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+      "asset_type": "product_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_front/Hershey Front.webp",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "hershey_wrapper_back": {
+      "asset_key": "hershey_wrapper_back",
+      "label": "Hershey wrapper back",
+      "url": "/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp",
+      "asset_type": "product_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "hershey_unwrapped_bar": {
+      "asset_key": "hershey_unwrapped_bar",
+      "label": "Unwrapped Hershey chocolate bar",
+      "url": "/data/hershey/visual_assets/source_assets/hershey_unwrapped_bar.png",
+      "asset_type": "product_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/product_visuals/hershey unwrapped.png",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "hershey_logo": {
+      "asset_key": "hershey_logo",
+      "label": "Hershey logo",
+      "url": "/data/hershey/visual_assets/source_assets/hershey_logo.png",
+      "asset_type": "company_logo",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/06_brand_logo_assets/hershey/hershey_company_logo.png",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "asr_logo": {
+      "asset_key": "asr_logo",
+      "label": "ASR logo",
+      "url": "/data/hershey/visual_assets/source_assets/asr_logo.svg",
+      "asset_type": "supplier_logo",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "barry_callebaut_logo": {
+      "asset_key": "barry_callebaut_logo",
+      "label": "Barry Callebaut logo",
+      "url": "/data/hershey/visual_assets/source_assets/barry_callebaut_logo.svg",
+      "asset_type": "supplier_logo",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "land_olakes_logo": {
+      "asset_key": "land_olakes_logo",
+      "label": "Land O'Lakes logo",
+      "url": "/data/hershey/visual_assets/source_assets/land_olakes_logo.png",
+      "asset_type": "supplier_logo",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/dairy_milk_skim_milk_milk_fat/05_logo_assets/land_o_lakes_logo_asset.png",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "mclane_logo": {
+      "asset_key": "mclane_logo",
+      "label": "McLane logo",
+      "url": "/data/hershey/visual_assets/source_assets/mclane_logo.png",
+      "asset_type": "supplier_logo",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/04_logistics_distribution/05_logo_assets/mclane_logo_asset.png",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "dairy_origin": {
+      "asset_key": "dairy_origin",
+      "label": "Dairy farm / cow origin",
+      "url": "/data/hershey/visual_assets/source_assets/dairy_origin.webp",
+      "asset_type": "origin_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "sugarcane_origin": {
+      "asset_key": "sugarcane_origin",
+      "label": "Sugarcane / beet origin",
+      "url": "/data/hershey/visual_assets/source_assets/sugarcane_origin.svg",
+      "asset_type": "origin_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/sugar/logo_assets/ASR_Group_logo.svg",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "cocoa_origin": {
+      "asset_key": "cocoa_origin",
+      "label": "Cocoa origin",
+      "url": "/data/hershey/visual_assets/source_assets/cocoa_origin.svg",
+      "asset_type": "origin_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/03_ingredient_research/cocoa_chocolate_cocoa_butter/logo_assets/barry_logo.svg",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "factory_visual": {
+      "asset_key": "factory_visual",
+      "label": "Factory / manufacturing visual",
+      "url": "/data/hershey/visual_assets/source_assets/factory_visual.webp",
+      "asset_type": "process_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "truck_visual": {
+      "asset_key": "truck_visual",
+      "label": "Truck / logistics visual",
+      "url": "/data/hershey/visual_assets/source_assets/truck_visual.webp",
+      "asset_type": "logistics_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "retail_shelf_visual": {
+      "asset_key": "retail_shelf_visual",
+      "label": "Retail shelf visual",
+      "url": "/data/hershey/visual_assets/source_assets/retail_shelf_visual.webp",
+      "asset_type": "retail_visual",
+      "source_kind": "actual_project_asset",
+      "source_path": "D:/HersheySupplyChainAI/data/raw_sources/01_product_sku_1_55oz/wrapper_back/Hershey back.webp",
+      "display_allowed": true,
+      "usage_note": "Actual collected project asset. Use for visual storytelling, not as standalone factual proof."
+    },
+    "consumer_visual": {
+      "asset_key": "consumer_visual",
+      "label": "Consumer purchase visual",
+      "url": "/data/hershey/visual_assets/generated_placeholders/consumer_visual.svg",
+      "asset_type": "consumer_visual",
+      "source_kind": "generated_placeholder",
+      "source_path": "",
+      "display_allowed": true,
+      "usage_note": "Generated project placeholder for consumer purchase endpoint."
+    }
+  },
+  "asset_keys": [
+    "asr_logo",
+    "barry_callebaut_logo",
+    "cocoa_origin",
+    "consumer_visual",
+    "dairy_origin",
+    "factory_visual",
+    "hershey_logo",
+    "hershey_unwrapped_bar",
+    "hershey_wrapper_back",
+    "hershey_wrapper_front",
+    "land_olakes_logo",
+    "mclane_logo",
+    "retail_shelf_visual",
+    "sugarcane_origin",
+    "truck_visual"
+  ],
+  "next_step": "Step 17E can use these URLs as texture/image planes for Three.js."
+}
