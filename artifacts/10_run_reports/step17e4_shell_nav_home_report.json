@@ -1,0 +1,8 @@
+{
+  "run_name": "step17e4_validate_shell_nav_home",
+  "run_time": "2026-05-09T23:42:03",
+  "validation_status": "pass",
+  "missing_files": [],
+  "missing_terms": {},
+  "next_step": "Step 17E-B4: create global chocolate loading and chocolate atmosphere layer."
+}
