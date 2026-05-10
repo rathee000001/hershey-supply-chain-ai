@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import CinematicSupplyChainStoryboard from "@/components/hershey/CinematicSupplyChainStoryboard";
 import {
   Boxes,
   Factory,
@@ -209,7 +210,12 @@ export default function SupplyChainPage() {
           </ul>
         </div>
       </section>
-
+<CinematicSupplyChainStoryboard
+  ingredients={data.ingredients}
+  suppliers={data.suppliers}
+  graph={data.graph}
+  costBreakdown={data.costBreakdown}
+/>
       <section className="mx-auto max-w-7xl px-6 py-8">
         <div className="mb-5 flex items-center gap-3">
           <Boxes className="text-amber-200" />
