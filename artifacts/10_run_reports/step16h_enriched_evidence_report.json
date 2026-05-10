@@ -1,0 +1,81 @@
+{
+  "run_name": "step16h_enriched_evidence_blob_builder",
+  "run_time": "2026-05-09T20:04:47",
+  "root": "D:/HersheySupplyChainAI",
+  "candidate_claims_seen": 1020,
+  "document_profiles_seen": 116,
+  "rag_bundles_seen": 12,
+  "enriched_evidence_blobs_created": 961,
+  "exact_duplicates_removed": 59,
+  "review_queue_items": 936,
+  "packet_counts": {
+    "cocoa_chocolate_cocoa_butter": 170,
+    "dairy_milk_skim_milk_milk_fat": 159,
+    "hershey_company": 232,
+    "logistics_distribution": 16,
+    "natural_flavor": 78,
+    "packaging_wrapper": 207,
+    "pgpr": 24,
+    "product_sku_1_55oz": 7,
+    "retail_price_evidence": 6,
+    "soy_lecithin": 13,
+    "sugar": 49
+  },
+  "primary_claim_role_counts": {
+    "cost_or_price_benchmark": 5,
+    "general_context": 3,
+    "ingredient_confirmation": 576,
+    "logistics_distribution": 1,
+    "manufacturing_or_process": 1,
+    "retail_price": 310,
+    "supplier_relationship": 65
+  },
+  "evidence_type_counts": {
+    "benchmark_cost_or_price_evidence": 5,
+    "general_context_evidence": 3,
+    "ingredient_or_label_evidence": 576,
+    "logistics_distribution_evidence": 1,
+    "manufacturing_process_evidence": 1,
+    "retail_price_evidence": 310,
+    "supplier_relationship_evidence": 65
+  },
+  "claim_strength_counts": {
+    "background_context": 15,
+    "benchmark_context_evidence": 59,
+    "company_level_relationship_evidence": 381,
+    "direct_product_or_label_evidence": 262,
+    "direct_visual_or_page_evidence": 226,
+    "medium_context_evidence": 15,
+    "visual_high_relevance_context": 3
+  },
+  "safe_scope_counts": {
+    "benchmark_only": 59,
+    "company_level_only": 381,
+    "context_only": 25,
+    "modeled_route_context": 8,
+    "retail_page_level": 226,
+    "sku_or_label_level": 262
+  },
+  "confidence_level_counts": {
+    "low": 9,
+    "low_medium": 10,
+    "medium": 440,
+    "medium_high": 488,
+    "medium_low": 14
+  },
+  "audit_priority_counts": {
+    "high": 928,
+    "medium": 33
+  },
+  "display_candidate_status_counts": {
+    "candidate_for_context_audit": 8,
+    "candidate_for_strict_audit": 928,
+    "research_only": 25
+  },
+  "enriched_evidence_blobs_json": "D:/HersheySupplyChainAI/artifacts/15_enriched_evidence/enriched_evidence_blobs.json",
+  "enriched_evidence_by_packet_json": "D:/HersheySupplyChainAI/artifacts/15_enriched_evidence/enriched_evidence_by_packet.json",
+  "enriched_evidence_review_queue_json": "D:/HersheySupplyChainAI/artifacts/15_enriched_evidence/enriched_evidence_review_queue.json",
+  "enriched_evidence_summary_csv": "D:/HersheySupplyChainAI/artifacts/15_enriched_evidence/enriched_evidence_summary.csv",
+  "manifest_json": "D:/HersheySupplyChainAI/artifacts/15_enriched_evidence/enriched_evidence_manifest.json",
+  "next_step": "Step 16I: enriched strict audit to approve/reject/rewrite evidence for display-safe artifacts."
+}
