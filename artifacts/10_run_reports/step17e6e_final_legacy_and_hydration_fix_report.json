@@ -1,0 +1,28 @@
+{
+  "run_name": "step17e6e_final_legacy_and_hydration_fix",
+  "run_time": "2026-05-10T03:41:11",
+  "status": "pass",
+  "moved_src_legacy": [],
+  "renamed_archive_ts": [],
+  "deleted_cache": [
+    "D:/HersheySupplyChainAI/.next"
+  ],
+  "layout_patch_notes": [
+    "Added suppressHydrationWarning to html.",
+    "Added suppressHydrationWarning to body."
+  ],
+  "remaining_src_legacy": [],
+  "remaining_archive_ts": [],
+  "layout_has_html_suppress": true,
+  "layout_has_body_suppress": true,
+  "tsconfig_exclude": [
+    "node_modules",
+    "project_archive",
+    "project_archive/**/*",
+    "src/components/archive",
+    "src/components/archive/**/*",
+    ".next"
+  ],
+  "important_note": "If the hydration overlay still appears, test in Incognito or disable Grammarly/browser extensions. The shown data-gr attributes come from a browser extension.",
+  "next_step": "Run npm build, reload VS Code if Problems panel is stale, then continue to Step 17F."
+}

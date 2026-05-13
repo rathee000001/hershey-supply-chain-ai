@@ -14,6 +14,8 @@ import {
 import CinematicPageShell from "@/components/cinematic/CinematicPageShell";
 import MotionSafeWrapper from "@/components/cinematic/MotionSafeWrapper";
 import HomeChocolateBarHeroSlot from "@/components/hershey3d/HomeChocolateBarHeroSlot";
+import HomeIntelligencePipelineMap from "@/components/home/HomeIntelligencePipelineMap";
+import HomeProjectOverviewSection from "@/components/home/HomeProjectOverviewSection";
 import HomeProductShowcase from "@/components/home/HomeProductShowcase";
 
 const overviewCards = [
@@ -39,15 +41,6 @@ const overviewCards = [
   },
 ];
 
-const pipelineItems = [
-  "Raw public sources",
-  "Parser + OCR memory",
-  "RAG/vector evidence index",
-  "Evidence audit",
-  "Supplier/ingredient packets",
-  "Cost model artifacts",
-  "3D cinematic frontend",
-];
 
 export default function HomePage() {
   return (
@@ -141,88 +134,9 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section className="px-6 pb-12">
-          <div className="mx-auto grid max-w-7xl gap-5 lg:grid-cols-[1.1fr_1fr]">
-            <MotionSafeWrapper>
-              <div className="rounded-[2rem] border border-[#2a0805]/10 bg-white/94 p-8 shadow-xl shadow-[#3a160d]/5 backdrop-blur-xl">
-                <p className="text-[11px] font-black uppercase tracking-[0.25em] text-[#1f62ff]">
-                  Project Overview
-                </p>
-                <h2 className="mt-4 text-4xl font-black tracking-tight text-[#09040a]">
-                  A study platform built from public evidence and audited artifacts.
-                </h2>
-                <p className="mt-5 text-base leading-8 text-[#51433d]">
-                  This project is designed as a public-source supply-chain intelligence prototype.
-                  It combines document parsing, OCR/RAG memory, evidence audit logic, ingredient
-                  and supplier packet construction, benchmark cost modeling, and a planned
-                  cinematic frontend.
-                </p>
-              </div>
-            </MotionSafeWrapper>
+        <HomeProjectOverviewSection />
 
-            <div className="grid gap-5 sm:grid-cols-2">
-              {overviewCards.map((card, index) => {
-                const Icon = card.icon;
-                return (
-                  <MotionSafeWrapper key={card.title} delay={index * 0.05}>
-                    <div className="rounded-[2rem] border border-[#2a0805]/10 bg-white/94 p-6 shadow-xl shadow-[#3a160d]/5 backdrop-blur-xl">
-                      <Icon className="mb-4 text-[#d6a526]" />
-                      <h3 className="text-xl font-black text-[#09040a]">{card.title}</h3>
-                      <p className="mt-3 text-sm leading-6 text-[#51433d]">{card.body}</p>
-                    </div>
-                  </MotionSafeWrapper>
-                );
-              })}
-            </div>
-          </div>
-        </section>
-
-        <section className="px-6 pb-20">
-          <MotionSafeWrapper>
-            <div className="mx-auto max-w-7xl rounded-[2rem] border border-[#2a0805]/10 bg-white/94 p-8 shadow-xl shadow-[#3a160d]/5 backdrop-blur-xl">
-              <p className="text-[11px] font-black uppercase tracking-[0.25em] text-[#1f62ff]">
-                Intelligence Pipeline
-              </p>
-
-              <div className="mt-6 grid gap-3 md:grid-cols-7">
-                {pipelineItems.map((item, index) => (
-                  <div
-                    key={item}
-                    className="rounded-3xl border border-[#2a0805]/10 bg-[#fffaf3] p-4"
-                  >
-                    <p className="text-[10px] font-black uppercase tracking-[0.2em] text-[#9c6a27]">
-                      {String(index + 1).padStart(2, "0")}
-                    </p>
-                    <p className="mt-2 text-sm font-black text-[#2a0805]">{item}</p>
-                  </div>
-                ))}
-              </div>
-
-              <div className="mt-8 rounded-3xl border border-[#2a0805]/10 bg-[#f8f4ed] p-6">
-                <div className="flex flex-col gap-5 lg:flex-row lg:items-center lg:justify-between">
-                  <div>
-                    <p className="text-[11px] font-black uppercase tracking-[0.25em] text-[#9c6a27]">
-                      Academic Framing
-                    </p>
-                    <p className="mt-2 text-lg font-black text-[#2a0805]">
-                      Spring 2026 - M01 - Operations Management Applications · QANT_760-M01-2026SP-S · Professor: Dr. Rajendra Tibrewala
-                    </p>
-                  </div>
-                  <div className="flex flex-wrap gap-3">
-                    <div className="inline-flex items-center gap-2 rounded-full bg-[#2a0805] px-4 py-3 text-xs font-black uppercase tracking-[0.16em] text-white">
-                      <ShieldCheck size={15} />
-                      Evidence-safe
-                    </div>
-                    <div className="inline-flex items-center gap-2 rounded-full border border-[#2a0805]/10 bg-white px-4 py-3 text-xs font-black uppercase tracking-[0.16em] text-[#2a0805]">
-                      <GitBranch size={15} />
-                      Portfolio-ready
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </MotionSafeWrapper>
-        </section>
+        <HomeIntelligencePipelineMap />
       </div>
     </CinematicPageShell>
   );

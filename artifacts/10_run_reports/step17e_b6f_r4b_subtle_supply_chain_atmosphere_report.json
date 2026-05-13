@@ -1,0 +1,63 @@
+{
+  "step": "17E-B6F-R4B",
+  "name": "Subtle Hershey supply-chain atmosphere scene validation",
+  "generated_at": "2026-05-13T11:29:53",
+  "status": "FAIL",
+  "warnings": [
+    "Forbidden canvas/product-covering overlay/transparent wash/claims found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "atmosphere_scene": [],
+    "readable_atmosphere": [],
+    "lab_scene": [],
+    "lab_slot": [],
+    "product_background": [],
+    "product_background_slot": [],
+    "home_scene": [],
+    "home_scene_slot": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "forbidden_found": {
+    "atmosphere_scene": [
+      "Line"
+    ],
+    "readable_atmosphere": [],
+    "lab_scene": [],
+    "lab_slot": [],
+    "product_background": [],
+    "product_background_slot": [],
+    "home_scene": [],
+    "home_scene_slot": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "files_checked": {
+    "atmosphere_scene": "src/components/hershey3d/home/HersheySupplyChainAtmosphereScene.tsx",
+    "readable_atmosphere": "src/components/hershey3d/home/HersheyHomeReadableAtmosphere.tsx",
+    "lab_scene": "src/components/hershey3d/home/HersheyHomeLabScene.tsx",
+    "lab_slot": "src/components/hershey3d/home/HersheyHomeLabSceneSlot.tsx",
+    "product_background": "src/components/hershey3d/home/HomeProductCinematicBackground.tsx",
+    "product_background_slot": "src/components/hershey3d/home/HomeProductCinematicBackgroundSlot.tsx",
+    "home_scene": "src/components/hershey3d/home/HomeHeroScene.tsx",
+    "home_scene_slot": "src/components/hershey3d/home/HomeHeroSceneSlot.tsx",
+    "fallback": "src/components/hershey3d/home/HomeHeroFallback.tsx",
+    "compat_hero": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "compat_slot": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx"
+  },
+  "rules_confirmed": {
+    "right_only_scene_region": true,
+    "framer_motion_svg_scene": true,
+    "no_left_transparent_wash": true,
+    "no_bottom_transparent_wash": true,
+    "no_canvas_or_copied_portfolio_nodes": false,
+    "no_product_assets_in_background": true,
+    "target_sku_still_disabled": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot. Continue only if the atmosphere is subtle and does not wash over text/cards."
+}

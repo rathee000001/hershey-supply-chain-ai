@@ -1,0 +1,55 @@
+{
+  "run_name": "step17e6c_deactivate_archived_tsx",
+  "run_time": "2026-05-10T02:54:45",
+  "status": "complete",
+  "archived_ts_files_renamed": [
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/ChocolateDripOverlay.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/ChocolateDripOverlay.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicAssetScene.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicAssetScene.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicConnectedMap.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicConnectedMap.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicSupplyChainStoryboard.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicSupplyChainStoryboard.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/HersheyCinematicHero.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/HersheyCinematicHero.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/ChocolateDripOverlay.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/ChocolateDripOverlay.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicAssetScene.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicAssetScene.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicConnectedMap.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicConnectedMap.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicSupplyChainStoryboard.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicSupplyChainStoryboard.tsx.archive.txt"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/HersheyCinematicHero.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/HersheyCinematicHero.tsx.archive.txt"
+    }
+  ],
+  "tsconfig_exclude": [
+    "node_modules",
+    "project_archive",
+    "project_archive/**/*",
+    "src/components/archive",
+    "src/components/archive/**/*"
+  ],
+  "next_step": "Run Step 17E-B5 validation and npm build."
+}

@@ -36,6 +36,23 @@ export type HomeCard = {
   safe_note?: string;
 };
 
+export type EvidencePreview = {
+  evidence_id?: string;
+  file_name?: string;
+  packet?: string;
+  source_type?: string;
+  primary_claim_role?: string;
+  claim_strength?: string;
+  safe_scope?: string;
+  relationship_strength?: string;
+  confidence_level?: string;
+  strict_audit_status?: string;
+  public_display_allowed?: boolean;
+  context_display_allowed?: boolean;
+  audited_safe_website_wording?: string;
+  evidence_text_preview?: string;
+};
+
 export type GraphNode = {
   id?: string;
   type?: string;
@@ -102,23 +119,6 @@ export type IngredientCard = {
   approved_evidence_preview?: EvidencePreview[];
 };
 
-export type EvidencePreview = {
-  evidence_id?: string;
-  file_name?: string;
-  packet?: string;
-  source_type?: string;
-  primary_claim_role?: string;
-  claim_strength?: string;
-  safe_scope?: string;
-  relationship_strength?: string;
-  confidence_level?: string;
-  strict_audit_status?: string;
-  public_display_allowed?: boolean;
-  context_display_allowed?: boolean;
-  audited_safe_website_wording?: string;
-  evidence_text_preview?: string;
-};
-
 export type CostBreakdown = {
   display_version?: string;
   unit?: string;
@@ -169,14 +169,17 @@ export type PacketSummary = {
   top_approved_evidence?: EvidencePreview[];
 };
 
-export type EvidenceLookup = Record<string, EvidencePreview & {
-  entities?: string[];
-  ingredients?: string[];
-  risk_flags?: string[];
-  audit_reasons?: string[];
-  required_rewrites?: string[];
-  evidence_text?: string;
-}>;
+export type EvidenceLookup = Record<
+  string,
+  EvidencePreview & {
+    entities?: string[];
+    ingredients?: string[];
+    risk_flags?: string[];
+    audit_reasons?: string[];
+    required_rewrites?: string[];
+    evidence_text?: string;
+  }
+>;
 
 export type EnrichedArtifacts = {
   manifest: HersheyFrontendManifest;
@@ -206,6 +209,10 @@ export async function loadHersheyManifest(): Promise<HersheyFrontendManifest> {
 export async function loadEnrichedArtifacts(): Promise<EnrichedArtifacts> {
   const manifest = await loadHersheyManifest();
   const artifacts = manifest.primary_artifacts;
+
+  if (!artifacts) {
+    throw new Error("Manifest is missing primary_artifacts.");
+  }
 
   const [
     homeCards,

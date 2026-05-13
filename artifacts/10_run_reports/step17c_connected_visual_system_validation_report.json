@@ -1,0 +1,14 @@
+{
+  "run_name": "step17c_connected_visual_system_validation",
+  "run_time": "2026-05-09T20:50:51",
+  "root": "D:/HersheySupplyChainAI",
+  "validation_status": "pass",
+  "missing_files": [],
+  "missing_component_terms": [],
+  "page_import_ok": true,
+  "page_component_ok": true,
+  "page_json_props_ok": true,
+  "component_path": "D:/HersheySupplyChainAI/src/components/hershey/CinematicConnectedMap.tsx",
+  "page_path": "D:/HersheySupplyChainAI/src/app/supply-chain/page.tsx",
+  "next_step": "Step 17D: premium visual asset layer with Hershey wrapper, unwrapped chocolate, and supplier logos."
+}

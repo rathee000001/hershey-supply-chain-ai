@@ -1,0 +1,53 @@
+{
+  "step": "17E-B6F-R3",
+  "name": "Portfolio-style Hershey background scene validation",
+  "generated_at": "2026-05-13T11:02:52",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "lab_scene": [],
+    "lab_slot": [],
+    "home_fallback": [],
+    "compat_product_background": [],
+    "compat_product_background_slot": [],
+    "compat_home_scene": [],
+    "compat_home_scene_slot": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "forbidden_found": {
+    "lab_scene": [],
+    "lab_slot": [],
+    "home_fallback": [],
+    "compat_product_background": [],
+    "compat_product_background_slot": [],
+    "compat_home_scene": [],
+    "compat_home_scene_slot": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "files_checked": {
+    "lab_scene": "src/components/hershey3d/home/HersheyHomeLabScene.tsx",
+    "lab_slot": "src/components/hershey3d/home/HersheyHomeLabSceneSlot.tsx",
+    "home_fallback": "src/components/hershey3d/home/HomeHeroFallback.tsx",
+    "compat_product_background": "src/components/hershey3d/home/HomeProductCinematicBackground.tsx",
+    "compat_product_background_slot": "src/components/hershey3d/home/HomeProductCinematicBackgroundSlot.tsx",
+    "compat_home_scene": "src/components/hershey3d/home/HomeHeroScene.tsx",
+    "compat_home_scene_slot": "src/components/hershey3d/home/HomeHeroSceneSlot.tsx",
+    "compat_hero": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "compat_slot": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx"
+  },
+  "rules_confirmed": {
+    "portfolio_style_fixed_background_scene": true,
+    "abstract_scene_not_product_covering": true,
+    "right_weighted_lab_composition": true,
+    "nodes_and_links_present": true,
+    "matrix_and_particles_present": true,
+    "left_readability_gradient_present": true,
+    "compatibility_paths_redirected_to_lab_scene": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect the homepage screenshot. Do not push until the background scene is visually accepted."
+}

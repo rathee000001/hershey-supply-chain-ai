@@ -1,7 +1,7 @@
 ﻿"use client";
 
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
-import { ArrowRight, Box, Rotate3D, ShieldCheck, Sparkles } from "lucide-react";
+import { ArrowRight, Box, Rotate3D, ShieldCheck } from "lucide-react";
 import { useState } from "react";
 
 const WRAPPER_FRONT =
@@ -18,31 +18,31 @@ export default function HomeProductShowcase() {
     <aside
       className="relative mx-auto min-h-[460px] w-full max-w-[760px]"
       aria-label="Hershey product visual showcase"
-      data-home-product-showcase="right-side-wrapper-front-back-hover"
+      data-home-product-showcase="restored-large-wrapper-hover"
       onMouseEnter={() => setShowBack(true)}
       onMouseLeave={() => setShowBack(false)}
       onFocus={() => setShowBack(true)}
       onBlur={() => setShowBack(false)}
     >
       <motion.div
-        className="absolute inset-0 rounded-[2.5rem] border border-[#3a160d]/10 bg-white/78 shadow-2xl shadow-[#3a160d]/10 backdrop-blur-xl"
+        className="absolute inset-0 rounded-[2.5rem] border border-[#3a160d]/10 bg-white/80 shadow-2xl shadow-[#3a160d]/10 backdrop-blur-xl"
         initial={prefersReducedMotion ? false : { opacity: 0, y: 18, scale: 0.98 }}
         animate={prefersReducedMotion ? undefined : { opacity: 1, y: 0, scale: 1 }}
         transition={{ duration: 0.72, ease: [0.22, 1, 0.36, 1] }}
       />
 
       <div className="absolute inset-0 overflow-hidden rounded-[2.5rem]">
-        <div className="absolute inset-0 bg-[radial-gradient(circle_at_52%_34%,rgba(244,199,93,0.16),transparent_34%),radial-gradient(circle_at_76%_66%,rgba(111,29,18,0.10),transparent_34%),linear-gradient(135deg,rgba(255,250,242,0.9),rgba(255,247,237,0.64))]" />
+        <div className="absolute inset-0 bg-[radial-gradient(circle_at_52%_34%,rgba(244,199,93,0.16),transparent_34%),radial-gradient(circle_at_76%_66%,rgba(111,29,18,0.10),transparent_34%),linear-gradient(135deg,rgba(255,250,242,0.92),rgba(255,247,237,0.68))]" />
 
         <motion.div
           className="absolute right-[-10%] top-[4%] h-64 w-64 rounded-full bg-[#6f1d12]/10 blur-3xl"
-          initial={prefersReducedMotion ? false : { opacity: 0.24, scale: 0.9 }}
+          initial={prefersReducedMotion ? false : { opacity: 0.22, scale: 0.92 }}
           animate={
             prefersReducedMotion
               ? undefined
               : {
-                  opacity: [0.18, 0.32, 0.18],
-                  scale: [0.9, 1.08, 0.9],
+                  opacity: [0.16, 0.3, 0.16],
+                  scale: [0.92, 1.06, 0.92],
                 }
           }
           transition={{ duration: 9, repeat: Infinity, ease: "easeInOut" }}
@@ -66,13 +66,13 @@ export default function HomeProductShowcase() {
       <div className="relative z-10 flex min-h-[460px] flex-col justify-between p-5 sm:p-6">
         <div className="flex flex-wrap items-center justify-between gap-3">
           <motion.div
-            className="inline-flex items-center gap-2 rounded-full border border-[#3a160d]/10 bg-white/84 px-4 py-2 text-[10px] font-black uppercase tracking-[0.22em] text-[#6f1d12] shadow-sm backdrop-blur-xl"
+            className="inline-flex items-center gap-2 rounded-full border border-[#3a160d]/10 bg-white/88 px-4 py-2 text-[10px] font-black uppercase tracking-[0.22em] text-[#6f1d12] shadow-sm backdrop-blur-xl"
             initial={prefersReducedMotion ? false : { opacity: 0, y: 10 }}
             animate={prefersReducedMotion ? undefined : { opacity: 1, y: 0 }}
             transition={{ delay: 0.18, duration: 0.55 }}
           >
             <Box size={13} />
-            Product Visual Anchor
+            Product Study Anchor
           </motion.div>
 
           <motion.div
@@ -87,20 +87,6 @@ export default function HomeProductShowcase() {
         </div>
 
         <div className="relative flex flex-1 items-center justify-center py-2">
-          <motion.div
-            className="absolute left-[8%] top-[20%] h-24 w-24 rounded-full border border-[#f4c75d]/22"
-            initial={prefersReducedMotion ? false : { opacity: 0.16, rotate: 0 }}
-            animate={prefersReducedMotion ? undefined : { opacity: [0.1, 0.24, 0.1], rotate: 360 }}
-            transition={{ duration: 24, repeat: Infinity, ease: "linear" }}
-          />
-
-          <motion.div
-            className="absolute right-[6%] bottom-[18%] h-32 w-32 rounded-full border border-[#6f1d12]/10"
-            initial={prefersReducedMotion ? false : { opacity: 0.12, rotate: 0 }}
-            animate={prefersReducedMotion ? undefined : { opacity: [0.06, 0.18, 0.06], rotate: -360 }}
-            transition={{ duration: 28, repeat: Infinity, ease: "linear" }}
-          />
-
           <motion.div
             className="relative w-full max-w-[640px]"
             initial={prefersReducedMotion ? false : { opacity: 0, x: 28, rotate: -1.5 }}
@@ -124,7 +110,7 @@ export default function HomeProductShowcase() {
           >
             <div className="absolute -inset-x-6 bottom-[-22%] h-24 rounded-full bg-[#2d0d06]/13 blur-2xl" />
 
-            <div className="relative aspect-[5.8/2] rounded-[1.8rem] border border-white/70 bg-white/42 p-4 shadow-2xl shadow-[#3a160d]/14 backdrop-blur-md">
+            <div className="relative aspect-[5.8/2] overflow-hidden rounded-[1.8rem] border border-white/70 bg-white/44 p-4 shadow-2xl shadow-[#3a160d]/14 backdrop-blur-md">
               <AnimatePresence mode="wait">
                 <motion.img
                   key={showBack ? "wrapper-back" : "wrapper-front"}
@@ -152,7 +138,7 @@ export default function HomeProductShowcase() {
           animate={prefersReducedMotion ? undefined : { opacity: 1, y: 0 }}
           transition={{ delay: 0.36, duration: 0.55 }}
         >
-          <div className="rounded-[1.35rem] border border-[#3a160d]/10 bg-white/84 p-4 shadow-sm backdrop-blur-xl">
+          <div className="rounded-[1.35rem] border border-[#3a160d]/10 bg-white/86 p-4 shadow-sm backdrop-blur-xl">
             <p className="text-[10px] font-black uppercase tracking-[0.24em] text-[#9c6a27]">
               Study product
             </p>

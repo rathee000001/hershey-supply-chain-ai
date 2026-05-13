@@ -1,0 +1,59 @@
+{
+  "step": "17E-B6F",
+  "name": "Homepage 3D background hero foundation validation",
+  "generated_at": "2026-05-13T10:20:55",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "scene": [],
+    "slot": [],
+    "wrapper_plane": [],
+    "bar_plane": [],
+    "particles": [],
+    "spotlight": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "forbidden_found": {
+    "scene": [],
+    "slot": [],
+    "wrapper_plane": [],
+    "bar_plane": [],
+    "particles": [],
+    "spotlight": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "files_checked": {
+    "scene": "src/components/hershey3d/home/HomeHeroScene.tsx",
+    "slot": "src/components/hershey3d/home/HomeHeroSceneSlot.tsx",
+    "wrapper_plane": "src/components/hershey3d/home/ProductWrapperPlane.tsx",
+    "bar_plane": "src/components/hershey3d/home/UnwrappedBarPlane.tsx",
+    "particles": "src/components/hershey3d/home/HomeHeroParticles.tsx",
+    "spotlight": "src/components/hershey3d/home/ProductSpotlightRig.tsx",
+    "fallback": "src/components/hershey3d/home/HomeHeroFallback.tsx",
+    "compat_hero": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "compat_slot": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx"
+  },
+  "assets_checked": {
+    "wrapper_front": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+    "wrapper_back": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp",
+    "unwrapped_bar": "public/data/hershey/visual_assets/source_assets/hershey_unwrapped_bar.png"
+  },
+  "rules_confirmed": {
+    "actual_wrapper_front_used": true,
+    "actual_wrapper_back_used": true,
+    "actual_unwrapped_bar_used": true,
+    "dynamic_import_slot_present": true,
+    "compatibility_slot_preserved": true,
+    "no_generic_chocolate_block_grid": true,
+    "no_old_hershey_component_imports": true,
+    "no_supplier_or_cost_claims_hardcoded": true,
+    "not_full_homepage_remake_yet": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, visually inspect the homepage hero, then proceed to Step 17E-B6G."
+}

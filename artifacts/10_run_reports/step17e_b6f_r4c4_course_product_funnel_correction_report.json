@@ -1,46 +1,361 @@
-{
-  "step": "17E-B6F-R4C-4",
-  "name": "Course text, product hero scale, and vertical funnel position correction",
-  "generated_at": "2026-05-13T13:14:44",
-  "status": "FAIL",
-  "warnings": [
-    "One or more files are missing required patched markers."
-  ],
-  "missing_files": [],
-  "missing_required": {
-    "page": [],
-    "showcase": [
-      "max-w-[860px]",
-      "sm:h-[280px]",
-      "Product Study Anchor"
-    ],
-    "field": [
-      "position={[-0.18, 0.08, 0]}",
-      "scale={0.86}",
-      "right-[9vw] w-[50vw] min-w-[640px]"
-    ]
+cd D:\HersheySupplyChainAI
+
+@'
+"use client";
+
+import { motion, useReducedMotion } from "framer-motion";
+import {
+  ArrowRight,
+  Brain,
+  Calculator,
+  CheckCircle2,
+  Database,
+  FileText,
+  GitBranch,
+  MousePointer2,
+  Package,
+  Search,
+  ShieldCheck,
+  Sparkles,
+} from "lucide-react";
+import { useMemo, useState } from "react";
+
+type PipelineStep = {
+  id: string;
+  number: string;
+  eyebrow: string;
+  title: string;
+  shortTitle: string;
+  summary: string;
+  detail: string;
+  icon: typeof FileText;
+};
+
+const pipelineSteps: PipelineStep[] = [
+  {
+    id: "sources",
+    number: "01",
+    eyebrow: "RAW INPUT",
+    title: "Raw public sources",
+    shortTitle: "Sources",
+    summary: "Public-source materials enter the project as raw research inputs.",
+    detail:
+      "The platform begins with public materials and study references. Decorative visuals do not create claims; the website only presents approved, audited public JSON artifacts.",
+    icon: FileText,
   },
-  "forbidden_found": {
-    "page": [],
-    "showcase": [],
-    "field": []
+  {
+    id: "parser",
+    number: "02",
+    eyebrow: "MEMORY",
+    title: "Parser + OCR memory",
+    shortTitle: "Parser",
+    summary: "Documents and visuals are prepared for downstream evidence reasoning.",
+    detail:
+      "Parser/OCR memory helps organize extracted text and visual notes. It supports the research workflow but does not directly publish website claims.",
+    icon: Search,
   },
-  "files_checked": {
-    "page": "src/app/page.tsx",
-    "showcase": "src/components/home/HomeProductShowcase.tsx",
-    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx"
+  {
+    id: "rag",
+    number: "03",
+    eyebrow: "INDEX",
+    title: "RAG/vector evidence index",
+    shortTitle: "RAG Index",
+    summary: "Searchable evidence memory supports structured analysis.",
+    detail:
+      "The retrieval layer helps reason across source fragments. Frontend claims remain gated by approved public JSON artifacts rather than raw retrieval output.",
+    icon: Brain,
   },
-  "rules_confirmed": {
-    "course_updated_to_spring_2026": true,
-    "course_code_present": true,
-    "old_mgmt_780_primary_badge_removed": true,
-    "academic_framing_cleaned": true,
-    "product_scaled_larger": false,
-    "hover_back_wrapper_still_present": true,
-    "vertical_funnel_shifted_left": false,
-    "unwrapped_reveal_still_deferred_to_r4d": true,
-    "chocolate_drip_not_integrated_until_b6g": true,
-    "no_supplier_or_cost_claims_hardcoded": true
+  {
+    id: "audit",
+    number: "04",
+    eyebrow: "CONTROL",
+    title: "Evidence audit",
+    shortTitle: "Audit",
+    summary: "Audit rules separate safe public claims from unsupported wording.",
+    detail:
+      "The audit layer keeps the project professor-safe and Hershey-safe by separating public evidence, methodology statements, and decorative interface elements.",
+    icon: ShieldCheck,
   },
-  "next_recommended_step": "Run npm run build, then inspect homepage and hover state. Next step is the portfolio-style interactive pipeline map."
+  {
+    id: "packets",
+    number: "05",
+    eyebrow: "STRUCTURE",
+    title: "Supplier/ingredient packets",
+    shortTitle: "Packets",
+    summary: "Approved artifacts organize supplier and ingredient context.",
+    detail:
+      "Supplier and ingredient packets are structured for display from approved artifacts. This component does not hardcode supplier facts or evidence counts.",
+    icon: Package,
+  },
+  {
+    id: "cost",
+    number: "06",
+    eyebrow: "BENCHMARK",
+    title: "Cost model artifacts",
+    shortTitle: "Cost",
+    summary: "Benchmark cost logic is separated from internal or invoice claims.",
+    detail:
+      "Cost artifacts are treated as benchmark study outputs. They are not Hershey internal costs, invoices, margins, or profit calculations.",
+    icon: Calculator,
+  },
+  {
+    id: "frontend",
+    number: "07",
+    eyebrow: "INTERFACE",
+    title: "3D cinematic frontend",
+    shortTitle: "Frontend",
+    summary: "The approved artifacts power the portfolio-style visual interface.",
+    detail:
+      "The final layer converts approved study outputs into interactive pages, cinematic motion, and evidence-safe user interface components.",
+    icon: Sparkles,
+  },
+];
+
+const routePaths = [
+  "M 98 74 C 190 74, 190 74, 282 74",
+  "M 368 74 C 456 74, 456 74, 544 74",
+  "M 634 74 C 706 96, 714 150, 638 178",
+  "M 550 178 C 460 178, 460 178, 370 178",
+  "M 282 178 C 208 202, 208 254, 286 282",
+  "M 372 282 C 458 282, 458 282, 544 282",
+];
+
+function cx(...classes: Array<string | false | null | undefined>) {
+  return classes.filter(Boolean).join(" ");
 }
+
+export default function HomeIntelligencePipelineMap() {
+  const prefersReducedMotion = useReducedMotion();
+  const [activeId, setActiveId] = useState(pipelineSteps[0].id);
+
+  const activeStep = useMemo(
+    () => pipelineSteps.find((step) => step.id === activeId) ?? pipelineSteps[0],
+    [activeId],
+  );
+
+  const ActiveIcon = activeStep.icon;
+
+  return (
+    <section className="px-6 pb-20" data-home-intelligence-pipeline="portfolio-style-interactive-map">
+      <div className="mx-auto max-w-7xl overflow-hidden rounded-[2.5rem] border border-[#2a0805]/10 bg-white/94 p-6 shadow-2xl shadow-[#3a160d]/8 backdrop-blur-xl md:p-8">
+        <div className="grid gap-8 lg:grid-cols-[0.82fr_1.18fr] lg:items-start">
+          <motion.div
+            initial={prefersReducedMotion ? false : { opacity: 0, y: 18 }}
+            whileInView={prefersReducedMotion ? undefined : { opacity: 1, y: 0 }}
+            viewport={{ once: true, margin: "-80px" }}
+            transition={{ duration: 0.55, ease: [0.22, 1, 0.36, 1] }}
+          >
+            <p className="text-[11px] font-black uppercase tracking-[0.28em] text-[#1f62ff]">
+              Intelligence Pipeline
+            </p>
+
+            <h2 className="mt-5 text-5xl font-black leading-[0.95] tracking-tight text-[#09040a] md:text-6xl">
+              From raw public inputs to evidence-safe interface.
+            </h2>
+
+            <p className="mt-6 max-w-2xl text-base font-medium leading-8 text-[#51433d]">
+              Hover through the connected pipeline map. Each stage shows how the project moves
+              from public research inputs into approved display artifacts without treating
+              decorative visuals as evidence.
+            </p>
+
+            <motion.div
+              key={activeStep.id}
+              className="mt-8 rounded-[2rem] border border-[#2a0805]/10 bg-[#fffaf3] p-6 shadow-xl shadow-[#3a160d]/5"
+              initial={prefersReducedMotion ? false : { opacity: 0, y: 12 }}
+              animate={prefersReducedMotion ? undefined : { opacity: 1, y: 0 }}
+              transition={{ duration: 0.32, ease: [0.22, 1, 0.36, 1] }}
+            >
+              <div className="flex items-start gap-4">
+                <div className="grid h-14 w-14 shrink-0 place-items-center rounded-2xl border border-[#2a0805]/10 bg-white text-[#d6a526] shadow-sm">
+                  <ActiveIcon size={24} />
+                </div>
+
+                <div>
+                  <p className="text-[10px] font-black uppercase tracking-[0.25em] text-[#9c6a27]">
+                    {activeStep.eyebrow} · {activeStep.number}
+                  </p>
+                  <h3 className="mt-2 text-2xl font-black leading-tight text-[#09040a]">
+                    {activeStep.title}
+                  </h3>
+                  <p className="mt-3 text-sm font-semibold leading-7 text-[#51433d]">
+                    {activeStep.detail}
+                  </p>
+                </div>
+              </div>
+
+              <div className="mt-6 flex flex-wrap gap-3">
+                <span className="inline-flex items-center gap-2 rounded-full bg-[#2a0805] px-4 py-3 text-xs font-black uppercase tracking-[0.16em] text-white">
+                  <CheckCircle2 size={15} />
+                  JSON-first
+                </span>
+                <span className="inline-flex items-center gap-2 rounded-full border border-[#2a0805]/10 bg-white px-4 py-3 text-xs font-black uppercase tracking-[0.16em] text-[#2a0805]">
+                  <GitBranch size={15} />
+                  Audited flow
+                </span>
+              </div>
+            </motion.div>
+          </motion.div>
+
+          <motion.div
+            className="relative min-h-[570px] rounded-[2.25rem] border border-[#2a0805]/10 bg-[#f9fbff]/70 p-5 shadow-inner shadow-slate-200/60"
+            initial={prefersReducedMotion ? false : { opacity: 0, x: 24 }}
+            whileInView={prefersReducedMotion ? undefined : { opacity: 1, x: 0 }}
+            viewport={{ once: true, margin: "-80px" }}
+            transition={{ duration: 0.58, ease: [0.22, 1, 0.36, 1] }}
+          >
+            <div className="pointer-events-none absolute inset-0 rounded-[2.25rem] bg-[radial-gradient(circle_at_26%_18%,rgba(31,98,255,0.08),transparent_24%),radial-gradient(circle_at_76%_72%,rgba(216,165,51,0.10),transparent_26%)]" />
+
+            <svg
+              className="pointer-events-none absolute inset-0 h-full w-full"
+              viewBox="0 0 760 360"
+              fill="none"
+              aria-hidden="true"
+            >
+              {routePaths.map((path, index) => (
+                <motion.path
+                  key={path}
+                  d={path}
+                  stroke={index % 2 === 0 ? "rgba(31,98,255,0.26)" : "rgba(216,165,51,0.28)"}
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeDasharray="8 10"
+                  initial={prefersReducedMotion ? false : { pathLength: 0.15, opacity: 0.3 }}
+                  animate={
+                    prefersReducedMotion
+                      ? undefined
+                      : {
+                          pathLength: [0.15, 1, 0.15],
+                          opacity: [0.22, 0.55, 0.22],
+                        }
+                  }
+                  transition={{
+                    duration: 9 + index * 0.6,
+                    delay: index * 0.18,
+                    repeat: Infinity,
+                    ease: "easeInOut",
+                  }}
+                />
+              ))}
+            </svg>
+
+            <div className="relative z-10 grid gap-4 sm:grid-cols-3">
+              {pipelineSteps.slice(0, 3).map((step) => (
+                <PipelineNode
+                  key={step.id}
+                  step={step}
+                  active={activeStep.id === step.id}
+                  onActivate={() => setActiveId(step.id)}
+                />
+              ))}
+            </div>
+
+            <div className="relative z-10 mt-5 grid gap-4 sm:grid-cols-3">
+              <div />
+              {pipelineSteps.slice(3, 5).map((step) => (
+                <PipelineNode
+                  key={step.id}
+                  step={step}
+                  active={activeStep.id === step.id}
+                  onActivate={() => setActiveId(step.id)}
+                />
+              ))}
+            </div>
+
+            <div className="relative z-10 mt-5 grid gap-4 sm:grid-cols-3">
+              {pipelineSteps.slice(5, 7).map((step) => (
+                <PipelineNode
+                  key={step.id}
+                  step={step}
+                  active={activeStep.id === step.id}
+                  onActivate={() => setActiveId(step.id)}
+                />
+              ))}
+              <div className="hidden items-center justify-center rounded-[1.5rem] border border-dashed border-[#2a0805]/12 bg-white/50 p-4 text-[#2a0805]/35 sm:flex">
+                <ArrowRight />
+              </div>
+            </div>
+
+            <div className="relative z-10 mt-6 rounded-[1.75rem] border border-[#2a0805]/10 bg-white/86 p-5 shadow-lg shadow-slate-200/50 backdrop-blur">
+              <div className="flex items-center gap-3">
+                <div className="grid h-11 w-11 place-items-center rounded-2xl bg-[#eef4ff] text-[#1f62ff]">
+                  <MousePointer2 size={20} />
+                </div>
+                <div>
+                  <p className="text-[10px] font-black uppercase tracking-[0.24em] text-[#1f62ff]">
+                    Interactive study map
+                  </p>
+                  <p className="mt-1 text-sm font-bold leading-6 text-[#51433d]">
+                    Use hover, focus, or click to inspect each pipeline step.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </motion.div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
+function PipelineNode({
+  step,
+  active,
+  onActivate,
+}: {
+  step: PipelineStep;
+  active: boolean;
+  onActivate: () => void;
+}) {
+  const Icon = step.icon;
+
+  return (
+    <motion.button
+      type="button"
+      onMouseEnter={onActivate}
+      onFocus={onActivate}
+      onClick={onActivate}
+      className={cx(
+        "group relative min-h-[116px] rounded-[1.6rem] border p-4 text-left shadow-lg shadow-slate-200/50 transition duration-300",
+        active
+          ? "border-[#1f62ff]/45 bg-[#eef4ff] shadow-[#1f62ff]/10"
+          : "border-[#2a0805]/10 bg-white/92 hover:border-[#d6a526]/45 hover:bg-[#fffaf3]",
+      )}
+      whileHover={{ y: -4 }}
+      whileTap={{ scale: 0.98 }}
+    >
+      <div className="flex items-start gap-3">
+        <div
+          className={cx(
+            "grid h-12 w-12 shrink-0 place-items-center rounded-2xl border bg-white transition",
+            active ? "border-[#1f62ff]/30 text-[#1f62ff]" : "border-[#2a0805]/10 text-[#d6a526]",
+          )}
+        >
+          <Icon size={20} />
+        </div>
+
+        <div>
+          <p className="text-[10px] font-black uppercase tracking-[0.18em] text-[#9aa8bd]">
+            {step.number}
+          </p>
+          <h3 className="mt-1 text-lg font-black leading-tight text-[#09040a]">
+            {step.shortTitle}
+          </h3>
+        </div>
+      </div>
+
+      <p className="mt-4 text-xs font-semibold leading-5 text-[#5c4a40]">
+        {step.summary}
+      </p>
+
+      {active ? (
+        <motion.span
+          layoutId="home-pipeline-active-glow"
+          className="absolute inset-0 -z-10 rounded-[1.6rem] bg-[#1f62ff]/6"
+          transition={{ type: "spring", stiffness: 360, damping: 32 }}
+        />
+      ) : null}
+    </motion.button>
+  );
+}
+'@ | Set-Content -Encoding UTF8 .\src\components\home\HomeIntelligencePipelineMap.tsx

@@ -1,0 +1,27 @@
+{
+  "step": "17E-B6G-1-FIX-7D-R2",
+  "name": "Pipeline grid containment with stable center-to-center pulsing connectors",
+  "generated_at": "2026-05-13T14:31:16",
+  "status": "FAIL",
+  "warnings": [
+    "Old absolute-position/out-of-container pipeline markers found."
+  ],
+  "missing_required": [],
+  "forbidden_found": [
+    "Hershey internal cost"
+  ],
+  "files_checked": {
+    "pipeline": "src/components/home/HomeIntelligencePipelineMap.tsx"
+  },
+  "rules_confirmed": {
+    "uses_normal_grid_not_absolute_nodes": true,
+    "layout_is_3_1_3": true,
+    "cards_cannot_leave_container": true,
+    "center_to_center_lines_exist": true,
+    "lines_are_live_pulsing": true,
+    "nodes_forced_visible": true,
+    "product_showcase_not_touched": true,
+    "three_d_scene_not_touched": true
+  },
+  "next_recommended_step": "Run build/dev and inspect only the pipeline. Cards should remain inside the panel and lines should connect center-to-center."
+}

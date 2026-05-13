@@ -1,0 +1,13 @@
+{
+  "run_name": "step17e2_validate_motion_foundation",
+  "run_time": "2026-05-09T22:49:18",
+  "validation_status": "fail",
+  "missing_files": [],
+  "missing_terms": {
+    "src/app/supply-chain/page.tsx": [
+      "PremiumLoadingScene",
+      "Loading Hershey cinematic supply-chain intelligence"
+    ]
+  },
+  "next_step": "Fix motion foundation files before continuing."
+}

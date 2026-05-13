@@ -1,0 +1,25 @@
+{
+  "run_name": "step17e6g_hard_disable_hershey_root_and_remake_enriched",
+  "run_time": "2026-05-10T03:53:09",
+  "status": "pass",
+  "disabled_src_components_hershey_root_files": [],
+  "remaining_src_components_hershey_root_ts_files": [],
+  "enriched_artifacts_remade": "D:/HersheySupplyChainAI/src/lib/hershey/enrichedArtifacts.ts",
+  "enriched_artifacts_exists": true,
+  "tsconfig_paths": {
+    "@/*": [
+      "./src/*"
+    ]
+  },
+  "tsconfig_baseUrl_removed": true,
+  "tsconfig_exclude": [
+    "node_modules",
+    "project_archive",
+    "project_archive/**/*",
+    "src/components/archive",
+    "src/components/archive/**/*",
+    ".next"
+  ],
+  "deleted_next_cache": false,
+  "next_step": "Run npm build. If VS Code Problems still shows old files after build passes, reload VS Code window."
+}

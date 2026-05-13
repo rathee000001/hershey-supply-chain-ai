@@ -1,0 +1,59 @@
+{
+  "step": "17E-B6F-R4C-3",
+  "name": "Course, product scale, and vertical funnel position patch",
+  "generated_at": "2026-05-13T13:09:16",
+  "status": "FAIL",
+  "warnings": [
+    "One or more files are missing required patched markers.",
+    "Forbidden old course, badge, unwrapped reveal, drip, or hardcoded claim marker found."
+  ],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "page": [
+      "Spring 2026 - M01"
+    ],
+    "showcase": [
+      "max-w-[820px]",
+      "h-[250px]",
+      "sm:h-[285px]",
+      "inset-[-18%]",
+      "h-[136%]",
+      "w-[136%]",
+      "Product Study Anchor"
+    ],
+    "field": [
+      "position={[0.62, 0.08, 0]}",
+      "scale={0.9}",
+      "right-[2vw] w-[48vw] min-w-[620px]"
+    ]
+  },
+  "forbidden_found": {
+    "page": [
+      "Course: MGMT 780"
+    ],
+    "showcase": [],
+    "field": []
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx"
+  },
+  "assets_checked": {
+    "wrapper_front": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+    "wrapper_back": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp"
+  },
+  "rules_confirmed": {
+    "course_updated": true,
+    "old_mgmt_course_removed_from_home": true,
+    "product_showcase_larger": false,
+    "hover_back_wrapper_still_present": true,
+    "vertical_funnel_shifted_left": false,
+    "funnel_canvas_more_visible": false,
+    "unwrapped_reveal_still_deferred_to_r4d": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build, then inspect homepage and hover state."
+}

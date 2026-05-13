@@ -1,0 +1,21 @@
+{
+  "run_name": "step17e6d_hard_cleanup_legacy_compiled_files",
+  "run_time": "2026-05-10T02:59:58",
+  "status": "pass",
+  "legacy_src_hershey_files_moved": [],
+  "project_archive_ts_files_renamed": [],
+  "deleted_cache": [
+    "D:/HersheySupplyChainAI/.next"
+  ],
+  "remaining_root_hershey_tsx_files": [],
+  "remaining_project_archive_ts_files": [],
+  "tsconfig_exclude": [
+    "node_modules",
+    "project_archive",
+    "project_archive/**/*",
+    "src/components/archive",
+    "src/components/archive/**/*",
+    ".next"
+  ],
+  "next_step": "Run npm build. If it passes, reload VS Code and continue Step 17E-B5 validation."
+}

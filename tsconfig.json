@@ -36,6 +36,11 @@
     ".next/dev/types/**/*.ts"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
+    "project_archive",
+    "project_archive/**/*",
+    "src/components/archive",
+    "src/components/archive/**/*",
+    ".next"
   ]
 }

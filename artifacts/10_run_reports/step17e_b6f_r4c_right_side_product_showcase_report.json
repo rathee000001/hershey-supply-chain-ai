@@ -1,0 +1,37 @@
+{
+  "step": "17E-B6F-R4C",
+  "name": "Right-side hero product showcase validation",
+  "generated_at": "2026-05-13T12:59:04",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "showcase": [],
+    "page": []
+  },
+  "forbidden_found": {
+    "showcase": [],
+    "page": []
+  },
+  "files_checked": {
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "page": "src/app/page.tsx"
+  },
+  "assets_checked": {
+    "wrapper_front": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp"
+  },
+  "rules_confirmed": {
+    "wrapper_front_asset_used": true,
+    "only_front_wrapper_used_this_step": true,
+    "right_side_showcase_component_present": true,
+    "page_integrates_showcase_in_hero": true,
+    "background_scene_still_present": true,
+    "portfolio_layering_kept": true,
+    "target_sku_badge_not_restored": true,
+    "controlled_reveal_deferred_to_r4d": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot. Do not push until the wrapper showcase looks right-side, contained, and readable."
+}

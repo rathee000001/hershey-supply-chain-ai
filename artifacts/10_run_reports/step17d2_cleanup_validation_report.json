@@ -1,0 +1,15 @@
+{
+  "run_name": "step17d2_cleanup_validation",
+  "run_time": "2026-05-09T21:24:14",
+  "root": "D:/HersheySupplyChainAI",
+  "validation_status": "pass",
+  "missing_files": [],
+  "missing_page_terms": [],
+  "forbidden_duplicate_terms_found": [],
+  "missing_hero_terms": [],
+  "missing_drip_terms": [],
+  "page_path": "D:/HersheySupplyChainAI/src/app/supply-chain/page.tsx",
+  "hero_path": "D:/HersheySupplyChainAI/src/components/hershey/HersheyCinematicHero.tsx",
+  "drip_path": "D:/HersheySupplyChainAI/src/components/hershey/ChocolateDripOverlay.tsx",
+  "next_step": "Step 17E: Three.js scene foundation for animated supply-chain objects."
+}

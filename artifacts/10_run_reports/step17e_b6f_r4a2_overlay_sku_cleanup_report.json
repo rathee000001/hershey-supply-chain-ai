@@ -1,0 +1,37 @@
+{
+  "step": "17E-B6F-R4A-2",
+  "name": "Remove transparent overlay and disable Target SKU hero badge",
+  "generated_at": "2026-05-13T11:27:10",
+  "status": "FAIL",
+  "warnings": [
+    "Forbidden transparent wash, Target SKU badge, old 3D scene, product-covering code, or hardcoded claims found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "readable_atmosphere": [],
+    "product_identity_badge": []
+  },
+  "forbidden_found": {
+    "readable_atmosphere": [
+      "Line"
+    ],
+    "product_identity_badge": [
+      "Target SKU"
+    ]
+  },
+  "files_checked": {
+    "readable_atmosphere": "src/components/hershey3d/home/HersheyHomeReadableAtmosphere.tsx",
+    "product_identity_badge": "src/components/cinematic/ProductIdentityBadge.tsx"
+  },
+  "rules_confirmed": {
+    "left_transparent_wash_removed": true,
+    "bottom_transparent_wash_removed": true,
+    "right_only_subtle_motion_kept": true,
+    "target_sku_badge_disabled": false,
+    "wrapper_thumbnail_removed_from_badge": true,
+    "no_canvas_or_bad_3d_scene_active": false,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot. Continue only if text/cards are readable and Target SKU badge is gone."
+}

@@ -1,0 +1,46 @@
+{
+  "step": "17E-B6G-1",
+  "name": "Portfolio-style interactive intelligence pipeline map",
+  "generated_at": "2026-05-13T13:18:03",
+  "status": "FAIL",
+  "warnings": [
+    "One or more files are missing required interactive pipeline markers.",
+    "Forbidden old pipeline, old course, unsupported claim, reveal/drip, or legacy marker found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "pipeline_map": [],
+    "page": [
+      "HomeIntelligencePipelineMap",
+      "<HomeIntelligencePipelineMap />"
+    ]
+  },
+  "forbidden_found": {
+    "pipeline_map": [
+      "Hershey internal cost",
+      "evidence count",
+      "evidence counts"
+    ],
+    "page": [
+      "pipelineItems",
+      "Professor: Dr. Rajendra Tibrewala"
+    ]
+  },
+  "files_checked": {
+    "pipeline_map": "src/components/home/HomeIntelligencePipelineMap.tsx",
+    "page": "src/app/page.tsx"
+  },
+  "rules_confirmed": {
+    "interactive_pipeline_component_created": true,
+    "hover_focus_click_interaction_present": true,
+    "connected_map_paths_present": true,
+    "all_seven_pipeline_steps_present": true,
+    "page_uses_pipeline_component": false,
+    "old_static_pipeline_items_removed": false,
+    "course_kept_correct": true,
+    "no_supplier_or_cost_claims_hardcoded": true,
+    "no_evidence_counts_hardcoded": false,
+    "chocolate_drip_not_integrated_until_b6g": true
+  },
+  "next_recommended_step": "Run npm run build. Then inspect the homepage pipeline interaction."
+}

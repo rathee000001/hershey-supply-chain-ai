@@ -1,0 +1,56 @@
+{
+  "step": "17E-B6F-R4B-REDO",
+  "name": "Real Hershey R3F supply-chain field background validation",
+  "generated_at": "2026-05-13T11:43:11",
+  "status": "FAIL",
+  "warnings": [
+    "Forbidden label/SVG/product-covering/drip/supplier/cost claim markers found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "field_scene": [],
+    "atmosphere_scene": [],
+    "readable_atmosphere": [],
+    "lab_scene": [],
+    "home_scene": [],
+    "compat_hero": [],
+    "compat_slot": [],
+    "page": []
+  },
+  "forbidden_found": {
+    "field_scene": [],
+    "atmosphere_scene": [],
+    "readable_atmosphere": [],
+    "lab_scene": [],
+    "home_scene": [],
+    "compat_hero": [],
+    "compat_slot": [],
+    "page": [
+      "Parser"
+    ]
+  },
+  "files_checked": {
+    "field_scene": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx",
+    "atmosphere_scene": "src/components/hershey3d/home/HersheySupplyChainAtmosphereScene.tsx",
+    "readable_atmosphere": "src/components/hershey3d/home/HersheyHomeReadableAtmosphere.tsx",
+    "lab_scene": "src/components/hershey3d/home/HersheyHomeLabScene.tsx",
+    "home_scene": "src/components/hershey3d/home/HomeHeroScene.tsx",
+    "compat_hero": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "compat_slot": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx",
+    "page": "src/app/page.tsx"
+  },
+  "rules_confirmed": {
+    "real_r3f_scene_present": true,
+    "right_side_scene_region": true,
+    "hershey_specific_streams_present": true,
+    "no_text_labels_inside_background": true,
+    "no_product_assets_in_background": true,
+    "page_uses_portfolio_layering": true,
+    "right_hero_column_left_open_for_scene": true,
+    "cards_strengthened_above_background": true,
+    "target_sku_disabled": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot/video. Do not push until the background looks like a real Hershey motion field and stays behind content."
+}

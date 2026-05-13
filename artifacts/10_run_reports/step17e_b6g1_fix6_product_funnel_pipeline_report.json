@@ -1,0 +1,48 @@
+{
+  "step": "17E-B6G-1-FIX-6",
+  "name": "Restore product image, shift right-edge 3D funnel, and direct pulsing pipeline connectors",
+  "generated_at": "2026-05-13T13:45:15",
+  "status": "FAIL",
+  "warnings": [
+    "Forbidden old pipeline, old course, unsupported claim, reveal/drip, oversized product, or legacy marker found."
+  ],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "page": [],
+    "showcase": [],
+    "pipeline": [],
+    "field": [],
+    "overview": []
+  },
+  "forbidden_found": {
+    "page": [],
+    "showcase": [],
+    "pipeline": [
+      "Hershey internal cost"
+    ],
+    "field": [],
+    "overview": []
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "pipeline": "src/components/home/HomeIntelligencePipelineMap.tsx",
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx",
+    "overview": "src/components/home/HomeProjectOverviewSection.tsx"
+  },
+  "rules_confirmed": {
+    "product_image_transform_conflict_removed": true,
+    "product_hover_back_kept": true,
+    "right_edge_3d_funnel_applied": true,
+    "pipeline_direct_connectors_present": true,
+    "pipeline_live_pulsing_line_present": true,
+    "pipeline_nodes_absolute_for_clean_lines": true,
+    "overview_section_on_home": true,
+    "overview_interactive_colored": true,
+    "course_text_still_correct": true,
+    "no_supplier_or_cost_claims_hardcoded": true,
+    "chocolate_drip_not_integrated_until_b6g": true
+  },
+  "next_recommended_step": "Clear .next, run npm run build, then inspect hero product image, right-edge 3D funnel, and pipeline pulsing connectors."
+}

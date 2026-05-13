@@ -1,0 +1,18 @@
+{
+  "run_name": "step17e6i_rebuild_home_hero_integration",
+  "run_time": "2026-05-10T04:08:40",
+  "status": "pass",
+  "checks": {
+    "home_has_ProductIdentityBadge": true,
+    "home_has_HomeChocolateBarHeroSlot": true,
+    "shell_has_showFloatingProductBadge": true,
+    "slot_exists": true
+  },
+  "files_written": [
+    "D:/HersheySupplyChainAI/src/components/cinematic/CinematicPageShell.tsx",
+    "D:/HersheySupplyChainAI/src/components/hershey3d/HomeChocolateBarHeroSlot.tsx",
+    "D:/HersheySupplyChainAI/src/app/page.tsx"
+  ],
+  "remembered_home_3d_hero_rule": "Homepage 3D hero is product-first: target SKU badge inside hero, wrapper asset, unwrapped bar asset, and cinematic Hershey product identity before full supply-chain world.",
+  "next_step": "Run snapshot again. If pass, continue to Step 17F."
+}

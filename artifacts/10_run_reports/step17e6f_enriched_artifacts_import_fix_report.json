@@ -1,0 +1,18 @@
+{
+  "run_name": "step17e6f_fix_enriched_artifacts_and_legacy_imports",
+  "run_time": "2026-05-10T03:49:13",
+  "status": "pass",
+  "canonical_enriched_artifacts_path": "D:/HersheySupplyChainAI/src/lib/hershey/enrichedArtifacts.ts",
+  "canonical_file_exists": true,
+  "tsconfig_paths": {
+    "@/*": [
+      "./src/*"
+    ]
+  },
+  "moved_legacy_src_files": [],
+  "renamed_archive_ts_files": [],
+  "deleted_next_cache": true,
+  "remaining_legacy_src_files": [],
+  "remaining_archive_ts_files": [],
+  "next_step": "Run npm build and then reload VS Code if Problems panel is stale."
+}

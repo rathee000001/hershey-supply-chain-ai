@@ -1,0 +1,46 @@
+{
+  "step": "17E-B6G-1-FIX-2",
+  "name": "Animated pipeline connections, balanced 3D funnel, and product scale correction",
+  "generated_at": "2026-05-13T13:26:07",
+  "status": "FAIL",
+  "warnings": [
+    "One or more files are missing required animated pipeline/product/funnel markers.",
+    "Forbidden old pipeline, oversized product, old course, unsupported claim, reveal/drip, or legacy marker found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "pipeline_map": [],
+    "showcase": [],
+    "field": [
+      "right-[7vw] w-[50vw] min-w-[660px]"
+    ],
+    "page": []
+  },
+  "forbidden_found": {
+    "pipeline_map": [
+      "Hershey internal cost"
+    ],
+    "showcase": [],
+    "field": [],
+    "page": []
+  },
+  "files_checked": {
+    "pipeline_map": "src/components/home/HomeIntelligencePipelineMap.tsx",
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx",
+    "page": "src/app/page.tsx"
+  },
+  "rules_confirmed": {
+    "pipeline_lines_stronger": true,
+    "pipeline_flow_animation_present": true,
+    "pipeline_cards_animated": true,
+    "interactive_pipeline_still_on_home": true,
+    "product_scale_rebalanced": true,
+    "oversized_product_removed": true,
+    "funnel_position_rebalanced": false,
+    "course_text_still_correct": true,
+    "no_supplier_or_cost_claims_hardcoded": true,
+    "chocolate_drip_not_integrated_until_b6g": true
+  },
+  "next_recommended_step": "Clear .next, run npm run build, then inspect pipeline motion and hero product/funnel balance."
+}

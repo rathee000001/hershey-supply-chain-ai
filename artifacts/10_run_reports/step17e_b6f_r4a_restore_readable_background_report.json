@@ -1,0 +1,60 @@
+{
+  "step": "17E-B6F-R4A",
+  "name": "Disable bad scene and restore readable Hershey background foundation",
+  "generated_at": "2026-05-13T11:20:15",
+  "status": "FAIL",
+  "warnings": [
+    "Forbidden active 3D/product-covering code or hardcoded supplier/business claims found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "readable_atmosphere": [],
+    "lab_scene": [],
+    "lab_slot": [],
+    "product_background": [],
+    "product_background_slot": [],
+    "home_scene": [],
+    "home_scene_slot": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "forbidden_found": {
+    "readable_atmosphere": [
+      "Line"
+    ],
+    "lab_scene": [],
+    "lab_slot": [],
+    "product_background": [],
+    "product_background_slot": [],
+    "home_scene": [],
+    "home_scene_slot": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "files_checked": {
+    "readable_atmosphere": "src/components/hershey3d/home/HersheyHomeReadableAtmosphere.tsx",
+    "lab_scene": "src/components/hershey3d/home/HersheyHomeLabScene.tsx",
+    "lab_slot": "src/components/hershey3d/home/HersheyHomeLabSceneSlot.tsx",
+    "product_background": "src/components/hershey3d/home/HomeProductCinematicBackground.tsx",
+    "product_background_slot": "src/components/hershey3d/home/HomeProductCinematicBackgroundSlot.tsx",
+    "home_scene": "src/components/hershey3d/home/HomeHeroScene.tsx",
+    "home_scene_slot": "src/components/hershey3d/home/HomeHeroSceneSlot.tsx",
+    "fallback": "src/components/hershey3d/home/HomeHeroFallback.tsx",
+    "compat_hero": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "compat_slot": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx"
+  },
+  "rules_confirmed": {
+    "bad_canvas_scene_disabled_from_active_path": true,
+    "product_covering_assets_disabled_from_active_path": true,
+    "readable_soft_background_present": true,
+    "framer_motion_used_for_subtle_motion": true,
+    "no_dark_lab_rectangle": true,
+    "no_huge_nodes_or_portfolio_copy": true,
+    "left_readability_gradient_present": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot and confirm readability before moving to Step 17E-B6F-R4B."
+}

@@ -1,0 +1,22 @@
+{
+  "step": "17E-B6G-1-FIX-7B",
+  "name": "Portfolio-style right background 3D field only",
+  "generated_at": "2026-05-13T14:06:22",
+  "status": "PASS",
+  "warnings": [],
+  "missing_required": [],
+  "forbidden_found": [],
+  "files_checked": {
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx"
+  },
+  "rules_confirmed": {
+    "right_background_only": true,
+    "not_full_page_canvas": true,
+    "transparent_canvas": true,
+    "starts_after_product_area": true,
+    "not_using_stars": true,
+    "product_showcase_not_touched": true,
+    "pipeline_not_touched": true
+  },
+  "next_recommended_step": "Run build/dev and inspect only the right-side background animation position."
+}

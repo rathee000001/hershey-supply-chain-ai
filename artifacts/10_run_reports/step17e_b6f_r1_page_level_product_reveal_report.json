@@ -1,0 +1,65 @@
+{
+  "step": "17E-B6F-R1",
+  "name": "Full-page homepage product reveal background validation",
+  "generated_at": "2026-05-13T10:30:09",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "background": [],
+    "background_slot": [],
+    "sequence": [],
+    "atmosphere": [],
+    "peel": [],
+    "wrapper_plane": [],
+    "bar_plane": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "forbidden_found": {
+    "background": [],
+    "background_slot": [],
+    "sequence": [],
+    "atmosphere": [],
+    "peel": [],
+    "wrapper_plane": [],
+    "bar_plane": [],
+    "fallback": [],
+    "compat_hero": [],
+    "compat_slot": []
+  },
+  "files_checked": {
+    "background": "src/components/hershey3d/home/HomeProductCinematicBackground.tsx",
+    "background_slot": "src/components/hershey3d/home/HomeProductCinematicBackgroundSlot.tsx",
+    "sequence": "src/components/hershey3d/home/HomeProductRevealSequence.tsx",
+    "atmosphere": "src/components/hershey3d/home/HomeProductAtmosphere.tsx",
+    "peel": "src/components/hershey3d/home/WrapperPeelPanels.tsx",
+    "wrapper_plane": "src/components/hershey3d/home/ProductWrapperPlane.tsx",
+    "bar_plane": "src/components/hershey3d/home/UnwrappedBarPlane.tsx",
+    "fallback": "src/components/hershey3d/home/HomeHeroFallback.tsx",
+    "compat_hero": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "compat_slot": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx"
+  },
+  "assets_checked": {
+    "wrapper_front": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+    "wrapper_back": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp",
+    "unwrapped_bar": "public/data/hershey/visual_assets/source_assets/hershey_unwrapped_bar.png"
+  },
+  "rules_confirmed": {
+    "page_level_background_not_boxed_card": true,
+    "front_wrapper_used": true,
+    "back_wrapper_used": true,
+    "unwrapped_bar_used": true,
+    "front_back_peel_unwrapped_sequence_present": true,
+    "wrapper_peel_panels_present": true,
+    "motion_layer_present": true,
+    "dynamic_import_slots_present": true,
+    "no_generic_chocolate_block_grid": true,
+    "no_old_hershey_component_imports": true,
+    "no_supplier_or_cost_claims_hardcoded": true,
+    "chocolate_drip_not_integrated_until_b6g": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot. Do not push until the page-level background direction is accepted."
+}

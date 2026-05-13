@@ -1,0 +1,32 @@
+{
+  "step": "17E-B6G-1-FIX-7A",
+  "name": "Restore product picture and compact right-side 3D hero animation",
+  "generated_at": "2026-05-13T13:51:52",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "showcase": [],
+    "field": []
+  },
+  "forbidden_found": {
+    "showcase": [],
+    "field": []
+  },
+  "files_checked": {
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx"
+  },
+  "rules_confirmed": {
+    "product_picture_restored_large": true,
+    "hover_back_wrapper_kept": true,
+    "animation_no_longer_fixed_full_page": true,
+    "animation_compact_right_side": true,
+    "animation_not_scattered_starfield": true,
+    "no_supplier_claims_added": true,
+    "no_cost_claims_added": true,
+    "pipeline_not_touched_in_this_step": true
+  },
+  "next_recommended_step": "Run build/dev and inspect only the hero product picture plus right-side compact 3D animation."
+}

@@ -1,0 +1,46 @@
+{
+  "step": "17E-B6G-1-FIX",
+  "name": "Force interactive pipeline map, course cleanup, product scale, and left-shift 3D funnel",
+  "generated_at": "2026-05-13T13:22:42",
+  "status": "FAIL",
+  "warnings": [
+    "One or more files are missing required forced pipeline fix markers.",
+    "Forbidden old static pipeline, old course, old professor line, unsupported claim, reveal/drip, or legacy marker found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "page": [],
+    "pipeline_map": [],
+    "showcase": [],
+    "field": [
+      "right-[14vw] w-[54vw] min-w-[700px]"
+    ]
+  },
+  "forbidden_found": {
+    "page": [],
+    "pipeline_map": [
+      "Hershey internal cost"
+    ],
+    "showcase": [],
+    "field": []
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "pipeline_map": "src/components/home/HomeIntelligencePipelineMap.tsx",
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx"
+  },
+  "rules_confirmed": {
+    "homepage_uses_interactive_pipeline": true,
+    "old_static_pipeline_removed": true,
+    "interactive_pipeline_created": true,
+    "course_text_clean": true,
+    "old_professor_line_removed_from_academic_framing": true,
+    "product_wrapper_scaled": true,
+    "hover_back_wrapper_kept": true,
+    "funnel_shifted_left": false,
+    "no_supplier_or_cost_claims_hardcoded": true,
+    "chocolate_drip_not_integrated_until_b6g": true
+  },
+  "next_recommended_step": "Clear .next, run npm run build, then inspect the homepage pipeline and hero."
+}

@@ -1,0 +1,30 @@
+{
+  "run_name": "step17e6a_fix_home_3d_build_errors",
+  "run_time": "2026-05-10T02:12:11",
+  "status": "complete",
+  "legacy_tsx_moved_out_of_src": [
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/ChocolateDripOverlay.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/ChocolateDripOverlay.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/CinematicAssetScene.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicAssetScene.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/CinematicConnectedMap.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicConnectedMap.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/CinematicSupplyChainStoryboard.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/CinematicSupplyChainStoryboard.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/archive/hershey_legacy_17d/HersheyCinematicHero.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_legacy_17d/HersheyCinematicHero.tsx"
+    }
+  ],
+  "home_hero_rebuilt": "D:/HersheySupplyChainAI/src/components/hershey3d/HomeChocolateBarHero.tsx",
+  "note": "Old archived TSX files were moved outside src so TypeScript does not compile legacy experiments. HomeChocolateBarHero was rebuilt with safer texture planes.",
+  "next_step": "Run Step 17E-B5 validation and npm build."
+}

@@ -1,0 +1,150 @@
+{
+  "run_name": "step17e6h_project_state_snapshot",
+  "run_time": "2026-05-10T03:57:54",
+  "status": "fail",
+  "blocking_issues": [
+    "missing terms in src/app/page.tsx: ['ProductIdentityBadge', 'HomeChocolateBarHeroSlot']",
+    "missing terms in src/components/cinematic/CinematicPageShell.tsx: ['showFloatingProductBadge']"
+  ],
+  "build_result": {
+    "return_code": 0,
+    "passed": true,
+    "build_log_path": "D:/HersheySupplyChainAI/artifacts/10_run_reports/step17e6h_npm_build_log.txt"
+  },
+  "project_root": "D:/HersheySupplyChainAI",
+  "required_active_files_missing": [],
+  "required_active_files_empty": [],
+  "missing_terms": {
+    "src/app/page.tsx": [
+      "ProductIdentityBadge",
+      "HomeChocolateBarHeroSlot"
+    ],
+    "src/components/cinematic/CinematicPageShell.tsx": [
+      "showFloatingProductBadge"
+    ]
+  },
+  "dangerous_hershey_root_ts_files": [],
+  "archive_ts_files_still_active": [],
+  "dependencies_missing": [],
+  "dev_dependencies_missing": [],
+  "tsconfig_paths": {
+    "@/*": [
+      "./src/*"
+    ]
+  },
+  "tsconfig_exclude": [
+    "node_modules",
+    "project_archive",
+    "project_archive/**/*",
+    "src/components/archive",
+    "src/components/archive/**/*",
+    ".next"
+  ],
+  "tsconfig_issues": [],
+  "route_status": {
+    "/": {
+      "file": "src/app/page.tsx",
+      "exists": true,
+      "nonempty": true
+    },
+    "/supply-chain": {
+      "file": "src/app/supply-chain/page.tsx",
+      "exists": true,
+      "nonempty": true
+    },
+    "/evidence-brain": {
+      "file": "src/app/evidence-brain/page.tsx",
+      "exists": true,
+      "nonempty": true
+    },
+    "/cost-model": {
+      "file": "src/app/cost-model/page.tsx",
+      "exists": true,
+      "nonempty": true
+    },
+    "/sources": {
+      "file": "src/app/sources/page.tsx",
+      "exists": true,
+      "nonempty": true
+    },
+    "/methodology": {
+      "file": "src/app/methodology/page.tsx",
+      "exists": true,
+      "nonempty": true
+    }
+  },
+  "primary_artifact_paths_checked": [
+    {
+      "key": "evidence",
+      "url": "/data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json",
+      "exists": true
+    },
+    {
+      "key": "packet_summary",
+      "url": "/data/hershey/enriched_display/enriched_packet_summary_v2.json",
+      "exists": true
+    },
+    {
+      "key": "suppliers",
+      "url": "/data/hershey/enriched_display/enriched_supplier_cards_v2.json",
+      "exists": true
+    },
+    {
+      "key": "ingredients",
+      "url": "/data/hershey/enriched_display/enriched_ingredient_cards_v2.json",
+      "exists": true
+    },
+    {
+      "key": "cost_breakdown",
+      "url": "/data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json",
+      "exists": true
+    },
+    {
+      "key": "graph",
+      "url": "/data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json",
+      "exists": true
+    },
+    {
+      "key": "home_cards",
+      "url": "/data/hershey/enriched_display/enriched_home_summary_cards_v2.json",
+      "exists": true
+    }
+  ],
+  "visual_asset_status": {
+    "hershey_wrapper_front": {
+      "url": "/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+      "exists": true
+    },
+    "hershey_wrapper_back": {
+      "url": "/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp",
+      "exists": true
+    },
+    "hershey_unwrapped_bar": {
+      "url": "/data/hershey/visual_assets/source_assets/hershey_unwrapped_bar.png",
+      "exists": true
+    }
+  },
+  "finished_steps": [
+    "Step 00-16K: artifact brain / parser / OCR / RAG / evidence / enriched public JSON pipeline",
+    "Step 17E-0: frontend cleanup and cinematic scaffold",
+    "Step 17E-A: cinematic dependencies installed",
+    "Step 17E-B1: motion safety and premium loading foundation",
+    "Step 17E-B2: homepage rebuild and route stabilization",
+    "Step 17E-B3: shared CinematicNavbar and CinematicPageShell",
+    "Step 17E-B4: global ChocolateAtmosphere and product identity shell",
+    "Step 17E-B5: home product identity + Three.js unwrapped bar hero",
+    "Step 17E-B5G: hard legacy cleanup and enrichedArtifacts remake"
+  ],
+  "unfinished_steps": [
+    "Step 17F: supply-chain Three.js scene foundation",
+    "Step 17G: upstream ingredient streams",
+    "Step 17H: Hershey factory process animation",
+    "Step 17I: distribution, retail shelf, and consumer purchase animation",
+    "Step 17J: evidence drawer and node interaction layer",
+    "Step 17K: cost pulse and business intelligence overlay",
+    "Step 17L: whole-site cinematic page rebuilds",
+    "Step 17M: final QA, deployment, performance, and Hershey-ready polish",
+    "Step 17N: optional portfolio case-study page / submission package"
+  ],
+  "next_step": "Fix blocking issues before Step 17F"
+}

@@ -1,0 +1,34 @@
+{
+  "step": "17E-B6G-1-FIX-7C",
+  "name": "Bigger right-side 3D field and stable 3/1/3 direct pulsing pipeline",
+  "generated_at": "2026-05-13T14:13:15",
+  "status": "FAIL",
+  "warnings": [
+    "Forbidden oversized/full-page/unsupported markers found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "field": [],
+    "pipeline": []
+  },
+  "forbidden_found": {
+    "field": [],
+    "pipeline": [
+      "Hershey internal cost"
+    ]
+  },
+  "files_checked": {
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx",
+    "pipeline": "src/components/home/HomeIntelligencePipelineMap.tsx"
+  },
+  "rules_confirmed": {
+    "3d_bigger_but_right_background_only": true,
+    "solid_core_sphere": true,
+    "color_variance_on_core": true,
+    "pipeline_313_layout": true,
+    "pipeline_direct_visible_lines": true,
+    "pipeline_nodes_forced_visible": true,
+    "product_showcase_not_touched": true
+  },
+  "next_recommended_step": "Run build/dev and inspect only 3D size/position and 3/1/3 pipeline lines."
+}

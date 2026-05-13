@@ -1,0 +1,46 @@
+{
+  "step": "17E-B6F-R4C-2",
+  "name": "Vertical background funnel and hover back-wrapper showcase validation",
+  "generated_at": "2026-05-13T13:03:49",
+  "status": "FAIL",
+  "warnings": [
+    "One or more files are missing required vertical funnel / hover wrapper markers."
+  ],
+  "missing_files": [],
+  "missing_assets": [],
+  "missing_required": {
+    "field_scene": [],
+    "showcase": [
+      "Visual identity"
+    ],
+    "page": []
+  },
+  "forbidden_found": {
+    "field_scene": [],
+    "showcase": [],
+    "page": []
+  },
+  "files_checked": {
+    "field_scene": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx",
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "page": "src/app/page.tsx"
+  },
+  "assets_checked": {
+    "wrapper_front": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+    "wrapper_back": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp"
+  },
+  "rules_confirmed": {
+    "vertical_funnel_background_present": true,
+    "background_region_narrowed_right": true,
+    "wrapper_front_and_back_hover_present": true,
+    "front_asset_used": true,
+    "back_asset_used": true,
+    "unwrapped_bar_deferred_to_r4d": true,
+    "page_layout_adjusted_for_visibility": true,
+    "background_scene_still_behind_content": true,
+    "target_sku_badge_not_restored": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean, inspect screenshot and hover behavior. Do not push until layout and hover swap are accepted."
+}

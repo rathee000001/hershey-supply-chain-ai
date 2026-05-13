@@ -1,0 +1,27 @@
+{
+  "step": "17E-B6G-1-FIX-7E",
+  "name": "Stop Project Overview card disappearing",
+  "generated_at": "2026-05-13T14:39:49",
+  "status": "FAIL",
+  "warnings": [
+    "Old fade/viewport or unsupported markers found."
+  ],
+  "missing_required": [],
+  "forbidden_found": [
+    "initial={prefersReducedMotion ? false : { opacity: 0, y: 18 }}",
+    "whileInView={prefersReducedMotion ? undefined : { opacity: 1, y: 0 }}",
+    "viewport={{ once: true, margin: \"-80px\" }}"
+  ],
+  "files_checked": {
+    "overview": "src/components/home/HomeProjectOverviewSection.tsx"
+  },
+  "rules_confirmed": {
+    "overview_cards_forced_visible": true,
+    "viewport_fade_removed": false,
+    "public_evidence_card_kept": true,
+    "product_showcase_not_touched": true,
+    "pipeline_not_touched": true,
+    "three_d_scene_not_touched": true
+  },
+  "next_recommended_step": "Run build/dev and inspect only the Project Overview cards. Public Evidence Brain should stay fully visible."
+}

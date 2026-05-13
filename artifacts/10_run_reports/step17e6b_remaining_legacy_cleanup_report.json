@@ -1,0 +1,29 @@
+{
+  "run_name": "step17e6b_remove_remaining_legacy_hershey_components",
+  "run_time": "2026-05-10T02:39:30",
+  "status": "complete",
+  "legacy_root_hershey_tsx_moved": [
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/ChocolateDripOverlay.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/ChocolateDripOverlay.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/CinematicAssetScene.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicAssetScene.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/CinematicConnectedMap.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicConnectedMap.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/CinematicSupplyChainStoryboard.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/CinematicSupplyChainStoryboard.tsx"
+    },
+    {
+      "from": "D:/HersheySupplyChainAI/src/components/hershey/HersheyCinematicHero.tsx",
+      "to": "D:/HersheySupplyChainAI/project_archive/hershey_component_root_legacy_17d/HersheyCinematicHero.tsx"
+    }
+  ],
+  "hero_ts_nocheck_confirmed": true,
+  "next_step": "Run Step 17E-B5 validation and npm build."
+}
