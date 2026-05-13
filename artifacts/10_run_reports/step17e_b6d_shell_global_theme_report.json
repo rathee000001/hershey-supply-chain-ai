@@ -1,0 +1,32 @@
+{
+  "step": "17E-B6D",
+  "name": "CinematicPageShell and global theme polish validation",
+  "generated_at": "2026-05-13T10:08:33",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "shell": [],
+    "atmosphere": [],
+    "globals": []
+  },
+  "forbidden_found": {
+    "shell": [],
+    "atmosphere": [],
+    "globals": []
+  },
+  "files_checked": {
+    "shell": "src/components/cinematic/CinematicPageShell.tsx",
+    "atmosphere": "src/components/cinematic/ChocolateAtmosphere.tsx",
+    "globals": "src/app/globals.css"
+  },
+  "rules_confirmed": {
+    "shell_keeps_existing_props": true,
+    "global_theme_variables_present": true,
+    "atmosphere_has_no_blob_drip_layer": true,
+    "no_chocolate_drip_built_yet": true,
+    "no_old_hershey_component_imports": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build. If clean and screenshot is acceptable, commit/push Step 17E-B6D and continue to Step 17E-B6E."
+}
