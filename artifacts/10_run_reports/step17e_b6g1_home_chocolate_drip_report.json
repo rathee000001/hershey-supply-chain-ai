@@ -1,0 +1,34 @@
+{
+  "step": "17E-B6G-1",
+  "name": "Reusable chocolate drip and homepage flow integration",
+  "generated_at": "2026-05-13T15:06:13",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "page": [],
+    "drip": []
+  },
+  "forbidden_found": {
+    "page": [],
+    "drip": []
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "drip": "src/components/cinematic/ChocolateDripRibbon.tsx"
+  },
+  "rules_confirmed": {
+    "homepage_has_top_drip": true,
+    "homepage_has_flow_divider": true,
+    "drip_component_reusable": true,
+    "motion_uses_framer": true,
+    "reduced_motion_supported": true,
+    "decorative_only_safe_wording": true,
+    "product_showcase_not_touched": true,
+    "pipeline_not_touched": true,
+    "three_d_scene_not_touched": true,
+    "no_supplier_claims_added": true,
+    "no_cost_claims_added": true
+  },
+  "next_recommended_step": "Run build/dev and inspect homepage top drip plus flow divider before moving to deeper homepage section polish."
+}

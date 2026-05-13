@@ -1,0 +1,16 @@
+{
+  "step": "17E-B6G-2A-R4-FIX7",
+  "name": "Force chocolate melt into top-layer portal above navbar",
+  "generated_at": "2026-05-13T19:20:05",
+  "status": "PASS",
+  "missing_required": [],
+  "forbidden_found": [],
+  "rules_confirmed": {
+    "dedicated_top_layer_host": true,
+    "host_max_z_index": true,
+    "nav_remains_clickable": true,
+    "portal_targets_host_not_body": true,
+    "hero_scrollaway_kept": true,
+    "not_full_site_after_scroll": true
+  }
+}

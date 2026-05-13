@@ -1,0 +1,32 @@
+{
+  "step": "17E-B6G-2A-R4-FIX1",
+  "name": "Slow HDR video melt overlay over transparent navbar",
+  "generated_at": "2026-05-13T16:07:52",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "overlay": [],
+    "package": []
+  },
+  "forbidden_found": {
+    "overlay": [],
+    "overview": []
+  },
+  "duplicate_opacity_pattern_found": false,
+  "video_asset": {
+    "path": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "exists": true,
+    "size_mb": 8.06
+  },
+  "rules_confirmed": {
+    "video_is_5x_slower": true,
+    "entrance_reveal_is_slow": true,
+    "flows_above_nav_visually": true,
+    "nav_stays_clickable": true,
+    "hdr_texture_boost_present": true,
+    "green_screen_chroma_key_present": true,
+    "old_info_section_removed": true,
+    "mobile_deferred": true
+  }
+}

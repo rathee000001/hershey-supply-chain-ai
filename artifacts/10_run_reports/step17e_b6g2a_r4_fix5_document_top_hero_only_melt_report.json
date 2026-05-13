@@ -1,0 +1,36 @@
+{
+  "step": "17E-B6G-2A-R4-FIX5",
+  "name": "Start chocolate at document top and scope it to first hero area",
+  "generated_at": "2026-05-13T19:16:15",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "overlay": [],
+    "shell": [],
+    "package": []
+  },
+  "forbidden_found": {
+    "overlay": [],
+    "shell": [],
+    "home": []
+  },
+  "video_asset": {
+    "path": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "exists": true,
+    "size_mb": 8.06
+  },
+  "rules_confirmed": {
+    "portal_used": true,
+    "starts_from_page_top": true,
+    "not_fixed_full_site": true,
+    "hero_only_height": true,
+    "scrolls_away_with_document": true,
+    "nav_stays_clickable": true,
+    "global_shell_layer": true,
+    "homepage_duplicate_removed": true,
+    "no_restart_from_zero": true,
+    "hdr_shader_present": true,
+    "mobile_deferred": true
+  }
+}

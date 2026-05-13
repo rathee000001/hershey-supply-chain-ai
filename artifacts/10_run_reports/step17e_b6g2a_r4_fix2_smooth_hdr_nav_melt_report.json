@@ -1,0 +1,30 @@
+{
+  "step": "17E-B6G-2A-R4-FIX2",
+  "name": "Smooth HDR chocolate video melt over navbar",
+  "generated_at": "2026-05-13T16:15:08",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "overlay": [],
+    "package": []
+  },
+  "forbidden_found": {
+    "overlay": []
+  },
+  "video_asset": {
+    "path": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "exists": true,
+    "size_mb": 8.06
+  },
+  "rules_confirmed": {
+    "video_slow_but_smooth": true,
+    "not_absurdly_slow": true,
+    "flows_over_nav_pills_visually": true,
+    "nav_stays_clickable": true,
+    "hdr_texture_boost_present": true,
+    "green_screen_chroma_key_present": true,
+    "old_info_section_removed": true,
+    "mobile_deferred": true
+  }
+}

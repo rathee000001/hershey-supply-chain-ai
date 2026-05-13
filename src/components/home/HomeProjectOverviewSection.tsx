@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { motion, useReducedMotion } from "framer-motion";
 import { Brain, Database, Network, Sparkles } from "lucide-react";
@@ -120,7 +120,6 @@ export default function HomeProjectOverviewSection() {
                 className="group min-h-[210px] rounded-[2.2rem] border p-6 text-left opacity-100 shadow-xl shadow-[#3a160d]/5 backdrop-blur-xl transition"
                 style={{
                   borderColor: active ? card.border : "rgba(42,8,5,0.10)",
-                  opacity: 1,
                   opacity: 1,
                   background: active
                     ? `linear-gradient(135deg, ${card.soft}, rgba(255,255,255,0.96))`

@@ -1,0 +1,42 @@
+{
+  "step": "17E-B6G-2A-R4",
+  "name": "Replace current coded chocolate strip with video-based melt overlay",
+  "generated_at": "2026-05-13T15:58:12",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "page": [],
+    "overlay": [],
+    "package": []
+  },
+  "forbidden_found": {
+    "page": [],
+    "overlay": []
+  },
+  "video_asset": {
+    "path": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "exists": true,
+    "size_mb": 8.06
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "overlay": "src/components/cinematic/HeroChocolateMeltOverlay.tsx",
+    "video": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "package": "package.json"
+  },
+  "rules_confirmed": {
+    "uses_real_video_source": true,
+    "uses_runtime_chroma_key": true,
+    "uses_three_shader": true,
+    "starts_from_top": true,
+    "click_safe": true,
+    "vertical_reveal_not_horizontal": true,
+    "old_info_section_removed": true,
+    "product_showcase_not_touched": true,
+    "pipeline_not_touched": true,
+    "overview_not_touched": true,
+    "mobile_deferred": true
+  },
+  "next_recommended_step": "Run build/dev and inspect the hero. The green background should be keyed out and the real chocolate drip video should appear over the top/nav area."
+}

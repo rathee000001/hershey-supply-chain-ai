@@ -1,0 +1,27 @@
+{
+  "step": "17E-B6G-2A-R2",
+  "name": "Staged liquid chocolate pour system with Three.js shader gloss",
+  "generated_at": "2026-05-13T15:41:09",
+  "status": "PASS",
+  "warnings": [],
+  "missing_required": [],
+  "forbidden_found": [],
+  "missing_dependencies": [],
+  "files_checked": {
+    "overlay": "src/components/cinematic/HeroChocolateMeltOverlay.tsx",
+    "package": "package.json"
+  },
+  "rules_confirmed": {
+    "starts_above_nav": true,
+    "click_safe": true,
+    "uses_staged_clip_reveal": true,
+    "uses_three_shader_gloss_now": true,
+    "has_liquid_paths": true,
+    "not_an_info_section": true,
+    "mobile_deferred": true,
+    "product_showcase_not_touched": true,
+    "pipeline_not_touched": true,
+    "overview_not_touched": true
+  },
+  "next_recommended_step": "Run build/dev and inspect only the chocolate pour. It should reveal from above the nav and visually flow toward the product card start."
+}

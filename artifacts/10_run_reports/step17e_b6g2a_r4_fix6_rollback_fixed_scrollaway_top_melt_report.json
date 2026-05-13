@@ -1,0 +1,35 @@
+{
+  "step": "17E-B6G-2A-R4-FIX6",
+  "name": "Rollback and rebuild hero-scoped top chocolate portal",
+  "generated_at": "2026-05-13T19:18:09",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "overlay": [],
+    "shell": [],
+    "package": []
+  },
+  "forbidden_found": {
+    "overlay": [],
+    "shell": [],
+    "home": []
+  },
+  "video_asset": {
+    "path": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "exists": true,
+    "size_mb": 8.06
+  },
+  "rules_confirmed": {
+    "starts_from_viewport_top": true,
+    "flows_over_nav_with_portal": true,
+    "nav_stays_clickable": true,
+    "scrolls_away_after_hero": true,
+    "hidden_after_hero": true,
+    "does_not_restart_from_zero": true,
+    "global_shell_layer": true,
+    "homepage_duplicate_removed": true,
+    "hdr_shader_present": true,
+    "mobile_deferred": true
+  }
+}

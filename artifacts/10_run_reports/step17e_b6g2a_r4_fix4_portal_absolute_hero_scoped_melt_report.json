@@ -1,0 +1,44 @@
+{
+  "step": "17E-B6G-2A-R4-FIX4",
+  "name": "Anchor portal chocolate melt to first hero container across all pages",
+  "generated_at": "2026-05-13T19:13:40",
+  "status": "FAIL",
+  "warnings": [
+    "Required hero-scoped portal overlay markers missing.",
+    "Fixed/full-site overlay markers, duplicate homepage overlay, or unsupported wording found."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "overlay": [
+      "diagonalHeroCorridor"
+    ],
+    "shell": [],
+    "package": []
+  },
+  "forbidden_found": {
+    "overlay": [],
+    "shell": [
+      "pointer-events-none fixed"
+    ],
+    "home": []
+  },
+  "video_asset": {
+    "path": "public/data/hershey/visual_assets/motion/chocolate_drip_green_screen.mp4",
+    "exists": true,
+    "size_mb": 8.06
+  },
+  "rules_confirmed": {
+    "portal_used_for_z_index": true,
+    "not_fixed_full_site": true,
+    "anchored_to_first_container": true,
+    "absolute_document_position": true,
+    "scrolls_away_with_hero": true,
+    "height_is_hero_scoped": true,
+    "nav_stays_clickable": true,
+    "global_shell_layer": true,
+    "homepage_duplicate_removed": true,
+    "no_restart_from_zero": true,
+    "hdr_shader_present": true,
+    "mobile_deferred": true
+  }
+}

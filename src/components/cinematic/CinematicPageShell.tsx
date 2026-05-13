@@ -1,9 +1,10 @@
-﻿"use client";
+"use client";
 
 import type { ReactNode } from "react";
 import CinematicNavbar from "@/components/cinematic/CinematicNavbar";
 import ChocolateAtmosphere from "@/components/cinematic/ChocolateAtmosphere";
 import ProductIdentityBadge from "@/components/cinematic/ProductIdentityBadge";
+import HeroChocolateMeltOverlay from "@/components/cinematic/HeroChocolateMeltOverlay";
 
 type PageMood = "portfolio" | "chocolate" | "dark";
 type FooterMode = "light" | "dark";
@@ -119,6 +120,7 @@ export default function CinematicPageShell({
       <ChocolateAtmosphere mode={atmosphereMode} />
 
       <CinematicNavbar />
+      <HeroChocolateMeltOverlay />
 
       {showFloatingProductBadge ? (
         <div className="pointer-events-none fixed bottom-6 left-6 z-40 hidden lg:block">

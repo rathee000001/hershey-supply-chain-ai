@@ -1,0 +1,16 @@
+{
+  "step": "17E-B6G-2A-R4-FIX8",
+  "name": "Add explicit nav-spill chocolate layer above navbar",
+  "generated_at": "2026-05-13T19:25:34",
+  "status": "PASS",
+  "missing_required": [],
+  "forbidden_found": [],
+  "rules_confirmed": {
+    "nav_spill_layer_present": true,
+    "nav_spill_above_navbar_marker": true,
+    "top_host_max_z": true,
+    "nav_clicks_not_blocked": true,
+    "hero_scrollaway_kept": true,
+    "hidden_after_hero": true
+  }
+}

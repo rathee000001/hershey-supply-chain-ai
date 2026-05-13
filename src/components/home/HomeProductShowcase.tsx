@@ -1,8 +1,8 @@
 ﻿"use client";
 
 import { AnimatePresence, motion, useReducedMotion } from "framer-motion";
-import { ArrowRight, Box, Rotate3D, ShieldCheck } from "lucide-react";
-import { useState } from "react";
+import { ArrowRight, Box, Rotate3D, ShieldCheck, Sparkles } from "lucide-react";
+import { useEffect, useMemo, useState } from "react";
 
 const WRAPPER_FRONT =
   "/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp";
@@ -10,19 +10,76 @@ const WRAPPER_FRONT =
 const WRAPPER_BACK =
   "/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp";
 
+const UNWRAPPED_BAR =
+  "/data/hershey/visual_assets/source_assets/hershey_unwrapped_bar.png";
+
+type RevealPhase = "front" | "back" | "bar";
+
+const revealPhases: RevealPhase[] = ["front", "back", "bar"];
+
+const phaseCopy: Record<RevealPhase, { label: string; helper: string; image: string; alt: string }> = {
+  front: {
+    label: "Wrapper front",
+    helper: "Product identity anchor",
+    image: WRAPPER_FRONT,
+    alt: "Hershey 1.55 oz milk chocolate wrapper front visual",
+  },
+  back: {
+    label: "Wrapper back",
+    helper: "Hover inspection layer",
+    image: WRAPPER_BACK,
+    alt: "Hershey 1.55 oz milk chocolate wrapper back visual",
+  },
+  bar: {
+    label: "Unwrapped bar",
+    helper: "Cinematic reveal layer",
+    image: UNWRAPPED_BAR,
+    alt: "Unwrapped Hershey milk chocolate bar visual",
+  },
+};
+
 export default function HomeProductShowcase() {
   const prefersReducedMotion = useReducedMotion();
-  const [showBack, setShowBack] = useState(false);
+  const [phaseIndex, setPhaseIndex] = useState(0);
+  const [manualPhase, setManualPhase] = useState<RevealPhase | null>(null);
+  const [isHovering, setIsHovering] = useState(false);
+
+  const activePhase = manualPhase ?? revealPhases[phaseIndex];
+  const activeCopy = phaseCopy[activePhase];
+
+  const phaseNumber = useMemo(() => {
+    return String(revealPhases.indexOf(activePhase) + 1).padStart(2, "0");
+  }, [activePhase]);
+
+  useEffect(() => {
+    if (prefersReducedMotion || manualPhase || isHovering) return;
+
+    const timer = window.setInterval(() => {
+      setPhaseIndex((current) => (current + 1) % revealPhases.length);
+    }, 3100);
+
+    return () => window.clearInterval(timer);
+  }, [prefersReducedMotion, manualPhase, isHovering]);
+
+  function inspectBack() {
+    setIsHovering(true);
+    setManualPhase("back");
+  }
+
+  function releaseInspection() {
+    setIsHovering(false);
+    setManualPhase(null);
+  }
 
   return (
     <aside
       className="relative mx-auto min-h-[460px] w-full max-w-[760px]"
       aria-label="Hershey product visual showcase"
-      data-home-product-showcase="restored-large-wrapper-hover"
-      onMouseEnter={() => setShowBack(true)}
-      onMouseLeave={() => setShowBack(false)}
-      onFocus={() => setShowBack(true)}
-      onBlur={() => setShowBack(false)}
+      data-home-product-showcase="controlled-wrapper-front-back-unwrapped-reveal"
+      onMouseEnter={inspectBack}
+      onMouseLeave={releaseInspection}
+      onFocus={inspectBack}
+      onBlur={releaseInspection}
     >
       <motion.div
         className="absolute inset-0 rounded-[2.5rem] border border-[#3a160d]/10 bg-white/80 shadow-2xl shadow-[#3a160d]/10 backdrop-blur-xl"
@@ -96,38 +153,63 @@ export default function HomeProductShowcase() {
                 : {
                     opacity: 1,
                     x: 0,
-                    rotate: showBack ? 0.7 : [-0.9, 0.7, -0.9],
-                    y: showBack ? -3 : [0, -6, 0],
+                    rotate: isHovering ? 0.7 : [-0.7, 0.55, -0.7],
+                    y: isHovering ? -3 : [0, -6, 0],
                   }
             }
             transition={{
               opacity: { duration: 0.7, delay: 0.18, ease: [0.22, 1, 0.36, 1] },
               x: { duration: 0.7, delay: 0.18, ease: [0.22, 1, 0.36, 1] },
-              rotate: { duration: showBack ? 0.35 : 8, repeat: showBack ? 0 : Infinity, ease: "easeInOut" },
-              y: { duration: showBack ? 0.35 : 7, repeat: showBack ? 0 : Infinity, ease: "easeInOut" },
+              rotate: { duration: isHovering ? 0.35 : 8, repeat: isHovering ? 0 : Infinity, ease: "easeInOut" },
+              y: { duration: isHovering ? 0.35 : 7, repeat: isHovering ? 0 : Infinity, ease: "easeInOut" },
             }}
             tabIndex={0}
           >
             <div className="absolute -inset-x-6 bottom-[-22%] h-24 rounded-full bg-[#2d0d06]/13 blur-2xl" />
 
             <div className="relative aspect-[5.8/2] overflow-hidden rounded-[1.8rem] border border-white/70 bg-white/44 p-4 shadow-2xl shadow-[#3a160d]/14 backdrop-blur-md">
+              <div className="pointer-events-none absolute left-5 top-5 z-20 flex items-center gap-2 rounded-full border border-[#3a160d]/10 bg-white/78 px-3 py-2 text-[9px] font-black uppercase tracking-[0.2em] text-[#6f1d12] shadow-sm backdrop-blur-xl">
+                <Sparkles size={12} />
+                {phaseNumber} · {activeCopy.label}
+              </div>
+
+              <div className="pointer-events-none absolute bottom-5 right-5 z-20 rounded-full border border-[#3a160d]/10 bg-[#fff7df]/90 px-3 py-2 text-[9px] font-black uppercase tracking-[0.18em] text-[#6f1d12] shadow-sm backdrop-blur-xl">
+                {activeCopy.helper}
+              </div>
+
               <AnimatePresence mode="wait">
                 <motion.img
-                  key={showBack ? "wrapper-back" : "wrapper-front"}
-                  src={showBack ? WRAPPER_BACK : WRAPPER_FRONT}
-                  alt={
-                    showBack
-                      ? "Hershey 1.55 oz milk chocolate wrapper back visual"
-                      : "Hershey 1.55 oz milk chocolate wrapper front visual"
-                  }
+                  key={activePhase}
+                  src={activeCopy.image}
+                  alt={activeCopy.alt}
                   className="absolute inset-4 h-[calc(100%-2rem)] w-[calc(100%-2rem)] object-contain drop-shadow-2xl"
                   draggable={false}
-                  initial={prefersReducedMotion ? false : { opacity: 0, rotateY: showBack ? -12 : 12, scale: 1.92 }}
-                  animate={prefersReducedMotion ? undefined : { opacity: 1, rotateY: 0, scale: 2.08 }}
-                  exit={prefersReducedMotion ? undefined : { opacity: 0, rotateY: showBack ? 12 : -12, scale: 1.92 }}
-                  transition={{ duration: 0.34, ease: [0.22, 1, 0.36, 1] }}
+                  initial={
+                    prefersReducedMotion
+                      ? false
+                      : activePhase === "bar"
+                        ? { opacity: 0, x: 58, y: 18, rotate: 4, scale: 1.52 }
+                        : { opacity: 0, rotateY: activePhase === "back" ? -18 : 18, scale: 1.92 }
+                  }
+                  animate={
+                    prefersReducedMotion
+                      ? undefined
+                      : activePhase === "bar"
+                        ? { opacity: 1, x: 0, y: 0, rotate: -1.2, scale: 1.55 }
+                        : { opacity: 1, rotateY: 0, scale: 2.08 }
+                  }
+                  exit={
+                    prefersReducedMotion
+                      ? undefined
+                      : activePhase === "bar"
+                        ? { opacity: 0, x: -42, y: -8, rotate: -4, scale: 1.44 }
+                        : { opacity: 0, rotateY: activePhase === "back" ? 18 : -18, scale: 1.92 }
+                  }
+                  transition={{ duration: 0.46, ease: [0.22, 1, 0.36, 1] }}
                 />
               </AnimatePresence>
+
+              <div className="pointer-events-none absolute inset-x-12 bottom-8 h-8 rounded-full bg-[#2d0d06]/12 blur-2xl" />
             </div>
           </motion.div>
         </div>

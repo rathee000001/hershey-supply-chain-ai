@@ -1,0 +1,35 @@
+{
+  "step": "17E-B6G-2A",
+  "name": "Remove chocolate info section and add pure top melt overlay",
+  "generated_at": "2026-05-13T15:14:11",
+  "status": "PASS",
+  "warnings": [],
+  "missing_files": [],
+  "missing_required": {
+    "page": [],
+    "overlay": []
+  },
+  "forbidden_found": {
+    "page": [],
+    "overlay": []
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "overlay": "src/components/cinematic/HeroChocolateMeltOverlay.tsx"
+  },
+  "rules_confirmed": {
+    "chocolate_info_section_removed": true,
+    "pure_visual_overlay_added": true,
+    "overlay_has_no_text_cards": true,
+    "overlay_is_click_safe": true,
+    "overlay_uses_framer_motion": true,
+    "reduced_motion_supported": true,
+    "product_showcase_not_touched": true,
+    "pipeline_not_touched": true,
+    "overview_not_touched": true,
+    "three_d_scene_not_touched": true,
+    "no_supplier_claims_added": true,
+    "no_cost_claims_added": true
+  },
+  "next_recommended_step": "Run build/dev and inspect the top hero melt overlay. There should be no chocolate information card section."
+}

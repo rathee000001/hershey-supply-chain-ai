@@ -1,0 +1,28 @@
+{
+  "step": "17E-B6F-R4D",
+  "name": "Controlled product reveal motion",
+  "generated_at": "2026-05-13T14:43:07",
+  "status": "FAIL",
+  "warnings": [
+    "Controlled reveal markers missing."
+  ],
+  "missing_assets": [],
+  "missing_required": [
+    "01 \u00b7"
+  ],
+  "forbidden_found": [],
+  "files_checked": {
+    "showcase": "src/components/home/HomeProductShowcase.tsx"
+  },
+  "rules_confirmed": {
+    "front_back_bar_sequence": true,
+    "controlled_auto_reveal": true,
+    "hover_back_inspection": true,
+    "json_first_safe_wording": true,
+    "pipeline_not_touched": true,
+    "three_d_scene_not_touched": true,
+    "no_supplier_claims_added": true,
+    "no_cost_claims_added": true
+  },
+  "next_recommended_step": "Run build/dev and inspect the product card reveal sequence: front wrapper, back wrapper, unwrapped bar."
+}
