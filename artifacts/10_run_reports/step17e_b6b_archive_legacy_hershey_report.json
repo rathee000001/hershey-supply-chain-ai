@@ -1,0 +1,52 @@
+{
+  "step": "17E-B6B-2",
+  "name": "Archive old compile-risk Hershey legacy components",
+  "generated_at": "2026-05-13T09:35:08",
+  "project_root": "D:\\HersheySupplyChainAI",
+  "archive_root": "src/components/archive/step17e_b6b_legacy_hershey",
+  "moved_files": [
+    {
+      "source": "src/components/hershey/HersheyCinematicHero.tsx",
+      "target": "src/components/archive/step17e_b6b_legacy_hershey/HersheyCinematicHero.tsx",
+      "status": "MOVED_TO_ARCHIVE"
+    },
+    {
+      "source": "src/components/hershey/cost/CostPulsePanel.tsx",
+      "target": "src/components/archive/step17e_b6b_legacy_hershey/cost/CostPulsePanel.tsx",
+      "status": "MOVED_TO_ARCHIVE"
+    },
+    {
+      "source": "src/components/hershey/cost/CostWaterfall.tsx",
+      "target": "src/components/archive/step17e_b6b_legacy_hershey/cost/CostWaterfall.tsx",
+      "status": "MOVED_TO_ARCHIVE"
+    },
+    {
+      "source": "src/components/hershey/evidence/EvidenceDrawer.tsx",
+      "target": "src/components/archive/step17e_b6b_legacy_hershey/evidence/EvidenceDrawer.tsx",
+      "status": "MOVED_TO_ARCHIVE"
+    },
+    {
+      "source": "src/components/hershey/evidence/EvidenceMiniTooltip.tsx",
+      "target": "src/components/archive/step17e_b6b_legacy_hershey/evidence/EvidenceMiniTooltip.tsx",
+      "status": "MOVED_TO_ARCHIVE"
+    },
+    {
+      "source": "src/components/hershey/fallback/SupplyChainFallbackMap.tsx",
+      "target": "src/components/archive/step17e_b6b_legacy_hershey/fallback/SupplyChainFallbackMap.tsx",
+      "status": "MOVED_TO_ARCHIVE"
+    }
+  ],
+  "removed_empty_dirs": [
+    "src/components/hershey/cost",
+    "src/components/hershey/evidence",
+    "src/components/hershey/fallback"
+  ],
+  "rules_confirmed": {
+    "no_files_deleted": true,
+    "legacy_files_archived_not_destroyed": true,
+    "new_chocolate_drip_not_created_yet": true,
+    "claims_must_come_from_json": true,
+    "next_step_requires_validation_and_build": true
+  },
+  "expected_build_fix": "Removes src/components/hershey/HersheyCinematicHero.tsx from active TypeScript compilation so the missing ChocolateDripOverlay import no longer blocks npm run build."
+}

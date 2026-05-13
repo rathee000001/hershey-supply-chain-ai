@@ -1,0 +1,290 @@
+{
+  "step": "17E-B6B-1",
+  "name": "Create clean cinematic directory structure and validation report",
+  "generated_at": "2026-05-13T09:32:18",
+  "project_root": "D:\\HersheySupplyChainAI",
+  "status": "PASS",
+  "warnings": [],
+  "directory_status": [
+    {
+      "path": "src/components/cinematic",
+      "exists": true
+    },
+    {
+      "path": "src/components/home",
+      "exists": true
+    },
+    {
+      "path": "src/components/evidence",
+      "exists": true
+    },
+    {
+      "path": "src/components/cost",
+      "exists": true
+    },
+    {
+      "path": "src/components/sources",
+      "exists": true
+    },
+    {
+      "path": "src/components/methodology",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/home",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/supply-chain",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/factory",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/distribution",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/evidence",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/cost",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/sources",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/methodology",
+      "exists": true
+    },
+    {
+      "path": "src/lib/hershey",
+      "exists": true
+    },
+    {
+      "path": "scripts",
+      "exists": true
+    },
+    {
+      "path": "artifacts/10_run_reports",
+      "exists": true
+    }
+  ],
+  "core_file_status": [
+    {
+      "path": "package.json",
+      "exists": true
+    },
+    {
+      "path": "tsconfig.json",
+      "exists": true
+    },
+    {
+      "path": "src/app/layout.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/app/page.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/app/supply-chain/page.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/app/evidence-brain/page.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/app/cost-model/page.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/app/sources/page.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/app/methodology/page.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/lib/hershey/enrichedArtifacts.ts",
+      "exists": true
+    }
+  ],
+  "current_cinematic_file_status": [
+    {
+      "path": "src/components/cinematic/CinematicNavbar.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/components/cinematic/CinematicPageShell.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/components/cinematic/ChocolateAtmosphere.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/components/cinematic/ProductIdentityBadge.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/components/cinematic/MotionSafeWrapper.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/components/cinematic/PremiumLoadingScene.tsx",
+      "exists": true
+    }
+  ],
+  "current_home_hero_file_status": [
+    {
+      "path": "src/components/hershey3d/HomeChocolateBarHero.tsx",
+      "exists": true
+    },
+    {
+      "path": "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx",
+      "exists": true
+    }
+  ],
+  "product_asset_status": [
+    {
+      "path": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_front.webp",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/visual_assets/source_assets/hershey_wrapper_back.webp",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/visual_assets/source_assets/hershey_unwrapped_bar.png",
+      "exists": true
+    }
+  ],
+  "public_artifact_status": [
+    {
+      "path": "public/data/hershey/enriched_display/enriched_frontend_manifest_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_evidence_panel_lookup_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_packet_summary_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_supplier_cards_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_ingredient_cards_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_cost_breakdown_display_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_interactive_graph_payload_v2.json",
+      "exists": true
+    },
+    {
+      "path": "public/data/hershey/enriched_display/enriched_home_summary_cards_v2.json",
+      "exists": true
+    }
+  ],
+  "tsconfig_summary": {
+    "exists": true,
+    "json_parse_ok": true,
+    "baseUrl": null,
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "exclude": [
+      "node_modules",
+      "project_archive",
+      "project_archive/**/*",
+      "src/components/archive",
+      "src/components/archive/**/*",
+      ".next"
+    ]
+  },
+  "component_inventory": {
+    "src/components/cinematic": [
+      "src/components/cinematic/ChocolateAtmosphere.tsx",
+      "src/components/cinematic/ChocolateDivider.tsx",
+      "src/components/cinematic/CinematicNavbar.tsx",
+      "src/components/cinematic/CinematicPageShell.tsx",
+      "src/components/cinematic/GlassMetricCard.tsx",
+      "src/components/cinematic/MotionSafeWrapper.tsx",
+      "src/components/cinematic/PremiumLoadingScene.tsx",
+      "src/components/cinematic/ProductIdentityBadge.tsx",
+      "src/components/cinematic/SectionReveal.tsx"
+    ],
+    "src/components/hershey3d": [
+      "src/components/hershey3d/ChocolateMeltSystem.tsx",
+      "src/components/hershey3d/ConveyorBelt3D.tsx",
+      "src/components/hershey3d/EvidenceHotspot3D.tsx",
+      "src/components/hershey3d/HersheyFactory3D.tsx",
+      "src/components/hershey3d/HersheySceneCanvas.tsx",
+      "src/components/hershey3d/HersheySupplyChainScene.tsx",
+      "src/components/hershey3d/HomeChocolateBarHero.tsx",
+      "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx",
+      "src/components/hershey3d/IngredientStream3D.tsx",
+      "src/components/hershey3d/RetailShelf3D.tsx",
+      "src/components/hershey3d/SceneCameraRig.tsx",
+      "src/components/hershey3d/SupplierNode3D.tsx",
+      "src/components/hershey3d/TruckRoute3D.tsx",
+      "src/components/hershey3d/WrapperMachine3D.tsx"
+    ],
+    "src/components/hershey": [
+      "src/components/hershey/HersheyCinematicHero.tsx",
+      "src/components/hershey/cost/CostPulsePanel.tsx",
+      "src/components/hershey/cost/CostWaterfall.tsx",
+      "src/components/hershey/evidence/EvidenceDrawer.tsx",
+      "src/components/hershey/evidence/EvidenceMiniTooltip.tsx",
+      "src/components/hershey/fallback/SupplyChainFallbackMap.tsx"
+    ],
+    "src/components/archive": []
+  },
+  "legacy_inspection_candidates_only_not_moved": [
+    "src/components/hershey3d/ChocolateMeltSystem.tsx",
+    "src/components/hershey3d/ConveyorBelt3D.tsx",
+    "src/components/hershey3d/EvidenceHotspot3D.tsx",
+    "src/components/hershey3d/HersheyFactory3D.tsx",
+    "src/components/hershey3d/HersheySceneCanvas.tsx",
+    "src/components/hershey3d/HersheySupplyChainScene.tsx",
+    "src/components/hershey3d/HomeChocolateBarHero.tsx",
+    "src/components/hershey3d/HomeChocolateBarHeroSlot.tsx",
+    "src/components/hershey3d/IngredientStream3D.tsx",
+    "src/components/hershey3d/RetailShelf3D.tsx",
+    "src/components/hershey3d/SceneCameraRig.tsx",
+    "src/components/hershey3d/SupplierNode3D.tsx",
+    "src/components/hershey3d/TruckRoute3D.tsx",
+    "src/components/hershey3d/WrapperMachine3D.tsx",
+    "src/components/hershey/HersheyCinematicHero.tsx",
+    "src/components/hershey/cost/CostPulsePanel.tsx",
+    "src/components/hershey/cost/CostWaterfall.tsx",
+    "src/components/hershey/evidence/EvidenceDrawer.tsx",
+    "src/components/hershey/evidence/EvidenceMiniTooltip.tsx",
+    "src/components/hershey/fallback/SupplyChainFallbackMap.tsx"
+  ],
+  "rules_confirmed": {
+    "no_files_deleted": true,
+    "no_files_moved": true,
+    "claims_must_come_from_json": true,
+    "decorative_visuals_do_not_create_evidence_claims": true,
+    "next_step_requires_user_report_review": true
+  },
+  "next_recommended_step": "Step 17E-B6B-2 \u2014 inspect legacy/duplicate components before archiving anything"
+}

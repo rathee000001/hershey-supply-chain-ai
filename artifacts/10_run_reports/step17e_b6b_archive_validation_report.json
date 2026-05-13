@@ -1,0 +1,11 @@
+{
+  "step": "17E-B6B-2-validation",
+  "name": "Validate legacy Hershey archive cleanup",
+  "generated_at": "2026-05-13T09:35:18",
+  "status": "PASS",
+  "warnings": [],
+  "active_legacy_still_present": [],
+  "archived_missing": [],
+  "route_missing": [],
+  "next_recommended_action": "Run npm run build. If build fails, send the exact error output."
+}
