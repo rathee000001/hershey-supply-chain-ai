@@ -1,0 +1,46 @@
+{
+  "step": "17E-B6F-R4C-4",
+  "name": "Course text, product hero scale, and vertical funnel position correction",
+  "generated_at": "2026-05-13T13:14:44",
+  "status": "FAIL",
+  "warnings": [
+    "One or more files are missing required patched markers."
+  ],
+  "missing_files": [],
+  "missing_required": {
+    "page": [],
+    "showcase": [
+      "max-w-[860px]",
+      "sm:h-[280px]",
+      "Product Study Anchor"
+    ],
+    "field": [
+      "position={[-0.18, 0.08, 0]}",
+      "scale={0.86}",
+      "right-[9vw] w-[50vw] min-w-[640px]"
+    ]
+  },
+  "forbidden_found": {
+    "page": [],
+    "showcase": [],
+    "field": []
+  },
+  "files_checked": {
+    "page": "src/app/page.tsx",
+    "showcase": "src/components/home/HomeProductShowcase.tsx",
+    "field": "src/components/hershey3d/home/HersheySupplyChainFieldScene.tsx"
+  },
+  "rules_confirmed": {
+    "course_updated_to_spring_2026": true,
+    "course_code_present": true,
+    "old_mgmt_780_primary_badge_removed": true,
+    "academic_framing_cleaned": true,
+    "product_scaled_larger": false,
+    "hover_back_wrapper_still_present": true,
+    "vertical_funnel_shifted_left": false,
+    "unwrapped_reveal_still_deferred_to_r4d": true,
+    "chocolate_drip_not_integrated_until_b6g": true,
+    "no_supplier_or_cost_claims_hardcoded": true
+  },
+  "next_recommended_step": "Run npm run build, then inspect homepage and hover state. Next step is the portfolio-style interactive pipeline map."
+}
