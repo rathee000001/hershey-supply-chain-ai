@@ -1,0 +1,9 @@
+{
+  "step": "17E-B6G-CLEAN-1",
+  "name": "Disable chocolate melt overlay and create clean restart point",
+  "generated_at": "2026-05-13T20:14:52",
+  "status": "PASS",
+  "file": "src/components/cinematic/HeroChocolateMeltOverlay.tsx",
+  "result": "HeroChocolateMeltOverlay now returns null. No portal, video, shader, canvas, or z-index layer remains.",
+  "rollback_command": "powershell -ExecutionPolicy Bypass -File .\\scripts\\rollback_last_step.ps1"
+}
