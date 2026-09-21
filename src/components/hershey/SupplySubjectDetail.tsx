@@ -32,7 +32,8 @@ export function familyForNode(id:string):FamilyName[]{
 export default function SupplySubjectDetail({data,node}:{data:EnrichedArtifacts;node:GraphNode}){
  const[tab,setTab]=useState("story");
  const families=familyForNode(node.id||""),isProcess=node.type==="manufacturing_process"||node.type==="hershey_facility",isRetail=node.type==="retailer",isDelivery=["warehouse","distributor"].includes(node.type||"");
- const ingredientRecord=data.costBreakdown.records?.find(record=>record.safe_display&&families.includes(record.family as FamilyName)&&record.ingredient_story);
+ const ingredientRows=/ORIGIN|^NODE_ING_|^NODE_SUPPLIER_/.test(node.id||"")?data.costBreakdown.records?.filter(record=>record.safe_display&&families.includes(record.family as FamilyName)&&record.ingredient_story)||[]:[];
+ const ingredientRecord=ingredientRows.find(record=>"NODE_"+record.model_ingredient_id===node.id)||ingredientRows[0];
  const incoming=data.graph.edges.filter(edge=>edge.target===node.id),outgoing=data.graph.edges.filter(edge=>edge.source===node.id);
  const Icon=isProcess?Factory:isRetail?ShoppingBag:isDelivery?Truck:Leaf;
  const tone=isProcess?"#f0bd89":isDelivery?"#9fddf1":isRetail?"#dfb4f1":"#a4debd";
