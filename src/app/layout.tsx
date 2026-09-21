@@ -8,6 +8,7 @@ import "@/components/hershey/reference-control-skin.css";
 import "@/components/hershey/panel-interaction-fixes.css";
 import "@/components/hershey/panel-fit.css";
 import "@/components/hershey/interaction-affordance.css";
+import "@/components/hershey/story-questions.css";
 import { SceneSessionProvider } from "@/components/hershey/SceneSession";
 import ReadingBoundary from "@/components/hershey/ReadingBoundary";
 import GlassControlLighting from "@/components/hershey/GlassControlLighting";

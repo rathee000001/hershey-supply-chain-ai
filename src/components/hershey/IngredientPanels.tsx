@@ -4,6 +4,8 @@ import {Bean,Milk,Candy,FlaskConical,Package,Factory,Truck,ShoppingBag,Coins,Arr
 import type {EnrichedArtifacts,CostRecord} from "@/lib/hershey/enrichedArtifacts";
 import "./ingredient-panels.css";
 import CompanyContext from "./CompanyContext";
+import StoryQuestions from "./StoryQuestions";
+import NodeResearch from "./NodeResearch";
 import SubjectIllustration from "./SubjectIllustration";
 import {storyObjectFor,type StoryObjectName} from "./StoryObject";
 const familyArt:Record<string,StoryObjectName>={sugar:"sugar",cocoa:"cocoa",dairy:"dairy",minor:"minor",packaging:"packaging",manufacturing:"factory",logistics:"warehouse",retail:"retail",residual:"coins"};
@@ -36,12 +38,16 @@ export default function IngredientPanels({data,initialFamily="sugar",families=["
  </div>;
 }
 export function CalculationPanel({record:r,scenario,data}:{record:CostRecord;scenario:"low"|"base"|"high";data:EnrichedArtifacts}){
+ const[view,setView]=useState("inputs");
  const inputs=r.calculation_inputs||{},grams=inputs["grams_"+scenario],price=inputs["price_"+scenario+"_per_lb"],key=(scenario+"_cents_per_bar") as "base_cents_per_bar";
  const evidence=(r.current_context_reference_ids||[]).map(id=>data.evidence[id]).filter(e=>e?.public_display_allowed===true);
  const files=Array.from(new Set(evidence.map(e=>e.file_name).filter(Boolean)));
- return <section className="hm-calculation" aria-label={r.label+" calculation"}><h3>{r.label}</h3><p>{r.cost_logic}</p>
- {typeof grams==="number"&&typeof price==="number"?<><div className="hm-input-pair"><div><span>Modeled quantity</span><strong>{grams} g</strong><small>per bar</small></div><div><span>Benchmark price</span><strong>${price.toFixed(2)}</strong><small>USD per pound</small></div></div><div className="hm-formula"><span>Existing backend formula</span><p>{grams} × ({price} ÷ 453.59237) × 100</p><strong>= {formatCents(r[key])} per bar</strong></div></>:<div className="hm-formula"><span>Recorded {scenario} allocation</span><strong>{formatCents(r[key])} per bar</strong></div>}
+ return <section className="hm-calculation" data-calculation-view={view} aria-label={r.label+" calculation"}><h3>{r.label}</h3><StoryQuestions label={r.label+" calculation views"} value={view} onChange={setView} items={[
+{id:"inputs",label:"The inputs",question:"Which assumptions drive this contribution?",hint:"Inspect quantity, price or allocation",art:storyObjectFor(r.cost_bucket_id)||"coins"},
+{id:"arithmetic",label:"The arithmetic",question:"How does the model reach this amount?",hint:"Follow the saved per-bar calculation",art:"charts"},
+{id:"research",label:"The context",question:"What supports this estimate—and what does not?",hint:"Separate research from model assumptions",art:"report"}]}/><p>{r.cost_logic}</p>
+ {view!=="research"&&(typeof grams==="number"&&typeof price==="number"?<><div className="hm-input-pair"><div><span>Modeled quantity</span><strong>{grams} g</strong><small>per bar</small></div><div><span>Benchmark price</span><strong>${price.toFixed(2)}</strong><small>USD per pound</small></div></div><div className="hm-formula"><span>Existing backend formula</span><p>{grams} × ({price} ÷ 453.59237) × 100</p><strong>= {formatCents(r[key])} per bar</strong></div></>:<div className="hm-formula"><span>Recorded {scenario} allocation</span><strong>{formatCents(r[key])} per bar</strong></div>)}
  <p>{r.notes}</p><p className="hm-confidence">Estimate confidence: {r.confidence_level?.replaceAll("_"," ")}</p>
- {files.length>0&&<details><summary>Related approved source context ({files.length} documents)</summary>{files.map(file=><p key={file}>{file?.replaceAll("_"," ")}</p>)}</details>}
+ {view==="research"&&(evidence.length?<NodeResearch data={data} evidenceIds={evidence.map(entry=>entry.evidence_id!).filter(Boolean)}/>:<p className="ih-fine">No directly assigned source is published for this allocation. It remains a saved model assumption, not a company invoice or verified internal cost.</p>)}
  </section>
 }

@@ -2,6 +2,7 @@ import catalog from "@/lib/hershey/generated/document-catalog.json";
 
 /** Names resolve only through the immutable exported public-document catalog. */
 function documentResponse(request:Request){
+ if(new URL(request.url).searchParams.get("download")!=="1")return Response.json({error:"Use the embedded reader. Original downloads require the dedicated download action."},{status:400});
  const name=new URL(request.url).searchParams.get("file");
  if(!name||/[\\\\/]/.test(name))return new Response(null,{status:400});
  const entry=catalog.documents.find(document=>document.file_name===name);
