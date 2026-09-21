@@ -4,6 +4,9 @@ import {Bean,Milk,Candy,FlaskConical,Package,Factory,Truck,ShoppingBag,Coins,Arr
 import type {EnrichedArtifacts,CostRecord} from "@/lib/hershey/enrichedArtifacts";
 import "./ingredient-panels.css";
 import CompanyContext from "./CompanyContext";
+import SubjectIllustration from "./SubjectIllustration";
+import {storyObjectFor,type StoryObjectName} from "./StoryObject";
+const familyArt:Record<string,StoryObjectName>={sugar:"sugar",cocoa:"cocoa",dairy:"dairy",minor:"minor",packaging:"packaging",manufacturing:"factory",logistics:"warehouse",retail:"retail",residual:"coins"};
 export const ingredientFamilies={
  sugar:{label:"Sugar",color:"#ecdab1",Icon:Candy},
  cocoa:{label:"Cocoa & chocolate",color:"#e1ac72",Icon:Bean},
@@ -23,10 +26,10 @@ export default function IngredientPanels({data,initialFamily="sugar",families=["
  const rows=data.costBreakdown.records?.filter(r=>r.safe_display===true&&r.family===family)||[];
  const theme=ingredientFamilies[family],chosen=rows.find(r=>r.cost_bucket_id===selected),key=(scenario+"_cents_per_bar") as "base_cents_per_bar";
  return <div className="hm-panels" style={{"--family-color":theme.color} as CSSProperties}>
- <nav className="hm-family-nav" aria-label="Ingredient and cost groups">{families.map(id=>{const group=ingredientFamilies[id];return <button key={id} onClick={()=>{setFamily(id);setSelected(null)}} aria-pressed={family===id} style={{"--family-color":group.color} as CSSProperties}><group.Icon size={23}/><span>{group.label}</span></button>})}</nav>
- <div className="hm-group-heading"><theme.Icon size={28}/><div><h3>{theme.label}</h3><p>Calculated cost per modeled bar</p></div><strong>{formatCents(data.calculationDetails.family_totals[family]?.[key]||0)}</strong></div>
+ <nav className="hm-family-nav" aria-label="Ingredient and cost groups">{families.map(id=>{const group=ingredientFamilies[id];return <button key={id} onClick={()=>{setFamily(id);setSelected(null)}} aria-pressed={family===id} style={{"--family-color":group.color} as CSSProperties}><SubjectIllustration name={familyArt[id]} size={36}/><span>{group.label}</span></button>})}</nav>
+ <div className="hm-group-heading"><SubjectIllustration name={familyArt[family]} size={56}/><div><h3>{theme.label}</h3><p>Calculated cost per modeled bar</p></div><strong>{formatCents(data.calculationDetails.family_totals[family]?.[key]||0)}</strong></div>
  <div className="hm-scenarios" role="group" aria-label="Calculation scenario">{(["low","base","high"] as const).map(value=><button key={value} aria-pressed={scenario===value} onClick={()=>setScenario(value)}>{value[0].toUpperCase()+value.slice(1)}</button>)}</div>
- <div className="hm-card-grid">{rows.map(row=><button className="hm-mini-panel" key={row.cost_bucket_id} aria-expanded={chosen?.cost_bucket_id===row.cost_bucket_id} onClick={()=>setSelected(row.cost_bucket_id)}><theme.Icon size={27}/><h4>{row.label}</h4><strong>{formatCents(row[key])}</strong><span>per bar · {scenario} estimate</span><small>Open calculation <ArrowUpRight size={13}/></small></button>)}</div>
+ <div className="hm-card-grid">{rows.map(row=><button className="hm-mini-panel" key={row.cost_bucket_id} aria-expanded={chosen?.cost_bucket_id===row.cost_bucket_id} onClick={()=>setSelected(row.cost_bucket_id)}><SubjectIllustration name={storyObjectFor(row.cost_bucket_id)||familyArt[family]} size={58}/><h4>{row.label}</h4><strong>{formatCents(row[key])}</strong><span>per bar · {scenario} estimate</span><small>Open calculation <ArrowUpRight size={13}/></small></button>)}</div>
  {chosen&&<CalculationPanel record={chosen} scenario={scenario} data={data}/>}
  <CompanyContext key={family} data={data} family={family}/>
  {family==="cocoa"&&<p className="hm-boundary">Chocolate and Cocoa share one combined modeled cost bucket. Cocoa butter is separate.</p>}

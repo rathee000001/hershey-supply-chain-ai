@@ -42,6 +42,23 @@
 }
 .hc-home :is(button,a[href],summary):not(.hf-node,.hf-edge-target,.ih-origin,.ih-brand):not(:has(.subject-glass,.hershey-orb)):not(:disabled):active{translate:0 1px;scale:.98}
 .hc-home .hf-edge-target:is(:hover,:focus-visible){scale:1.2;box-shadow:0 0 14px #c5edff}
+/* Glass is a material, not a mandate for capsule geometry. Multi-line content
+   cards need a safe rectangular content area; compact actions remain pills. */
+.hc-home .panel-subject-illustration{display:inline-flex;align-items:center;justify-content:center;flex-shrink:0;max-width:100%;vertical-align:middle}
+.hc-home .panel-subject-illustration>.story-object{display:block;width:100%;height:100%;object-fit:contain;max-width:100%;max-height:100%}
+.hc-home .panel-subject-illustration>.ih-subject-art{width:100%;height:100%}
+.hc-home.hc-home :is(button.hm-mini-panel,button:has(h3,h4,p),.story-record-list>button,.panel-contribution-list>button,.ee-records>button,.he-questions>button,.he-source>button){
+ border-radius:20px!important;padding:20px 22px!important;
+ box-sizing:border-box;min-width:0;max-width:100%;height:auto;
+ white-space:normal;overflow-wrap:anywhere;line-height:1.5;
+}
+.hc-home.hc-home :is(.hm-mini-panel,.story-record-list>button,.panel-contribution-list>button,.ee-records>button,.he-questions>button)>*{min-width:0;max-width:100%}
+.hc-home.hc-home :is(.hm-mini-panel,.story-record-list>button,.ee-records>button)>:is(h3,h4,p,strong,span,small){white-space:normal;overflow-wrap:anywhere}
+.hc-home.hc-home .hm-mini-panel>svg{align-self:flex-start;margin:0;flex-shrink:0}
+.hc-home.hc-home summary{border-radius:16px!important;white-space:normal;overflow-wrap:anywhere;padding:12px 18px}
+@media(max-width:600px){
+ .hc-home.hc-home :is(button.hm-mini-panel,button:has(h3,h4,p),.story-record-list>button,.panel-contribution-list>button,.ee-records>button,.he-questions>button,.he-source>button){padding:16px!important;border-radius:16px!important}
+}
 .hc-home [data-motion-paused=true] :is(button,a,summary),
 .hc-home[data-motion-paused=true] :is(button,a,summary),
 .hc-home [data-motion-paused=true] :is(.subject-glass,.hershey-orb),

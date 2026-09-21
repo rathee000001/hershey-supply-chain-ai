@@ -7,6 +7,9 @@ import type {EnrichedArtifacts} from "@/lib/hershey/enrichedArtifacts";
 import {formatCents} from "./IngredientPanels";
 import "./home-evidence-stories.css";
 import NodeResearch from "./NodeResearch";
+import SubjectIllustration from "./SubjectIllustration";
+import type {StoryObjectName} from "./StoryObject";
+const topicArt:Record<string,StoryObjectName>={bar:"product",ingredients:"cocoa",journey:"truck",price:"coins",trust:"audit"};
 import "./panel-research.css";
 
 const topics=[
@@ -25,9 +28,9 @@ export default function HomeEvidenceStories({data}:{data:EnrichedArtifacts}){
  const physical=data.costBreakdown.physical_cost?.base_cents_per_bar;
  return <div className="he-stories" data-selected={Boolean(selected)} style={{"--story-tone":topic.color} as CSSProperties}>
  <p>Choose a question. Follow the story, then look at the sources behind it.</p>
- <div className="he-questions" role="group" aria-label="Questions about the chocolate bar">{topics.map((item,index)=><button key={item.id} aria-label={item.title} aria-pressed={selected===item.id} onClick={()=>{setSelected(item.id);setShowSources(false);setOpenSource(null)}} style={{"--story-tone":item.color} as CSSProperties}><Orb color={item.color} size={47} decorative><item.Icon size={23}/></Orb><span><strong>{selected?["Product","Ingredients","Journey","Price","Scope"][index]:item.title}</strong><small>{item.hint}</small></span><ArrowUpRight size={16}/></button>)}</div>
- {selected&&<section className="he-answer" aria-live="polite"><div className="he-answer-heading"><Orb color={topic.color} size={61} decorative><topic.Icon size={29}/></Orb><h3>{topic.title}</h3></div><p>{topic.summary}</p>
- {selected==="bar"&&<div className="he-fact"><Package size={22}/><span>{data.manifest.unit}</span></div>}
+ <div className="he-questions" role="group" aria-label="Questions about the chocolate bar">{topics.map((item,index)=><button key={item.id} aria-label={item.title} aria-pressed={selected===item.id} onClick={()=>{setSelected(item.id);setShowSources(false);setOpenSource(null)}} style={{"--story-tone":item.color} as CSSProperties}><Orb color={item.color} size={47} decorative><SubjectIllustration name={topicArt[item.id]} size={39}/></Orb><span><strong>{selected?["Product","Ingredients","Journey","Price","Scope"][index]:item.title}</strong><small>{item.hint}</small></span><ArrowUpRight size={16}/></button>)}</div>
+ {selected&&<section className="he-answer" aria-live="polite"><div className="he-answer-heading"><Orb color={topic.color} size={61} decorative><SubjectIllustration name={topicArt[topic.id]} size={49}/></Orb><h3>{topic.title}</h3></div><p>{topic.summary}</p>
+ {selected==="bar"&&<div className="he-fact"><SubjectIllustration name="product" size={42}/><span>{data.manifest.unit}</span></div>}
  {selected==="price"&&<div className="he-price-facts">{physical!=null&&<div><span>Modeled physical cost</span><strong>{formatCents(physical)}</strong><small>per bar · base estimate</small></div>}<div><span>Retail observations</span><strong>{data.calculationDetails.verified_retailers.length}</strong><small>separate retailer price records</small></div></div>}
  <p className="he-boundary"><ShieldCheck size={19}/><span>{topic.boundary}</span></p>
  <div className="he-actions"><Link className="hc-pill" href={topic.href}>{topic.action}<ArrowUpRight size={16}/></Link><button className="hc-text-link" aria-expanded={showSources} onClick={()=>setShowSources(!showSources)}><BookOpen size={17}/>{showSources?"Hide supporting sources":"Look at the sources"}</button></div>
