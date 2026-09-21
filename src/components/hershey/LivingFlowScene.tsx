@@ -84,6 +84,8 @@ export default function LivingFlowScene(props:Props){
    };
    const point=new T.Vector3(),aPoint=new T.Vector3(),bPoint=new T.Vector3(),nextPoint=new T.Vector3(),projection=new T.Vector3();
    const put=(el:HTMLElement,p:Three.Vector3)=>{projection.copy(p).applyMatrix4(root.matrixWorld).project(camera);el.style.transform="translate3d("+((projection.x*.5+.5)*width).toFixed(2)+"px,"+((-projection.y*.5+.5)*height).toFixed(2)+"px,0) translate(-50%,-50%)"};
+   const interactionAmounts=new Map<string,number>();
+   const reducedMotion=matchMedia("(prefers-reduced-motion: reduce)");
    const tick=(now:number)=>{
     frame=requestAnimationFrame(tick);const state=live.current;if(document.hidden||width<2||height<2||!state.visible&&!state.session){last=now;return}
     const dt=Math.min(.04,Math.max(.001,(now-last)/1000));last=now;if(!state.paused)time+=dt;flowClock.value=time;
@@ -121,6 +123,13 @@ export default function LivingFlowScene(props:Props){
      if(visibleItem?.core){const chapter=mix<.5?a:b,size=artSize(chapter,visibleItem)*(state.homeModels&&id==="HOME:product"?6.4/5.2:1);el.style.width=Math.max(44,size*width/11.8)+"px";el.style.height=Math.max(44,size*(chapter.art===-1?.666:1)*height/worldHeight)+"px";}
      if(state.homeModels&&!((mix<.5?ca:cb))){const envelope=nativeHome?.envelopes[id],w=Math.max(42,(envelope?2*envelope.radiusX:1.56)*.94*width/11.8),h=Math.max(42,(envelope?2*envelope.radiusY:1.56)*.94*height/worldHeight);el.style.width=w+"px";el.style.height=h+"px";el.dataset.enclosure=envelope?"subject-fitted":"fallback";const orb=el.querySelector<HTMLElement>(".hershey-orb");orb?.style.setProperty("--hershey-orb-size",Math.min(w,h)+"px");}
     }
+    // Animate the visible GPU subject, not just its transparent DOM hit target.
+    for(const[id,button]of anchors.current){
+     const engaged=!button.disabled&&button.style.pointerEvents!=="none"&&button.matches(":hover,:focus-visible");
+     const target=reducedMotion.matches||state.paused?0:button.matches(":active")?-.35:engaged?1:0;
+     const previous=interactionAmounts.get(id)||0;
+     interactionAmounts.set(id,reducedMotion.matches||state.paused?0:previous+(target-previous)*(1-Math.exp(-dt*18)));
+    }
     if(nativeHome){
      if(!state.paused)nativeHome.update(time);
      for(const[id,group]of Object.entries(nativeHome.groups)){
@@ -128,12 +137,14 @@ export default function LivingFlowScene(props:Props){
       group.visible=amount>.01;if(!group.visible)continue;
       group.position.copy(vector(pa||pb!)).lerp(vector(pb||pa!),mix);
       const scaleFor=(item:JourneyItem|undefined,chapter:JourneyChapter)=>!item?0:item.core?(id==="HOME:product"?artSize(chapter,item)/5.2:2.65):id==="HOME:product"?.18:.94;
-      group.scale.setScalar(scaleFor(na,a)*(1-mix)+scaleFor(nb,b)*mix);
+      const interaction=interactionAmounts.get(id)||0;
+      group.scale.setScalar((scaleFor(na,a)*(1-mix)+scaleFor(nb,b)*mix)*(1+interaction*.085));
+      group.position.y+=interaction*.065;
       if(nativeHome.shells[id])nativeHome.shells[id].visible=!(mix<.5?na?.core:nb?.core);
       if(id!=="HOME:product")group.rotation.y=Math.sin(time*.18)*.12;
      }
     }
-    artMeshes.forEach((mesh,artIndex)=>{const art=artIndex-1,va=a.art===art?1-mix:0,vb=b.art===art?mix:0;const alpha=va+vb;(mesh.material as Three.ShaderMaterial).uniforms.alpha.value=alpha*.93;mesh.visible=alpha>.005;if(!mesh.visible)return;const source=va>=vb?a:b,map=va>=vb?ma:mb,core=source.items.find(n=>n.core);if(core){mesh.position.copy(vector(map.get(core.id)!));mesh.position.z=.25;const size=artSize(source,core);mesh.scale.set(size,art===-1?size*.666:size,1)}else{mesh.visible=false}});
+    artMeshes.forEach((mesh,artIndex)=>{const art=artIndex-1,va=a.art===art?1-mix:0,vb=b.art===art?mix:0;const alpha=va+vb;(mesh.material as Three.ShaderMaterial).uniforms.alpha.value=alpha*.93;mesh.visible=alpha>.005;if(!mesh.visible)return;const source=va>=vb?a:b,map=va>=vb?ma:mb,core=source.items.find(n=>n.core);if(core){const interaction=interactionAmounts.get(core.id)||0;mesh.position.copy(vector(map.get(core.id)!));mesh.position.y+=interaction*.065;mesh.position.z=.25;const size=artSize(source,core)*(1+interaction*.06);mesh.scale.set(size,art===-1?size*.666:size,1)}else{mesh.visible=false}});
     focus.flow.current={samples:transferSamples,mix,progress:display};
     renderer.render(scene,camera);
    };frame=requestAnimationFrame(tick);setReady(true);

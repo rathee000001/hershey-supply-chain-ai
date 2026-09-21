@@ -1,0 +1,51 @@
+/* Shared interaction language. Do not transform positioned scene hit targets:
+   their renderer owns placement; only visible children (or GPU art) pop. */
+.hc-home :is(button,a[href],summary){cursor:pointer}
+.hc-home :is(button:disabled,[aria-disabled=true]){cursor:not-allowed}
+.hc-home .hf-hover-note{display:none!important}
+.hc-home :is(button,a[href],summary):focus-visible{outline:2px solid #d3f5ff;outline-offset:5px}
+
+/* Subject selectors keep one fitted shell, never an extra pill around artwork. */
+.hc-home :is(button,a):not(:disabled)>:is(.subject-glass,.hershey-orb){
+ transition:scale .22s cubic-bezier(.2,.8,.25,1.3),translate .22s ease,filter .22s ease!important;
+}
+.hc-home :is(button,a):not(:disabled):is(:hover,:focus-visible)>:is(.subject-glass,.hershey-orb){
+ scale:1.09;translate:0 -4px;filter:brightness(1.17) drop-shadow(0 0 12px #a1dcff80)!important;
+}
+.hc-home :is(button,a):not(:disabled):active>:is(.subject-glass,.hershey-orb){scale:.97;translate:0 1px}
+.hc-home .hf-node:is(:hover,:focus-visible) .hf-label{color:#f0fcff;box-shadow:0 0 15px #a8e1ff55}
+.hc-home .hf-node[data-core=true]:is(:hover,:focus-visible){box-shadow:inset 0 0 28px #b8e8ff18}
+
+/* Ordinary controls share the navbar material and horizontal icon/label layout.
+   Exclude scene targets, topic artwork and structural section navigation. */
+.hc-home :is(button,summary):not(.hf-node,.hf-edge-target):not(:has(.subject-glass,.hershey-orb)),
+.hc-home :is(.ih-about-links,.story-mini-actions,.research-notebook,.hc-unified-footer) a[href]{
+ --item-color:var(--subject-color,var(--story-tone,var(--family-color,var(--cost-tone,#a7dced))));
+ border:1px solid color-mix(in srgb,var(--item-color) 52%,transparent)!important;
+ border-radius:999px!important;
+ background:linear-gradient(var(--orb-glint-angle,155deg),#d8f6ff24,#09203338 31%,#06142345 68%,#a6e6ff19)!important;
+ box-shadow:inset 1px 1px 2px #eeffff80,inset -2px -3px 5px #03101dad,0 5px 0 -3px #608da566,0 8px 20px #0004!important;
+ backdrop-filter:blur(14px) saturate(1.2);color:var(--item-color)!important;
+ min-height:42px;padding:9px 14px;gap:10px;
+ transition:translate .2s ease,scale .2s ease,box-shadow .2s ease,filter .2s ease!important;
+}
+.hc-home :is(.sl-process-picks,.ih-process-picks) button{flex-direction:row!important;justify-content:flex-start;text-align:left}
+.hc-home :is(button,summary):not(.hf-node,.hf-edge-target):not(:has(.subject-glass,.hershey-orb))>svg{
+ flex-shrink:0;box-sizing:content-box;padding:6px;border-radius:50%;
+ border:1px solid color-mix(in srgb,var(--item-color,#a7dced) 65%,white);
+ background:radial-gradient(ellipse at 26% 18%,#ffffff55,transparent 32%),#06142345;
+ box-shadow:inset 0 0 5px #e6ffff66,0 0 10px #9ddcff35;
+}
+.hc-home :is(button,a[href],summary):not(.hf-node,.hf-edge-target,.ih-origin,.ih-brand):not(:has(.subject-glass,.hershey-orb)):not(:disabled):is(:hover,:focus-visible){
+ translate:0 -3px;filter:brightness(1.13);
+ box-shadow:inset 1px 1px 3px #eaffff99,inset -2px -3px 6px #041523,0 8px 24px #0005,0 0 22px #a7dced55!important;
+}
+.hc-home :is(button,a[href],summary):not(.hf-node,.hf-edge-target,.ih-origin,.ih-brand):not(:has(.subject-glass,.hershey-orb)):not(:disabled):active{translate:0 1px;scale:.98}
+.hc-home .hf-edge-target:is(:hover,:focus-visible){scale:1.2;box-shadow:0 0 14px #c5edff}
+.hc-home [data-motion-paused=true] :is(button,a,summary),
+.hc-home[data-motion-paused=true] :is(button,a,summary),
+.hc-home [data-motion-paused=true] :is(.subject-glass,.hershey-orb),
+.hc-home[data-motion-paused=true] :is(.subject-glass,.hershey-orb){translate:none!important;scale:1!important;transition:none!important}
+@media(prefers-reduced-motion:reduce){
+ .hc-home :is(button,a,summary,.subject-glass,.hershey-orb){translate:none!important;scale:1!important;transition:none!important}
+}
