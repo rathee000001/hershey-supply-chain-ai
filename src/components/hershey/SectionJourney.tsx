@@ -1,0 +1,24 @@
+"use client";
+import {useEffect,useMemo,useRef,useState,type CSSProperties} from "react";
+import {ArrowDown,ArrowUpRight} from "lucide-react";
+import LivingFlowScene from "./LivingFlowScene";
+import {useSceneSession} from "./SceneSession";
+import type {JourneyChapter,JourneyItem,JourneyEdge} from "./scene-model";
+import "./section-journey.css";
+export {buildJourney} from "./scene-model";
+export type {JourneyItem,JourneyChapter} from "./scene-model";
+export default function SectionJourney({chapters,onSelect,onProgress,paused,detailOpen=false,onEdge,status="ready",errorMessage,onRetry,homeModels=false,luminous=true}:{chapters:JourneyChapter[];onSelect:(item:JourneyItem)=>void;onProgress:(progress:number)=>void;paused:boolean;detailOpen?:boolean;onEdge?:(edge:JourneyEdge)=>void;status?:"loading"|"error"|"ready";errorMessage?:string;onRetry?:()=>void;homeModels?:boolean;luminous?:boolean}){
+ const root=useRef<HTMLDivElement>(null),[progress,setProgress]=useState(0),[inside,setInside]=useState(true);
+ const focus=useSceneSession(),live=useRef({onProgress,detailOpen,chapters});
+ live.current={onProgress,detailOpen,chapters};
+ useEffect(()=>{let frame=0;const update=()=>{cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{if(!root.current||live.current.detailOpen)return;const anchor=homeModels&&innerWidth<=1000?innerHeight*.36+78:0;let p=0;root.current.querySelectorAll<HTMLElement>("[data-story-section]").forEach((section,i)=>{const r=section.getBoundingClientRect();if(r.top<=anchor)p=i+Math.min(1,Math.max(0,(anchor-r.top)/r.height))});p=Math.min(live.current.chapters.length-1,p);setProgress(p);live.current.onProgress(p);const r=root.current.getBoundingClientRect();setInside(r.bottom>innerHeight*.4&&r.top<innerHeight*.65)})};update();window.addEventListener("scroll",update,{passive:true});window.addEventListener("resize",update);return()=>{cancelAnimationFrame(frame);window.removeEventListener("scroll",update);window.removeEventListener("resize",update)}},[]);
+ const currentIndex=Math.min(chapters.length-1,Math.round(progress));
+ const openControl=(item:JourneyItem,element:HTMLButtonElement,index:number)=>{if(status!=="ready")return;focus.open(item,element,index,index);onSelect(item)};
+ return <div className="hs-story" ref={root} data-story-progress={progress.toFixed(3)} data-detail-open={detailOpen}>
+ {inside&&!detailOpen&&<nav className="home-section-nav" aria-label={homeModels?"Home story sections":"Page story sections"}>{chapters.map((chapter,index)=><a key={chapter.label} href={"#story-section-"+index} aria-current={currentIndex===index?"step":undefined}><span>{String(index).padStart(2,"0")}</span><span className="home-section-nav-label">{chapter.label}</span><i aria-hidden="true"/></a>)}</nav>}
+ <div className="hf-sticky-track" data-detail={Boolean(focus.session)}><div className="hf-stage" data-visible={inside||Boolean(focus.session)} data-session={focus.session?.mode||"none"} data-panel-side={focus.session?.side||"right"}>
+ <LivingFlowScene luminous={luminous} homeModels={homeModels} chapters={chapters} progress={progress} paused={paused} visible={inside} onSelect={onSelect} onEdge={onEdge} interactive={status==="ready"}/>
+ </div></div>
+ {chapters.map((c,i)=><section className="hs-section" id={"story-section-"+i} data-story-section key={c.label}><div className="hc-copy"><p className="hc-eyebrow">{String(i).padStart(2,"0")} / {c.label.toUpperCase()}</p>{i===0?<h1>{c.title.split("\n")[0]}<br/><em>{c.title.split("\n")[1]}</em></h1>:<h2>{c.title.split("\n")[0]}<br/><em>{c.title.split("\n")[1]}</em></h2>}<p>{c.body}</p>{i===0&&status!=="ready"&&<div className="hf-load-state" role={status==="error"?"alert":"status"}>{status==="loading"?"Loading the project’s published research…":<><strong>Research is temporarily unavailable.</strong><p>{errorMessage}</p><button className="hc-pill" onClick={onRetry}>Retry</button></>}</div>}<div className="hs-chapter-controls" data-detail-group>{i===0?<a className="hc-pill hc-primary" href="#story-section-1">Explore the journey <ArrowDown size={18}/></a>:c.items.filter(n=>!n.core).slice(0,homeModels?6:3).map(item=><button className="hc-pill" key={item.id} onClick={e=>openControl(item,e.currentTarget,i)}>{item.label}<ArrowUpRight size={15}/></button>)}</div><a className="hc-text-link" href={i<chapters.length-1?"#story-section-"+(i+1):"#page-explorer"}>{i<chapters.length-1?"Follow the journey":"Open the full explorer"}<ArrowDown size={17}/></a></div><div className="hf-mobile-items"><div className={"hf-mobile-illustration "+(c.art===-1?"is-product":"")} style={{"--art-x":(c.art%3)*50+"%","--art-y":Math.floor(c.art/3)*100+"%"} as CSSProperties} aria-hidden="true"/>{c.items.map(item=><button className="hc-pill" key={item.id} onClick={e=>openControl(item,e.currentTarget,i)}>{item.label}{item.tag&&<small>{item.tag}</small>}</button>)}</div></section>)}
+ </div>;
+}

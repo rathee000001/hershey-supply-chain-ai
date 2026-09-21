@@ -1,0 +1,19 @@
+/* The panel backdrop must never intercept retained subject targets. Blank-space
+   dismissal is handled once by JourneyPopup's document pointer capture. */
+.hc-home .hj-popup{pointer-events:none}
+.hc-home .hj-popup>article,.hc-home .hj-controls,.hc-home .hj-record-context{pointer-events:auto}
+.hc-home .hj-popup[data-has-scene=false]>article{width:min(880px,92vw);margin-inline:auto;transform:none!important}
+/* A clipped main creates a stacking context and clips fixed descendants. Remove
+   the reading boundary while the retained scene is composed beside the panel. */
+html[data-hershey-detail=open] .image-led-home main{clip-path:none!important}
+.hc-home .hf-node[data-core=true]{border-radius:20%;background:transparent}
+.hc-home .hf-node .hf-label{pointer-events:auto}
+/* Shared glass styling must not turn fixed/sticky controls into layout content. */
+.hc-home .ih-motion{position:fixed!important}
+.hc-home .hj-close{position:sticky!important}
+.hj-popup .ingredient-subject-panel .ih-rich-detail{border:0;box-shadow:none;background:none;backdrop-filter:none;padding:10px 0}
+.hj-popup .ingredient-subject-panel .story-choices{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin:15px 0}
+.hj-popup .ingredient-subject-panel .story-choices button{padding:5px;min-width:95px;font-size:12px;color:#d0e8f4}
+.method-stage-detail .ih-detail-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+.method-stage-detail .ih-detail-tabs button{padding:10px 14px}
+.panel-connected-edges+.story-mini-actions{display:flex;align-items:center;justify-content:space-between;margin-top:16px;gap:12px}

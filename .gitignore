@@ -44,3 +44,11 @@ artifacts/08_visual_verification/copied_review_assets/
 
 # Logs
 *.log
+
+# Local planning and review documents are not public project documentation.
+/docs/
+/The project concept.docx
+/project_archive/
+/artifacts/frontend-design-approved/
+/artifacts/frontend-release-checks/
+/artifacts/rollback/

@@ -1,0 +1,37 @@
+.hc-home .hj-popup{padding-top:3svh;padding-bottom:3svh}
+.hc-home .hj-popup>article{padding:23px}
+.hc-home .hj-popup>article>.hc-eyebrow{font-size:10px;margin:8px 0 12px;line-height:1.4}
+.hc-home .hj-popup>article>h2{font-size:28px;margin:12px 0 18px;line-height:1.2}
+.hc-home .hj-popup .hj-close{margin:0 0 8px 16px;min-height:40px;padding:7px 12px}
+.cost-node-panel .panel-subject-lead{gap:16px;margin:12px 0}
+.cost-node-panel .panel-subject-art{width:78px;height:72px;flex-basis:78px}
+.cost-node-panel .panel-primary-value{font-size:28px}
+.cost-node-panel .cost-scenario-picks{margin:10px 0;gap:8px}
+.cost-node-panel .cost-scenario-picks button{min-height:36px!important;padding:7px 16px!important;font-size:12px}
+.cost-node-panel .ih-detail-tabs{margin:10px 0;gap:8px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr))}
+.cost-node-panel .ih-detail-tabs button{padding:8px 7px!important;font-size:12px;min-height:38px!important;line-height:1.3}
+.cost-node-panel>p{font-size:13px!important;line-height:1.6!important;margin:12px 0}
+.cost-node-panel .panel-contribution-list{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin:14px 0}
+.cost-node-panel .panel-contribution-list>button{display:grid;grid-template-columns:1fr auto;gap:7px;padding:12px}
+.cost-node-panel .panel-contribution-list>button>span:first-child{grid-column:1/-1}
+.cost-node-panel .panel-contribution-list strong{font-size:13px}
+.cost-node-panel .panel-contribution-list small{font-size:10px;line-height:1.4}
+.cost-node-panel .panel-contribution-list b{font-size:17px}
+.cost-node-panel>.ih-fine{font-size:11px!important;line-height:1.5!important}
+.cost-node-panel:not([data-panel-view=overview]) .panel-subject-lead{display:none}
+.cost-node-panel[data-panel-view=sources]>.cost-scenario-picks{display:none}
+.cost-node-panel[data-panel-view=calculation] .hm-calculation>p,.cost-node-panel[data-panel-view=calculation] .hm-calculation>details{display:none}
+.cost-node-panel .hm-calculation{padding:15px;margin-top:12px}.cost-node-panel .hm-calculation h3{margin:0 0 12px}.cost-node-panel .panel-record-choice{margin:14px 0}.cost-node-panel .hm-input-pair{margin:12px 0}.cost-node-panel .hm-formula{margin:14px 0 0}
+.ss-detail-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}.ss-detail-tabs button{padding:9px 13px!important;font-size:12px;min-height:38px!important}.ss-connection-summary{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:20px 0}.ss-connection-summary>div{padding:14px;border-top:1px solid #9ed9ec55}.ss-connection-summary span,.ss-connection-summary strong{display:block}.ss-connection-summary span{font-size:11px;color:#a9ccde;margin-bottom:8px}.ss-connection-summary strong{font-size:15px;color:#d5effc}
+.hj-popup .ee-meaning>h3{display:none}
+.cost-node-panel[data-group-mode=whole] .panel-contribution-list{grid-template-columns:1fr;gap:6px}
+.cost-node-panel[data-group-mode=whole] .panel-contribution-list>button{display:flex;gap:12px;padding:9px 12px;min-height:41px}
+.cost-node-panel[data-group-mode=whole] .panel-contribution-list>button>span:first-child{display:flex;align-items:center;gap:10px}
+.cost-node-panel[data-group-mode=whole] .panel-contribution-list small{margin:0;font-size:10px}
+.cost-node-panel[data-group-mode=whole] .panel-contribution-list b{font-size:16px}
+.cost-node-panel[data-group-mode=whole] .panel-subject-lead .ih-eyebrow{display:none}
+.hj-popup .pdf-page-viewport{height:clamp(180px,34svh,420px)}
+.original-source-image{max-height:55svh;overflow:auto;overscroll-behavior:contain;background:white;border-radius:12px;padding:10px}
+.hj-popup .original-source-image{max-height:34svh}
+.hj-popup .ingredient-subject-panel .subject-glass{width:64px!important;height:58px!important;padding:5px}.hj-popup .ingredient-subject-panel .story-choices button>span:last-child{margin-top:7px;font-size:11px}.hj-popup .ingredient-subject-panel .story-choices{margin:8px 0}.hj-popup .ingredient-subject-panel .ih-material-flow{gap:6px;margin:12px 0}.hj-popup .ingredient-subject-panel .ih-material-flow li{font-size:11px;padding:6px}.hj-popup .ingredient-subject-panel .ih-rich-detail p{font-size:13px;line-height:1.6}.hj-popup .ingredient-subject-panel .ih-detail-tabs{margin:10px 0}.hj-popup .ingredient-subject-panel .ih-detail-tabs button{font-size:12px;padding:8px 11px!important;min-height:38px!important}
+@media(max-width:1000px){.hc-home .hj-popup[data-has-scene=true]{padding-top:32svh}.hc-home .hj-popup>article{padding:20px}.cost-node-panel .panel-contribution-list{grid-template-columns:1fr 1fr}.cost-node-panel .ih-detail-tabs button{font-size:11px}.cost-node-panel .ih-detail-tabs{gap:5px}}

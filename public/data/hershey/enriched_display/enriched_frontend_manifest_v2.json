@@ -1,5 +1,8 @@
 {
   "manifest_version": "v2_enriched_frontend_manifest",
+  "supplemental_artifacts": {
+    "calculation_details": "/data/hershey/enriched_display/enriched_calculation_details_v2.json"
+  },
   "created_at": "2026-05-09T20:18:25",
   "project": "Hershey 1.55 oz Milk Chocolate Supply Chain Intelligence",
   "unit": "one HERSHEY'S Milk Chocolate Candy Bar, 1.55 oz / 43 g",

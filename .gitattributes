@@ -1,0 +1,5 @@
+# Preserve original documents and generated/bundled assets byte-for-byte.
+public/research-documents/** binary
+public/home-art/** binary
+public/fonts/** binary
+public/pdfjs/** binary

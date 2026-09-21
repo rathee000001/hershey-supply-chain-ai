@@ -1,0 +1,15 @@
+.ce-explorer[data-cost-view=comparison]{grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:start;gap:16px 24px}
+.ce-explorer[data-cost-view=comparison]>.ce-scenarios{grid-column:1/-1;grid-row:1}
+.ce-explorer[data-cost-view=comparison]>.ce-overview{grid-column:1;grid-row:2/4}
+.ce-compare-tabs{grid-column:2;grid-row:2;display:flex;gap:10px}
+.ce-compare-tabs button{flex:1;border:1px solid #a4d6eb55;border-radius:18px;padding:12px 14px;background:#092039bb;color:#bdddeb;cursor:pointer}
+.ce-compare-tabs button[aria-pressed=true]{border-color:#b2e8fa;background:#25506a77;color:#ebfaff}
+.ce-explorer[data-cost-view=comparison]>.ce-gap,.ce-explorer[data-cost-view=comparison]>.ce-retail{grid-column:2;grid-row:3}
+.ce-explorer[data-cost-view=comparison][data-comparison-tab=gap]>.ce-retail,.ce-explorer[data-cost-view=comparison][data-comparison-tab=retail]>.ce-gap{display:none}
+.ce-explorer[data-cost-view=comparison] .ce-retailer-cards{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.ce-explorer[data-cost-view=comparison] .ce-retailer-cards>div{display:grid;grid-template-columns:65px 1fr;gap:5px 12px;padding:12px}
+.ce-explorer[data-cost-view=comparison] .ce-retailer-cards .subject-glass{grid-column:1;grid-row:1/4;width:65px;height:65px;padding:4px}
+.ce-explorer[data-cost-view=comparison] .ce-retailer-cards h3,.ce-explorer[data-cost-view=comparison] .ce-retailer-cards strong,.ce-explorer[data-cost-view=comparison] .ce-retailer-cards span{grid-column:2}
+.ce-explorer[data-cost-view=comparison] .ce-retailer-cards small{grid-column:1/-1;font-size:10px;margin-top:7px}.ce-explorer[data-cost-view=comparison] .ce-retailer-cards strong{font-size:22px}.ce-explorer[data-cost-view=comparison] .ce-retail>p:last-child{padding:14px;background:#091e32bb;border-radius:15px;font-size:13px;line-height:1.7;color:#c5dce9}
+@media(max-width:900px){.ce-explorer[data-cost-view=comparison]{grid-template-columns:1fr}.ce-explorer[data-cost-view=comparison]>.ce-overview{grid-column:1;grid-row:2}.ce-compare-tabs{grid-column:1;grid-row:3}.ce-explorer[data-cost-view=comparison]>.ce-gap,.ce-explorer[data-cost-view=comparison]>.ce-retail{grid-column:1;grid-row:4}}
+@media(max-width:550px){.ce-explorer[data-cost-view=comparison] .ce-retailer-cards{grid-template-columns:1fr}}

@@ -1,0 +1,6 @@
+@media(max-width:600px){
+ .method-story-page .hf-node:has(.workflow-object){width:56px;height:56px}
+ .method-story-page .hf-node .subject-glass:has(.workflow-object){width:56px;height:56px;padding:5px;border-radius:22px}
+ .method-story-page .hf-node .hf-label{width:68px!important;min-width:0!important;max-width:68px!important;padding:4px 2px;white-space:normal;overflow-wrap:normal;font-size:9px!important;line-height:1.35}
+ .method-story-page .hf-label small{font-size:9px}
+}
